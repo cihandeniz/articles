@@ -8,6 +8,6 @@ Bir dilenciye neden istediğini verirsin? Diyelim ki para istiyor, sen de veriyo
 
 Hele kağıt mendil satan çocuklar, en çok da onlara gıcık oluyorum. Toplumun kabul ettiği bir numaralı çocuk işçi modeli. Fiş de vermiyorlar.
 
-İnsan zihninin bug'ları sebebiyle var olan her şey çok itici geliyor. Zihin tembelliklerimizle var ettiğimiz şeylerin hepsi bir anda yok olsa yine aynı yere gelir miyiz? Yani kırmızı ışıkta dalmışken yine "tık tık" diye soldan gelir mi kınalı biri. Korku filmi misin arkadaşım, hoplatıyorsun durduk yere. Ödüm koptu.
+İnsan zihninin bug'ları sebebiyle var olan her şey çok itici geliyor. Zihin tembelliklerimizle var ettiğimiz şeylerin hepsi bir anda yok olsa yine aynı yere gelir miyiz? Yani kırmızı ışıkta dalmışken yine "tık tık" diye soldan gelir mi  biri. Korku filmi misin arkadaşım, hoplatıyorsun durduk yere.
 
-Ben vermiyorum para mara dilenciye. Ama çöpten kağıt, karton toplayanları gördüğümde selam veriyorum, kolay gelsin diyorum. Umarım rahatları yerindedir. Onlar da vergi vermiyor muhtemelen ama bir iş yapıyorlar en azından. Bir de dürtmüyorlar. Bazen sigara istiyorlar, içtiğim dönemde verirdim, sonra tütüne döndüm verememeye başladım. Şimdi zaten bıraktım sigarayı, "yok" diyorum artık "olsa verirdim" der gibi baktığımı düşünerek.
+Ben vermiyorum para mara dilenciye. Ama çöpten kağıt, karton toplayanları gördüğümde selam veriyorum, "kolay gelsin" diyorum. Umarım rahatları yerindedir. Onlar da vergi vermiyor muhtemelen ama bir iş yapıyorlar en azından. Bir de dürtmüyorlar. Bazen sigara istiyorlar, içtiğim dönemde verirdim, sonra tütüne döndüm verememeye başladım. Şimdi zaten bıraktım sigarayı, "yok" diyorum artık "olsa verirdim" der gibi baktığımı düşünerek.
