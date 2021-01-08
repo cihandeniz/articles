@@ -9,6 +9,7 @@ Türkçe metin oluşturmayı ya da oluşturulan metinleri düzenlemeyi kolaylaş
 - Özel isimlerde kesme işaretini otomatik koymak
 - Büyük sesli uyumuna göre son ekleri düzenlemek: \`{müşteri_adı|na}\` -> Ahmet için "Ahmet'e", Mustafa için "Mustafa'ya"
 - Büyük sesli uyumuna göre düzeltmek ya da uyarmak
+- Strengthen filtresi: Güzel -> Güpgüzel 
 
 bazıları open source library olabilir
 bazıları free api olabilir
