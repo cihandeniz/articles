@@ -15,3 +15,13 @@ Simülasyondaki her birey gerçekten eğitimdeki diğer insanlar. Onlarla berabe
 Yalnız gerçek hayatta ölmek hayatın bitmesi demek, bunun farkındayız. Dolayısıyla gerçekçi bakanlar da haklı.
 
 [temelde tüm inanış ve felsefelerin bu modele uygulanması mümkün]
+
+---
+
+İşrak felsefesinde reankarnasyona (tenasüh) ilişkin bir başlık var. Onu araştırmak bu yapıya fayda sağlayabilir. Hatta Kur'an referansları ile ilginç bir ton verilebilir.
+
+Budism'deki yeniden doğuş konusunu da araitırmak fayda sağlar.
+
+Özetle reankarnasyonun tüm kültürlerdeki karşılığını araştırmak konuyu destekler.
+
+Bir de karşılık olarak cennet/cehennem temasını da benzer şekilde araştırmak gerekir.
