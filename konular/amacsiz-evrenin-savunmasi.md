@@ -4,7 +4,7 @@ Evrenin bir ereksellik çerçevesinde en mükemmel şekilde yaratıldığını d
 
 Diğer yandan evrenin bir gelişigüzellik çerçevesinde olabilecek bir şekilde oluştuğunu düşünmek, bizi aktif olmaya, aksiyonlarımız sonucu daha kötüye ya da daha iyiye gidebileceğimiz fikrine götürür.
 
-Dikkat edilmesi gereken nokta, evrenin yaratılmak içinn gerekli en asgari şartlara sahip olduğu için var olduğunu düşünürsek, daha kötüye gidemeyeceği fikrine kapılabiliriz. Bu da bizi umursamazlığa götürür. Ya da evren o kadar büyüktür ki biz ne yaparsak yapalım zaten etkimiz çok küçük olduğundan olacak olan olacaktır gibi bir kaderciliğe kapılma tehlikesi yine oluşmaktadır.
+Dikkat edilmesi gereken nokta, evrenin yaratılmak için gerekli en asgari şartlara sahip olduğu için var olduğunu düşünürsek, daha kötüye gidemeyeceği fikrine kapılabiliriz. Bu da bizi umursamazlığa götürür. Ya da evren o kadar büyüktür ki biz ne yaparsak yapalım zaten etkimiz çok küçük olduğundan olacak olan olacaktır gibi bir kaderciliğe kapılma tehlikesi yine oluşmaktadır.
 
 Gezegenin içinde bulunduğu durumu göz önüne alırsak, bilinen tüm canlı yaşamın yok olması gibi bir sonucu yaratabileceğimizi gördüğümüze göre, bireysel olmasa da kolektif eylemlerimiz bizi yok olmaya götürebilir.
 
