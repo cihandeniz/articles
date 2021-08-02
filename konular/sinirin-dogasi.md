@@ -1,8 +1,8 @@
-# Sınır Nedir?
+# Sınırın Doğası
 
-Sınır, doğası gereği mutlak değil, muğlaktır. Bu doğayı reddederek mutlak olarak
-tanımlanan sınırlar, kapsayıcı değil dışlayıcı olmuş olur. Bu dışlayıcılık
-zamanla sınırın var ettiği olguyu yok etmeye mahkum eder.
+Sınır, doğası gereği mutlak değil, muğlaktır. Bu doğa reddedilip mutlak olarak
+tanımlanan sınırlar, kapsayıcı değil dışlayıcı olmuş olur. Bu dışlayıcılık,
+zamanla, sınırın tanımladığı olguyu yok olmaya mahkum eder.
 
 Örnek 1:
 
