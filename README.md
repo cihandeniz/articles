@@ -6,3 +6,4 @@ Makaleler için eskizleri içeren repodur.
 - Dosya adı makalenin adının kebab-case halidir
 
 Şimdilik başka kural yok, ilerledikçe burayı da güncel tutarım.
+
