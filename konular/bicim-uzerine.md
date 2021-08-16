@@ -1,32 +1,34 @@
 # Biçim Üzerine
 
-biçim önemlidir
+Biçim önemlidir
 
-biçim olmadan içerik tezahür edemez
-biçim içeriğe hayat verir
-biçim içeriğin kendisine doğrudan katkıda da bulunur
-içerikten ayrılamaz, bir bütündür
+Biçim olmadan içerik tezahür edemez
+Biçim içeriğe hayat verir
+Biçim içeriğin kendisine doğrudan katkıda da bulunur
+İçerikten ayrılamaz, bir bütündür
 
-öz içeriktedir denebilir, ama içerik dediğiniz de biçimdir.
-bir sunum yapıyorsunuz...
-sunumun görseli, temasını içerikten ayrı tutalım dediniz
-nasıl olacak? yani, illa ki bir font seçeceğiz değil mi?
-font seçmezsek içerik, vücuda gelemez
-hadi diyelim ki seçtik bir default font, ya da ascii representation, courier new
-biçimsizdir varsaydık.
-içeriğin kendisi nedir?
-fikir, kelimelerin arkasındaki anlam değil midir?
-kelimelerin kendisi de, söz de biçim değil midir?
-*çok özledim* - *keşke burada olsaydın*
-arkadaki anlam, kavram, fikir, öz aynıdır.
-ama iki farklı biçimde ifade edilmiştir.
-bizzat kelimelerin kendisi de biçimdir.
+Öz içeriktedir denebilir, ama içerik dediğiniz de biçimdir.
+Bir sunum yapıyorsunuz...
+Sunumun görseli, temasını içerikten ayrı tutalım dediniz
+Nasıl olacak? yani, illa ki bir font seçeceğiz değil mi?
+Font seçmezsek içerik, vücuda gelemez
+Hadi diyelim ki seçtik bir default font ya da ascii representation
+Mesela courier new biçimsizdir varsaydık.
 
-arkadaki fikir olmadan salt biçim ne kadar anlamsızsa (ki bunu doğal olarak
-algılarız), fikir de biçim olmadan anlamsızdır (bunu anlamak daha zordur).
+İçeriğin kendisi nedir?
+Fikir, kelimelerin arkasındaki anlam değil midir?
+Kelimelerin kendisi de, söz de biçim değil midir?
+*"Çok özledim"* - *"Keşke burada olsaydın"*
+Arkadaki anlam, kavram, fikir, öz aynıdır.
+Ama iki farklı biçimde ifade edilmiştir.
+Bizzat kelimelerin kendisi de biçimdir.
 
-bu bilgi ile ne yapalım?
-estetik kaygılar ürettiğiniz şeyin ayrılmaz parçasıdır
-sunumunuzda kullandığınız tema, font, sunumunuzun ayrılmaz parçasıdır
-koddaki indentation, ekranlardaki margin, orantı, hepsi anlatmaya çalıştığınız
-fikre duyduğunuz saygıyı, verdiğiniz emeği temsil eder
+Arkadaki fikir olmadan salt biçim ne kadar anlamsızsa (ki bunu doğal olarak
+Algılarız), fikir de biçim olmadan anlamsızdır (bunu anlamak daha zordur).
+
+Bu bilgi ile ne yapalım?
+Estetik kaygılar ürettiğiniz şeyin ayrılmaz parçasıdır
+Sunumunuzda kullandığınız tema, font, sunumunuzun ayrılmaz parçasıdır
+Koddaki indentation, ekranlardaki margin, orantı, hepsi anlatmaya çalıştığınız
+Fikre duyduğunuz saygıyı, verdiğiniz emeği temsil eder
+
