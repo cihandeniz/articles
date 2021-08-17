@@ -10,7 +10,7 @@ Bu sebepledir ki;
 - Toplum tarihine saygı duymalıdır
 - Öğrenci, hocasına saygı duymalıdır
 
-Burada saygı borcundan kastım, doğuran ne emrediyorsa onu yapması değildir.
+kkjjjo saygı borcundan kastım, doğuran ne emrediyorsa onu yapması değildir.
 Doğuranın varlığını tehlikeye atacak ya da onu yoksayacak şekilde davranmamak,
 onu varolduğu gibi kabul etmek, ve hatta onun varolması için zaman zaman
 mücadele etmektir.
