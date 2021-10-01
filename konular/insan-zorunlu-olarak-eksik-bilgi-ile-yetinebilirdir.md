@@ -1,4 +1,4 @@
-# İnsan Zorunlu Olarak Kendine Yetebilirdir
+# İnsan Zorunlu Olarak Eksik Bilgi İle Yetinebilirdir
 
 Bir nesneyi duyumsadığımızda (temelde görerek ama aynı zamanda dokunarak ve
 işiterek de) onu bütün olarak duyumsayamayız. Hep eksik bilgi ile idare etmek
