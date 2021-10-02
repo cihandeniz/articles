@@ -22,8 +22,6 @@ olmadan da insan olabilirim.
 Aynı şekilde hiçbir millete bağlı olmadan da insan olabilirim, vatandaş da
 olabilirim.
 
-CS mezunu, yazılımcı, Beyoğlu'nu özleyen bir Suadiyeliyim, Cihan'ım. Bu kadar.
-
 - Türk müsün Fransız mı?
 - İkisi de
 - Mesela Türkiye Fransa maçı olsa hangisi?
@@ -31,6 +29,8 @@ CS mezunu, yazılımcı, Beyoğlu'nu özleyen bir Suadiyeliyim, Cihan'ım. Bu ka
 
 Özetle bu son cevaba katılmıyorum. Ben "Türkiye Fransa maçı olsa hangisi"
 sorusuna "Ben maç izlemiyorum" cevabını vermek isterim.
+
+CS mezunu, yazılımcı, Beyoğlu'nu özleyen bir Suadiyeliyim, Cihan'ım. Bu kadar.
 
 Kendimizi, yaşadıklarımızı, çevremizi, ülkemizi, dolayısıyla hayatımızı
 anlamaya yardımcı olmak üzere kullandığımız tüm kavramlar, aslında mutlak bir
