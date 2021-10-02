@@ -3,9 +3,11 @@
 İnsan aklını imgeler ve kavramlar diye iki ucu olan bir uzay olarak düşünelim.
 Yani bir tarafta salt imgelerin olduğu bir düzlem, diğer tarafta salt
 kavramların olduğu bir düzlem. Salt kavramlar tartışılamayacak kadar kesindir.
-Salt imgeler ise karşılaştırılamayacak kadar tekildir.
+Salt imgeler ise karşılaştırılamayacak kadar tekildir, o kadar tekildir ki
+insan salt imge üzerinden kendisi ile dahi tartışamaz, iletişim kuramaz.
+İletişim kavramsallaştıkça mümkün olur.
 
-İmgeler düzlemine yakınlarda ortak noktası çok olanlar, doğal olarak imgeler
+Ortak noktası daha ziyade imgeler düzlemine yakın olanlar, doğal olarak imgeler
 üzerinden iletişim kurabilirler. Kurulan bu iletişim sıkıdır, derindir ve
 yakındır, ama geçicidir ve çapı dardır.
 
@@ -31,9 +33,10 @@ Nesiller ve kültürler arası iletişim kavramsal düzleme yaklaşınca mümkü
 nedenle kavramsal zekanın ve bilginin gelişmesi iletişimi artırır,
 konuşamayacaklarınızla konuşmanızı mümkün kılan kapıları açar.
 
-Salt kavram ile ise iletişim olmaz. Salt kavram (eğer varsa) mutlaktır, en
-fazla doğa kanunu olarak keşfedilir, üzerinde tartışılacak bir şey yoktur.
-Keşfeden, ya da bilen, bilmeyene aktarır, o kadar.
+İmgeyi tamamen bırakıp salt kavrama ulaştığınızda iletişim imkanını tekrar
+kaybedersiniz. Çünkü salt kavram (eğer varsa) mutlaktır, en fazla doğa kanunu
+olarak keşfedilir, üzerinde tartışılacak bir şey yoktur. Keşfeden, ya da bilen,
+bilmeyene aktarır, o kadar.
 
 Uzak kültürlerden de olsa insanın insanla kaçınılmaz ortak imgeleri vardır.
 Hepimiz çilek yeriz mesela. Hadi çilek olmadı, su içeriz, nefes alırız. Ortak
