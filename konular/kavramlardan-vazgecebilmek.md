@@ -24,6 +24,14 @@ olabilirim.
 
 CS mezunu, yazılımcı, Beyoğlu'nu özleyen bir Suadiyeliyim, Cihan'ım. Bu kadar.
 
+- Türk müsün Fransız mı?
+- İkisi de
+- Mesela Türkiye Fransa maçı olsa hangisi?
+- Haa bak, o zaman Türkiye
+
+Özetle bu son cevaba katılmıyorum. Ben "Türkiye Fransa maçı olsa hangisi"
+sorusuna "Ben maç izlemiyorum" cevabını vermek isterim.
+
 Kendimizi, yaşadıklarımızı, çevremizi, ülkemizi, dolayısıyla hayatımızı
 anlamaya yardımcı olmak üzere kullandığımız tüm kavramlar, aslında mutlak bir
 tanım yapmaz. Yani her yanıyla yaşadıklarımızı tanımlamaz, tanımlayamaz.
@@ -39,10 +47,10 @@ Tamamdır, bitti. Neden ben Türk ya da Kürt olmak zorunda olayım. İkisi de
 değilim. Ne Kürt denince akla gelen, ne de Türk denince akla gelen kalıba
 girdiğimi de düşünmüyorum.
 
-Aynı şekilde Terör ve Terörist kavramı ne zamandır hayatımızda? Bunu biraz
+Aynı şekilde "terör" ve "terörist" kavramı ne zamandır hayatımızda? Bunu biraz
 düşünmek ve bu kavramın hayatımızda olmasının ne faydası olduğunu sorgulamak da
 istiyorum. Bu kavramın bizi amacına ulaştırmadığını düşünüyorum. Yani
 teröristlere terörist diyerek terör yok olmuyor, özetle işe yaramıyor. Hatta
 bir şeylerin düzelmesinin önünü kesiyor bile diyebilirim. Müslümanlar da bir
-birilerine Kafir diyerek bir yere varmaya çalışıyorlar, pek de bir yere
-varamıyorlar. Terörist kavramından da vazgeçmemiz gerektiğini düşünüyorum.
+birilerine kafir diyerek bir yere varmaya çalışıyorlar, pek de bir yere
+varamıyorlar. Bu kavramlardan da vazgeçmemiz gerektiğini düşünüyorum.
