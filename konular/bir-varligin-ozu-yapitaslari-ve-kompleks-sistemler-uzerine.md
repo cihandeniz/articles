@@ -1,5 +1,7 @@
 # Bir Varlığın Özü, Yapıtaşları ve Kompleks Sistemler Üzerine
 
+## İlk Oturum
+
 Bir televizyon aldığımızda televizyon almış oluruz. Ama onu oluşturan tüm
 parçaları ayrı ayrı aldığımızda televizyon almış olmayız. İki durumda da
 televizyonumuz olabilir.
@@ -26,7 +28,7 @@ karar verebilmem gerekir. Bu yüzden, onu o yapanın ne olduğunu tam olarak
 anlamam gerekir. Aksi takdirde onu ben yaratmış olamam, o kendini benim
 üzerimden yaratmış olur. Bu da sanat olamaz, çünkü suni değildir, doğaldır.
 
----
+## Oturum 2
 
 Her varlık yok olmaya çalışır ve yok olur. Zero sum.
 
@@ -41,7 +43,7 @@ Zıtlıklar barındırmalı.
 Müzik için bu nasıl uyarlanabilir bilmiyorum. Ama denge ve entropi sanırım
 önemli.
 
----
+## Oturum 3
 
 Müzik için ve tüm işler için anahtar zıtlıktır.
 
@@ -50,7 +52,7 @@ Bir beste için, ses/sessizlik, tansiyon/çözülme, soru/cevap...
 Sinema için de conflict'ten bahsediliyor. Ya da bir konu tartışıldığında biri
 şeytanın avukatlığını yapar, o zmaan tansiyon oluşur ve seyir zevki artar.
 
----
+## Oturum 4
 
 Bardağı bardak yapan onun şekli, değildir, amacıdır. Yani bardağın var olması,
 ya da bir şeyin bardak olması, bardağın ne demek olduğuyla alakalıdır.
@@ -73,7 +75,7 @@ Dolayısıyla yaratmak için, tasarlamak için, bir amaç olmalıdır, bir de bi
 olmalıdır. Biçim bizi bir tv dizisine de götürebilir, roman'a da, punk
 şarkısına da. Ama amaç/içerik olmadan içi boş bir punk şarkısı yapmış oluruz.
 
----
+## Oturum 5
 
 Biçim yanına amaç koyduk, ama bazen de varoluş bir sonuçtur yani etkiye
 tepkidir. Bazen önden tasarlar ve o amaca gideriz, bazen de mekanik
@@ -86,7 +88,7 @@ bir gaye olmalıdır. Ancak o zaman kişi yaratıcı sıfatı kazanır.
 
 Referans ilham: aristoteles - metafizik - madde ve form (s81-88)
 
----
+## Son Oturum
 
 Doğal evrimsel yaratımlar, rastgeledir. Ancak rastgele olan bu yaratımlardan
 bazılarında fayda bulunur. Mağara bize barınak olsun diye oluşmamıştır. Su o
@@ -109,4 +111,3 @@ Seçici yaratıcı olmadan yaratıcı yaratıcı olunmaz. Bu bağlamda seçicili
 küratörlük, yaratıcıdan daha az saygıya değerdir demek tehlikelidir. Bizi
 empirik yapıdan, deneyden uzaklaştırır, gerçekten uzak, işe yaramayan
 yaratımlara götürür.
-
