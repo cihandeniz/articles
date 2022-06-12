@@ -26,9 +26,35 @@ Peki yeni bir biçim nereden çıkar, oluşur ya da tasarlanır? Ortada hiç mas
 hatta masa fikri dahi yok iken, biçim de üretimden önce gerekiyorsa, ilk masa
 nasıl üretildi?
 
+...
+
 İşte biçimin vargelişine de yaratım diyorum. Yaratmak yeni bir biçimin varlığa
 gelmesidir. Burada konu olan varlık maddi değil, fikridir ve bu vargelişin adı
 yaratımdır.
+
+...
+
+Oluşumda ise üretimin tam tersine, önce madde gelir, sonra işlev (yani insanda
+yarattığı bir etki olması anlamında işlev) üzerinden bir tanım yapılır ve sonuç
+olarak biçim olur. Üretimin tam aksine oluşum maddenin önce biçimin sonra
+çıktığı bir vargeliştir. Örnek; mağara.
+
+...
+
+Vargeliş çeşitleri; oluşum, yaratım, üretim, tasarım?
+
+...
+
+Yaratmak, oluşmak, üretmek, tasarlamak bunlar vargelişin eylem kategorileridir
+hiçbir vargeliş salt yaratımdan, oluşumdan vs oluşamaz. Bir vargelişin
+ağırlıklı eylemi yaratım olduğunda biz onu yaratma olarak niteliyoruz. Yoksa en
+belirli üretim sürecinde dahi yaratma eylemi aktif olarak vardır, ancak
+süreçteki etkisi az olduğu için biz onu ya yok sayarız, ya da evet bir
+yaratıcılık var ama yine de bu bir üretimdir deriz. Aynı şekilde yaratıcılık
+süreci bir üretimi, belki de zorunlu olarak, içerir. Bir prototip üretmeden
+yeni bir tasarım yaptım denebilir mi?
+
+...
 
 - Yaratmak insana mahsustur.
 - Diğer şeyler oluşmuştur.
