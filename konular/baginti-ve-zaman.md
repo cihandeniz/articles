@@ -15,8 +15,8 @@ kemikle eklem eklem olur. Ya da yollar kendi başlarına yokturlar. Ancak
 bağladığı iki konum olmalıdır ki yol yol olabilsin ya da yola yol diyebilelim.
 
 Zaman da anları birbirine bağlayan şeydir. Bir maddenin bir durumdan diğerine
-geçtiği iki an arasındaki şeye bağıntı deriz. Zamanı da tıpkı eklem gibi ne
-tutabiliriz ne de görebiliriz. Bağladığı anlar olmazsa zaman da olmamış olur.
-İki durum, birer nokta ise, zaman da o iki durumun oluşmasını sağlayan
+geçtiği iki durum arasındaki şeye zaman deriz. Zamanı da tıpkı eklem gibi ne
+tutabiliriz ne de görebiliriz. Bağladığı durumlar olmazsa zaman da olmamış
+olur. İki durum, birer nokta ise, zaman da o iki durumun oluşmasını sağlayan
 düzlemdir, ve dolayısıyla bağıntılar kümesidir, kısaca bağıntının kendisidir.
 İki durum birer konum ise, zaman da o durumları bağlayan yoldur.
