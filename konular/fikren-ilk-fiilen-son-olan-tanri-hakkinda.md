@@ -75,4 +75,3 @@ cennet, cehennem, öteki dünya gibi idea'lara geri dönüş hayalciliğine ihti
 duymamış olur. Rasyonel, ayakları yere basan ve faydacı ama çıkarcı olmayan,
 bütüncü, kibirden uzak, hem bireysel hem de toplumsal olarak olgunluğu öven bir
 ahlaki sistemi dini temel değerlerle uzlaştırmış olur.
-

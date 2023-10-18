@@ -29,4 +29,3 @@ gerekir.
 Sosyal bir rüzgar olmalı, bu rüzgar bir fikirle oluşmalı ya da bir fikre
 sarılmalı. Bu rüzgarı da temsil eden sanat olmalı. Sanat derken, imgeleme hitap
 eden bir olgu olmalı, tercihen sanat olmalı.
-

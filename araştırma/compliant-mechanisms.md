@@ -1,3 +1,0 @@
-# Compliant Mechanisms
-
-...

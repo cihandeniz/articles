@@ -10,10 +10,10 @@ Bu sebepledir ki;
 - Toplum tarihine saygı duymalıdır
 - Öğrenci, hocasına saygı duymalıdır
 
-kkjjjo saygı borcundan kastım, doğuran ne emrediyorsa onu yapması değildir.
-Doğuranın varlığını tehlikeye atacak ya da onu yoksayacak şekilde davranmamak,
-onu varolduğu gibi kabul etmek, ve hatta onun varolması için zaman zaman
-mücadele etmektir.
+Saygı borcundan kastım, doğuran ne emrediyorsa onu yapması değildir. Doğuranın
+varlığını tehlikeye atacak ya da onu yoksayacak şekilde davranmamak, onu
+varolduğu gibi kabul etmek, ve hatta onun varolması için zaman zaman mücadele
+etmektir.
 
 Dolayısıyla, bir çocuk annesini olduğu gibi kabul etmeli, kendisinin annesinden
 farklı biri olduğunu idrak etmeli ve kendisini var edeni koruyarak varlığını
@@ -32,4 +32,3 @@ yapmış oluruz, ve dolayısıyla kendi varlığımızı tehlikeye atmış oluru
 Ülkemiz de kendinden önce gelen imparatorluğun değerlerine inanmayabilir,
 onların yanlış olduğunu düşünebilir, ama ona saygı duymak zorundadır. Aksi
 takdirde kendi varlığı tehlikeye girmiş olur.
-
