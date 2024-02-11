@@ -11,7 +11,7 @@ tersiyle itmeden, uygun bir yer arayacağım.
 Nerede inanalım, nerede inanma eyleminden vazgeçelim konusundan önce hangi
 inançtan bahsettiğimi netleştirmek isterim. Beni eyleme götüren, güden, motive
 eden, aktif kılan inançtan bahsediyorum. Beni pasifize eden, bir şey yapmamaya
-götüren inançı tümüyle reddediyorum diyebilirim.
+götüren inancı tümüyle reddediyorum diyebilirim.
 
 Bir şeyi biliyorsanız inanmak anlamsızdır, oysa inanıyorsanız bilmek anlamsız
 değildir. İnandığınız bir şey bilgiye dönüştüğünde bu bilme ekseninde bir
