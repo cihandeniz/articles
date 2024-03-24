@@ -1,8 +1,5 @@
 # Konuşmak Üzerine
 
-> [Zihnin Yankıları Üzerine](zihnin-yankilari-uzerine.md) yazısının devamı
-> olarak.
-
 Konuşmak mümkün müdür?
 
 Konuşmak dendiğinde birden fazla şey anlaşılabilir;
@@ -48,5 +45,10 @@ mümkün olmadığından, teyit adımı atılmadan yapılmış tüm konuşmalar 
 olarak yanlış anlaşılmayı, yani asıl konudan tolere edilemeyecek kadar sapmayı,
 barındırır. Teyit adımı ise en azından bir yanlış anlaşılma varsa da bunun
 karşılıklı onaya tabi tutulmuş olması itibari ile oluşabilecek yanlış
-anlaşılmanın doğuracağı sonuca beraber katlanmayı kolaylaştıran zemini
-oluşturan medeni bir reflekstir.
+anlaşılmanın doğuracağı sonuca beraber katlanmayı kolaylaştıran zemini oluşturan
+medeni bir reflekstir.
+
+İlgili yazılar;
+
+- [Zihnin Yankıları Üzerine](zihnin-yankilari-uzerine.md)
+- [Dil Üzerine](dil-uzerine.md)
