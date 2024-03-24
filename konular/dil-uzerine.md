@@ -8,7 +8,7 @@ Maddi evrende yaptığımız gözlemler, topladığımız imgeler, kavram yaratm
 bir baz teşkil eder. Dil zamanla, duyudan imgeye, imgeden kavrama doğru
 derinleşir, soyutlaşır.
 
-Sözcükler yazı ya da ses dalgası biçimlerinde maddiyatın bir parçası olur ve
+Sözcükler yazı ya da ses biçimlerinde maddiyatın bir parçası olur ve
 iletilebilir hale gelir. Fiziksel olarak iletilmesi gereklidir, ama yeterli
 değildir. Bir sözcüğün ait olduğu dili bilmiyorsanız ve kültürünüzde hiçbir
 karşılığı yoksa, ondan etkilenmezsiniz, manasızdır.
