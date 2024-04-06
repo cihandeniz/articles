@@ -2,7 +2,7 @@
 
 https://corpusdergi.com/2024/turkiyede-filozof-var-mi-bir-camia-elestirisi/
 
-Bu yazıya şöyle bir ek notum var;
+Bu yazıya şöyle bir notum var;
 
 Modern Türkiye'nin bir miti var. Bu mit diyor ki "Türkiye oldu, bitti". Geçmişte
 oydu, buydu, Selçuklu, Osmanlı vs derken Atatürk geldi, modern devleti kurdu,
@@ -19,9 +19,8 @@ engelliyor. Tarihe karışmış bir kavramı günümüzde yaşayan biri ya da bi
 için kullanmak yok, yasak, olmaz, "sen kimsin ya, filozofmuş".
 
 Bize göre birinin filozof olması için ölmesi yetmez, ölümünün üzerinden 1000
-sene falan geçmiş olması gerekiyor. Ya da Avrupa'lı olacak, onlar filozof
+sene falan geçmiş olması gerekiyor. Ya da Avrupalı olacak, onlar filozof
 diyorsa, filozoftur, o ayrı, orası Avrupa.
 
 Türkiye yaşamıyor, zamanı dondurdu, geçmişte yaşananları konuşuyor, yeni bir şey
-lazım gelirse de onu yurt dışından ithal ediyor. Kurak toprakların, kurak
-zihinleriyiz.
+lazım gelirse de onu yurt dışından ithal ediyor.
