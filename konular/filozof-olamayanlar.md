@@ -5,8 +5,8 @@ https://corpusdergi.com/2024/turkiyede-filozof-var-mi-bir-camia-elestirisi/
 Bu yazıya şöyle bir ek notum var;
 
 Modern Türkiye'nin bir miti var. Bu mit diyor ki "Türkiye oldu, bitti". Geçmişte
-oydu, buydu, Selçuklu, Osmanlı, Fatih, Kanuni, hay allah yeniçeri, Vahdettin vs
-derken Atatürk geldi, modern devleti kurdu, nokta. Sonrası? Sonrası işte biziz.
+oydu, buydu, Selçuklu, Osmanlı vs derken Atatürk geldi, modern devleti kurdu,
+nokta. Sonrası? Sonrası işte biziz.
 
 Biz kendimizi tarihin bir parçası değil, bitmiş olan tarihin ardından ona bakan
 aydınlanmış toplum olarak görüyor gibiyiz. Bu iyice yerleşmiş bir önkabul,
