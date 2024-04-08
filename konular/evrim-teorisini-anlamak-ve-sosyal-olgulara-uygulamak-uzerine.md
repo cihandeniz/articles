@@ -30,6 +30,6 @@ argümanı yerine, biz aynı dilde konuşuyoruz ama bundan yeterince
 faydalanmıyoruz, ortak dili konuşan bu insanlar arasında çeşitli iş birlikleri
 yapalım argümanı daha gerçekçi ve yapılabilirdir.
 
-Referans ilham: https://youtu.be/IgO2Y2fPYPM referans ilham 2: history of
-islamic philosophy, p.159 (farabi'nin felsefeyi doğduğu yere geri getirmek
-istemesi)
+- Referans ilham: https://youtu.be/IgO2Y2fPYPM
+- Referans ilham 2: history of islamic philosophy, p.159 (farabi'nin felsefeyi
+  doğduğu yere geri getirmek istemesi)
