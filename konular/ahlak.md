@@ -1,7 +1,7 @@
 # Ahlak
 
-İyi hayat, koşullar ve dürtüler bağlamında, eylemler ile düşünceleri yakın ve
-uyumlu halde tuttuğumuz hayattır.
+İyi hayat, gittikçe daha dürüst olduğun, koşullar ve dürtülerin bağlamında,
+düşüncelerini eylemlerine öncelediğin hayattır.
 
 ---
 
