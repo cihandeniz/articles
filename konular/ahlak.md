@@ -3,6 +3,8 @@
 İyi hayat, gittikçe daha dürüst olduğun, koşullar ve dürtülerin bağlamında,
 düşüncelerini eylemlerine öncelediğin hayattır.
 
+![](ahlak.png)
+
 ---
 
 Gerçekliğimizi içsel ve dışsal olarak ikiye bölelim. Bunları da kontrol
