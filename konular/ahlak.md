@@ -1,26 +1,50 @@
 # Ahlak
 
-> [!NOTE]
->
-> Sadece deşifredir, toparlanıp yazı haline getirilecek. Tekrarlar kaldırılacak,
-> alt konular ayrı dosyalara alınacak ve referans verilecek.
+İnsanın amacı; koşulları ve dürtüleri bağlamında, eylemleri ile düşüncelerini
+yakın ve uyumlu halde tutmak olmalıdır.
+
+---
+
+Gerçekliğimizi içsel ve dışsal olarak ikiye bölelim. Bunları da kontrol
+edilebilenler ve kontrol edilemeyenler olarak ikiye bölelim.
+
+- Dışsal kontrol edilemeyenler: Koşullar _(1)_
+- Dışsal kontrol edilebilenler: Eylemler
+- İçsel kontrol edilebilenler: Düşünceler
+- İçsel kontrol edilemeyenler: Dürtüler _(2)_
+
+_(1) Fiziksel bir canlı olmamız, doğduğumuz gezegen, coğrafya, kültür vb_
+_(2) Henüz duygu ya da benzeri bir şeye dönüşmemiş ham içsel tetikleyiciler_
+
+Eylemler ve düşüncelerde iradeden bahsedebiliriz, koşullar ve dürtülerde ise
+iradeden bahsedemeyiz. Tanım gereği ilk grubu kontrol edilebilen kılan, ikinci
+grubu edilemez kılan da bu. Koşulları ve dürtüleri zorunlu kaotik ve kendinde
+değişen gerçeklikler olarak kabul ediyorum.
+
+İnsan, içinde bulunduğu gerçeklik dahilinde var olmaya çalışır. Bu varoluş,
+aynı anda hem manevi (ruhsal), hem de maddi (fiziksel) bir varoluştur. Çevre ile
+etkileşimimiz ise dıştan içe ve içten dışa olacak şekilde döngü halindedir.
+
+- Koşullar bizde duyumlarımız aracılığıyla dürtüler oluşturur
+- Biz bu dürtüler dolayımıyla eylemde bulunuruz
+- Bu eylemler koşullarda bazı değişimlere sebep olur
+- Ve bu böyle devam eder
+
+Aynı döngü herhangi bir canlı için de geçerli. İnsanı canlıdan ayrıştıran
+özelliği düşüncesidir, benzeştiren özelliği ise diğer canlılar gibi fiziki bir
+organizma olması yani doğup, büyüyüp, ölmesidir.
+
+Ahlak sorusunu, insanı insan yapan bu özelliğin, yani düşüncenin (ya da
+iradenin) nereye konumlanacağına ilişkin bir soru olarak anlıyorum. Cevap
+olarak; düşüncenin eyleme en yakın duracak şekilde dürtü ile eylem arasında
+konumlanmasını öneriyorum.
+
+Düşüncenin eylem ile olan mesafesine dürüstlük diyorum. Bir insan, eylemlerine
+bakıldığında (buna beyanları da dahil) düşüncesine dair doğrudan bilgi verdiği
+ölçüde dürüsttür. Düşüncesi eylemini açıklayamadıkça, dolaylı açıkladıkça dürüst
+değildir. Dolayısıyla dürüst bir hayat insan için en uygun hayattır.
 
 ## 1
-
-Dışsal kontrol edilemeyenler, içsel kontrol edilemeyenler, dışsal kontrol
-edilenler, içsel kontrol edilenler; buradan başladık.
-
-Dışsal kontrol edilemeyenlere; koşullar, dışsal kontrol edilenlere; eylemler,
-içsel kontrol edilenlere; düşünceler, dışsal kontrol edilemeyenlere de;
-dürtüler, dedik.
-
-Ve şöyle bir, "postulation" mu deniyor, şöyle bir şey vazettik, yani ortaya
-şöyle bir şey koyduk. Dedik ki, eğer dürtüler, ve bunların hiçbiri, bunların
-hepsi yan yana asla olamaz. Çünkü iki tane kontrol edilemeyen unsurdan
-bahsediyoruz. Bizim elimizde iki tane kontrol edilebilen var. Dolayısıyla biz
-kontrol edilebilen iki unsuru, yani düşüncelerle eylemleri, ne kadar yan yana
-tutarsak, o kadar iyi bir hayat yaşamış oluruz, diye bir şey ortaya atıyoruz,
-böyle bir şey iddia ediyoruz.
 
 Bu iddianın şöyle bir handikapı var, hem içsel hem dışsal handikapları şunlar;
 dışarısı kontrol edilemediği için biz eylemlerimizi dış kontrol edilemeyenlere,
@@ -32,19 +56,16 @@ onların kaçınılmaz, absürt dışavurumlarıyla mücadele eder, belki de ahl
 olmaya çalışırken çok ahlaksız şeyler yapmak zorunda bırakırız kendimizi,
 diyoruz. Dolayısıyla tehlikesi bu.
 
-Ama biz burada şöyle diyoruz; insan düşüncesiyle vardır. Dolayısıyla düşünceyi
-dışarı çıkartıp dürtüyü eyleme yakın tutma halini eleştiriyoruz. Yani "benim
-içimden... ben buyum, benim içimden bu geliyor o yüzden böyle davranacağım"
-akımına bir karşı görüş ortaya koyuyoruz. Çünkü biliyoruz ki eğer dürtü eylemi
-güdülerse düşünce, eylemi meşrulaştırma bir mekanizması olmaktan daha ileri asla
-gidemez, oraya sıkışır diyoruz.
+Düşünceyi dışarı çıkartıp dürtüyü eyleme yakın tutma halini eleştiriyoruz. Yani
+"benim içimden... ben buyum, benim içimden bu geliyor o yüzden böyle
+davranacağım" akımına bir karşı görüş ortaya koyuyoruz. Çünkü biliyoruz ki eğer
+dürtü eylemi güdülerse düşünce, eylemi meşrulaştırma bir mekanizması olmaktan
+daha ileri asla gidemez, oraya sıkışır diyoruz.
 
 ## 2
 
-Dolayısıyla biz ne diyoruz, diyoruz ki; "Hayır, düşüncelerimiz eylemlerimizde
-belirleyici olsun ki insan olmuş olalım, öbür türlü hayvan olurduk". Yani
-insanlığımızı sadece meşrulaştırmada değil, yaratıcı rasyonellikte de
-kullanabiliriz, yani rasyonelliği, yarıtıcı, yani eylemlerimizde belirleyici,
+Yani insanlığımızı sadece meşrulaştırmada değil, yaratıcı rasyonellikte de
+kullanabiliriz, yani rasyonelliği, yaratıcı, yani eylemlerimizde belirleyici,
 unsur olarak da pozisyonlayabiliriz.
 
 Ama tehlikesini görüyoruz. Yani dürtülerin düşünceden uzak kalmak zorunda
