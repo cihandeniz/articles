@@ -48,7 +48,7 @@ yüzden böyle davranacağım" tavrı olarak örneklendirebilirim.
 
 Bu tavırdaki ilk sorun dürtülerin koşullarla uygun eylem oluşturacağı
 varsayımıdır. Yani içimden toplum tarafından kabul görmüş dürtüler doğduğu
-sürece sorun yaşmayacağım. Oysa ne koşullar ne de dürtü kontrol edilebilir
+sürece sorun yaşamayacağım. Oysa ne koşullar ne de dürtüler kontrol edilebilir
 değildirler. Geçici olarak, ve şans eseri, birbirlerine uyumlanmış olmaları,
 öyle olmaya devam edeceklerinin garantisini vermez. Örnek, et yeme arzusu bugün
 koşullara uygun olabilir, ama yarın ya kısıtlı kaynaklardan dolayı ya da
