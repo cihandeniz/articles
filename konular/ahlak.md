@@ -1,7 +1,7 @@
 # Ahlak
 
-İnsanın amacı; koşulları ve dürtüleri bağlamında, eylemleri ile düşüncelerini
-yakın ve uyumlu halde tutmak olmalıdır.
+İyi hayat, koşullar ve dürtüler bağlamında, eylemler ile düşünceleri yakın ve
+uyumlu halde tuttuğumuz hayattır.
 
 ---
 
@@ -21,125 +21,69 @@ iradeden bahsedemeyiz. Tanım gereği ilk grubu kontrol edilebilen kılan, ikinc
 grubu edilemez kılan da bu. Koşulları ve dürtüleri zorunlu kaotik ve kendinde
 değişen gerçeklikler olarak kabul ediyorum.
 
-İnsan, içinde bulunduğu gerçeklik dahilinde var olmaya çalışır. Bu varoluş,
-aynı anda hem manevi (ruhsal), hem de maddi (fiziksel) bir varoluştur. Çevre ile
-etkileşimimiz ise dıştan içe ve içten dışa olacak şekilde döngü halindedir.
+İnsan, zorunlu olarak içinde bulunduğu gerçeklik dahilinde var olmaya çalışır.
+Bu varoluş, aynı anda hem manevi (ruhsal), hem de maddi (fiziksel) bir
+varoluştur. Çevre ile etkileşimimiz ise dıştan içe ve içten dışa olacak şekilde
+döngü halindedir.
 
 - Koşullar bizde duyumlarımız aracılığıyla dürtüler oluşturur
 - Biz bu dürtüler dolayımıyla eylemde bulunuruz
 - Bu eylemler koşullarda bazı değişimlere sebep olur
 - Ve bu böyle devam eder
 
-Aynı döngü herhangi bir canlı için de geçerli. İnsanı canlıdan ayrıştıran
+Aynı döngü herhangi bir canlı için de geçerlidir. İnsanı canlıdan ayrıştıran
 özelliği düşüncesidir, benzeştiren özelliği ise diğer canlılar gibi fiziki bir
 organizma olması yani doğup, büyüyüp, ölmesidir.
 
 Ahlak sorusunu, insanı insan yapan bu özelliğin, yani düşüncenin (ya da
 iradenin) nereye konumlanacağına ilişkin bir soru olarak anlıyorum. Cevap
-olarak; düşüncenin eyleme en yakın duracak şekilde dürtü ile eylem arasında
-konumlanmasını öneriyorum.
+olarak; düşüncenin eyleme en yakında duracak şekilde dürtü ile eylem arasında
+konumlanmasını yani eylemi öncelemesini öneriyorum.
 
-Düşüncenin eylem ile olan mesafesine dürüstlük diyorum. Bir insan, eylemlerine
-bakıldığında (buna beyanları da dahil) düşüncesine dair doğrudan bilgi verdiği
-ölçüde dürüsttür. Düşüncesi eylemini açıklayamadıkça, dolaylı açıkladıkça dürüst
-değildir. Dolayısıyla dürüst bir hayat insan için en uygun hayattır.
+Düşünce için alternatif konum ise dürtü kaynaklı eylemlerin ardından
+konumlanmasıdır. Bunu "benim içimden bu geliyor, içimden gelen doğrudur, o
+yüzden böyle davranacağım" tavrı olarak örneklendirebilirim.
 
-## 1
+Bu tavırdaki ilk sorun dürtülerin koşullarla uygun eylem oluşturacağı
+varsayımıdır. Yani içimden toplum tarafından kabul görmüş dürtüler doğduğu
+sürece sorun yaşmayacağım. Oysa ne koşullar ne de dürtü kontrol edilebilir
+değildirler. Geçici olarak, ve şans eseri, birbirlerine uyumlanmış olmaları,
+öyle olmaya devam edeceklerinin garantisini vermez. Örnek, et yeme arzusu bugün
+koşullara uygun olabilir, ama yarın ya kısıtlı kaynaklardan dolayı ya da
+toplumsal hassasiyetlerden ötürü uygun olmayabilir.
 
-Bu iddianın şöyle bir handikapı var, hem içsel hem dışsal handikapları şunlar;
-dışarısı kontrol edilemediği için biz eylemlerimizi dış kontrol edilemeyenlere,
-yani koşullara, uygun hale getirmemekte, düşüncemize uygun tutmakta çok ısrar
-edersek, örnek vermek gerekirse, bir diktatör gibi oluyoruz. Kendi hayatımızın
-diktatörü oluyoruz ve çevremizdekilere zulmedebiliriz, ve kendimize... İçsel
-olana mesafe koyarsak da o zaman da dürtülerin bastırılması ve dolayısıyla
-onların kaçınılmaz, absürt dışavurumlarıyla mücadele eder, belki de ahlaklı
-olmaya çalışırken çok ahlaksız şeyler yapmak zorunda bırakırız kendimizi,
-diyoruz. Dolayısıyla tehlikesi bu.
+İkinci, ve daha büyük sorun ise, bu haliyle düşüncenin, eylemin meşrulaştırma
+(rasyonalizasyon) mekanizması olmaya mahkum edilmesidir. Eylem düşünceden önce
+olduğundan, düşünceye sadece onu anlamlandırmak kalmıştır. Oysa düşünce aynı
+zamanda dürtüsel olmayan yegane içsel tetikleyicidir. Dürtüler durulduğunda,
+yani harekete geçirici olacak kadar yoğun olmadığında, düşüncenin de kendi
+harekete geçirici mekanizması vardır, buna da can sıkıntısı diyorum.
 
-Düşünceyi dışarı çıkartıp dürtüyü eyleme yakın tutma halini eleştiriyoruz. Yani
-"benim içimden... ben buyum, benim içimden bu geliyor o yüzden böyle
-davranacağım" akımına bir karşı görüş ortaya koyuyoruz. Çünkü biliyoruz ki eğer
-dürtü eylemi güdülerse düşünce, eylemi meşrulaştırma bir mekanizması olmaktan
-daha ileri asla gidemez, oraya sıkışır diyoruz.
+Düşüncenin eylem ile olan mesafesine ise dürüstlük diyorum. Bir insan,
+eylemlerine bakıldığında (buna beyanları da dahil) düşüncesine dair doğrudan
+bilgi verdiği ölçüde dürüsttür. Düşüncesi eylemini açıklayamadıkça, dolaylı
+açıkladıkça dürüst değildir.
 
-## 2
+Dürüst bir hayat insan için iyi bir hayattır. Her eylemimizde düşünceyi
+önceleyemesek de, dürüst olmak, yani en azından eylemimizin arkasından gelen
+düşüncenin (rasyonalizasyonun) gerçeklere yakın olması, inkar içinde olmamak
+bağlamında yine de önemlidir. Bu sayede kendimizle yüzleşmiş olur, düşünceyi
+eyleme öncelemek için motivasyonumuzu artırmış oluruz.
 
-Yani insanlığımızı sadece meşrulaştırmada değil, yaratıcı rasyonellikte de
-kullanabiliriz, yani rasyonelliği, yaratıcı, yani eylemlerimizde belirleyici,
-unsur olarak da pozisyonlayabiliriz.
+Eylemlerimizin koşullara uygun olması, düşüncelerin eylemlere uygun olması ve
+dürtülerin de düşüncelere uygun olmasını ideal bir hayat olarak tanımlıyorum.
+İki kontrol edilebileni (eylem ve düşünce) birbirine yaklaştırdığımızda, kontrol
+edilemezlerin (koşul ve dürtü) doğal olarak bunlardan uzaklaşma eğilimi
+olacaktır. Dolayısıyla ideal hayatı yaşayamacağız. Eylemlerimiz düşünceye yakın
+olacak kaygısıyla koşullardan uzaklaşırsa, düşünce de eyleme yakın olacak
+kaygısıyla dürtülerden uzaklaşırsa, ideal hayattan da uzaklaşmış oluyoruz.
 
-Ama tehlikesini görüyoruz. Yani dürtülerin düşünceden uzak kalmak zorunda
-kalması tehlikesi, eylemlerin koşullardan uzak kalma tehlikesini tanıyoruz ve
-burada da diyoruz ki; koşullara ve dürtülere, yakın bir... yakın kalma becerisi
-zaten bu ahlak sisteminin bu erdem sisteminin her ne diyorsak bu sisteme o
-sistemin ölçütüdür.
+Koşullar ve dürtüler, düşünce ve eylemlerimizde belirleyiciler. Bunu da baştan
+kabul edelim ve düşüncemizi dürüstlüğü elden bırakmadan bu iki bağlamda tekrar
+tekrar şekillendirelim. Asla ideal hayatı yaşayamayacağımızı bilerek, ama her
+zaman onu arayarak.
 
-## 3
-
-Sonra dürtü ve duygu meselesini biraz açtık. Biraz içine girdik ve dedik ki;
-dürtüler fiziksel bütünlüğümüzle, vücudumuzla bir etkileşim haline geldiğinde
-biz buna, sonra rasyonelliğe çarptığında biz buna şey diyoruz, duygu diyoruz.
-
-Yani, bir dürtü geliyor ve bu dürtüyü biz bilinçten geçirmediğimiz sürece o
-dürtü önce bir duyguya dönüşüyor ve vücudumuzda hormonel belli değişikliklere
-sebep oluyor ve bilinç doğrudan beyinde olan bir dürtüyü, şey yapmak yerine,
-tanımak yerine, onu vücudu dolayımıyla fark ediyor.
-
-Dolayısıyla bu bizim denklemimizde yani ortaya koyduğumuz ölçütte bir başarı...,
-yani başarısızlık demeyelim de, bir iyileştirme alanı olarak görünüyor diyelim.
-
-Yani ben dürtümü ne kadar geç farkedersem dürtüm beynimden vücuduma, vücudumdan
-çevreme, çevremden yakınımdakilere ve topluma kadar taşma eğiliminde.
-
-Ve diyoruz ki bu dürtü (hem olumsuz hem olumlu benzetmeler yaptık ama ikisine de
-benzemiyor) sadece; kansere hücresi gibi sonsuza kadar büyüyor, hayat gibi
-sonsuza kadar büyümek istiyor.
-
-## 4
-
-Dolayısıyla dürtü kanser gibi, veya hayat gibi, kendi kendini durdurma
-becerisine sahip bir mekanizma değil. Yani büyüyebildiği sürece büyüyor. Ne
-zaman duruyor? Fiziksel... yani sınırlarına çarptığı zaman durabiliyor.
-
-Bu sınırlar düşünsel sınır da olabilir. Yani duygu büyür, büyür, büyür. "Bir
-dakika" der devreye girer düşünce ve onu durdurmaya başlar. Veyahut o sınırı da
-aşar ve fiziksel olarak etrafına yayılır. Ve fiziksel, işte yemek sonsuza kadar
-yemek yemek istemek gibi yemek yiyemeyecek hale gelene kadar yemek yemek gibi
-bir fiziksel sınıra, çarpana kadar durmuyor.
-
-Dolayısıyla bu dürtü kontrol altına alınmak zorunda, alınmak zorunda olmazsa
-büyüyebildiği kadar büyüyen akılsız bir, bilinçsiz bir şey, yapı.
-
-Bizim bilincimiz de aynı anda birden fazla şeyle muhatap olma becerisinden
-yoksun olduğu için yani tek bir "process"..., aynı anda tek bir şey
-düşünebildiğimiz için, birden fazla şey düşünmenin tek yolunun bir zamanda bir
-şey, başka zamanda başka bir şey düşünmek, yani düşünceyi böle böle kesitli
-halde ele almak olduğu için bir "context switch" maliyetinden dolayı da bunun
-sınırı olduğu için düşüncemiz aynı anda bir şeyle ilgilenebiliyor.
-
-Dolayısıyla dışarıdan aldığımız duyumlar içerideki dürtü... bazı şeyleri bir
-dürtüleri uyandırıyor zorunlu olarak ve düşünce, yani bilinç, devreye giremiyor.
-
-Yani bilincin devreye giremediği bir sürü dürtü olmak zorunda. Bu dürtülerin
-bazıları kendileri sönümleniyor. Bazıları ise büyüyüp başımıza bela olabiliyor.
-Yani eylemlerimizde [beladan kastımız burada] eylemlerimizde belirleyici olması,
-dürtünün.
-
-Düşüncenin ikilemi de, yani rasyonun, bilincin ikilemi de şu ki sınırlı bir
-kaynağı var ve bu sınırlı kaynakta ne kadar büyüyüp büyümeyeceği ve ne hızla
-büyüyüp büyümeyeceği hiç belli olmayan bu şeylerin hangisiyle ilgilenip
-ilgilenmeyeceğiyle ilgili karar vermesi.
-
-Aynı ekonomide "yatırıma devam mı ediyoruz, yatırımı geri mi çekiyoruz"u
-öngöremeyeceğimiz için sürekli olarak yorulmamız gibi.
-
-Ama düşünce, insanı insan yapan şey olarak tanımladık, ve dedik ki düşünce bütün
-dürtülerden arındığında can sıkıntısı olarak kendi kendine dürtü yaratabilen,
-yani dürtü olmayan, yani kontrol edilebilir bir dürtü mekanizması olması
-itibariyle yaratıcıdır. Ve bizi insan yapan şey bütün kontrol edemediğimiz
-unsurların durulması sonrasındaki can sıkıntımızla, düşünceyle bir şeyleri var
-etme becerimiz. Biz bunu yapabildiğimiz ölçüde, daha insani bir hayat,
-yapamadığımız ölçüde daha hayvani bir hayat yaşamış olduğumuzu iddia ediyoruz.
+---
 
 ## 5
 
@@ -204,15 +148,15 @@ Böyle bir ahlak mekanizması.
 Bunun üzerine şunu düşündük, şöyle bir şey düşündük, dedik ki; bir insan kendi
 bu düşünce mekanizmasını ve, kontrol mekanizması diyelim, büyüttükçe olan
 maksimize ettikçe, onun maruz kaldığı hem duygular hem de duyular diyelim, yani
-hem içsell hem dışsal kontrol edilemeyenler hem dürtüler hem duyumlarını daha
-iyi tanıdıkça onlarla daha fazla uğraşmak zorunda kalıyor. Çünkü daha detaycı
-birine dönüşüyoruz. Ve dolayısıyla yaşadığı deneyimi daha fazla anlama
-ihtiyacını duyuyor. Bunun için daha fazla zaman ayırmak zorunda kalıyoruz. Bunun
-da sebebi daha ince bir duygu ve düşünce işçisi oluyoruz. Daha ince işleyen
-bir.. ustalaşıyoruz bu konuda. Ustalaştıkça "ya beş tane çocuk işte, çocuk
-çocuktur ya" diyecek kadar kaba bakamamaya başlıyoruz. Bir çocuğu [yapmayı] bile
-yıllarca belki düşünüyoruz veya bir işi yaparken o işi çok daha detayllı
-düşünüyoruz, ağırlaşıyoruz ama çok iyi yapmaya başlıyoruz vs vs.
+hem içsel hem dışsal kontrol edilemeyenler hem dürtüler hem duyumlarını daha iyi
+tanıdıkça onlarla daha fazla uğraşmak zorunda kalıyor. Çünkü daha detaycı birine
+dönüşüyoruz. Ve dolayısıyla yaşadığı deneyimi daha fazla anlama ihtiyacını
+duyuyor. Bunun için daha fazla zaman ayırmak zorunda kalıyoruz. Bunun da sebebi
+daha ince bir duygu ve düşünce işçisi oluyoruz. Daha ince işleyen bir..
+ustalaşıyoruz bu konuda. Ustalaştıkça "ya beş tane çocuk işte, çocuk çocuktur
+ya" diyecek kadar kaba bakamamaya başlıyoruz. Bir çocuğu [yapmayı] bile yıllarca
+belki düşünüyoruz veya bir işi yaparken o işi çok daha detayllı düşünüyoruz,
+ağırlaşıyoruz ama çok iyi yapmaya başlıyoruz vs vs.
 
 Dolayısıyla maruz kaldığımız gündelik olayları(n) sıklığını azaltma eğiliminde
 oluyoruz. Çünkü daha rafine bir (şeye dönüştükçe) zihne dönüştükçe bundan geri
