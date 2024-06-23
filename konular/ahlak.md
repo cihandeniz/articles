@@ -75,10 +75,11 @@ eyleme öncelemek için motivasyonumuzu artırmış oluruz.
 Eylemlerimizin koşullara uygun olması, düşüncelerin eylemlere uygun olması ve
 dürtülerin de düşüncelere uygun olmasını ideal bir hayat olarak tanımlıyorum.
 İki kontrol edilebileni (eylem ve düşünce) birbirine yaklaştırdığımızda, kontrol
-edilemezlerin (koşul ve dürtü) doğal olarak bunlardan uzaklaşma eğilimi
-olacaktır. Dolayısıyla ideal hayatı yaşayamacağız. Eylemlerimiz düşünceye yakın
-olacak kaygısıyla koşullardan uzaklaşırsa, düşünce de eyleme yakın olacak
-kaygısıyla dürtülerden uzaklaşırsa, ideal hayattan da uzaklaşmış oluyoruz.
+edilemeyenlerin (koşul ve dürtü) doğal olarak bunlardan uzaklaşma eğilimi
+olacaktır. Dolayısıyla ideal hayatı yaşayamayacağız. Eylemlerimiz düşünceye
+yakın olacak kaygısıyla koşullardan uzaklaşırsa (inkar), düşünce de eyleme yakın
+olacak kaygısıyla dürtülerden uzaklaşırsa (huzursuzluk), ideal hayattan da
+uzaklaşmış oluyoruz.
 
 Koşullar ve dürtüler, düşünce ve eylemlerimizde belirleyiciler. Bunu da baştan
 kabul edelim ve düşüncemizi dürüstlüğü elden bırakmadan bu iki bağlamda tekrar
