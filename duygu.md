@@ -50,8 +50,8 @@ Kaynakları kısıtlı olan düşünce, birçok dürtüsünü zorunlu olarak yok
 durumda dürtüler düşünce süzgecinden kaçarak duygulara, duygular da yine düşünce
 süzgecinden kaçarak eyleme dönüşebilirler. Düşüncenin becerisi dürtüleri olamasa
 da duyguları tasniflemek ve onlara karşı, daha önce yaptığı yemek gibi, bir
-tanıdıklık geliştirmek ile ölçülür. Bu tasnif zaman geçtikçe yenilenmeli, hem
-detaylandırılmalıdır.
+tanıdıklık geliştirmek ile ölçülür. Bu tasnif zaman geçtikçe hem yenilenmeli hem
+de detaylandırılmalıdır.
 
 Bu bağlamda duygular, dürtülerin düşünce süzgecinden geçmeyip bizi eyleme teşvik
 edecek kadar güçlenmiş halleridir. Duygulara isim vermek düşüncenin dürtüler ile
@@ -69,18 +69,18 @@ yanılgısına götürmemeli, kişi duygularını birbirine benzetmeye değil,
 ayrıştırmaya çalışmalıdır. Daha önce yaşadığınız bir aşk, daha sonra yaşadığınız
 başka bir aşk ile birebir aynı değildir. Buradaki aşk sadece benzerleri
 üzerinden yapılmış bir kategoriden ibarettir. Sözlük geliştikçe, kişi her gününü
-o güne özel yaşamayı daha iyi becerecektir.
+diğerinden farklı yaşamayı daha iyi becerecektir.
 
 Dürtünün bir diğer özelliği de bir özbilince sahip olmamasıdır, yani kendi
 kendini durdurma becerisinden yoksundur. Eğer büyüyebiliyorsa büyür. Fiziksel
 sınırlara çarpana kadar durdurulamaz. Bu nedenle düşünce devreye bir noktada
-girmeli, dürtüye isim koymalı, buna bağlı deneyimlerinden hareketle kendisini
-dürtülerini hayatı kendisi için sürdürülebilir kılacak eylemlere
+girmeli, dürtüye isim koymalı ve o isme bağlı deneyimlerinden hareketle
+dürtülerini uygun (hayatı kendisi için sürdürülebilir kılacak) eylemlere
 yönlendirmelidir. Düşüncenin devreye geç girmesi kişiyi ahlak bağlamında
 istenmeyen sonuçlara götürecektir (her durumda istenmeyen olmayabilir, ama
 kontrolsüz olduğu için bir noktada istenmeye sonuç da doğacaktır.) ve düşünce
 içinde bulunduğu bedenin gerçekliğini belki de inkar etmek zorunda kalana kadar
-devreye giremeyecektir. Hiç devreye girmediğinde ise kişi delirmiş sayılır. Bu
+devreye giremeyecektir.  Hiç devreye girmediğinde ise kişi delirmiş sayılır. Bu
 kişi için düşünce dürtü - eylem - koşullar ekseninde var olmayan, kendi
 dünyasında kendi yankıları ile hareket eden kopuk bir uzay gemisi modülü
 gibidir.
