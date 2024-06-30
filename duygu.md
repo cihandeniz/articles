@@ -78,9 +78,9 @@ girmeli, dürtüye isim koymalı ve o isme bağlı deneyimlerinden hareketle
 dürtülerini uygun (hayatı kendisi için sürdürülebilir kılacak) eylemlere
 yönlendirmelidir. Düşüncenin devreye geç girmesi kişiyi ahlak bağlamında
 istenmeyen sonuçlara götürecektir (her durumda istenmeyen olmayabilir, ama
-kontrolsüz olduğu için bir noktada istenmeye sonuç da doğacaktır.) ve düşünce
-içinde bulunduğu bedenin gerçekliğini belki de inkar etmek zorunda kalana kadar
-devreye giremeyecektir.  Hiç devreye girmediğinde ise kişi delirmiş sayılır. Bu
-kişi için düşünce dürtü - eylem - koşullar ekseninde var olmayan, kendi
-dünyasında kendi yankıları ile hareket eden kopuk bir uzay gemisi modülü
+kontrolsüz olduğu için bir noktada istenmeyen sonuç da doğacaktır) ve düşünce
+gittikçe içinde bulunduğu bedenin gerçekliğini belki de inkar etmek zorunda
+kalana kadar devreye giremeyecektir. Hiç devreye girmediğinde ise kişi delirmiş
+sayılır. Bu kişi için düşünce dürtü - eylem - koşullar ekseninde var olmayan,
+kendi dünyasında kendi yankıları ile hareket eden kopuk bir uzay gemisi modülü
 gibidir.
