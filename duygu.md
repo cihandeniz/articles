@@ -71,16 +71,16 @@ başka bir aşk ile birebir aynı değildir. Buradaki aşk sadece benzerleri
 üzerinden yapılmış bir kategoriden ibarettir. Sözlük geliştikçe, kişi her gününü
 diğerinden farklı yaşamayı daha iyi becerecektir.
 
-Dürtünün bir diğer özelliği de bir özbilince sahip olmamasıdır, yani kendi
-kendini durdurma becerisinden yoksundur. Eğer büyüyebiliyorsa büyür. Fiziksel
-sınırlara çarpana kadar durdurulamaz. Bu nedenle düşünce devreye bir noktada
-girmeli, dürtüye isim koymalı ve o isme bağlı deneyimlerinden hareketle
-dürtülerini uygun (hayatı kendisi için sürdürülebilir kılacak) eylemlere
-yönlendirmelidir. Düşüncenin devreye geç girmesi kişiyi ahlak bağlamında
-istenmeyen sonuçlara götürecektir (her durumda istenmeyen olmayabilir, ama
-kontrolsüz olduğu için bir noktada istenmeyen sonuç da doğacaktır) ve düşünce
-gittikçe içinde bulunduğu bedenin gerçekliğini inkar etmek zorunda kalana kadar
-devreye giremeyebilir. Hiç devreye girmediğinde ise kişi delirmiş sayılır. Bu
-kişi için düşünce dürtü - eylem - koşullar ekseninde var olmayan, kendi
-dünyasında kendi yankıları ile hareket eden kopuk bir uzay gemisi modülü
-gibidir.
+Dürtünün bir diğer özelliği de bir bilince sahip olmamasıdır, yani kendi kendini
+durdurma becerisinden yoksundur (bkz. [](bilinc.md)). Eğer büyüyebiliyorsa
+büyür. Fiziksel sınırlara çarpana kadar durdurulamaz. Bu nedenle düşünce devreye
+bir noktada girmeli, dürtüye isim koymalı ve o isme bağlı deneyimlerinden
+hareketle dürtülerini uygun (hayatı kendisi için sürdürülebilir kılacak)
+eylemlere yönlendirmelidir.  Düşüncenin devreye geç girmesi kişiyi ahlak
+bağlamında istenmeyen sonuçlara götürecektir (her durumda istenmeyen
+olmayabilir, ama kontrolsüz olduğu için bir noktada istenmeyen sonuç da
+doğacaktır) ve düşünce gittikçe içinde bulunduğu bedenin gerçekliğini inkar
+etmek zorunda kalana kadar devreye giremeyebilir. Hiç devreye girmediğinde ise
+kişi delirmiş sayılır. Bu kişi için düşünce dürtü - eylem - koşullar ekseninde
+var olmayan, kendi dünyasında kendi yankıları ile hareket eden kopuk bir uzay
+gemisi modülü gibidir.
