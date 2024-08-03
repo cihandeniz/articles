@@ -20,5 +20,5 @@ farkındalıktır.
   ise yapıp yapamayacağını dahi sınamaz, kendi bölgesinde yaşar.
 
 Bilinç durmaktır, durmak huzur getirir. Bilinçi toplum kendi sınırına duvar
-örer, bilinçsiz bir toplum komşusuna duvar ördürür. İki bilinçsiz bir toplum ise
-sürekli çatışır.
+örer, bilinçsiz bir toplum komşusuna duvar ördürür. İki bilinçsiz bir toplum
+sürekli çatışır, iki bilinçi toplum sınırlarını birbirine açar.
