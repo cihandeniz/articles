@@ -103,7 +103,7 @@ rağmen düz saçlı gibi davranıyorsa, İstanbullu olmasında rağmen İzmirli
 davranıyorsa, koşullarına uyumsuz eylemlerde bulunması itibariyle iyi bir hayata
 mesafe koymaktadır.
 
-Dürtüler henüz duyguya (bkz. [](duygu.md)) dönüşmediklerinden onlara isim
+Dürtüler henüz duyguya (bkz. [duygu](duygu.md)) dönüşmediklerinden onlara isim
 vermeden önce onların ne olduğunu gözlemleme fırsatımız vardır. Yetişkin biri
 dürtülerini duygulara örtüştürmekte acele etmez, bir süre gözlemler. Bu kişiye
 hem dürtülerinin düşüncelerine olan mesafesini yakın tutabilmek için fırsat
@@ -111,14 +111,13 @@ verir, hem de dürtünün düşünceyi atlatarak eylemi tetiklemesini engeller.
 Dürtülere karşı gösterilen bu sabır, dürtülerin koşullarla uyumsuz eylemlere
 davet ettiği çıkarımını yapmayı engeller. Bu konuda aceleci davranmak ise ya
 yanlış (koşullarla uyumsuz) eylemlere, ya da dürtülerin düşüncelere mesafeli
-olmasına (baskılanmasına) segbep olur. Oysa insanın dürtüleri asla zorunlu bir
+olmasına (baskılanmasına) sebep olur. Oysa insanın dürtüleri asla zorunlu bir
 somut eylem isteyecek kadar net değildir. Aynı dürtü sizi spor yapmaya da
-götürebilir, kavga etmeye de, yemek yemeye de.
-
-Koşul ve dürtülerin düşünce-eyleme olan yakınlığı tesis edildiği an, kişi huzuru
-yakalamıştır. Kontrol edilemeyenlerde oluşacak yeni huzursuzluklar olana kadar
-kişi bu huzurunu korur. Huzur anında düşünce dürtülerle ilgilenmez, kendi ile
-ilgilenir. Kendi kendisi ile ilgilenen düşünce bir anlamda tanrısaldır, yani
-salt düşüncedir. Böyle anlar insanın tanrısallaştığı, diğer anlar ise insanın
+götürebilir, kavga etmeye de, yemek yemeye de. Koşul ve dürtülerin
+düşünce-eyleme olan yakınlığı tesis edildiği an, kişi huzuru yakalamıştır.
+Kontrol edilemeyenlerde oluşacak yeni huzursuzluklar olana kadar kişi bu
+huzurunu korur. Huzur anında düşünce dürtülerle ilgilenmez, kendi ile ilgilenir.
+Kendi kendisi ile ilgilenen düşünce bir anlamda tanrısaldır, yani salt
+düşüncedir. Böyle anlar insanın tanrısallaştığı, diğer anlar ise insanın
 hayvanlaştığı anlardır. İnsan bu ikisi arasındaki dengede insandır, ne salt
 bilinçli ve düşünsel (tanrı) olabilir, ne de tamamen bilinçsizdir (hayvan).

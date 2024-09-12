@@ -1,6 +1,6 @@
 # Duygu
 
-[Ahlak][ahlak.md]'taki dürtünün duyguya nasıl dönüştüğü ile ilgili bir alt
+[Ahlak](ahlak.md)'taki dürtünün duyguya nasıl dönüştüğü ile ilgili bir alt
 konudur.
 
 > Dürtü: henüz duygu ya da benzeri bir şeye dönüşmemiş ham içsel tetikleyiciler
@@ -72,7 +72,7 @@ başka bir aşk ile birebir aynı değildir. Buradaki aşk sadece benzerleri
 diğerinden farklı yaşamayı daha iyi becerecektir.
 
 Dürtünün bir diğer özelliği de bir bilince sahip olmamasıdır, yani kendi kendini
-durdurma becerisinden yoksundur (bkz. [](bilinc.md)). Eğer büyüyebiliyorsa
+durdurma becerisinden yoksundur (bkz. [bilinç](bilinc.md)). Eğer büyüyebiliyorsa
 büyür. Fiziksel sınırlara çarpana kadar durdurulamaz. Bu nedenle düşünce devreye
 bir noktada girmeli, dürtüye isim koymalı ve o isme bağlı deneyimlerinden
 hareketle dürtülerini uygun (hayatı kendisi için sürdürülebilir kılacak)

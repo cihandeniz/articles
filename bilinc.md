@@ -9,16 +9,17 @@ farkındalıktır.
 
 - Kanser hücresi, bakteriler, kediler çoğalabildikleri kadar çoğalırlar,
   bilinçsizlerdir. Ancak fiziksel sınırlarla dururlar, dolayısıyla sürekli dış
-  çeperiyle savaş halindelerdir
+  çeperiyle savaş halindelerdir.
 - İnsan bilkuvve bilinçlidir, ama her birey zorunlu olarak bilinçli davranmaz.
   Bir hırsız çalabildiği kadar çalar, onu durduran fiziksel sınırıdır. Ama bir
   köylü yettiği kadar eker biçer, fazlasını yapabilecek olsa da yapmaz, çünkü
-  daha bilinçlidir. "Sonradan görme" diye tabir edilen kişi de parası oldukça
-  daha pahalısını alır, daha fazla kazanabiliyorsa da duramaz, kazanmak ister,
-  ancak bilinçlendiğinde durur.
-- Yağmacı işgalci bir toplum bunu yapabildiği sürece yapar. Barışçıl bir toplum
-  ise yapıp yapamayacağını dahi sınamaz, kendi bölgesinde yaşar.
+  daha bilinçlidir. "Sonradan görme" tabiri de bize sınır bilmeden kazanmak
+  isteyen birini hatırlatır, bu kişi ancak bilinçlendiğinde maddi kazanımlarını
+  kendiliğinden sınırlayacaktır.
+- Yağmacı işgalci bir toplum bunu yapabildiği sürece yapacaktır, barışçıl bir
+  toplum ise yapıp yapamayacağını dahi sınamaz ve kendi bölgesinde yaşar.
+  Bilinçli toplum kendi sınırına duvar örer, bilinçsiz bir toplum komşusuna
+  duvar ördürür. İki bilinçsiz bir toplum sürekli çatışır, iki bilinçi toplum
+  sınırlarını birbirine açar.
 
-Bilinç durmaktır, durmak huzur getirir. Bilinçi toplum kendi sınırına duvar
-örer, bilinçsiz bir toplum komşusuna duvar ördürür. İki bilinçsiz bir toplum
-sürekli çatışır, iki bilinçi toplum sınırlarını birbirine açar.
+Özetle bilinç durmaktır.
