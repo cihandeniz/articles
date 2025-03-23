@@ -21,4 +21,4 @@ yaraması da bununla açıklanabilir. Yanılabilen bir varlık olmadan bütün k
 eylemi son bulamaz, bütün kurmak istemeyen de bunu hiç yapmaz. Dolayısıyla bu
 çelişki insanı hep kurduğu anlam dünyasını revize etmek zorunda bırakır, yani bu
 dünyayı tekrar tekrar (geriye dönük) tasarlamak zorundadır. Yoksa düşünceler
-dogmalaşır, bağlamını yitirir, ezbere döner ve içinde olduğu bilinci yok eder.
+dogmalaşır, bağlamını yitirir, ezbere döner ve içinde oluştuğu bilinci yok eder.
