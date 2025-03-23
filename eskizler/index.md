@@ -7,6 +7,6 @@ dileğiyle.
 
 {% for page in site.pages %}
   {% if page.path contains 'eskizler/' and page.url != '/eskizler/' %}
-  - [{{ page.title }}]({{ page.url }})
+  - [{{ page.title }}]({{ site.baseurl }}{{ page.url }})
   {% endif %}
 {% endfor %}

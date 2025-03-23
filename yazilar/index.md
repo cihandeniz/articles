@@ -8,6 +8,6 @@ getirecektir.
 
 {% for page in site.pages %}
   {% if page.path contains 'yazilar/' and page.url != '/yazilar/' %}
-  - [{{ page.title }}]({{ page.url }})
+  - [{{ page.title }}]({{ site.baseurl }}{{ page.url }})
   {% endif %}
 {% endfor %}
