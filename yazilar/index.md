@@ -6,4 +6,4 @@ Henüz toparladığım bir yazı yok, ama bir tane ile başlamak üzere bu sitey
 oluşturdum. Başlangıcı _Tasarlamak Üzerine_(?) olacak, başka alt konuları da
 getirecektir.
 
-- [Tasarlamak Üzerine](yazilar/tasarlamak-uzerine.md)
+- [Tasarlamak Üzerine](tasarlamak-uzerine.md)
