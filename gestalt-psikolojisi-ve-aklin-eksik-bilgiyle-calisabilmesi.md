@@ -1,7 +1,7 @@
-# Gestalt Psikolojisi
+# Gestalt Psikolojisi ve Aklın Eksik Bilgiyle Çalışabilmesi
 
 Bütünün parçaların toplamının dışında ayrı bir şey olmasını inceler. Fazlası
-DEĞİL, ayrı olması. Bu da ökçek ve boyut atlama fikri ile örtüşüyor. Bir bütün
+DEĞİL, ayrı olması. Bu da ölçek ve boyut atlama fikri ile örtüşüyor. Bir bütün
 parçaları ve hizalanmaları ile yeni başka bir şey oluyor. Burada başka bir şey
 bir nevi Platon'un idealarına tekabül ediyor. Yani yeni bir tür, bir şey ortaya
 çıkınca yeni bir idea ortaya çıkmış oluyor.
