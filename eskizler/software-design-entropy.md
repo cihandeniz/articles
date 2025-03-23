@@ -1,4 +1,6 @@
-# Software Design Entropy
+---
+title: Software Design Entropy
+---
 
 - Bütün ve bozulmaz bir sistem tasarlanırsa, entropy'den etkilenmeyen solid bir
   tasarım yapılabilir mi?

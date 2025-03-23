@@ -1,4 +1,6 @@
-# Çocukların Masumiyeti Üzerine
+---
+title: Çocukların Masumiyeti Üzerine
+---
 
 İnsan doğduğu anda hayata hazır olarak doğmuyor. Ayaklanmamız 1-2 yılı alıyor.
 Bedensel olarak kendi kendine yeter hale gelmenin uzun sürmesinin yanında
@@ -18,4 +20,3 @@ yakarlar.
 Yıllar geçtikçe, zihin geliştikçe, eğitildikçe, kavramlar oturur, daha yüksek
 bir bilince varılır. Gerçek masumiyet sonra gelir. Suçun olamadığı yerde masum
 nasıl olunur ki?
-

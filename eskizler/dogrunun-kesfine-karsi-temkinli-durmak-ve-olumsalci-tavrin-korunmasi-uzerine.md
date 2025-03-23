@@ -1,4 +1,6 @@
-# Doğrunun Keşfine Karşı Temkinli Durmak ve Olumsalcı Tavrın Korunması Üzerine
+---
+title: Doğrunun Keşfine Karşı Temkinli Durmak ve Olumsalcı Tavrın Korunması Üzerine
+---
 
 - Dogmatikler bir doğru keşfettim diyenler
 - Negatif dogmatikler de bir doğru keşfedemeyiz diyenler, şüpheci görünenler.

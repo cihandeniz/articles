@@ -1,4 +1,6 @@
-# Kavramak, Anlamak Herkes İçin Ayrıdır Ve Aktif Bir Eylemdir
+---
+title: Kavramak, Anlamak Herkes İçin Ayrıdır Ve Aktif Bir Eylemdir
+---
 
 Anlamak bir yolculuktur ve herkes bu yolda kendi rotasını bulmalıdır. Ne varılan
 yer tam olarak tarif edilebilir, ne de yol tarif edilebilir. İnsan doğduğu andan

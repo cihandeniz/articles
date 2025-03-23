@@ -1,4 +1,6 @@
-# Duygu
+---
+title: Duygu
+---
 
 [Ahlak](ahlak.md)'taki dürtünün duyguya nasıl dönüştüğü ile ilgili bir alt
 konudur.

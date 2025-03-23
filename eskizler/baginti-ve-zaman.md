@@ -1,4 +1,6 @@
-# Bağıntı ve Zaman
+---
+title: Bağıntı ve Zaman
+---
 
 Bağıntı kendi başına var olamayan, ancak madde ile var olabilendir, formun
 yapıtaşıdır.

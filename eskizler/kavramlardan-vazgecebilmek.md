@@ -1,4 +1,6 @@
-# Kavramlardan Vazgeçebilmek
+---
+title: Kavramlardan Vazgeçebilmek
+---
 
 - Müslüman mısın?
 - Değilim

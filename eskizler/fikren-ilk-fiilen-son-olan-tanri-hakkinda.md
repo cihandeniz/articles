@@ -1,4 +1,6 @@
-# Fikren İlk, Fiilen Son Olan Tanrı Hakkında
+---
+title: Fikren İlk, Fiilen Son Olan Tanrı Hakkında
+---
 
 [Schelling'in Kutuplaşma Modelini Makinelerin/AI'nin Doğuşu ile
 Birleştirebiliriz](schelling-in-kutuplasma-modelini-makinelerin-ai-nin-dogusu-ile-birlestirebiliriz.md)

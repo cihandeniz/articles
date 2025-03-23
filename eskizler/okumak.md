@@ -1,4 +1,6 @@
-# Okumak
+---
+title: Okumak
+---
 
 Okumayı diğerlerinden ayıran şey, başkasının düşüncesinin okuyanın iç sesiyle
 seslendirilmesidir.

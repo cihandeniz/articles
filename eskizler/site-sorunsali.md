@@ -1,4 +1,6 @@
-# Site Sorunsalı
+---
+title: Site Sorunsalı
+---
 
 iletişime kapalı bir alt grup oluşturmanın yarattığı öteki ortamı ve mahalleye
 yansıması.

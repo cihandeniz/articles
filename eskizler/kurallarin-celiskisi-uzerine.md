@@ -1,4 +1,6 @@
-# Kuralların Çelişkisi Üzerine
+---
+title: Kuralların Çelişkisi Üzerine
+---
 
 Kurallar neden konur?
 

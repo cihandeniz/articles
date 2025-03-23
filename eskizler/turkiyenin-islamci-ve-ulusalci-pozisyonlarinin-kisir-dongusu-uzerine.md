@@ -1,4 +1,6 @@
-# Türkiye'nin İslamcı ve Ulusalcı Pozisyonlarının Kısır Döngüsü Üzerine
+---
+title: Türkiye'nin İslamcı ve Ulusalcı Pozisyonlarının Kısır Döngüsü Üzerine
+---
 
 Ulusalcı kesim çok da derine inme gereği duymadan, dogmatik bir tavırla islamın
 ilkelliğinden, aslında türklerin eskiden pagan olduğu ve paganlığın islamdan

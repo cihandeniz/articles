@@ -1,4 +1,6 @@
-# Astrolojinin Yanlış Pozisyonlanması
+---
+title: Astrolojinin Yanlış Pozisyonlanması
+---
 
 Astroloji ruhun ihtiyacını aklın konusuymuş gibi pazarlayarak samimi davranmaz,
 bu yüzden sevimsizdir. Sabah uyandığınızda ya da canınız sıkıldığında yıldızlar
@@ -8,7 +10,7 @@ hitap ederek karşılar, şiir de böyledir. Bu samimiyet de onları sevimli yap
 
 Müzisyenler müziğin içinde aklın konusu olan şeyler olmasına rağmen bunu
 konuşmayı sevmezler. Olan bilimselliği de itmek isterler. Çünkü ruha hitap
-ettiklerini bilirler ve onu korurlar. 
+ettiklerini bilirler ve onu korurlar.
 
 Astrologlar da kuantumdan, enerjiden, yani bilimsellikten pay alarak akıl
 düzleminden itibar toplayacağına, kendini müzik gibi tam tersine bunları iterek

@@ -1,4 +1,6 @@
-# Software Documentation
+---
+title: Software Documentation
+---
 
 - Dokümantasyonun kodla beraber/paralel ilerlemesi gerekliliği.
 - Yazılım geliştirme araçları ile doküman yazılmalı.

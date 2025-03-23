@@ -1,4 +1,6 @@
-# Tanrı Hangisidir
+---
+title: Tanrı Hangisidir
+---
 
 1 artı 1 3'tür kabulü üzerine bir matematik kurmanın mümkün olmadığını
 ispatlamamız, bunun olamayacağını göstermesi itibariyle değerlidir. Çünkü konu,

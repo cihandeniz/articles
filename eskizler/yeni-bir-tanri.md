@@ -1,4 +1,6 @@
-# Yeni Bir Tanrı
+---
+title: Yeni Bir Tanrı
+---
 
 Anlık global iletişimin mümkün olması, insanları koca tek bir toplum olmaya
 yönlendiriyor. Internet üzerinden ortak bir imgelem inşa oluyor. Küresel ısınma

@@ -1,4 +1,6 @@
-# Rasyonel Gibi Görünen İrrasyonelliklerin Tehlikesi
+---
+title: Rasyonel Gibi Görünen İrrasyonelliklerin Tehlikesi
+---
 
 Jonestown toplu intiharındaki irrasyonellik, aslında "madem yok olucaz, o zaman
 mal mülk ucuza sat" düşüncesinde de var.

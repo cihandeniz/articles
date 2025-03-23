@@ -1,4 +1,6 @@
-# Yaratmak vs Bilmek
+---
+title: Yaratmak vs Bilmek
+---
 
 Bilgi yanlışlandıkça güçlenirken, bir eser doğrulandıkça güçleniyor.
 

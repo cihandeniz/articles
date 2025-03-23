@@ -1,17 +1,19 @@
-# Din Postmodern Bir Olgudur
+---
+title: Din Postmodern Bir Olgudur
+---
 
 Modern dönemi tanımlayan temel unsur doğruyu tanrıdan değil akıldan bulmasıydı.
 Dolayısıyla aklın yolunun bir olması itibariyle neyin güzel neyin çirkin
 olduğunun, neyin adil neyin adaletsiz olduğunun ve benzeri tüm konuların
 rasyonel bir şekilde bulunabileceği düşünülmüştür. Bunu bulabilen akıl da
 eğitimli akıldır, eğitimin de herkesin erişebileceği bir şey olmaması sebebiyle
-sonuç olarak doğruyu bulmak seçkin kesime kalmış olur. 
+sonuç olarak doğruyu bulmak seçkin kesime kalmış olur.
 
 Postmodern dönemde ise kontrol seçkinler yerine artık kitlelerin elindedir.
 Kitleler kimin yöneteceğine de karar verir, hangi sanat eserinin daha güzel
 olduğuna da. Modern dönemden kalan izler sanatçıları da politikacıları da halen
 etkilemekteyse de, adım adım halkın dediği olmakta ve aklın mutlak üstünlüğü
-yavaş yavaş demode olmaktadır. 
+yavaş yavaş demode olmaktadır.
 
 Burada akıldan kastım, konuşmamızı sağlayan, annemizi babamızı gördüğümüzde
 onları tanımamızı sağlayan, "Kim o?" sorusuna "Been!" cevabını almamıza rağmen
@@ -45,7 +47,7 @@ Belki de postmodern ismi doğru değildir. Kendisinin alt kümesi olan bir kavra
 üzerinden tanımlanmak yerine daha iyi bir tanımı hakediyordur. Postmodern
 yerine, görelilik (relativistic) çağı demek belki daha doğrudur.
 
-İlintili olabilecek diğer bir konu; 
+İlintili olabilecek diğer bir konu;
 
 Deterministik sistem, nondeterministik sistem doğuramaz ama, tersi olur.
 Nondeterministik evren evrimi de kolay açıklar, tanrısızlığı da, belirsizliği

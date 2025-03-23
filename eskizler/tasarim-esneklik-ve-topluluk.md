@@ -1,4 +1,6 @@
-# Tasarim, Esneklik ve Topluluk
+---
+title: Tasarim, Esneklik ve Topluluk
+---
 
 Bir yapı tasarlarken tektiplikten uzak durmak, hem tekrar kullanılabilir
 parçalar üretmek, hem de bunları zorunlu kılmamak esasıyla hareket edilmesi en

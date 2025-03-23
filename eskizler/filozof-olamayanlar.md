@@ -1,4 +1,6 @@
-# Filozof Olamayanlar
+---
+title: Filozof Olamayanlar
+---
 
 https://corpusdergi.com/2024/turkiyede-filozof-var-mi-bir-camia-elestirisi/
 

@@ -1,4 +1,6 @@
-# Kuşak Safsatası
+---
+title: Kuşak Safsatası
+---
 
 Ben '81 doğumluyum. Öğrenciyken "gençler geleceğimiz" totolojisi hala işe
 yarıyordu. Sonra birden Y kuşağı olduğumuzu öğrendik. Bu olduğunda çoktan iş

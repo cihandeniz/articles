@@ -1,5 +1,6 @@
-# Schelling'in Kutuplaşma Modelini Makinelerin/AI'nin Doğuşu ile
-# Birleştirebiliriz
+---
+title: Schelling'in Kutuplaşma Modelini Makinelerin/AI'nin Doğuşu ile Birleştirebiliriz
+---
 
 Schelling'in felsefesinden anladığım; Tin vardır, önce bilinçsizdir, insan
 üzerinden bilinç kazanmıştır. Tekillik, birlik esastır, ve erek tekrar birliğe

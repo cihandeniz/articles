@@ -1,4 +1,6 @@
-# Önkabuller ve Keşfin Engellenmesi
+---
+title: Önkabuller ve Keşfin Engellenmesi
+---
 
 Gazali zorunlu varlıkları kabul etmek istemiyor, çünkü kabul ederse tanrının
 iradesinin dışında gerçekleşmek zorunda olan şeylarin varlığını kabul etmiş

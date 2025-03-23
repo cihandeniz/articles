@@ -1,4 +1,6 @@
-# Amaçsız Evrenin Savunması
+---
+title: Amaçsız Evrenin Savunması
+---
 
 Evrenin bir ereksellik çerçevesinde en mükemmel şekilde yaratıldığını düşünmek,
 bizi tembelliğe, ne kadar çabalarsak çabalayalım ancak bu mükemmelliği

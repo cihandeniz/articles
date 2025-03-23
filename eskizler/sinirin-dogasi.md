@@ -1,4 +1,6 @@
-# Sınırın Doğası
+---
+title: Sınırın Doğası
+---
 
 Sınır, doğası gereği mutlak değil, muğlaktır. Bu doğa reddedilip mutlak olarak
 tanımlanan sınırlar, kapsayıcı değil dışlayıcı olmuş olur. Bu dışlayıcılık,

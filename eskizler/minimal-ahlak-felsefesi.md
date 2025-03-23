@@ -1,4 +1,6 @@
-# Minimal Ahlak Felsefesi
+---
+title: Minimal Ahlak Felsefesi
+---
 
 Ben huzurlu bir şekilde öleceğime inanıyorum.
 

@@ -1,4 +1,6 @@
-# İbrahim Yeniden
+---
+title: İbrahim Yeniden
+---
 
 İbrahim'in oğlunu kurban etmek üzere yola çıkıp, koyun kurban ederek dönmesi
 biat değil aydınlanma mitidir.

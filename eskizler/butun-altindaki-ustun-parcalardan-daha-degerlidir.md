@@ -1,4 +1,6 @@
-# Bütün, Altındaki Üstün Parçalardan Daha Değerlidir
+---
+title: Bütün, Altındaki Üstün Parçalardan Daha Değerlidir
+---
 
 İnsan aklı olduğu için en üstün varlık olabilir, ancak dünya, doğa, güneş
 olmasaydı insan da olmayacaktı. Dünya bu bağlamda değerlidir.

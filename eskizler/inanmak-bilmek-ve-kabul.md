@@ -1,4 +1,6 @@
-# İnanmak, Bilmek ve Kabul
+---
+title: İnanmak, Bilmek ve Kabul
+---
 
 Ne zaman inanmayı ne zaman bilmeyi tercih etmeliyiz? İnanmayı tercih etmeli
 miyiz?

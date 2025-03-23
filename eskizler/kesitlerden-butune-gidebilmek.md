@@ -1,4 +1,6 @@
-# Kesitlerden Bütüne Gidebilmek
+---
+title: Kesitlerden Bütüne Gidebilmek
+---
 
 Evreni 3 boyutlu olarak algılıyoruz. Zamanı ise bütün olarak değil kesitler
 halinda algılayıp sonrada geçmişimizi zihnimizde, anılarımızda

@@ -1,4 +1,6 @@
-# Bilinç
+---
+title: Bilinç
+---
 
 Bilinç bir şeyin kendisini eylemden içsel sebeplerle alıkoyabilmesini sağlayan
 farkındalıktır.

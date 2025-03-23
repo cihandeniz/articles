@@ -1,4 +1,6 @@
-# Dil Üzerine
+---
+title: Dil Üzerine
+---
 
 Dil, sözcüklerden oluşur. Sözcükler kavramları imler. Kavramlar mana (anlam)
 dünyasının, yani kısaca maneviyatın yapıtaşıdır. Yani dil doğrudan ve yalnızca

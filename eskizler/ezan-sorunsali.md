@@ -1,4 +1,6 @@
-# Ezan Sorunsalı
+---
+title: Ezan Sorunsalı
+---
 
 Her sabah müslümanların alarmıyla uyanmak zorunda mıyız? Ve bunu dile
 getirebilmek için tartışma hangi zeminde olmalıdır?

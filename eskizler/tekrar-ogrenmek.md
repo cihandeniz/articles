@@ -1,4 +1,6 @@
-# Tekrar Öğrenmek
+---
+title: Tekrar Öğrenmek
+---
 
 Bir şey ilk kez öğrenildiğinde üstbilgisi ile beraber öğrenilemez, yalnızca
 kendisi öğrenilir. Yani öğrendiğiniz şeyin ne olduğu hakkında bir bilginiz
@@ -17,7 +19,7 @@ bilmeyen birine "isim, fiil" demenizin bir anlamı yoktur, önce konuşmayı
 öğrenmesi gerekir. Ama Türkçe öğrendikten sonra isim, fiil, sıfat gibi
 kavramları anlayabilir, bu kavramlar üzerinden de İngilizce öğrenimini
 hızlandırabilirsiniz.
- 
+
 Bu açıdan bakıldığında bir şeyi ilk kez öğrenmenin o şeyle ilgili kavramları
 öğrenmeyi zorunlu olarak ıskalayacağı söylenebilir. Bir şey ile ilgili
 üstbilgiyi bilmediğinizde de bildiğinizi bilmemiş olursunuz. Bildiğinizi
@@ -30,4 +32,3 @@ sandığınız şeyi öğrenmemiş olma olasılığınız doğar.
 "Ben ne öğrendim?" sorusuna cevap verebilirsiniz.
 
 Tekrar öğrenmek, öğrenmenin vazgeçilmez bir parçasıdır.
-

@@ -1,4 +1,6 @@
-# Öğrenmek Üzerine
+---
+title: Öğrenmek Üzerine
+---
 
 İnsan zihni doğrusal çalışmaz, döngüsel çalışır.  Yani tüm öğrenme süreci
 yapısı gereği tavuk-yumurta olmak zorundadır.  Dolayısıyla bir kavram, bir olgu

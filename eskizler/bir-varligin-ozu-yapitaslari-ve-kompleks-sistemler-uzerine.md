@@ -1,4 +1,6 @@
-# Bir Varlığın Özü, Yapıtaşları ve Kompleks Sistemler Üzerine
+---
+title: Bir Varlığın Özü, Yapıtaşları ve Kompleks Sistemler Üzerine
+---
 
 ## İlk Oturum
 

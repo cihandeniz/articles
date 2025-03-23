@@ -1,4 +1,6 @@
-# Yaratmak İnsana Mahsustur
+---
+title: Yaratmak İnsana Mahsustur
+---
 
 Diyelim ki bir masa var. Bu masanın nasıl var olduğu sorulduğunda o anki
 varoluşunu parçalara ayırarak açıklamak bir yol iken, varlığa gelişini

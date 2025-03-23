@@ -1,4 +1,6 @@
-# Bedenruh
+---
+title: Bedenruh
+---
 
 Tıpkı uzayzaman gibi, bedenruh da insan deneyiminde beden ve ruh olarak ikili
 kavramsallaşan, ama aslen tek olan bir gerçekliktir.

@@ -1,4 +1,6 @@
-# Ahlak
+---
+title: Ahlak
+---
 
 İyi hayat, gittikçe daha dürüst olduğun, koşullar ve dürtülerin bağlamında,
 düşüncelerini eylemlerine öncelediğin hayattır.

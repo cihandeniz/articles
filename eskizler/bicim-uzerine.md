@@ -1,4 +1,6 @@
-# Biçim Üzerine
+---
+title: Biçim Üzerine
+---
 
 Biçim önemlidir
 
@@ -31,4 +33,3 @@ Estetik kaygılar ürettiğiniz şeyin ayrılmaz parçasıdır
 Sunumunuzda kullandığınız tema, font, sunumunuzun ayrılmaz parçasıdır
 Koddaki indentation, ekranlardaki margin, orantı, hepsi anlatmaya çalıştığınız
 Fikre duyduğunuz saygıyı, verdiğiniz emeği temsil eder
-

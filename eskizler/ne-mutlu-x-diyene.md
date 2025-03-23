@@ -1,4 +1,6 @@
-# Ne Mutlu X Diyene
+---
+title: Ne Mutlu X Diyene
+---
 
 "Ne mutlu Türk'üm diyene" sözünden çoğulcu demokrasi fikri çıkabiliyor. Türk
 olana demiyor, Türk'üm diyene diyor. Türkiye'nin temelinde olan bu fikrin

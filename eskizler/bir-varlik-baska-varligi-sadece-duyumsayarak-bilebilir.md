@@ -1,4 +1,6 @@
-# Bir Varlık Başka Varlığı Sadece Duyumsayarak Bilebilir
+---
+title: Bir Varlık Başka Varlığı Sadece Duyumsayarak Bilebilir
+---
 
 Bir varlık diğerini doğrudan bilemez, sadece kendini doğrudan bilir. Diğerini
 duyumsar. Duyumsama da eksik bilgi ile olmak zorundadır (bkz. [İnsan Zorunlu
@@ -12,7 +14,7 @@ düşündüğümde, onu düşündüğümü kendime anlatmam gerekmez, kendi dü�
 zaten doğrudan bilirim. Gördüğümü görmem gerekmez, zatem görürüm. Ama benim
 gördüğümü, sana anlatmam, göstermem, çizmem, bir şekilde anlatmam gerekir. Eğer
 benim gördüğümü sen de benim görmem sebebiyle doğrudan biliyorsan benle sen
-birizdir. 
+birizdir.
 
 Aynı şeye bakan iki kişiden bahsetmiyorum, aynı şeye bakan iki farklı insan iki
 farklı şey görür ve gördüklerini birbirlerine anlatarak bilgi paylaşırlar. Oysa

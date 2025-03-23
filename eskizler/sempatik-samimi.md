@@ -1,4 +1,6 @@
-# Sempatik Samimi
+---
+title: Sempatik Samimi
+---
 
 Sempatiklik ile samimilik arasında ters bir ilişki var. Sempatik insanlar
 samimi görünürler oysa karşı tarafın ruh haline ya da beklentisine uygun

@@ -1,4 +1,6 @@
-# Çırakların Terbiye Edilmesi Üzerine
+---
+title: Çırakların Terbiye Edilmesi Üzerine
+---
 
 İnsan doğrudan sonuca gitmek ister. Yeni bir şey öğrenirken sonucu taklit eder
 ve altındaki çabayı ıskalar ve asla öğrenemeyebilirsin. Alttaki çaba sıkıcıdır,

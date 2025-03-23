@@ -1,4 +1,6 @@
-# Akıl ve Doğa İkileminden Vazgeçilmemeli
+---
+title: Akıl ve Doğa İkileminden Vazgeçilmemeli
+---
 
 Salt akıl bizi gerçeklikten pratikten uzaklaştırıyor. Salt materyalizm de bizi
 düşünceden ve soyut kavramlardan uzaklaştırıyor, yani teoriden uzaklaştırıyor.

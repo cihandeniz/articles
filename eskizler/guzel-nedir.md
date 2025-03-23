@@ -1,4 +1,6 @@
-# Güzel Nedir
+---
+title: Güzel Nedir
+---
 
 Güzeli formüle edemeyiz, çünkü beğenilen şey dönemsel ve kültüreldir. Etkilemesi
 ile doğru orantılıdır. Buradan hareketle güzel kavramı, kişisel gibi görünmekle

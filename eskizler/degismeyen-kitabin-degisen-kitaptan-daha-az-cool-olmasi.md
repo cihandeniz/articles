@@ -1,4 +1,6 @@
-# Değişmeyen Kitabın Değişen Kitaptan Daha Az Cool Olması
+---
+title: Değişmeyen Kitabın Değişen Kitaptan Daha Az Cool Olması
+---
 
 Kur'an'ın değişmiyor olması ilk bakışta epik ve mucizevi geliyor iken biraz daha
 düşününce aslında değişiyor olmasından daha ucuz bir mucize gibi geliyor.
@@ -13,4 +15,3 @@ Bir şeyin değişmemesiyle niye övünürüz? Değişmiyorsa çok iyidir de ond
 kitabı bir kenara bırakalım, değişmediği için çok mutlu olduğumuz, güven veren,
 mükemmel olduğunu düşündüğümüz ne var? Bence hiçbir şey yok, değişip adapte
 olana hayranlığımız daha büyük, çünkü daha gerçek.
-

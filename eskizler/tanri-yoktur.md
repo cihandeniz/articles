@@ -1,4 +1,6 @@
-# Tanrı Yoktur
+---
+title: Tanrı Yoktur
+---
 
 Gorgias'ın üçlü argümanına ithafen;
     Hiçbir şey yoktur,

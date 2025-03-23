@@ -1,4 +1,6 @@
-# Şirketlerin Devlet Olma Çabasının Absürt Olması
+---
+title: Şirketlerin Devlet Olma Çabasının Absürt Olması
+---
 
 Şirketler ticari oluşumlardır ve varoluşları gereği kendi alanlarında üretim
 yapmaya devam etmek isterler. Şirket belli çalışanlar ile var olmak zorunda
@@ -10,7 +12,7 @@ bir sorumluluğa sahip olamaz. Yani devlet vatandaşının tüm sıfatlarını k
 zorundadır ama şirket değildir. Örneğin vatandaş alkol almak istiyorsa
 alabilmelidir, ama çalışan alkol almak istiyorsa şirket buna izin vermek
 zorunda değildir. Çünkü vatandaşlıktan istifa edilemez ama bir şirketten istifa
-edilebilir. 
+edilebilir.
 
 Bu bağlamda bir şirket kendi çalışanları için kapsayıcı bir İK politika
 belirledikçe garip bir durum oluşmaktadır. Örneğin, çalışanlarını tatile
@@ -50,4 +52,3 @@ gidermese yalnızca çalışanına bunu yapması için alan tanısa yeterlidir. 
 akşam 18 arası hayatımıza çöküp fabrika simülasyonu yapacağına insanları rahat
 bıraksa benim tercihimdir, ben çalıştığım kadar kazanayım, gerisi benim
 kanaatim olsun.
-

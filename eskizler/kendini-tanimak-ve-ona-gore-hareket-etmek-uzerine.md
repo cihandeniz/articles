@@ -1,4 +1,6 @@
-# Kendini Tanımak ve Ona Göre Hareket Etmek Üzerine
+---
+title: Kendini Tanımak ve Ona Göre Hareket Etmek Üzerine
+---
 
 İnsan aklı olan, ve bedeni olan bir canlıdır. Dolayısıyla buna uygun hareket
 ettiği ölçüde tatmin olacak, ya da doğru hissedecektir.

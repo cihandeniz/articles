@@ -1,4 +1,6 @@
-# İdealsiz, Kavramsallaştırılmamış Yaratım Olmaz
+---
+title: İdealsiz, Kavramsallaştırılmamış Yaratım Olmaz
+---
 
 Bir yaratım olması için gözlem üzerinden yapılmış bir kavramsallaştırma gerekir.
 

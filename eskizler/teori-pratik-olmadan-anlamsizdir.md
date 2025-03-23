@@ -1,4 +1,6 @@
-# Teori, Pratik Olmadan Anlamsızdır
+---
+title: Teori, Pratik Olmadan Anlamsızdır
+---
 
 Bir tasarım yaptığımızda, bu tasarımın pratikteki bir sorunu çözmesi gerekir.
 Bunun için de önce o sorunun varlığı ispatlanmış olmalıdır. sonra tasarım

@@ -1,4 +1,6 @@
-# Mutluluğu Aramak
+---
+title: Mutluluğu Aramak
+---
 
 Bir şeyi neden ararız? Daha önce sahip olmadığımız bir şeyi arar mıyız?
 Bilmediğimiz bir şeyi arar mıyız? Aşkı ararız belki, ne olduğunu bilmeden, ama

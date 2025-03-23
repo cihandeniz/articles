@@ -1,4 +1,6 @@
-# Doğanın Doğurana Olan Saygı Borcu
+---
+title: Doğanın Doğurana Olan Saygı Borcu
+---
 
 Bir varlık kendisini doğurana saygı göstermelidir çünkü aksi durumda kendi
 varlığını tehlikeye atmış olur, bu da varoluşuna aykırıdır.

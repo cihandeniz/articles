@@ -1,4 +1,6 @@
-# Her Sistem Kendini Yok Eder
+---
+title: Her Sistem Kendini Yok Eder
+---
 
 Mutlak doğru olamaz, ben doğruyum diyen sistem/din/devlet sadece kendinin yanlış
 olduğunu ispatlar.

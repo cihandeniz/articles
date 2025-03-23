@@ -1,4 +1,6 @@
-# Ortalamanın Ortalama Olmaması
+---
+title: Ortalamanın Ortalama Olmaması
+---
 
 bip akustikteki sorunun üzerine hayali cevap
 

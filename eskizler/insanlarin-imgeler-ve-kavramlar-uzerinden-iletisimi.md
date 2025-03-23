@@ -1,4 +1,6 @@
-# İnsanların İmgeler Ve Kavramlar Üzerinden İletişimi
+---
+title: İnsanların İmgeler Ve Kavramlar Üzerinden İletişimi
+---
 
 İnsan aklını imgeler ve kavramlar diye iki ucu olan bir uzay olarak düşünelim.
 Yani bir tarafta salt imgelerin olduğu bir düzlem, diğer tarafta salt

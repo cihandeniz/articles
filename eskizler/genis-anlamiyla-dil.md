@@ -1,4 +1,6 @@
-# Geniş Anlamıyla Dil
+---
+title: Geniş Anlamıyla Dil
+---
 
 Önce bir dil inşa edersin, kuralların olur, sonra bu dili kullanarak bir şeyler
 söylersin.

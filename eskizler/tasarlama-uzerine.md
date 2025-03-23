@@ -1,4 +1,6 @@
-# Tasarlamak Üzerine
+---
+title: Tasarlamak Üzerine
+---
 
 Tasarlama ya da tasarım sanıldığının aksine ileriye dönük değil geriye dönük
 bir eylem olduğunda anlamlıdır. Aksi yönde olduğunda ancak bir temenni ya da

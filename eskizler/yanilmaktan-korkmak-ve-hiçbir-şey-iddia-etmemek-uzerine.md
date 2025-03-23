@@ -1,4 +1,6 @@
-# Yanılmaktan Korkmak ve Hiçbir Şey İddia Etmemek Üzerine
+---
+title: Yanılmaktan Korkmak ve Hiçbir Şey İddia Etmemek Üzerine
+---
 
 Her iddia yanlış olduğunu ispatlamaktan ileriye gidemez dedik (bkz. [Her sistem
 kendini yok eder][HSKYE]).

@@ -1,4 +1,6 @@
-# Sanatın İşlevi
+---
+title: Sanatın İşlevi
+---
 
 Sanat duyguya hitap eder, amacı belli duyguları oluşturmak ya da coşturmaktır,
 ve bu konuşarak yapılamaz.

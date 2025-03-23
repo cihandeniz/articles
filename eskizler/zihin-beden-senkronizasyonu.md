@@ -1,4 +1,6 @@
-# Zihin Beden Senkronizasyonu
+---
+title: Zihin Beden Senkronizasyonu
+---
 
 Zihin ile beden her an senkronize olur, insan kendi bedenine yabancıdır,
 sonradan öğrenir. İnsan kendi bedeni aracılığıyla uzuvlarını geliştirebilir,

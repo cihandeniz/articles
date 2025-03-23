@@ -1,4 +1,6 @@
-# Pozitif Bilim Veya Türevi Bir Meslek İle Uğraşmanın Kişiyi Terbiye Etmesi Üzerine
+---
+title: Pozitif Bilim Veya Türevi Bir Meslek İle Uğraşmanın Kişiyi Terbiye Etmesi Üzerine
+---
 
 Geometri ve matematik dallarında ispatlar karşı çıkılamayacak kadar nettir.
 

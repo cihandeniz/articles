@@ -1,4 +1,6 @@
-# Neden İntihar Etmemeliyiz
+---
+title: Neden İntihar Etmemeliyiz
+---
 
 çünkü;
     var olmak, yok olmaktan daha ilginç

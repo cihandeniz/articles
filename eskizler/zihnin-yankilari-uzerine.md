@@ -1,4 +1,6 @@
-# Zihnin Yankıları Üzerine
+---
+title: Zihnin Yankıları Üzerine
+---
 
 Konuşmak nedir tam olarak? Bir iletişim aracı mıdır?
 

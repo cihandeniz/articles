@@ -1,4 +1,6 @@
-# Gestalt Psikolojisi ve Aklın Eksik Bilgiyle Çalışabilmesi
+---
+title: Gestalt Psikolojisi ve Aklın Eksik Bilgiyle Çalışabilmesi
+---
 
 Bütünün parçaların toplamının dışında ayrı bir şey olmasını inceler. Fazlası
 DEĞİL, ayrı olması. Bu da ölçek ve boyut atlama fikri ile örtüşüyor. Bir bütün

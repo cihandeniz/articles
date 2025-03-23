@@ -1,4 +1,6 @@
-# Yaşanmakta Olanı Öldürmek
+---
+title: Yaşanmakta Olanı Öldürmek
+---
 
 Bir şeyi yaşarken onun hakkında konuşup tanı koymak, adeta onu mumyalamak ve onu
 yaşarken mezara (ya da müzeye) koymak demektir. Çünkü insanı yaşanılanın dışına

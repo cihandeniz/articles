@@ -1,4 +1,6 @@
-# Ölüm Korkusundan Korkmak
+---
+title: Ölüm Korkusundan Korkmak
+---
 
 Epikuros: "Ölüm ne yaşayanları ilgilendirir ne de ölüleri, çünkü yaşayanlar için
 ölüm yoktur, ölülerin ise zaten kendileri yoktur" (İlkçağ Felsefe Tarihi 4 - s.

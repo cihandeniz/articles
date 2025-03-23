@@ -1,4 +1,6 @@
-# Felsefedeki Evren/Fizik Tanımı Arayışının Devam Etmesi Gerekliliği Üzerine
+---
+title: Felsefedeki Evren/Fizik Tanımı Arayışının Devam Etmesi Gerekliliği Üzerine
+---
 
 Antik Yunan'da hiçbir akademik yöntem oturmadan, hiçbir fizik kanunu bilinmeden,
 hatta bunu ifade edecek matematik dilleri dahi icat edilmeden önce bunun üzerine

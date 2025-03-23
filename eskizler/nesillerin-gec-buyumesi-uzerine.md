@@ -1,4 +1,6 @@
-# Nesillerin Geç Büyümesi Üzerine
+---
+title: Nesillerin Geç Büyümesi Üzerine
+---
 
 İnsanlar geç ölüyor diye mi?
 Hayat şartları kolaylaştı diye mi?

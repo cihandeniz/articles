@@ -1,4 +1,6 @@
-# Yazılım Ekiplerinin Bağımsızlığı Üzerine
+---
+title: Yazılım Ekiplerinin Bağımsızlığı Üzerine
+---
 
 Her ekip kendi tercihlerini hem teknolojik, hem de tasarımsal açıdan yapabilmek
 ister. Bunu sağlamak kolay değildir, korumak hiç kolay değildir. Uzmanlığa göre

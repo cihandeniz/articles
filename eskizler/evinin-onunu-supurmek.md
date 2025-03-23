@@ -1,4 +1,6 @@
-# Evinin Önünü Süpürmek
+---
+title: Evinin Önünü Süpürmek
+---
 
 "Herkes evinin önünü süpürürse dünya temiz olur."
 

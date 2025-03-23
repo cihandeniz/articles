@@ -1,4 +1,6 @@
-# Music Only Suggests, Rest Is Done by Listener
+---
+title: Music Only Suggests, Rest Is Done by Listener
+---
 
 A song or an arrangement shouldn't be fully done. It is required to lack, so
 that the missing parts are filled by the listeners in their own heads. That's

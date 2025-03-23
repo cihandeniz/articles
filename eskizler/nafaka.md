@@ -1,4 +1,6 @@
-# Nafaka
+---
+title: Nafaka
+---
 
 Devlet olmadan nafaka mümkün mü?
 

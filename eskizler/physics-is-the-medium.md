@@ -1,4 +1,6 @@
-# Physics is the Medium
+---
+title: Physics is the Medium
+---
 
 "Medium is the message" lafından şunu anlıyorum; Varlık içinde varolduğu
 sistemin özelliklerine uygun bir varoluşa sahip olmak zorundadır. Yani 45'lik

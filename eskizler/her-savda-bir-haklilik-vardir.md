@@ -1,4 +1,6 @@
-# Her Savda Bir Haklılık Vardır
+---
+title: Her Savda Bir Haklılık Vardır
+---
 
 Herhangi bir argüman ne kadar aptalca olursa olsun, mutlak suretle bir gözleme
 dayanır.

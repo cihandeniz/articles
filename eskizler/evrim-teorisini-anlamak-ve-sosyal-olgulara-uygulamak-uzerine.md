@@ -1,4 +1,6 @@
-# Evrim Teorisini Anlamak ve Sosyal Olgulara Uygulamak Üzerine
+---
+title: Evrim Teorisini Anlamak ve Sosyal Olgulara Uygulamak Üzerine
+---
 
 Evrim teorisi asla geri dönüşü olmayan, bir öncekinin üzerinde oluşan tekrarlı
 bir değişiklik yapısı arz eder. Evrilmek dediğimiz şey bir yapıdan geri dönüşü

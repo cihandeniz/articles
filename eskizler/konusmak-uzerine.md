@@ -1,4 +1,6 @@
-# Konuşmak Üzerine
+---
+title: Konuşmak Üzerine
+---
 
 Konuşmak mümkün müdür?
 

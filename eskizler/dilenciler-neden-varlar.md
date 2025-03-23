@@ -1,4 +1,6 @@
-# Dilenciler Neden Varlar
+---
+title: Dilenciler Neden Varlar
+---
 
 Herhangi bir şey neden varsa, onlar da o yüzden varlar. Yani varolabildikleri
 için varlar. Yani yaptıkları şeyin sonucunda bir şey oluyor da ondan.
@@ -26,4 +28,3 @@ Onlar da vergi vermiyor muhtemelen ama bir iş yapıyorlar en azından. Bir de
 dürtmüyorlar. Bazen sigara istiyorlar, içtiğim dönemde verirdim, sonra tütüne
 döndüm verememeye başladım. Şimdi zaten bıraktım sigarayı, "yok" diyorum artık
 "olsa verirdim" der gibi baktığımı düşünerek.
-

@@ -1,4 +1,6 @@
-# Nitelemenin Mutlak Olamaması
+---
+title: Nitelemenin Mutlak Olamaması
+---
 
 Hiçbir nitelik yoktur ki koşulsuz geçerli olsun.
 

@@ -1,7 +1,9 @@
-# Özgür İrade ve Amaçsızlık
+---
+title: Özgür İrade ve Amaçsızlık
+---
 
 İnsanın özgür iradesinin olup olmadığı sorusu "doğasında anlam arayışı
-bulunması" ile yanıtlanabilir mi? 
+bulunması" ile yanıtlanabilir mi?
 
 Özgür irade derken şunu kastediyorum; ortada hiçbir zorunlu sebep yok iken, dış
 etkenlerden bağımsız olarak tamamen içten gelecek şekilde bir şeyler yapabilme
@@ -28,5 +30,4 @@ olarak özgür iradesi ile yaptığı şeylerdir. Eğer insan mekanik bir varlı
 olsaydı, süpürge robotlar gibi işi bittiğinde kendini şarja takıp beklerdi.
 
 Amaçsızlığımızın farkına varabiliyor olmamız, özgür irademiz olduğu sonucuna
-zorunlu olarak vardırıyor. 
-
+zorunlu olarak vardırıyor.

@@ -1,4 +1,6 @@
-# Peygamberlik Öldü
+---
+title: Peygamberlik Öldü
+---
 
 Tanrı yakın bir zamana kadar hem millet hem de devlet demekti. Devleti yıkmak
 demek, tanrısını da öldürmek demekti. O da yeni devlet ile birlikte küllerinden

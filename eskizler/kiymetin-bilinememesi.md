@@ -1,4 +1,6 @@
-# Kıymetin Bilinememesi
+---
+title: Kıymetin Bilinememesi
+---
 
 Bir düşünre ancak şartlar doğru olduğunda sahiplenilir. (Öyle bir düşünce
 olacak ki toplum aydınlanacak) bir mantık hatasıdır, tersten okumadır. Toplum
@@ -10,9 +12,8 @@ uğraşmaz.
 
 O yüzdendir ki kıymetler hiç bilinememiş olur, örneğin sanatçı geç farkedilir
 vb. Aslında geçmişten gelen ve hiç farkedilmeyen yüzlerce eser ve sanatçı da
-var ama onlara değeri bilinemedi bile diyemiyoruz. 
+var ama onlara değeri bilinemedi bile diyemiyoruz.
 
 Bir şey ancak uygun şartlar oluştuğunda hayatımızı değiştirebilir. Dolayısıyla
 her gün yeni dünya nasıl olmalı diye düşünüp ortaya derinlikli fikirler,
 öneriler koymalıyız ki günü geldiğinde biri kullanılacaktır.
-

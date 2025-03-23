@@ -1,4 +1,6 @@
-# Ortalama Seni Ortalama Yapar, Konumunu Bilmeden Eleştiri Faydasızdır
+---
+title: Ortalama Seni Ortalama Yapar, Konumunu Bilmeden Eleştiri Faydasızdır
+---
 
 - Bir sistem kurduğunda, çok iyiyse de eleştirilir, çok kötü ise de eleştirilir.
 - Eleştiri ortalamadan uzak olanı ortalamaya çekmeye çalışır.
