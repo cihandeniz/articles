@@ -6,7 +6,7 @@ Aldığım notlar ve taslakları aşağıda listeliyorum. Zamanla yazıya dönü
 dileğiyle.
 
 {% for page in site.pages %}
-  {% if page.path contains 'eskizler/' %}
+  {% if page.path contains 'eskizler/' and page.url != '/eskizler/' %}
   - [{{ page.title }}]({{ page.url }})
   {% endif %}
 {% endfor %}

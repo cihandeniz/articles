@@ -7,7 +7,7 @@ oluşturdum. Başlangıcı _Tasarlamak Üzerine_(?) olacak, başka alt konuları
 getirecektir.
 
 {% for page in site.pages %}
-  {% if page.path contains 'yazilar/' %}
+  {% if page.path contains 'yazilar/' and page.url != '/yazilar/' %}
   - [{{ page.title }}]({{ page.url }})
   {% endif %}
 {% endfor %}
