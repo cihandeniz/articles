@@ -1,1 +1,6 @@
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@v2.5.2
+minima:
+  date_format: "%Y-%m-%d %H:%M"
+  header_pages:
+    - eskizler.md
+    - yazilar.md

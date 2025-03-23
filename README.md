@@ -1,6 +1,9 @@
-# Articles
+---
+layout: home
+title: Akıl Terapisi
+---
 
-Yazilar için eskizleri içerir.
-
-- Her yazi bir dosyadır
-- Dosya adı makalenin adının `kebab-case` halidir
+Yaşadıklarımı ve gözlemlerimi yaptığım okumalar ve çevrem ile tartışmalar ile
+çarpıştırıp notlarımı buraya bırakıyorum. Notların çoğu taslak olarak
+[Eskizler](/eskizler.md) altında. Toparlanmış halleri ise [Yazılar](/yazilar.md)
+altındalar.
