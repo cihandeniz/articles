@@ -6,4 +6,8 @@ Henüz toparladığım bir yazı yok, ama bir tane ile başlamak üzere bu sitey
 oluşturdum. Başlangıcı _Tasarlamak Üzerine_(?) olacak, başka alt konuları da
 getirecektir.
 
-- [Tasarlamak Üzerine](tasarlamak-uzerine.md)
+{% for page in site.pages %}
+  {% if page.path contains 'yazilar/' %}
+  - [{{ page.title }}]({{ page.url }})
+  {% endif %}
+{% endfor %}
