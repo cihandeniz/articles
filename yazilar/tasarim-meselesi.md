@@ -90,3 +90,5 @@ title: Tasarım Meselesi
     - yanılma zorunluluğu, sürekli bütün kurma eylemi, anlam dünyasının sürekli
       yeniden tasarımı
   - [](../eskizler/yaratmak-insana-mahsustur.md)
+  - [](../eskizler/tasarim-esneklik-ve-topluluk.md)
+  - [](../eskizler/bir-varligin-ozu-yapitaslari-ve-kompleks-sistemler-uzerine.md)

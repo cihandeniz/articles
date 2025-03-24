@@ -30,10 +30,10 @@ kayıplar hikayelerde yankılanır. İnsan öngörülemeyeni öngörmek ister, "
 ile anlaşır ve zaten vereceği kayıpları bir düzene sokmak ister, ve kurbanlarını
 rastgele değil, seçerek vermeye karar verir.
 
-Kimse bu irrasyonel rasyonelliğe ilk etapta inanmaz, hatta epey saçma bulabilir.
-Ancak insan tam da böyle bir canlıdır. İrrasyoneldir, ama rasyonel olduğuna
-inanır. Kendi görüş alanı dahilinde rasyoneldir, ama görüş alanı dışındaki
-irrasyonelliğini ona ancak tarih gösterir.
+Bu irrasyonel rasyonelliğe inanmaz, hatta epey saçma bulabilirsiniz. Ancak insan
+tam da böyle bir canlıdır. İrrasyoneldir, ama rasyonel olduğuna inanır. Kendi
+görüş alanı dahilinde rasyoneldir, ama görüş alanı dışındaki irrasyonelliğini
+ona ancak tarih gösterir.
 
 Düşünün ki bir toplumun içine doğdunuz. Bir anne ve babanın ikinci çocuğu
 olarak. Büyüğünüz olan kardeşiniz, toplumunuzdaki tüm evlerde olduğu gibi
