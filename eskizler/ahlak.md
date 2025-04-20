@@ -123,3 +123,5 @@ Kendi kendisi ile ilgilenen düşünce bir anlamda tanrısaldır, yani salt
 düşüncedir. Böyle anlar insanın tanrısallaştığı, diğer anlar ise insanın
 hayvanlaştığı anlardır. İnsan bu ikisi arasındaki dengede insandır, ne salt
 bilinçli ve düşünsel (tanrı) olabilir, ne de tamamen bilinçsizdir (hayvan).
+
+> Jung'un gölgesi ile karşılaştırılabilir
