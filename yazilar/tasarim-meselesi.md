@@ -92,3 +92,11 @@ title: Tasarım Meselesi
   - [](../eskizler/yaratmak-insana-mahsustur.md)
   - [](../eskizler/tasarim-esneklik-ve-topluluk.md)
   - [](../eskizler/bir-varligin-ozu-yapitaslari-ve-kompleks-sistemler-uzerine.md)
+- potansiyel referanslar ve okumalar
+  - daniel dennett - from bacteria to bach and back
+  - deleuze - assemblage
+  - systems theory, systemic emergence
+  - tasarim felsefesi ve emergentism
+  - wittgenstein - dil oyunlari
+  - derrida - differance
+  - gestalt
