@@ -7,8 +7,10 @@ title: Tasarım Meselesi
   - ve Üretmek
 - Önden tasarlamanın varsayımları
   - Bu ilüzyon neden oluşur
-- Öngörülemezlik ve Belirim
-  - belirmek mi olusmak mi?
+- Öngörülemezlik ve Oluşkanlık
+  - Kötüden iyiye gidiş nasıl mümkün olabilir?
+  - Tanrısal ya da Evrimsel: Oluşum Fenomeni
+  - Belirim vs Oluşum üzerine bir not
 - Yaratıcılık
   - Neden tasarımın tekelinde gibidir?
   - Üretimde yaratıcılık
