@@ -89,24 +89,24 @@ title: Tasarım Meselesi
 
 ## İlgili eskizler
 
-- [](../eskizler/baglam-olarak-zaman.md)
+- [Bağlam Olarak Zaman](../eskizler/baglam-olarak-zaman.md)
   - zaman kısmı değil de bağlam kısmından faydalanabilirim
-- [](../eskizler/bedenruh.md)
+- [Bedenruh](../eskizler/bedenruh.md)
   - ölçek meselesi ile ilintili olarak pay alınabilir
-- [](../eskizler/bir-varligin-ozu-yapitaslari-ve-kompleks-sistemler-uzerine.md)
-- [](../eskizler/evrim-teorisini-anlamak-ve-sosyal-olgulara-uygulamak-uzerine.md)
+- [Bir Varlığın Özü, Yapıtaşları ve Kompleks Sistemler Üzerine](../eskizler/bir-varligin-ozu-yapitaslari-ve-kompleks-sistemler-uzerine.md)
+- [Evrim Teorisini Anlamak ve Sosyal Olgulara Uygulamak Üzerine](../eskizler/evrim-teorisini-anlamak-ve-sosyal-olgulara-uygulamak-uzerine.md)
   - evrim meselesi emergence ile dogrudan iliskili
   - daniel dennett, darwin, lyell ve evolution ve emergence etrafinda
     donulebilir
-- [](../eskizler/fikren-ilk-fiilen-son-olan-tanri-hakkinda.md)
+- [Fikren İlk, Fiilen Son Olan Tanrı Hakkında](../eskizler/fikren-ilk-fiilen-son-olan-tanri-hakkinda.md)
   - tanri kismi degil de bir seyin fikren ilk fiilen son olabilmesi baglaminda
     tasarim ile ilgili olabilir
-- [](../eskizler/genis-anlamiyla-dil.md)
+- [Geniş Anlamıyla Dil](../eskizler/genis-anlamiyla-dil.md)
   - dil ogrenmek, ustalasinca da kurmak, tasarimci icin bir gerek kosuldur
     seklinde temel atilabilir
-- [](../eskizler/gestalt-psikolojisi-ve-aklin-eksik-bilgiyle-calisabilmesi.md)
-- [](../eskizler/idealsiz-kavramsallastirilmamis-yaratim-olmaz.md)
-- [](../eskizler/insan-zorunlu-olarak-eksik-bilgi-ile-yetinebilirdir.md)
+- [Gestalt Psikolojisi ve Aklın Eksik Bilgiyle Çalışabilmesi](../eskizler/gestalt-psikolojisi-ve-aklin-eksik-bilgiyle-calisabilmesi.md)
+- [İdealsiz Kavramsallaştırılmamış Yaratım Olmaz](../eskizler/idealsiz-kavramsallastirilmamis-yaratim-olmaz.md)
+- [İnsan Zorunlu Olarak Eksik Bilgi İle Yetinebilirdir](../eskizler/insan-zorunlu-olarak-eksik-bilgi-ile-yetinebilirdir.md)
   - aklın eksik olanı birleştirme becerisi, bunun zorunluluğu ve gestalt
   - rastgeleliğin ve ampirik yöntemlerin aklın bu yetkinliği üzerinden tasarım
     ile ilişkisi
@@ -114,15 +114,15 @@ title: Tasarım Meselesi
     ilişkisi
   - yanılma zorunluluğu, sürekli bütün kurma eylemi, anlam dünyasının sürekli
     yeniden tasarımı
-- [](../eskizler/kesitlerden-butune-gidebilmek.md)
+- [Kesitlerden Bütüne Gidebilmek](../eskizler/kesitlerden-butune-gidebilmek.md)
   - yine gestalt meselesi
-- [](../eskizler/tasarim-esneklik-ve-topluluk.md)
-- [](../eskizler/tasarlama-uzerine.md)
+- [Tasarım, Esneklik ve Topluluk](../eskizler/tasarim-esneklik-ve-topluluk.md)
+- [Tasarlama Üzerine](../eskizler/tasarlama-uzerine.md)
   - yaziya ilham veren eskiz, ana konu
-- [](../eskizler/yasanmakta-olani-oldurmek.md)
+- [Yaşanmakta Olanı Öldürmek](../eskizler/yasanmakta-olani-oldurmek.md)
   - yaşanılanın önce yaşanması, sonra anlamlanabilmesi üzerinden hayatın
     kendisinin de anlam tasarımını sonraya bıraktığını gösterir
-- [](../eskizler/yaratmak-insana-mahsustur.md)
+- [Yaratmak İnsana Mahsustur](../eskizler/yaratmak-insana-mahsustur.md)
 
 ## Potansiyel referanslar ve okumalar
 
