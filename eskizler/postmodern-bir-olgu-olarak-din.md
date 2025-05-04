@@ -1,5 +1,5 @@
 ---
-title: Din Postmodern Bir Olgudur
+title: Postmodern Bir Olgu Olarak Din
 ---
 
 Modern dönemi tanımlayan temel unsur doğruyu tanrıdan değil akıldan bulmasıydı.
@@ -17,17 +17,17 @@ yavaş yavaş demode olmaktadır.
 
 Burada akıldan kastım, konuşmamızı sağlayan, annemizi babamızı gördüğümüzde
 onları tanımamızı sağlayan, "Kim o?" sorusuna "Been!" cevabını almamıza rağmen
-kişinin kim olduğunu anlamamızı sağlayan yönümüz değildir, buna hayalgücü
-diyorum. Akıl ise rasyonalite dendiğinde anlaşılan, matematiğin kesinliğini
-kavrayan, soyut kavramları algılayan, hayalgücünün üstüne inşa olan bizim o
-sıkıcı diğer yanımızdır.
+kişinin kim olduğunu anlamamızı sağlayan yönümüz değildir, buna imgelem diyorum.
+Akıl ise rasyonalite dendiğinde anlaşılan, matematiğin kesinliğini kavrayan,
+soyut kavramları algılayan, imgelemin üstüne inşa olan bizim o sıkıcı diğer
+yanımızdır.
 
-Bu bağlamda postmodern çağ, aklını kullanmayı henüz öğrenmemiş ve hayalgücü
-düzleminde kalmış kitlelerin, dini bırakıp rasyonelliğe, akla doğru
-yolculuğunun, yani kitlelerin modernleşmelesinin, ilk aşamasıdır. Aslında
-aydınlanan hiçbir zaman halk olmadı, aydınlanan üst tabakaydı. Alt tabaka bu
-aydınlanmaya katıldığında dinin hakim olduğu dönemdeki gibi hayalgücü
-seviyesini tekrar baskın kıldı ve postmodern dönem başladı.
+Bu bağlamda postmodern çağ, aklını kullanmayı henüz öğrenmemiş ve imgelem
+düzeyine kalmış kitlelerin, dini bırakıp rasyonelliğe, akla doğru yolculuğunun,
+yani kitlelerin modernleşmelesinin, ilk aşamasıdır. Aslında aydınlanan hiçbir
+zaman halk olmadı, aydınlanan toplumun belli bir kesimiydi. Toplumun kalan kesmi
+bu aydınlanmaya katıldığında dinin hakim olduğu dönemdeki gibi imgelem düzeyini
+tekrar baskın kıldı ve postmodern dönem başladı.
 
 Bu durumdan şu çıkıyor ki; din aslında hep postmodern tanımlarına uyan bir
 olguydu, yalnızca postmodernite henüz keşfedilmemişti. Bugün de dinin hakim
@@ -39,17 +39,10 @@ Zamanında bir insanın suda yürümesi nasıl akla yatmıyorsa, bugün de bir N
 
 Dolayısıyla din, postmodern kavramlarla açıklanabilir olması itibariyle onun
 kapsamına girer. Aslında tanımı genişletirsek, modern düşünce de bu kapsama
-girer, çünkü doğruyu aklın bulacağını iddiasındadır ve bu iddia ile bir bakıma
+girer, çünkü doğruyu aklın bulacağı iddiasındadır ve bu iddia ile bir bakıma
 kitleleri ikna ettiği için var olmuş olur. Ancak modern düşünce, postmodern
 düşünceyi ne açıklayabilir ne de barındırabilir.
 
-Belki de postmodern ismi doğru değildir. Kendisinin alt kümesi olan bir kavram
-üzerinden tanımlanmak yerine daha iyi bir tanımı hakediyordur. Postmodern
-yerine, görelilik (relativistic) çağı demek belki daha doğrudur.
-
-İlintili olabilecek diğer bir konu;
-
-Deterministik sistem, nondeterministik sistem doğuramaz ama, tersi olur.
-Nondeterministik evren evrimi de kolay açıklar, tanrısızlığı da, belirsizliği
-de. Daha çağdaştır, hayatı anlamayı kolaylaştırır. Ve içinde tanrıyı da
-barındırabilir, tanrısızlığı da, daha evrenseldir.
+Postmodern ismi biraz yanıltıcı olabilir. Bu dönemi kendisinin alt kümesi olan
+bir kavram üzerinden tanımlamak yerine, görelilik (relativistic) çağı demek
+belki de daha doğrudur.

@@ -5,7 +5,7 @@ title: Bağlam Olarak Zaman
 Bağ kendi başına var olamayan, ancak madde ile var olabilendir, formun
 yapıtaşıdır. Örneğin eklem bir bağdır ve kendi başına yoktur. Eklem, ancak
 bağladığı iki kemik ve iki kemiğin bağlayan dokularla eklem olabilir. Bunlardan
-herhangi birini kaldırın ortada eklem kalmaz. Ya da yollar kendi başlarına
+herhangi birini kaldırınca ortada eklem kalmaz. Ya da yollar kendi başlarına
 yokturlar. Bağlanacak iki konum olmalıdır ki yol yol olabilsin ya da yola yol
 diyebilelim.
 

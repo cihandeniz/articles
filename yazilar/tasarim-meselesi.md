@@ -81,12 +81,24 @@ title: Tasarım Meselesi
         gibi bir tasarım süreci olmadığını görebiliriz
     - önce designoid'ler türüyor, sonra design ediyoruz
 - self-reference
-  - [](../eskizler/yasanmakta-olani-oldurmek.md)
-    - yaşanılanın önce yaşanması, sonra anlamlanabilmesi üzerinden hayatın
-      kendisinin de anlam tasarımını sonraya bıraktığını gösterir
-  - [](../eskizler/idealsiz-kavramsallastirilmamis-yaratim-olmaz.md)
+  - [](../eskizler/baglam-olarak-zaman.md)
+    - zaman kısmı değil de bağlam kısmından faydalanabilirim
+  - [](../eskizler/bedenruh.md)
+    - ölçek meselesi ile ilintili olarak pay alınabilir
+  - [](../eskizler/bir-varligin-ozu-yapitaslari-ve-kompleks-sistemler-uzerine.md)
+  - [](../eskizler/evrim-teorisini-anlamak-ve-sosyal-olgulara-uygulamak-uzerine.md)
+    - evrim meselesi emergence ile dogrudan iliskili
+    - daniel dennett, darwin, lyell ve evolution ve emergence etrafinda
+      donulebilir
+  - [](../eskizler/fikren-ilk-fiilen-son-olan-tanri-hakkinda.md)
+    - tanri kismi degil de bir seyin fikren ilk fiilen son olabilmesi baglaminda
+      tasarim ile ilgili olabilir
+  - [](../eskizler/genis-anlamiyla-dil.md)
+    - dil ogrenmek, ustalasinca da kurmak, tasarimci icin bir gerek kosuldur
+      seklinde temel atilabilir
   - [](../eskizler/gestalt-psikolojisi-ve-aklin-eksik-bilgiyle-calisabilmesi.md)
-    - [](../eskizler/insan-zorunlu-olarak-eksik-bilgi-ile-yetinebilirdir.md)
+  - [](../eskizler/idealsiz-kavramsallastirilmamis-yaratim-olmaz.md)
+  - [](../eskizler/insan-zorunlu-olarak-eksik-bilgi-ile-yetinebilirdir.md)
     - aklın eksik olanı birleştirme becerisi, bunun zorunluluğu ve gestalt
     - rastgeleliğin ve ampirik yöntemlerin aklın bu yetkinliği üzerinden tasarım
       ile ilişkisi
@@ -94,9 +106,15 @@ title: Tasarım Meselesi
       ilişkisi
     - yanılma zorunluluğu, sürekli bütün kurma eylemi, anlam dünyasının sürekli
       yeniden tasarımı
-  - [](../eskizler/yaratmak-insana-mahsustur.md)
+  - [](../eskizler/kesitlerden-butune-gidebilmek.md)
+    - yine gestalt meselesi
   - [](../eskizler/tasarim-esneklik-ve-topluluk.md)
-  - [](../eskizler/bir-varligin-ozu-yapitaslari-ve-kompleks-sistemler-uzerine.md)
+  - [](../eskizler/tasarlama-uzerine.md)
+    - yaziya ilham veren eskiz, ana konu
+  - [](../eskizler/yasanmakta-olani-oldurmek.md)
+    - yaşanılanın önce yaşanması, sonra anlamlanabilmesi üzerinden hayatın
+      kendisinin de anlam tasarımını sonraya bıraktığını gösterir
+  - [](../eskizler/yaratmak-insana-mahsustur.md)
 - potansiyel referanslar ve okumalar
   - daniel dennett - from bacteria to bach and back
   - deleuze - assemblage

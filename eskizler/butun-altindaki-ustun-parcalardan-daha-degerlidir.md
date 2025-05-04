@@ -18,3 +18,7 @@ mıdır? Şüpheli
 
 Referans İlham: Cicero, Tanrıların Doğası, 2. Kitap, s. 139, 33'ten önceki
 paragraf
+
+---
+
+bkz. [Doğanın Doğurana Olan Saygı Borcu](doganin-dogurana-olan-saygi-borcu.md)

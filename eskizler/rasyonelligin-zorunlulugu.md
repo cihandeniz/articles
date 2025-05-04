@@ -65,7 +65,6 @@ Bu potansiyelin bir sonu var mı bunu bilmek güç, ama irrasyonellik dönem dö
 ne kadar artsa da uzun vadede rasyonelliğin artmak zorunda olduğunu hissetmek
 güzel.
 
-
 > Ek konu: Kural, çizgi, düzen, nizam, ruler, canon, kanun kelimelerinin
 > etimolojik araştırması ve Zeynep Sayın - Çizginin Boşluğu kitabını ve
 > referanslarını incelemek iyi bir paralellik kurdurur.

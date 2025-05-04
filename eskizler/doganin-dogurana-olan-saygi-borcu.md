@@ -34,3 +34,7 @@ yapmış oluruz, ve dolayısıyla kendi varlığımızı tehlikeye atmış oluru
 Ülkemiz de kendinden önce gelen imparatorluğun değerlerine inanmayabilir,
 onların yanlış olduğunu düşünebilir, ama ona saygı duymak zorundadır. Aksi
 takdirde kendi varlığı tehlikeye girmiş olur.
+
+---
+
+bkz. [Bütün Altındaki Üstün Parçalardan Daha Değerlidir](butun-altindaki-ustun-parcalardan-daha-degerlidir.md)

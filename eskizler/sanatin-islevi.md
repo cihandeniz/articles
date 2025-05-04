@@ -7,8 +7,8 @@ ve bu konuşarak yapılamaz.
 
 Mesela marş, ulus fikrini alır, duygusal düzlemle (imgelemle) bağ kurdurur.
 
-İnsan duygu ve aklıyla bir bütündür. Salt aklın çözümlemeleri, kendini ancak duygu zeminine
-nüfuz ettiğinde kabul ettirir.
+İnsan duygu ve aklıyla bir bütündür. Salt aklın çözümlemeleri, kendini ancak
+duygu zeminine nüfuz ettiğinde kabul ettirir.
 
 Modernite, modern sanat olmadan eksik kalır, sahiplenilmez.
 
@@ -23,10 +23,8 @@ bir fikir olması şartıyla. Bir bestenin arkasında bir fikir olması değil, 
 müzik türünün, komple bir akımın, ekolün arkasında aklın bir üretimi olması
 gerekir.
 
-- Modernite -> Klasik müzik
-- Din -> İlahi
-- Komünizm -> Özgün müzik
-- Hippiler -> Woodstock vb
+- Modernite -> Klasik müzik Din -> İlahi Komünizm -> Özgün müzik Hippiler ->
+- Woodstock vb
 
 Sosyal bir rüzgar olmalı, bu rüzgar bir fikirle oluşmalı ya da bir fikre
 sarılmalı. Bu rüzgarı da temsil eden sanat olmalı. Sanat derken, imgeleme hitap
