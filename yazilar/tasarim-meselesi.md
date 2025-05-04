@@ -2,6 +2,10 @@
 title: Tasarım Meselesi
 ---
 
+## Outline
+
+> Henüz bitmedi
+
 - Tasarlamak nedir?
   - ve Yaratmak
   - ve Üretmek
@@ -17,7 +21,7 @@ title: Tasarım Meselesi
   - Yaratmak ne demektir? Oluşmaktan farkı nedir?
 - Meta-Tasarım
 
----
+## İlgili notlar
 
 - yaratmak, bilmek ve tasarlamak
   - iterasyon ve tasarlamanın sonradanlığı
@@ -54,82 +58,88 @@ title: Tasarım Meselesi
     alınması
   - emergence'ın bize verdiği, ya da bizden aldığı, novelty; yepyeninin
     olmadığını anlıyoruz
-- notlar
-  - liderlik/peygamberlik konusundan beslenilebilir
-    - vahiyler uygulama esnesında adım adım indi kuran bir kerede inmedi, ve
-      sonra derlenip sıralandı
-    - şeriat ve sunni gelenek zamanla oluştu
-    - tevrat da sonradan yazıldı
-    - kilise sonra kuruldu, inciller sonradan revize edildi
-  - shining'in senaryo sırasıyla çekilmesinin çok anormal olması, son ürün
-    tüketim sırasıyla yapılmaz
-  - sinema filminde storyboard'dan kurguya giden yolda, son karar kurgudadır, ve
-    final tasarım o zaman yapılır
-  - yaratıcılığın her adımda olması temeli atılır. bu yüzden, yaratıcılığı her
-    adımda unleash etmek lazım
-    - bütün yaratıcılık neden tasarıma endekslensin ki?
-  - formal yerleşim
-    - mimarlık olasılıklar yaratma sanatıdır, çerçeve belirleriz, organiktir,
-      yaşar
-  - designoid
-    - tasarlanmamış ama tasarlanmışa benziyor
-    - bu designoid'lerin aslında undesigned olduğunu anlamamızı sağlayan şey,
-      ölçek
-      - yani zaman ölçeğini genişlettiğimizde ortada bir design olmadığını,
-        kendiliğinden gelişen bir designoid olduğunu anlıyoruz
-      - belki her tasarım için bu geçerlidir, yaklaşınca da tam hayal ettiğimiz
-        gibi bir tasarım süreci olmadığını görebiliriz
-    - önce designoid'ler türüyor, sonra design ediyoruz
-- self-reference
-  - [](../eskizler/baglam-olarak-zaman.md)
-    - zaman kısmı değil de bağlam kısmından faydalanabilirim
-  - [](../eskizler/bedenruh.md)
-    - ölçek meselesi ile ilintili olarak pay alınabilir
-  - [](../eskizler/bir-varligin-ozu-yapitaslari-ve-kompleks-sistemler-uzerine.md)
-  - [](../eskizler/evrim-teorisini-anlamak-ve-sosyal-olgulara-uygulamak-uzerine.md)
-    - evrim meselesi emergence ile dogrudan iliskili
-    - daniel dennett, darwin, lyell ve evolution ve emergence etrafinda
-      donulebilir
-  - [](../eskizler/fikren-ilk-fiilen-son-olan-tanri-hakkinda.md)
-    - tanri kismi degil de bir seyin fikren ilk fiilen son olabilmesi baglaminda
-      tasarim ile ilgili olabilir
-  - [](../eskizler/genis-anlamiyla-dil.md)
-    - dil ogrenmek, ustalasinca da kurmak, tasarimci icin bir gerek kosuldur
-      seklinde temel atilabilir
-  - [](../eskizler/gestalt-psikolojisi-ve-aklin-eksik-bilgiyle-calisabilmesi.md)
-  - [](../eskizler/idealsiz-kavramsallastirilmamis-yaratim-olmaz.md)
-  - [](../eskizler/insan-zorunlu-olarak-eksik-bilgi-ile-yetinebilirdir.md)
-    - aklın eksik olanı birleştirme becerisi, bunun zorunluluğu ve gestalt
-    - rastgeleliğin ve ampirik yöntemlerin aklın bu yetkinliği üzerinden tasarım
-      ile ilişkisi
-    - akıl yürütme hatalarının eksik olanı birleştirmek zorunda olması ile
-      ilişkisi
-    - yanılma zorunluluğu, sürekli bütün kurma eylemi, anlam dünyasının sürekli
-      yeniden tasarımı
-  - [](../eskizler/kesitlerden-butune-gidebilmek.md)
-    - yine gestalt meselesi
-  - [](../eskizler/tasarim-esneklik-ve-topluluk.md)
-  - [](../eskizler/tasarlama-uzerine.md)
-    - yaziya ilham veren eskiz, ana konu
-  - [](../eskizler/yasanmakta-olani-oldurmek.md)
-    - yaşanılanın önce yaşanması, sonra anlamlanabilmesi üzerinden hayatın
-      kendisinin de anlam tasarımını sonraya bıraktığını gösterir
-  - [](../eskizler/yaratmak-insana-mahsustur.md)
-- potansiyel referanslar ve okumalar
-  - daniel dennett - from bacteria to bach and back
-  - deleuze - assemblage
-  - systems theory, systemic emergence
-  - tasarim felsefesi ve emergentism
-  - wittgenstein - dil oyunlari
-  - derrida - differance
-  - gestalt
-  - charles lyell jeolojinin kurucusu
-    - biyoloji ile jeoloji arasındaki bağ bizi 19. yy'da bir sıçramaya götürdü
-  - maurice merleau-ponty, "varlık kendini müşhade edebilmemiz için bizden
-    yaratıcılık ister" der
-  - zeynep sayın - çizginin boşluğu
-    - çizginin önce hatırlamak iken sonra tasarlamaya, olmayanı önden
-      belirlemeye dönmmesi
-  - greglynn form üretici sistem / diagram
-    - meta-tasarım gibi bir şeyden bahsediyor. öyle bir tasarım ki, onun içinde
-      yanlış ya da "istenmeyen" yapılamıyor
+
+### Ek notlar
+
+- liderlik/peygamberlik konusundan beslenilebilir
+  - vahiyler uygulama esnesında adım adım indi kuran bir kerede inmedi, ve
+    sonra derlenip sıralandı
+  - şeriat ve sunni gelenek zamanla oluştu
+  - tevrat da sonradan yazıldı
+  - kilise sonra kuruldu, inciller sonradan revize edildi
+- shining'in senaryo sırasıyla çekilmesinin çok anormal olması, son ürün
+  tüketim sırasıyla yapılmaz
+- sinema filminde storyboard'dan kurguya giden yolda, son karar kurgudadır, ve
+  final tasarım o zaman yapılır
+- yaratıcılığın her adımda olması temeli atılır. bu yüzden, yaratıcılığı her
+  adımda unleash etmek lazım
+  - bütün yaratıcılık neden tasarıma endekslensin ki?
+- formal yerleşim
+  - mimarlık olasılıklar yaratma sanatıdır, çerçeve belirleriz, organiktir,
+    yaşar
+- designoid
+  - tasarlanmamış ama tasarlanmışa benziyor
+  - bu designoid'lerin aslında undesigned olduğunu anlamamızı sağlayan şey,
+    ölçek
+    - yani zaman ölçeğini genişlettiğimizde ortada bir design olmadığını,
+      kendiliğinden gelişen bir designoid olduğunu anlıyoruz
+    - belki her tasarım için bu geçerlidir, yaklaşınca da tam hayal ettiğimiz
+      gibi bir tasarım süreci olmadığını görebiliriz
+  - önce designoid'ler türüyor, sonra design ediyoruz
+
+## İlgili eskizler
+
+- [](../eskizler/baglam-olarak-zaman.md)
+  - zaman kısmı değil de bağlam kısmından faydalanabilirim
+- [](../eskizler/bedenruh.md)
+  - ölçek meselesi ile ilintili olarak pay alınabilir
+- [](../eskizler/bir-varligin-ozu-yapitaslari-ve-kompleks-sistemler-uzerine.md)
+- [](../eskizler/evrim-teorisini-anlamak-ve-sosyal-olgulara-uygulamak-uzerine.md)
+  - evrim meselesi emergence ile dogrudan iliskili
+  - daniel dennett, darwin, lyell ve evolution ve emergence etrafinda
+    donulebilir
+- [](../eskizler/fikren-ilk-fiilen-son-olan-tanri-hakkinda.md)
+  - tanri kismi degil de bir seyin fikren ilk fiilen son olabilmesi baglaminda
+    tasarim ile ilgili olabilir
+- [](../eskizler/genis-anlamiyla-dil.md)
+  - dil ogrenmek, ustalasinca da kurmak, tasarimci icin bir gerek kosuldur
+    seklinde temel atilabilir
+- [](../eskizler/gestalt-psikolojisi-ve-aklin-eksik-bilgiyle-calisabilmesi.md)
+- [](../eskizler/idealsiz-kavramsallastirilmamis-yaratim-olmaz.md)
+- [](../eskizler/insan-zorunlu-olarak-eksik-bilgi-ile-yetinebilirdir.md)
+  - aklın eksik olanı birleştirme becerisi, bunun zorunluluğu ve gestalt
+  - rastgeleliğin ve ampirik yöntemlerin aklın bu yetkinliği üzerinden tasarım
+    ile ilişkisi
+  - akıl yürütme hatalarının eksik olanı birleştirmek zorunda olması ile
+    ilişkisi
+  - yanılma zorunluluğu, sürekli bütün kurma eylemi, anlam dünyasının sürekli
+    yeniden tasarımı
+- [](../eskizler/kesitlerden-butune-gidebilmek.md)
+  - yine gestalt meselesi
+- [](../eskizler/tasarim-esneklik-ve-topluluk.md)
+- [](../eskizler/tasarlama-uzerine.md)
+  - yaziya ilham veren eskiz, ana konu
+- [](../eskizler/yasanmakta-olani-oldurmek.md)
+  - yaşanılanın önce yaşanması, sonra anlamlanabilmesi üzerinden hayatın
+    kendisinin de anlam tasarımını sonraya bıraktığını gösterir
+- [](../eskizler/yaratmak-insana-mahsustur.md)
+
+## Potansiyel referanslar ve okumalar
+
+- daniel dennett - from bacteria to bach and back
+- deleuze - assemblage
+- systems theory, systemic emergence
+- tasarim felsefesi ve emergentism
+- wittgenstein - dil oyunlari
+- derrida - differance
+- gestalt
+- charles lyell jeolojinin kurucusu
+  - biyoloji ile jeoloji arasındaki bağ bizi 19. yy'da bir sıçramaya götürdü
+- maurice merleau-ponty, "varlık kendini müşhade edebilmemiz için bizden
+  yaratıcılık ister" der
+- zeynep sayın - çizginin boşluğu
+  - çizginin önce hatırlamak iken sonra tasarlamaya, olmayanı önden
+    belirlemeye dönmmesi
+- greglynn form üretici sistem / diagram
+  - meta-tasarım gibi bir şeyden bahsediyor. öyle bir tasarım ki, onun içinde
+    yanlış ya da "istenmeyen" yapılamıyor
