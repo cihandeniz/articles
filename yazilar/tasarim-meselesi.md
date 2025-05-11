@@ -1,5 +1,5 @@
 ---
-itle: Tasarım Meselesi
+title: Tasarım Meselesi
 ---
 
 > Çalışma aktif olarak devam ediyor
