@@ -4,9 +4,10 @@ title: Tasarım Meselesi
 
 ## Outline
 
-> Henüz bitmedi
+> Çalışma aktif olarak devam ediyor
 
 - Tasarlamak nedir?
+  - Temize çekme eylemi olarak tasarlamak
   - ve Yaratmak
   - ve Üretmek
 - Önden tasarlamanın varsayımları
@@ -38,9 +39,25 @@ title: Tasarım Meselesi
     - bilme eylemi olarak inanmak
     - bilinemezlik ve kabul
     - yaratma yolunda inanma eyleminin kaldıraç etkisi
+- designoid
+  - tasarlanmamış ama tasarlanmışa benziyor
+  - bu designoid'lerin aslında undesigned olduğunu anlamamızı sağlayan şey,
+    ölçek
+    - yani zaman ölçeğini genişlettiğimizde ortada bir design olmadığını,
+      kendiliğinden gelişen bir designoid olduğunu anlıyoruz
+    - belki her tasarım için bu geçerlidir, yaklaşınca da tam hayal ettiğimiz
+      gibi bir tasarım süreci olmadığını görebiliriz
+  - önce designoid'ler türüyor, sonra design ediyoruz
+  - değişim korkusu
+    - tasarımı en başta yapma takıntısı
+    - bu korkunun arkasındaki psikolojik nedenler
 - emergence (belirim) ile, kötüden iyiye, yoktan vara, yanlıştan doğruya,
   irrasyonelden rasyonele gidişin mümkünatı
   - belirimcilik çevirilerini tartış, oluşkanlığı öner
+  - oluşkancılık nedir, oluşkancılık olmayan şeyler nelerdir?
+    - oluşkancı olma yolunda bizi hangi bedel karşılığında nasıl bir ödül bekler
+    - bu bedeli ödemediğimizde ne kazanıyoruz ve ne kaybediyoruz, yani oluşkancı
+      olmamanın ödülü ve bedeli nedir?
   - fikren ilk fiilen son olması, fikrin hayata geçerkenki evrimsel serüveni
     - farabi ideal devlet(?)'e bakılabilir
     - ömer'in bahsettiği antik yunan referansına değinilebilir
@@ -67,6 +84,16 @@ title: Tasarım Meselesi
   - şeriat ve sunni gelenek zamanla oluştu
   - tevrat da sonradan yazıldı
   - kilise sonra kuruldu, inciller sonradan revize edildi
+- hukuk alanındaki yöntemlerin kıyaslanması
+  - kıta hukuku - anayasa tasarımı, parisin tekrar tasarlanması vs
+    - anayasanın arkasında bir anayasa daha olması, onu da iteratif bir tasarım
+      süreci yapıyor
+    - parisin tekrar tasarlanması tam olarak sıfırdan değildi, önce orada başka
+      bir paris vardı, referans verilecek, yanlışları ve doğruları olan bir
+      paris
+  - ada hukuku - anayasasızlık
+  - içtihat kavramı
+  - yasa tasarıları ve mevzuatlar, regülasyonlar ile hayatın düzenlenmesi
 - shining'in senaryo sırasıyla çekilmesinin çok anormal olması, son ürün
   tüketim sırasıyla yapılmaz
 - sinema filminde storyboard'dan kurguya giden yolda, son karar kurgudadır, ve
@@ -77,15 +104,6 @@ title: Tasarım Meselesi
 - formal yerleşim
   - mimarlık olasılıklar yaratma sanatıdır, çerçeve belirleriz, organiktir,
     yaşar
-- designoid
-  - tasarlanmamış ama tasarlanmışa benziyor
-  - bu designoid'lerin aslında undesigned olduğunu anlamamızı sağlayan şey,
-    ölçek
-    - yani zaman ölçeğini genişlettiğimizde ortada bir design olmadığını,
-      kendiliğinden gelişen bir designoid olduğunu anlıyoruz
-    - belki her tasarım için bu geçerlidir, yaklaşınca da tam hayal ettiğimiz
-      gibi bir tasarım süreci olmadığını görebiliriz
-  - önce designoid'ler türüyor, sonra design ediyoruz
 
 ## İlgili eskizler
 
@@ -133,6 +151,7 @@ title: Tasarım Meselesi
 - wittgenstein - dil oyunlari
 - derrida - differance
 - gestalt
+- jean piaget
 - charles lyell jeolojinin kurucusu
   - biyoloji ile jeoloji arasındaki bağ bizi 19. yy'da bir sıçramaya götürdü
 - maurice merleau-ponty, "varlık kendini müşhade edebilmemiz için bizden
