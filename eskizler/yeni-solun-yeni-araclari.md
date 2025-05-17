@@ -29,7 +29,7 @@ DAO'ları (merkeziyetsiz ve yazılım kurallarına göre işleyen örgütler) ke
 araçları olarak pozisyonlayabilir mi?
 
 Halkın her koşulda devletinden önemli ve öncelikli kalabildiği, devletin bir
-üstyapı yerine, bir altyapı olarak konumlandığı ve adeta bir _zorunluklar
+üstyapı yerine, bir altyapı olarak konumlandığı ve adeta bir _zorunluluklar
 makinesi_ olduğu düzen mümkün müdür? Bunu her ne mümkün kılıyorsa solun yeni
 aracı olmaya adaydır.
 
