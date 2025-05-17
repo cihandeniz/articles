@@ -10,8 +10,9 @@ title: Tasarım Meselesi
   - Türkçe
     - Tas- (kötü, kaba) - (kötü'den iyiye gidiş ile ilintili)
     - Taslak - Tasarım - Tasarlamak, kabasını çıkarmak, kabaca çizmek
-  - İngilizce, Arapça, Farsça, Yunanca bağlantılar
+  - İngilizce, Fransızca, Arapça, Farsça, Yunanca bağlantılar
     - Design => de- sign
+    - Conception => concept -ion
     - Tasavvur, Taşmim vb
   - Bir şeyin basitleştirilmiş, kabaca halini temsil etmesi bağlamında
   - Henüz var olmayan bir şeyin var olmaya doğru gidişinde bir ilk adım
