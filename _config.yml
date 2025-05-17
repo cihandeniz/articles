@@ -3,5 +3,7 @@ title: Akıl Terapileri
 header_pages:
   - yazilar/index.md
   - eskizler/index.md
+footer: >
+  © 2025 Cihan Deniz — İçerik CC-BY-4.0 lisansıyla korunmaktadır.
 minima:
   date_format: "%Y-%m-%d %H:%M"
