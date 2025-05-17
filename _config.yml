@@ -1,7 +1,5 @@
 remote_theme: jekyll/minima@v2.5.2
 title: Akıl Terapileri
-description: >
-  © 2025 Cihan Deniz — İçerik CC-BY-4.0 lisansıyla korunmaktadır.
 header_pages:
   - yazilar/index.md
   - eskizler/index.md
