@@ -35,6 +35,10 @@ title: Tasarım Meselesi
     - bütün yaratıcılık neden tasarıma endekslensin ki?
 - Kötüden İyiye
   - Kötüden iyiye gidişin nasıl mümkün olduğunu konuşalım
+    - non-determinism'in determinism'i kapsaması
+    - determinism'in alt kümesi olarak non-determinism mümkün mü?
+      - spinoza etiğine referans verilebilir. totalde deterministik olan bir
+        sistem ama alt kümelerinde non-deterministik olarak deneyimlenir
   - İnsan anlayışı (anlağı), eksikten bütüne gidebiliyor, anlayış zorunlu olarak
     böyle, demek ki kötüden (eksik) iyiye (bütün) gidiş mümkün
     - [Kesitlerden Bütüne Gidebilmek](../eskizler/kesitlerden-butune-gidebilmek.md)
@@ -62,6 +66,13 @@ title: Tasarım Meselesi
 - Oluşkanlık (Emergence)
   - bunun ile, kötüden iyiye, yoktan vara, yanlıştan doğruya, irrasyonelden
     rasyonele kendiliğinden gidişin mümkünatı
+    - determinism'in non-determinism'i katmanlı ve ölçekli bir yapıda nasıl
+      doğurabileceği
+    - spinoza'nın tek katmanlı sistemine geri dönelim
+      - büyük ölçekte deterministik görünenin, küçük ölçeklerde
+        non-deterministik alt kümeler doğurmasını düşünelim
+      - tek katman yerine çok katmanlı yapı hayal edelim, alt katlarda
+        determinizm'in üst katlarda nasıl non-determinizm doğurduğuna bakalım
   - demistified maneviyat, ruh, ölümden sonra hayatın bu bağlamda yeniden ele
     alınması
   - oluşkancılık nedir, oluşkancılık olmayan şeyler nelerdir?
@@ -153,3 +164,10 @@ title: Tasarım Meselesi
 - zeynep sayın - çizginin boşluğu
   - çizginin önce hatırlamak iken sonra tasarlamaya, olmayanı önden
     belirlemeye dönmmesi
+- ikinci modernlik - yeni aydınlanmacılık
+  - belirsizlikle baş etme becerisi
+  - aklın her şeyi netleştireceği kabulünden vazgeçip, aklın belirsizlikle
+    barışması
+  - skill değil - meta-skill'lerin önemi
+  - anlam dünyasının bir kez tesis edilmesi yerine sürekli bir anlam tasarımı
+    halinin yeni aydınlanma olması
