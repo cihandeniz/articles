@@ -61,6 +61,8 @@ title: Tasarım Meselesi
       challenge edilmesi
     - sanat bağlamında değerlendirilmesi
     - sosyolojik, psikolojik bağlamda örneklendirilmesi
+  - [Konuşmak Üzerine](../eskizler/konusmak-uzerine.md)
+    - ikinci oturum/bölüm
   - [Bağlam Olarak Zaman](../eskizler/baglam-olarak-zaman.md)
     - zaman kısmı değil de bağlam kısmından faydalanabilirim
 - Oluşkanlık (Emergence)
@@ -171,3 +173,16 @@ title: Tasarım Meselesi
   - skill değil - meta-skill'lerin önemi
   - anlam dünyasının bir kez tesis edilmesi yerine sürekli bir anlam tasarımı
     halinin yeni aydınlanma olması
+- epistemolojik engel ve kesinti
+  - gaston bachelard'ın epistemolojik engeli, bize tasarımda yeniye ulaşırken
+    belli aşamaların olduğunu, her aşamanın kendi engellerini getirdiği, ve
+    bunun düzenli olarak zorlanması ve aşılması gerektiğini söyleyebilir
+  - gaston bachelard'ın epistemolojik kesintisi ise, bize idea'ların niteliksel
+    yapısını, gestalt'çı/holistik açılan bilgiye giden yolda sıçramaların
+    olduğunu aktarır
+  - bu sıçramalar ve sıçrama öncesi gelinen duvarlar, tasarımda doğrusal değil
+    döngüsel yöntemlerin daha yenilikçi sonuçlar doğuracağını gösterirken; her
+    döngüde kontrollü yıkım ve yapımlara imkan tanıması açısından  yıkma ve
+    yapma becerilerinin bir meta-beceri olarak edinilmesinin öneminin de altını
+    çizer
+- edgar morin - on complexity
