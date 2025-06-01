@@ -157,6 +157,13 @@ title: Tasarım Meselesi
     - Bilme eylemi olarak inanmak
     - Bilinemezlik ve kabul
     - Yaratma yolunda inanma eyleminin kaldıraç etkisi
+  - Yaratmanın zorlukları, yaratmaya uygun kültür ve koşullar
+- Hiyerarşik Akıl vs Demokratik Akıl
+  - Hiyerarşik aklın yaratım yöntemleri
+  - Demokratik aklın yaratım yöntemleri
+  - Bilinmezlik ile barışmak
+  - İkinci modernlik - yeni aydınlanmacılık
+  - Meta-beceriler ile yeni dünya tasarımı
 - Meta tasarım
   - [Geniş Anlamıyla Dil](../eskizler/genis-anlamiyla-dil.md)
     - Dil ogrenmek, ustalasinca da kurmak, tasarimci icin bir gerek kosuldur
@@ -170,6 +177,7 @@ title: Tasarım Meselesi
 
 ## Potansiyel referanslar ve okumalar
 
+- empedokles - basitten karmaşıklığa giden yolda rerefrans alınabilir
 - deleuze - assemblage
 - systems theory, systemic emergence
 - tasarim felsefesi ve emergentism
@@ -190,6 +198,7 @@ title: Tasarım Meselesi
   - skill değil - meta-skill'lerin önemi
   - anlam dünyasının bir kez tesis edilmesi yerine sürekli bir anlam tasarımı
     halinin yeni aydınlanma olması
+- edgar morin - on complexity
 - epistemolojik engel ve kesinti
   - gaston bachelard'ın epistemolojik engeli, bize tasarımda yeniye ulaşırken
     belli aşamaların olduğunu, her aşamanın kendi engellerini getirdiği, ve
@@ -202,5 +211,3 @@ title: Tasarım Meselesi
     döngüde kontrollü yıkım ve yapımlara imkan tanıması açısından  yıkma ve
     yapma becerilerinin bir meta-beceri olarak edinilmesinin öneminin de altını
     çizer
-- edgar morin - on complexity
-- empedokles - basitten karmaşıklığa giden yolda rerefrans alınabilir
