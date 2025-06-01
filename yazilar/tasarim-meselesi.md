@@ -9,6 +9,8 @@ title: Tasarım Meselesi
 - Etimolojik
   - Türkçe
     - Tas- (kötü, kaba) - (kötü'den iyiye gidiş ile ilintili)
+      - Tasa (kaygı) ile ses benzerliği ve Tasalanmamak için Tasarlamak
+      - Tasavvur ile ses benzerliği ya da etimolojik bağı
     - Taslak - Tasarım - Tasarlamak, kabasını çıkarmak, kabaca çizmek
   - İngilizce, Fransızca, Arapça, Farsça, Yunanca bağlantılar
     - Design => de- sign
@@ -18,21 +20,45 @@ title: Tasarım Meselesi
   - Henüz var olmayan bir şeyin var olmaya doğru gidişinde bir ilk adım
 - Ontolojik
   - Tasarımın bir işleve, işlevsel ihtiyaca dayanması
-  - Yaratım ve oluşum ile kesiştiği ayrıştığı yerler
   - Amaçsız bir tasarımın da bir tasarım olabileceğine dair söylenebileceklere
     genel bir yanıt; talep ve ihtiyacı ayıralım, biri talep etmese de bir
     tasarım yapılabilir, ama tasarlanan şey bir işleve hizmet eder, yani ne
     tasarımı olduğu bellidir, logo, masa, araba, vs vs.
   - [Bir Varlığın Özü, Yapıtaşları ve Kompleks Sistemler Üzerine](../eskizler/bir-varligin-ozu-yapitaslari-ve-kompleks-sistemler-uzerine.md)
+  - Hedefin zorunlu belirsizliği, evdeki hesabın çarşıya uyamaması, tasarımın
+    yaratıcılığı
 - Yaratmak, yaratıcılık üzerine
-  - yaratım ve oluşum, doğanın tasarım yöntemi ve kendiliğindenliği
-  - yaratma ve bilmenin temel mindset farklılığı
+  - Tasarım ile yaratım kesiştiği ve ayrıştığı yerler (compare/contrast)
+    - Tasarlamak ile yaratmak
+    - Tasarım ile yaratım
+  - Tasarım eyleminin yaratma yolundaki yeri
+  - Yaratma ve bilmenin temel mindset farklılığı
     - yaratırken doğrulama, bilirken yanlışlama
   - [Yaratmak İnsana Mahsustur](../eskizler/yaratmak-insana-mahsustur.md)
-  - tasarım eyleminin yaratma yolundaki yeri
-  - yaratıcılığın her adımda olması temeli atılır. bu yüzden, yaratıcılığı her
+  - Yaratıcılığın her adımda olması temeli atılır. Bu yüzden, yaratıcılığı her
     adımda unleash etmek lazım
-    - bütün yaratıcılık neden tasarıma endekslensin ki?
+    - Yaratıcılık neden tasarım an(lar)ına endekslensin ki?
+  - Yaratım ve oluşum, doğanın tasarım yöntemi ve kendiliğindenliği
+- Oluşumlar - Tasarımsılar (Designoid)
+  - Doğanın tasarım yöntemi
+    - daniel dennett - from bacteria to bach and back
+  - Tasarlanmamış ama tasarlanmışa benziyor
+  - [Evrim Teorisini Anlamak ve Sosyal Olgulara Uygulamak Üzerine](../eskizler/evrim-teorisini-anlamak-ve-sosyal-olgulara-uygulamak-uzerine.md)
+    - evrim meselesi emergence ile dogrudan iliskili
+    - daniel dennett, darwin, lyell ve evolution ve emergence etrafinda
+      donulebilir
+  - Bu designoid'lerin aslında undesigned olduğunu anlamamızı sağlayan şey,
+    ölçek
+    - yani zaman ölçeğini genişlettiğimizde ortada bir design olmadığını,
+      kendiliğinden gelişen bir designoid olduğunu anlıyoruz
+    - belki her tasarım için bu geçerlidir, yaklaşınca da tam hayal ettiğimiz
+      gibi bir tasarım süreci olmadığını görebiliriz
+    - [Bedenruh](../eskizler/bedenruh.md)
+      - ölçek meselesi tarafından fikir alınabilir
+  - Önce designoid'ler türüyor, sonra design ediyoruz
+  - Değişim korkusu
+    - Tasarımı en başta yapma takıntısı
+    - Bu korkunun arkasındaki psikolojik nedenler
 - Kötüden İyiye
   - Kötüden iyiye gidişin nasıl mümkün olduğunu konuşalım
     - non-determinism'in determinism'i kapsaması
@@ -83,26 +109,6 @@ title: Tasarım Meselesi
       - olmadığını anlıyoruz
     - bu bedeli ödemediğimizde ne kazanıyoruz ve ne kaybediyoruz, yani oluşkancı
       olmamanın ödülü ve bedeli nedir?
-- Oluşumlar - Tasarımsılar (Designoid)
-  - doğanın tasarım yöntemi
-    - daniel dennett - from bacteria to bach and back
-  - tasarlanmamış ama tasarlanmışa benziyor
-  - [Evrim Teorisini Anlamak ve Sosyal Olgulara Uygulamak Üzerine](../eskizler/evrim-teorisini-anlamak-ve-sosyal-olgulara-uygulamak-uzerine.md)
-    - evrim meselesi emergence ile dogrudan iliskili
-    - daniel dennett, darwin, lyell ve evolution ve emergence etrafinda
-      donulebilir
-  - bu designoid'lerin aslında undesigned olduğunu anlamamızı sağlayan şey,
-    ölçek
-    - yani zaman ölçeğini genişlettiğimizde ortada bir design olmadığını,
-      kendiliğinden gelişen bir designoid olduğunu anlıyoruz
-    - belki her tasarım için bu geçerlidir, yaklaşınca da tam hayal ettiğimiz
-      gibi bir tasarım süreci olmadığını görebiliriz
-    - [Bedenruh](../eskizler/bedenruh.md)
-      - ölçek meselesi tarafından fikir alınabilir
-  - önce designoid'ler türüyor, sonra design ediyoruz
-  - değişim korkusu
-    - tasarımı en başta yapma takıntısı
-    - bu korkunun arkasındaki psikolojik nedenler
 - Yaratımlar
   - fikren ilk fiilen son olması, fikrin hayata geçerkenki evrimsel serüveni
     - farabi ideal devlet(?)'e bakılabilir
@@ -120,6 +126,11 @@ title: Tasarım Meselesi
     - yaratma yolunda inanma eyleminin kaldıraç etkisi
 - Geriye dönüklük
   - Temize çekme eylemi olarak tasarlamak
+    - Tasarlamak eylemi tüm süreçtedir, her adımda geriye dönük yapılır, ve yeni
+      açılımlara imkan verir, sonuçta oluşan şey bir tasarımdır.
+    - Tasarım hala olanın kabası ve basite indirgenmişidir
+    - Tasarlamak ise sürekli olarak geriye dönük bir şekilde bu tasarımın
+      revizyonudur, idealin gerçek ile bağının sürekli yeniden tesisidir
   - [Tasarlama Üzerine](../eskizler/tasarlama-uzerine.md)
     - yaziya ilham veren eskiz, ana konu
   - [Fikren İlk, Fiilen Son Olan Tanrı Hakkında](../eskizler/fikren-ilk-fiilen-son-olan-tanri-hakkinda.md)
@@ -186,3 +197,4 @@ title: Tasarım Meselesi
     yapma becerilerinin bir meta-beceri olarak edinilmesinin öneminin de altını
     çizer
 - edgar morin - on complexity
+- empedokles - basitten karmaşıklığa giden yolda rerefrans alınabilir
