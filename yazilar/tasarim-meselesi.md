@@ -25,8 +25,8 @@ title: Tasarım Meselesi
     genel bir yanıt; talep ve ihtiyacı ayıralım, biri talep etmese de bir
     tasarım yapılabilir, ama tasarlanan şey bir işleve hizmet eder, yani ne
     tasarımı olduğu bellidir, logo, masa, araba, vs vs.
-  - Hedefin zorunlu belirsizliği, evdeki hesabın çarşıya uyamaması, tasarlama
-    sürecindeki yaratıcılığın kaynağı
+  - Hedefin (amacın) zorunlu belirsizliği, evdeki hesabın çarşıya uyamaması.
+    Tasarlama sürecindeki yaratıcılığın kaynağı olarak amacın belirsizliği.
 - Yaratmak, yaratıcılık üzerine
   - Tasarım ile yaratım kesiştiği ve ayrıştığı yerler (compare/contrast)
     - Tasarlamak ile yaratmak
@@ -44,7 +44,6 @@ title: Tasarım Meselesi
     - Daniel Dennett - From bacteria to bach and back
   - Tasarlanmamış ama tasarlanmışa benziyor
   - [Evrim Teorisini Anlamak ve Sosyal Olgulara Uygulamak Üzerine](../eskizler/evrim-teorisini-anlamak-ve-sosyal-olgulara-uygulamak-uzerine.md)
-    - Evrim meselesi emergence ile dogrudan iliskili
     - Daniel Dennett, Darwin, Lyell ve evolution ve emergence etrafinda
       donulebilir
   - Bu designoid'lerin aslında undesigned olduğunu anlamamızı sağlayan şey,
@@ -55,12 +54,21 @@ title: Tasarım Meselesi
       gibi bir tasarım süreci olmadığını görebiliriz
     - [Bedenruh](../eskizler/bedenruh.md)
       - Ölçek meselesi tarafından fikir alınabilir
-  - Önce designoid'ler türüyor, sonra design ediyoruz
-  - Değişim korkusu
-    - Tasarımı en başta yapma takıntısı
-    - Bu korkunun arkasındaki psikolojik nedenler
-- Kötüden İyiye
-  - Kötüden iyiye gidişin nasıl mümkün olduğunu konuşalım
+- Karmaşıklık ve Ölçek
+  - Maneviyatın basit bir matematik temeli ile modellenmesi
+    - İkinci noktanın yarattığı bağlam
+    - Graph theory
+  - Madde ve form'un katmanlı yapısı
+    - Atom, molekül, organizma, atom altı parçacıklar ile desteklenmesi, ya da
+      challenge edilmesi
+    - Sanat bağlamında değerlendirilmesi
+    - Sosyolojik, psikolojik bağlamda örneklendirilmesi
+  - [Konuşmak Üzerine](../eskizler/konusmak-uzerine.md)
+    - İkinci oturum/bölüm
+  - [Bağlam Olarak Zaman](../eskizler/baglam-olarak-zaman.md)
+    - Zaman kısmı değil de bağlam kısmından faydalanabilirim
+- Basitten Karmaşığa, Kötüden İyiye
+  - Basitten karmaşığa gidişin nasıl mümkün olduğunu konuşalım
     - Non-determinism'in determinism'i kapsaması
     - Determinism'in alt kümesi olarak non-determinism mümkün mü?
       - Spinoza etiğine referans verilebilir. totalde deterministik olan bir
@@ -78,19 +86,6 @@ title: Tasarım Meselesi
     ile ilişkisi
   - Yanılma zorunluluğu, sürekli bütün kurma eylemi, anlam dünyasının sürekli
     yeniden tasarımı
-- Karmaşıklık ve Ölçek
-  - Maneviyatın basit bir matematik temeli ile modellenmesi
-    - İkinci noktanın yarattığı bağlam
-    - Graph theory
-  - Madde ve form'un katmanlı yapısı
-    - Atom, molekül, organizma, atom altı parçacıklar ile desteklenmesi, ya da
-      challenge edilmesi
-    - Sanat bağlamında değerlendirilmesi
-    - Sosyolojik, psikolojik bağlamda örneklendirilmesi
-  - [Konuşmak Üzerine](../eskizler/konusmak-uzerine.md)
-    - İkinci oturum/bölüm
-  - [Bağlam Olarak Zaman](../eskizler/baglam-olarak-zaman.md)
-    - Zaman kısmı değil de bağlam kısmından faydalanabilirim
 - Oluşkanlık (Emergence)
   - Bunun ile, kötüden iyiye, yoktan vara, yanlıştan doğruya, irrasyonelden
     rasyonele kendiliğinden gidişin mümkünatı
@@ -109,22 +104,10 @@ title: Tasarım Meselesi
         olmadığını anlıyoruz
     - Bu bedeli ödemediğimizde ne kazanıyoruz ve ne kaybediyoruz, yani oluşkancı
       olmamanın ödülü ve bedeli nedir?
-- Yaratımlar
-  - Fikren ilk fiilen son olması, fikrin hayata geçerkenki evrimsel serüveni
-    - Farabi ideal devlet(?)'e bakılabilir
-    - Ömer'in bahsettiği antik yunan referansına değinilebilir
-    - Esas usülden zaman bakımından öncedir, usül ise esastan öncelik bakımından
-      öncedir konusuna değinilebilir
-  - [İdealsiz Kavramsallaştırılmamış Yaratım Olmaz](../eskizler/idealsiz-kavramsallastirilmamis-yaratim-olmaz.md)
-  - İterasyon ve tasarlamanın sonradanlığı
-    - Kanunların toplumun haline göre şekillendirilmesi
-    - Yazılımda çalışan halinin üretilmesi ve tasarımın sonradan
-      iyileştirilmesi
-  - Bilmek ve inanmak, kesişimleri ayrışımları
-    - Bilme eylemi olarak inanmak
-    - Bilinemezlik ve kabul
-    - Yaratma yolunda inanma eyleminin kaldıraç etkisi
 - Geriye dönüklük
+  - Değişim korkusu
+    - Tasarımı en başta yapma takıntısı
+    - Bu korkunun arkasındaki psikolojik nedenler
   - Temize çekme eylemi olarak tasarlamak
     - Tasarlamak eylemi tüm süreçtedir, her adımda geriye dönük yapılır, ve yeni
       açılımlara imkan verir, sonuçta oluşan şey bir tasarımdır.
@@ -138,6 +121,7 @@ title: Tasarım Meselesi
       tasarim ile ilgili olabilir
   - Fikrin/vizyonun eylemi öncelemesi ve irade vs doğanın rastgeleliği ve
     survival of the fittest
+  - Önce designoid'ler türüyor, sonra design ediyoruz
   - Deneme/yanılma ile compare/contrast
     - Deneme/yanılma tasarımsıların oluşmasının zeminini hazırlar
     - Deneme/yanılma ile tasarımsılar oluşur
@@ -158,6 +142,21 @@ title: Tasarım Meselesi
     - Ada hukuku - anayasasızlık
     - İçtihat kavramı
     - Yasa tasarıları ve mevzuatlar, regülasyonlar ile hayatın düzenlenmesi
+- Yaratımlar
+  - Fikren ilk fiilen son olması, fikrin hayata geçerkenki evrimsel serüveni
+    - Farabi ideal devlet(?)'e bakılabilir
+    - Ömer'in bahsettiği antik yunan referansına değinilebilir
+    - Esas usülden zaman bakımından öncedir, usül ise esastan öncelik bakımından
+      öncedir konusuna değinilebilir
+  - [İdealsiz Kavramsallaştırılmamış Yaratım Olmaz](../eskizler/idealsiz-kavramsallastirilmamis-yaratim-olmaz.md)
+  - İterasyon ve tasarlamanın sonradanlığı
+    - Kanunların toplumun haline göre şekillendirilmesi
+    - Yazılımda çalışan halinin üretilmesi ve tasarımın sonradan
+      iyileştirilmesi
+  - Bilmek ve inanmak, kesişimleri ayrışımları
+    - Bilme eylemi olarak inanmak
+    - Bilinemezlik ve kabul
+    - Yaratma yolunda inanma eyleminin kaldıraç etkisi
 - Meta tasarım
   - [Geniş Anlamıyla Dil](../eskizler/genis-anlamiyla-dil.md)
     - Dil ogrenmek, ustalasinca da kurmak, tasarimci icin bir gerek kosuldur
