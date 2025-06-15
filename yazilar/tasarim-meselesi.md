@@ -21,7 +21,18 @@ title: Tasarım Meselesi
   - Tasarlama eylemi sanıldığının aksine ileriye değil, geriye dönük bir
     eylemdir.
   - Tasarlamak geçmişi, tasarım ise geleceği konu eder.
+- Geleceği tasarlama arzusu
+  - Gelecek korkusu ve bu korkudan hareketle belirsizliği giderme arzusu
+  - Geleceğin belirsizliğinin verdiği bireysel/toplumsal kaygılar
+  - Tanrı'nın her şeyi bilmesi, İsa'nın geleceği mitlerinin adreslediği
+    kaygılar bunlar
+  - Tanrı bize ebeveynlik yapıyor, ve bu korkularımızın bizi ele geçirmesini
+    engelliyor diye düşünebiliriz
+  - Büyüdüğümüzde, hala ebeveynlik ihtiyacı zaman zaman duymakla beraber,
+    bilinmezlikle başa çıkmakta daha iyi olmamız gerekir (ya da beklenir), çünkü
+    onu göğüsleyen artık büyüklerimiz değil, bizizdir.
 - Tasarlamak ne demektir?
+  - Bir şeyin basitleştirilmiş (kaba) halini temsil eder
   - Türkçe
     - Tas- (kötü, kaba) - (kötü'den iyiye gidiş ile ilintili)
       - Tasa (kaygı) ile ses benzerliği ve Tasalanmamak için Tasarlamak
@@ -31,15 +42,12 @@ title: Tasarım Meselesi
     - Design => de- sign
     - Conception => concept -ion
     - Tasavvur, Taşmim vb
-  - Bir şeyin basitleştirilmiş, kabaca halini temsil etmesi bağlamında
-  - Henüz var olmayan bir şeyin var olmaya doğru gidişinde bir ilk adım
-- Tasarlamanın yapısal analizi
-  - [Bir Varlığın Özü, Yapıtaşları ve Kompleks Sistemler Üzerine](../eskizler/bir-varligin-ozu-yapitaslari-ve-kompleks-sistemler-uzerine.md)
-  - Tasarımın bir işleve, işlevsel ihtiyaca dayanması
-  - Amaçsız bir tasarımın da bir tasarım olabileceğine dair söylenebileceklere
-    genel bir yanıt; talep ve ihtiyacı ayıralım, biri talep etmese de bir
-    tasarım yapılabilir, ama tasarlanan şey bir işleve hizmet eder, yani ne
-    tasarımı olduğu bellidir, logo, masa, araba, vs vs.
+  - Tasarımın işlev ile ilişkisi
+    - [Bir Varlığın Özü, Yapıtaşları ve Kompleks Sistemler Üzerine](../eskizler/bir-varligin-ozu-yapitaslari-ve-kompleks-sistemler-uzerine.md)
+    - Amaçsız bir tasarımın da bir tasarım olabileceğine dair söylenebileceklere
+      genel bir yanıt; talep ve ihtiyacı ayıralım, biri talep etmese de bir
+      tasarım yapılabilir, ama tasarlanan şey bir işleve hizmet eder, yani ne
+      tasarımı olduğu bellidir, logo, masa, araba, vs vs.
   - Hedefin (amacın) zorunlu belirsizliği, evdeki hesabın çarşıya uyamaması.
     Tasarlama sürecindeki yaratıcılığın kaynağı olarak amacın belirsizliği.
 - Yaratmak, yaratıcılık üzerine
@@ -120,38 +128,23 @@ title: Tasarım Meselesi
     - Bu bedeli ödemediğimizde ne kazanıyoruz ve ne kaybediyoruz, yani oluşkancı
       olmamanın ödülü ve bedeli nedir?
 - Geriye dönüklük
-  - Değişim korkusu
-    - Tasarımı en başta yapma takıntısı
-    - Bu korkunun arkasındaki psikolojik nedenler
-    - Geleceğin belirsizliğinin verdiği bireysel ve toplumsal kaygılar
-    - Tanrı'nın her şeyi bilmesi, İsa'nın geleceği mitlerinin adreslediği
-      kaygılar bunlar
-    - Tanrı bize ebeveynlik yapıyor, ve bu korkularımızın bizi ele geçirmesini
-      engelliyor diye düşünebiliriz
-    - Büyüdüğümüzde, hala ebeveynlik ihtiyacı zaman zaman duymakla beraber,
-      bilinmezlikle başa çıkmakta daha iyi olmamız gerekir, beklenir, çünkü onu
-      göğüsleyen büyüklerimiz değil, bizzat bizizdir.
   - Temize çekme eylemi olarak tasarlamak
-    - Tasarlamak eylemi tüm süreçtedir, her adımda geriye dönük yapılır, ve yeni
+    - Tasarlamak tüm süreçtedir, her adımda geriye dönük yapılır, ve yeni
       açılımlara imkan verir, sonuçta oluşan şey bir tasarımdır.
     - Tasarım hala olanın kabası ve basite indirgenmişidir
     - Tasarlamak ise sürekli olarak geriye dönük bir şekilde bu tasarımın
       revizyonudur, idealin gerçek ile bağının sürekli yeniden tesisidir
   - [Tasarlama Üzerine](../eskizler/tasarlama-uzerine.md)
     - Yaziya ilham veren eskiz, ana konu
-  - [Fikren İlk, Fiilen Son Olan Tanrı Hakkında](../eskizler/fikren-ilk-fiilen-son-olan-tanri-hakkinda.md)
-    - Tanri kismi degil de bir seyin fikren ilk fiilen son olabilmesi baglaminda
-      tasarim ile ilgili olabilir
-  - Fikrin/vizyonun eylemi öncelemesi ve irade vs doğanın rastgeleliği ve
-    survival of the fittest
   - Önce designoid'ler türüyor, sonra design ediyoruz
   - Deneme/yanılma ile compare/contrast
     - Deneme/yanılma tasarımsıların oluşmasının zeminini hazırlar
     - Deneme/yanılma ile tasarımsılar oluşur
     - Tasarım ise bilinç ve irade ister
     - Tasarımsıların elden geçirilmesi, düzenlenmesi ile mümkündür
-    - Tasarlamak her adımın sonunda yapılan bilinçli adımların toplamıdır
-    - Tasarlama adımı olmazsa tasarımsılar doğar, olursa tasarım doğar
+    - Tasarlamak her adımın sonunda bilinçli olarak yapılan geçmişi yeniden
+      anlamlandırma, düzenleme eylemidir
+    - Tasarlama eylemi olmadan ancak tasarımsılar doğar
   - [Yaşanmakta Olanı Öldürmek](../eskizler/yasanmakta-olani-oldurmek.md)
     - Yaşanılanın önce yaşanması, sonra anlamlanabilmesi üzerinden hayatın
       kendisinin de anlam tasarımını sonraya bıraktığını gösterir
@@ -167,15 +160,16 @@ title: Tasarım Meselesi
     - Yasa tasarıları ve mevzuatlar, regülasyonlar ile hayatın düzenlenmesi
 - Yaratımlar
   - Fikren ilk fiilen son olması, fikrin hayata geçerkenki evrimsel serüveni
+    - Fikrin/vizyonun eylemi öncelemesi ve irade vs doğanın rastgeleliği ve
+      survival of the fittest
+    - [Fikren İlk, Fiilen Son Olan Tanrı Hakkında](../eskizler/fikren-ilk-fiilen-son-olan-tanri-hakkinda.md)
+      - Tanri kismi degil de bir seyin fikren ilk fiilen son olabilmesi
+        baglaminda tasarim ile ilgili olabilir
     - Farabi ideal devlet(?)'e bakılabilir
     - Ömer'in bahsettiği antik yunan referansına değinilebilir
     - Esas usülden zaman bakımından öncedir, usül ise esastan öncelik bakımından
       öncedir konusuna değinilebilir
   - [İdealsiz Kavramsallaştırılmamış Yaratım Olmaz](../eskizler/idealsiz-kavramsallastirilmamis-yaratim-olmaz.md)
-  - İterasyon ve tasarlamanın sonradanlığı
-    - Kanunların toplumun haline göre şekillendirilmesi
-    - Yazılımda çalışan halinin üretilmesi ve tasarımın sonradan
-      iyileştirilmesi
   - Bilmek ve inanmak, kesişimleri ayrışımları
     - Bilme eylemi olarak inanmak
     - Bilinemezlik ve kabul
@@ -219,6 +213,10 @@ title: Tasarım Meselesi
   - biyoloji ile jeoloji arasındaki bağ bizi 19. yy'da bir sıçramaya götürdü
 - maurice merleau-ponty, "varlık kendini müşhade edebilmemiz için bizden
   yaratıcılık ister" der
+- gregory bateson
+  - dağınıklığın doğallığı
+  - bütünsellik
+  - yüklenen anlamların sonradanlığı ve birer tasarım olduğu gerçeği
 - zeynep sayın - çizginin boşluğu
   - çizginin önce hatırlamak iken sonra tasarlamaya, olmayanı önden
     belirlemeye dönmmesi
