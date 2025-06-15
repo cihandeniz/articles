@@ -6,7 +6,22 @@ title: Tasarım Meselesi
 
 ## Fikir Öbekleri
 
-- Etimolojik
+- Depremi bilseydik
+  - Depremi bir gün önce bilseydik ne yapabilirdik
+  - Bir hafta önce, bir ay önce, bir yıl önce?
+  - Gelecek depremi bilmiyor olabiliriz, ama geçmişteki depremleri şu an
+    biliyoruz, erken bilseydik ne yapardık sorusu bize yarın için ne verebilir?
+  - Ne olursa olsun, geleceği bilmiyoruz, ama geçmişe bakıp hayatımızı yeniden
+    tasarladığımızda geleceğe daha hazırlıklı olabiliriz
+- Tasarlamanın yönü
+  - Yaşanacakları tasarlayamayız, yaşananları yaşandıktan sonra ele alıp
+    tasarlayabiliriz
+  - Dünden mülhem tasarımlarla yarını daha iyi karşılamayı umarız, yarın dün
+    olduğunda tasarımlarımızı revize eder, bilinmez ile bu şekilde baş ederiz
+  - Tasarlama eylemi sanıldığının aksine ileriye değil, geriye dönük bir
+    eylemdir.
+  - Tasarlamak geçmişi, tasarım ise geleceği konu eder.
+- Tasarlamak ne demektir?
   - Türkçe
     - Tas- (kötü, kaba) - (kötü'den iyiye gidiş ile ilintili)
       - Tasa (kaygı) ile ses benzerliği ve Tasalanmamak için Tasarlamak
@@ -18,7 +33,7 @@ title: Tasarım Meselesi
     - Tasavvur, Taşmim vb
   - Bir şeyin basitleştirilmiş, kabaca halini temsil etmesi bağlamında
   - Henüz var olmayan bir şeyin var olmaya doğru gidişinde bir ilk adım
-- Ontolojik
+- Tasarlamanın yapısal analizi
   - [Bir Varlığın Özü, Yapıtaşları ve Kompleks Sistemler Üzerine](../eskizler/bir-varligin-ozu-yapitaslari-ve-kompleks-sistemler-uzerine.md)
   - Tasarımın bir işleve, işlevsel ihtiyaca dayanması
   - Amaçsız bir tasarımın da bir tasarım olabileceğine dair söylenebileceklere
@@ -108,6 +123,14 @@ title: Tasarım Meselesi
   - Değişim korkusu
     - Tasarımı en başta yapma takıntısı
     - Bu korkunun arkasındaki psikolojik nedenler
+    - Geleceğin belirsizliğinin verdiği bireysel ve toplumsal kaygılar
+    - Tanrı'nın her şeyi bilmesi, İsa'nın geleceği mitlerinin adreslediği
+      kaygılar bunlar
+    - Tanrı bize ebeveynlik yapıyor, ve bu korkularımızın bizi ele geçirmesini
+      engelliyor diye düşünebiliriz
+    - Büyüdüğümüzde, hala ebeveynlik ihtiyacı zaman zaman duymakla beraber,
+      bilinmezlikle başa çıkmakta daha iyi olmamız gerekir, beklenir, çünkü onu
+      göğüsleyen büyüklerimiz değil, bizzat bizizdir.
   - Temize çekme eylemi olarak tasarlamak
     - Tasarlamak eylemi tüm süreçtedir, her adımda geriye dönük yapılır, ve yeni
       açılımlara imkan verir, sonuçta oluşan şey bir tasarımdır.
@@ -174,6 +197,12 @@ title: Tasarım Meselesi
   - Greglynn form üretici sistem / diagram
     - Meta-tasarım gibi bir şeyden bahsediyor. öyle bir tasarım ki, onun içinde
       yanlış ya da "istenmeyen" yapılamıyor
+- Depremi bilmiyoruz
+  - But that's ok,
+    - Because we have our designs to embrace the unknowns of the future
+    - Because we have our meta-designs in case designs fail
+    - Because we have our meta-skills in case our meta-designs fail
+    - Because we have our meta-skills in case our meta-skills fail
 
 ## Potansiyel referanslar ve okumalar
 
@@ -182,6 +211,8 @@ title: Tasarım Meselesi
 - systems theory, systemic emergence
 - tasarim felsefesi ve emergentism
 - wittgenstein - dil oyunlari
+- bergson - gelecek ile ilişkiilenme türleri
+  - virtuel kavramı
 - derrida - differance
 - jean piaget
 - charles lyell jeolojinin kurucusu
