@@ -18,10 +18,10 @@ diyoruz örneğin. Birini yüceltmekte çok zorlanırsak da ona kurucu lider diy
 Lider dendiğinde tanrısal üstün bir canlı değil, kendini geliştirmiş başarılı
 birisini düşünüyoruz. Bu sebeple örneğin Atatürk'e lider denip zihinlerde
 peygamber gibi konumlandırılması artık doğru gelmiyor. Belki 50 yıl önce çok
-garip değildi, sonuçta toplum halifeyi lider olarak görüyordu yakın bir zamana
-kadar, ama bu artık değişti. Çünkü onun güncel anlamda lider olması
+garip değildi, sonuçta toplum yakın bir zamana kadar halifeyi lider olarak
+görüyordu, ama artık bu değişti. Çünkü onun güncel anlamda lider olması
 eleştirilebilir olmasını da gerektiriyor. Yani artık peygamberleştirmek bize
-yabancı geliyor ve liderleri peygamberleştirmek istemiyoruz.
+yabancı geliyor, liderleri peygamberleştirmek istemiyoruz.
 
 Peygamberlerden sonra artık peygamberlik de öldü diyebiliriz. Belki son
 peygamber ölmüştü ama peygamberlik kavramı hala yaşıyordu. Liderlere peygamber
