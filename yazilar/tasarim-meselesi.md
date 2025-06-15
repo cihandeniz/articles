@@ -198,7 +198,7 @@ title: Tasarım Meselesi
     - Meta-tasarım gibi bir şeyden bahsediyor. öyle bir tasarım ki, onun içinde
       yanlış ya da "istenmeyen" yapılamıyor
 - Depremi bilmiyoruz
-  - But that's ok,
+  - But that's ok
     - Because we have our designs to embrace the unknowns of the future
     - Because we have our meta-designs in case designs fail
     - Because we have our meta-skills in case our meta-designs fail
