@@ -2,9 +2,7 @@
 title: Tasarım Meselesi
 ---
 
-> Çalışma aktif olarak devam ediyor
-
-## Fikir Öbekleri
+## Outline
 
 - Depremi bilseydik
   - Depremi bir gün önce bilseydik ne yapabilirdik
@@ -18,9 +16,12 @@ title: Tasarım Meselesi
     tasarlayabiliriz
   - Dünden mülhem tasarımlarla yarını daha iyi karşılamayı umarız, yarın dün
     olduğunda tasarımlarımızı revize eder, bilinmez ile bu şekilde baş ederiz
+  - Tasarlama eyleminin malzemesi ve konusu her zaman geçmiştir, gelecek
+    değil. Tasarlama eylemi sonucu ortaya çıkan tasarım ise geleceği
+    etkiler, hatta etkilemesi beklenir, ama geleceği kesin olarak belirlemez,
+    yalnızca etkiler.
   - Tasarlama eylemi sanıldığının aksine ileriye değil, geriye dönük bir
     eylemdir.
-  - Tasarlamak geçmişi, tasarım ise geleceği konu eder.
 - Geleceği tasarlama arzusu
   - Gelecek korkusu ve bu korkudan hareketle belirsizliği giderme arzusu
   - Geleceğin belirsizliğinin verdiği bireysel/toplumsal kaygılar
@@ -31,23 +32,65 @@ title: Tasarım Meselesi
   - Büyüdüğümüzde, hala ebeveynlik ihtiyacı zaman zaman duymakla beraber,
     bilinmezlikle başa çıkmakta daha iyi olmamız gerekir (ya da beklenir), çünkü
     onu göğüsleyen artık büyüklerimiz değil, bizizdir.
-- Tasarlamak ne demektir?
-  - Bir şeyin basitleştirilmiş (kaba) halini temsil eder
-  - Türkçe
-    - Tas- (kötü, kaba) - (kötü'den iyiye gidiş ile ilintili)
-      - Tasa (kaygı) ile ses benzerliği ve Tasalanmamak için Tasarlamak
-      - Tasavvur ile ses benzerliği ya da etimolojik bağı
-    - Taslak - Tasarım - Tasarlamak, kabasını çıkarmak, kabaca çizmek
-  - İngilizce, Fransızca, Arapça, Farsça, Yunanca bağlantılar
-    - Design => de- sign
-    - Conception => concept -ion
-    - Tasavvur, Taşmim vb
+  - Geleceğe dair duyabileceğimiz tek duygu korku olmak değil. Korku yerine
+    güven duygusu üzerinden geleceği karşılayabilir ve inşa edebiliriz.
+    - Bu güven (trust değil, confidence), gelecekte olacak şeyleri
+      etkileyebileceğimize olan inancımızdır. (Joe)
+- Gelecek hayali
+  - Tasarımlarımız doğası gereği geleceğin belirsizliğini ortadan amacını içinde
+    barındırır. Burada tasarımın kendisine ulaştığımızda elde edilecek sonuç
+    hayal edilir. Geleceği düşündüğümüzde önce varmak istediğimiz durakları,
+    sonra o duraklara götürecek araçları hayal ederiz.
+  - Gelecek hayallerimiz bugünün ihtiyaçlarının, bugün hissedilen eksikliklerin
+    giderilmesi ile ilgilidir. Onu gideren herhangi bir araç gelecek hayalinin
+    bir parçası olabilir.
+  - Akşam karanlığında, ay ışığı da olmadan, yürümek zorunda kaldıysak ve
+    yürümenin zorluğunu yaşamışsak, önce bu zorluğun olmadığı bir gelecek hayal
+    ederiz. Sonra herkese her eve bir el feneri de verebiliriz, her yola
+    aydınlatma da koyabiliriz. Bizi sonuca götüren iki tasarım da ihtiyacı
+    gidermeyi talep eder. Hangi tasarımın geleceğimizde yer edeceği ise zaman
+    meselesidir.
+- Tasarlamanın neliği
   - Tasarımın işlev ile ilişkisi
     - [Bir Varlığın Özü, Yapıtaşları ve Kompleks Sistemler Üzerine](../eskizler/bir-varligin-ozu-yapitaslari-ve-kompleks-sistemler-uzerine.md)
     - Amaçsız bir tasarımın da bir tasarım olabileceğine dair söylenebileceklere
       genel bir yanıt; talep ve ihtiyacı ayıralım, biri talep etmese de bir
       tasarım yapılabilir, ama tasarlanan şey bir işleve hizmet eder, yani ne
       tasarımı olduğu bellidir, logo, masa, araba, vs vs.
+  - Bir şeyin basitleştirilmiş (kaba) halini temsil eder
+    - Türkçe
+      - Tas- (kötü, kaba) - (kötü'den iyiye gidiş ile ilintili)
+        - Tasa (kaygı) ile ses benzerliği ve Tasalanmamak için Tasarlamak
+        - Tasavvur ile ses benzerliği ya da etimolojik bağı
+      - Taslak - Tasarım - Tasarlamak, kabasını çıkarmak, kabaca çizmek
+    - İngilizce, Fransızca, Arapça, Farsça, Yunanca bağlantılar
+      - Design => de- sign
+      - Conception => concept -ion
+      - Tasavvur, Taşmim vb
+    - Tasarım, tekil gerçek bir şeyin, eksiltilmiş, indirgenmiş,
+      basitleştirilmiş, temsili bir fikridir. Gerçekte olan şeyin karikatürü
+      gibidir. Özüne ait olan her şeyi barındırır, ama onu o yapmaktan
+      uzaklaştırmayacak tüm ayrıntılardan arındırır.
+      - Bir arkadaşımız, adı Murat olsun, ile ilgili tüm beklentilerimiz onunla
+        ilgili geçmişte edinilmiş bilgilere dayanır. Diğer bir deyiş ile,
+        kafamızdaki Murat tasarımı gelecekteki Murat ile ilgili olmaktan çok
+        geçmişteki Murat'ı açıklayacak şekilde oturmuştur. Murat bir gün
+        beklenmedik davranış sergilerse, her zaman dakikti ve bugün geç kaldı
+        diyelim, bunu ona yakıştıramayız. Aslında Murat geç kalmıştır, ve bu su
+        götürmez bir gerçektir. Murat'ın gerçekliğine yakışıp yakışmaması
+        önemsizdir. Konu aklımızdaki Murat tasarımı ile uyuşmamasıdır. Murat
+        sürekli geç kalmaya başlarsa, artık Murat'ın "değiştiğini" söyleriz,
+        oysa değişen kafamızdaki Murat tasarımıdır.
+      - Tasarım bugüne kadar edindiğimiz bilgiler ile bir olgunun
+        kavramsallaştırılması, kalıplaştırılmasıdır. Olgu kendi tasarımına
+        uymadığında ise bu tasarım revize edilir.
+    - Tasarım, olgunun kavram dünyasındaki temsilidir (conception). Tasarım,
+      olgunun temsili işaretlerle ifadesidir (designare). Tasarım, olgunun
+      basitleştirilmiş fikri temsilidir, o şeyin kalıbıdır, kabıdır, tasıdır.
+    - Sonucunda tasarım çıkaran, ve en başından da niyeti tasarım çıkarmak olan
+      eyleme de tasarlamak denir.
+    - Tasarlamak eylemi tanım gereği var olan bir olgunun basitleştirilmesi ile
+      temsilinin çıkarılmasıdır.
   - Hedefin (amacın) zorunlu belirsizliği, evdeki hesabın çarşıya uyamaması.
     Tasarlama sürecindeki yaratıcılığın kaynağı olarak amacın belirsizliği.
 - Yaratmak, yaratıcılık üzerine
@@ -177,10 +220,18 @@ title: Tasarım Meselesi
   - Yaratmanın zorlukları, yaratmaya uygun kültür ve koşullar
 - Hiyerarşik Akıl vs Demokratik Akıl
   - Hiyerarşik aklın yaratım yöntemleri
+    - Tasarımcılırın hiyerarşik düşünmesinin sorunları. Yapılan öngörülerin
+      faşizmi ve geleceğin oluşkanlığına olan kapalılığı
+    - Hiyerarşik aklın yaratıcılığa koyduğu engel olarak önden tasarlamak
+    - Tasarımcılığın prometheus sevdası
   - Demokratik aklın yaratım yöntemleri
+    - Prometheus'çuluğa karşı epimetheus'çuluk
+    - Uzlaşma, didişme, çarpışma, sürekli tasarım
+    - Yaratıcılık tekelinin dağıtılması
+    - Son eylem olarak tasarlamak
   - Bilinmezlik ile barışmak
   - İkinci modernlik - yeni aydınlanmacılık
-  - Meta-beceriler ile yeni dünya tasarımı
+  - Dünya tasarımının meta-skill'ler ile revizyonu
 - Meta tasarım
   - [Geniş Anlamıyla Dil](../eskizler/genis-anlamiyla-dil.md)
     - Dil ogrenmek, ustalasinca da kurmak, tasarimci icin bir gerek kosuldur
