@@ -12,3 +12,18 @@ title: Tasarımın Yönü
   yalnızca etkiler.
 - Tasarlama eylemi sanıldığının aksine ileriye değil, geriye dönük bir
   eylemdir.
+
+{% assign yazilar = site.pages | where: "dir", "/yazilar/" | sort: "path" %}
+{% assign index = yazilar | index_of: page %}
+
+{% assign previous = yazilar[index | minus: 1] %}
+{% assign next = yazilar[index | plus: 1] %}
+
+<nav>
+  {% if previous %}
+  ← Önceki: [{{ previous.title }}]({{ previous.url }})
+  {% endif %}
+  {% if next %}
+  → Sonraki: [{{ next.title }}]({{ next.url }})
+  {% endif %}
+</nav>

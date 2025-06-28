@@ -4,20 +4,6 @@ title: Tasarım Meselesi
 
 ## Outline
 
-- Geleceği tasarlama arzusu
-  - Gelecek korkusu ve bu korkudan hareketle belirsizliği giderme arzusu
-  - Geleceğin belirsizliğinin verdiği bireysel/toplumsal kaygılar
-  - Tanrı'nın her şeyi bilmesi, İsa'nın geleceği mitlerinin adreslediği
-    kaygılar bunlar
-  - Tanrı bize ebeveynlik yapıyor, ve bu korkularımızın bizi ele geçirmesini
-    engelliyor diye düşünebiliriz
-  - Büyüdüğümüzde, hala ebeveynlik ihtiyacı zaman zaman duymakla beraber,
-    bilinmezlikle başa çıkmakta daha iyi olmamız gerekir (ya da beklenir), çünkü
-    onu göğüsleyen artık büyüklerimiz değil, bizizdir.
-  - Geleceğe dair duyabileceğimiz tek duygu korku olmak değil. Korku yerine
-    güven duygusu üzerinden geleceği karşılayabilir ve inşa edebiliriz.
-    - Bu güven (trust değil, confidence), gelecekte olacak şeyleri
-      etkileyebileceğimize olan inancımızdır. (Joe)
 - Gelecek hayali
   - Tasarımlarımız doğası gereği geleceğin belirsizliğini ortadan kaldırma
     amacını içinde barındırır. Burada tasarımın kendisine ulaştığımızda elde
