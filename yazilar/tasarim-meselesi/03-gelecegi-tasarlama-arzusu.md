@@ -23,9 +23,9 @@ title: Geleceği Tasarlama Arzusu
 {% for p in site.pages %}
   {% if p.path contains 'yazilar/tasarim-meselesi/' and p.url != '/yazilar/tasarim-meselesi/' %}
     {% if p.url == page.url %}
-- [{{ p.title }}]({{ site.baseurl }}{{ p.url }})
-    {% else %}
 - {{ p.title }}
+    {% else %}
+- [{{ p.title }}]({{ site.baseurl }}{{ p.url }})
     {% endif %}
   {% endif %}
 {% endfor %}
