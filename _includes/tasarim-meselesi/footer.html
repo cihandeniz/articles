@@ -18,10 +18,10 @@
   {% endif %}
 {% endfor %}
 
-&lt; Ana Sayfa: <a href="{{ site.baseurl }}/yazilar/tasarim-meselesi/">Tasarım Meselesi</a>
-{% if prev != nil %}
-&lt; Önceki Sayfa: <a href="{{ site.baseurl }}{{ prev.url }}">{{ prev.title }}</a>
-{% endif %}
 {% if next != nil %}
-&gt; Sonraki Sayfa: <a href="{{ site.baseurl }}{{ next.url }}">{{ next.title }}</a>
+<b>&gt; İleri: <a href="{{ site.baseurl }}{{ next.url }}">{{ next.title }}</a> &gt;</b>
 {% endif %}
+{% if prev != nil %}
+<b>&lt; Geri: <a href="{{ site.baseurl }}{{ prev.url }}">{{ prev.title }}</a> &lt;</b>
+{% endif %}
+<b>^ Yukarı: <a href="{{ site.baseurl }}/yazilar/tasarim-meselesi/">Tasarım Meselesi</a> ^</b>
