@@ -9,4 +9,4 @@ title: Depremi Bilseydik
 - Ne olursa olsun, geleceği bilmiyoruz, ama geçmişe bakıp hayatımızı yeniden
   tasarladığımızda geleceğe daha hazırlıklı olabiliriz
 
-{% include tasarim-meseles/footer.html %}
+{% include tasarim-meselesi/footer.html %}

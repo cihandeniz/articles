@@ -16,4 +16,4 @@ title: Geleceği Tasarlama Arzusu
   - Bu güven (trust değil, confidence), gelecekte olacak şeyleri
     etkileyebileceğimize olan inancımızdır. (Joe)
 
-{% include tasarim-meseles/footer.html %}
+{% include tasarim-meselesi/footer.html %}
