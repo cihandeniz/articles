@@ -7,14 +7,14 @@ göre teknik olan meselelerdir. Hiyerarşik akla göre üst bir tasarımcı tara
 yapılmış ve belirleyici nitelikteki tasarımlar, tasarımdan sonra gelen
 aşamalarda alt uygulayıcıların tam olarak uyması gereken kalıpları temsil eder.
 Bu akla göre alt uygulayıcılar mükemmel tasarımı asla uygulayamayan eksikler
-olmaktan çok nadiren kurtulabilirler. Tasarımın mükemmelliğinin imkansızlığı,
+olmaktan nadiren kurtulabilirler. Tasarımın mükemmelliğinin imkansızlığı,
 tasarımın yalnızca var olan gerçeği temsil eden bir kalıp olduğu, tasarlamanın
 tamamen teknik bir iş olduğu ısrarla atlanır.
 
 Tasarım ancak tasarlanan olgu gerçekleştikten sonra bitebilen bir
 kavramsallaştırmadır. Tasarlama eylemi ise bu tasarımı geleceğe değil, geçmişe
 bakarak ortaya çıkaran teknik bir iştir. Demokratik akıl, tasarlamayı ne
-yüceltir ne alçaltır, tam olması gereken yer yerleştirir. Bütünü oluşturan her
+yüceltir ne alçaltır, tam olması gereken yere yerleştirir. Bütünü oluşturan her
 adımın en sonuna.
 
 ## İçindekiler
