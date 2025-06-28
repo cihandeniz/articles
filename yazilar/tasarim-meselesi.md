@@ -4,24 +4,6 @@ title: Tasarım Meselesi
 
 ## Outline
 
-- Depremi bilseydik
-  - Depremi bir gün önce bilseydik ne yapabilirdik
-  - Bir hafta önce, bir ay önce, bir yıl önce?
-  - Gelecek depremi bilmiyor olabiliriz, ama geçmişteki depremleri şu an
-    biliyoruz, erken bilseydik ne yapardık sorusu bize yarın için ne verebilir?
-  - Ne olursa olsun, geleceği bilmiyoruz, ama geçmişe bakıp hayatımızı yeniden
-    tasarladığımızda geleceğe daha hazırlıklı olabiliriz
-- Tasarlamanın yönü
-  - Yaşanacakları tasarlayamayız, yaşananları yaşandıktan sonra ele alıp
-    tasarlayabiliriz
-  - Dünden mülhem tasarımlarla yarını daha iyi karşılamayı umarız, yarın dün
-    olduğunda tasarımlarımızı revize eder, bilinmez ile bu şekilde baş ederiz
-  - Tasarlama eyleminin malzemesi ve konusu her zaman geçmiştir, gelecek
-    değil. Tasarlama eylemi sonucu ortaya çıkan tasarım ise geleceği
-    etkiler, hatta etkilemesi beklenir, ama geleceği kesin olarak belirlemez,
-    yalnızca etkiler.
-  - Tasarlama eylemi sanıldığının aksine ileriye değil, geriye dönük bir
-    eylemdir.
 - Geleceği tasarlama arzusu
   - Gelecek korkusu ve bu korkudan hareketle belirsizliği giderme arzusu
   - Geleceğin belirsizliğinin verdiği bireysel/toplumsal kaygılar
@@ -37,11 +19,11 @@ title: Tasarım Meselesi
     - Bu güven (trust değil, confidence), gelecekte olacak şeyleri
       etkileyebileceğimize olan inancımızdır. (Joe)
 - Gelecek hayali
-  - Tasarımlarımız doğası gereği geleceğin belirsizliğini ortadan amacını içinde
-    barındırır. Burada tasarımın kendisine ulaştığımızda elde edilecek sonuç
-    hayal edilir. Geleceği düşündüğümüzde önce varmak istediğimiz durakları,
-    sonra o duraklara götürecek araçları hayal ederiz.
-  - Gelecek hayallerimiz bugünün ihtiyaçlarının, bugün hissedilen eksikliklerin
+  - Tasarımlarımız doğası gereği geleceğin belirsizliğini ortadan kaldırma
+    amacını içinde barındırır. Burada tasarımın kendisine ulaştığımızda elde
+    edilecek sonuç hayal edilir. Geleceği düşündüğümüzde önce varmak istediğimiz
+    durakları, sonra o duraklara götürecek araçları hayal ederiz.
+  - Gelecek hayallerimiz bugünün ihtiyaçlarının, bugün hissedilen eksikliklerin,
     giderilmesi ile ilgilidir. Onu gideren herhangi bir araç gelecek hayalinin
     bir parçası olabilir.
   - Akşam karanlığında, ay ışığı da olmadan, yürümek zorunda kaldıysak ve
@@ -170,6 +152,18 @@ title: Tasarım Meselesi
         olmadığını anlıyoruz
     - Bu bedeli ödemediğimizde ne kazanıyoruz ve ne kaybediyoruz, yani oluşkancı
       olmamanın ödülü ve bedeli nedir?
+    - Tasarlama eyleminin ileriye dönük yapılması, hayatın oluşkanlığına engel
+      koymak demektir. Tasarımcı geleceği belirlemek üzere varsayımsal kararlar
+      vermiştir. Tasarımın hayata geçirilmesi sürecinde oluşacak daha gerçekçi,
+      iyi, yaratıcı fikirlerin tümü tasarıma ve/ya tasarımcıya ihanet etmemek
+      adına görmezden gelinir. Tasarımcı kendini gerçekliği belirleyen tanrı
+      pozisyonuna koymuştur. Eğer hayat oluşkan olmasaydı, tasarım olduğu gibi
+      uygulanabilirdi ancak durum böyle değil. En azından biz insanlar için
+      böyle değil. Dolayısıyla tasarlama eylemi geleceğe dönük yapıldığında
+      hayatın oluşkan doğasını görmezden gelmek durumunda kalır, bu da
+      yaratıcılığı ve yeniliği öldürür. Oysa tasarımcı yeni tasarımı ile bunun
+      tam tersi yeniliğe açılmak istiyordu. Tasarlama eyleminin ileriye dönük
+      olması demek, kendisi ile çelişkili bir hal alması demektir.
 - Geriye dönüklük
   - Temize çekme eylemi olarak tasarlamak
     - Tasarlamak tüm süreçtedir, her adımda geriye dönük yapılır, ve yeni
@@ -256,8 +250,14 @@ title: Tasarım Meselesi
 - systems theory, systemic emergence
 - tasarim felsefesi ve emergentism
 - wittgenstein - dil oyunlari
-- bergson - gelecek ile ilişkiilenme türleri
+- bergson - gelecek ile ilişkilenme türleri
   - virtuel kavramı
+  - the retrograde movement of the true
+    - it refers to the idea that the truth of a judgment or proposition is not
+      something that exists independently and is discovered, but rather, it is
+      something that comes into being with the judgment itself, and even
+      retroactively affects the past. Essentially, the truth isn't found; it's
+      made, and its making can even change how we understand the past.
 - derrida - differance
 - jean piaget
 - charles lyell jeolojinin kurucusu
@@ -268,6 +268,7 @@ title: Tasarım Meselesi
   - dağınıklığın doğallığı
   - bütünsellik
   - yüklenen anlamların sonradanlığı ve birer tasarım olduğu gerçeği
+    - bergson ile bağı var mıdır, ya da nedir?
 - zeynep sayın - çizginin boşluğu
   - çizginin önce hatırlamak iken sonra tasarlamaya, olmayanı önden
     belirlemeye dönmmesi
