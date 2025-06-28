@@ -9,11 +9,11 @@ title: Depremi Bilseydik
 - Ne olursa olsun, geleceği bilmiyoruz, ama geçmişe bakıp hayatımızı yeniden
   tasarladığımızda geleceğe daha hazırlıklı olabiliriz
 
-{% assign yazilar = site.pages | where: "dir", "/yazilar/" | sort: "path" %}
-{% assign index = yazilar | index_of: page %}
+{% assign pages = site.pages | where: "dir", "/yazilar/tasarim-meselesi/" | sort: "path" %}
+{% assign index = pages | index_of: page %}
 
-{% assign previous = yazilar[index | minus: 1] %}
-{% assign next = yazilar[index | plus: 1] %}
+{% assign previous = pages[index | minus: 1] %}
+{% assign next = pages[index | plus: 1] %}
 
 <nav>
   {% if previous %}
