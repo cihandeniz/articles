@@ -1,0 +1,16 @@
+<hr/>
+<br/>
+
+<h2>İçindekiler</h2>
+
+<ul>
+{% for p in site.pages %}
+  {% if p.path contains 'yazilar/tasarim-meselesi/' and p.url != '/yazilar/tasarim-meselesi/' %}
+    {% if p.url == page.url %}
+  <li>{{ p.title }}</li>
+    {% else %}
+  <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>

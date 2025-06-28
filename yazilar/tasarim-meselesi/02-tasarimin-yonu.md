@@ -13,16 +13,4 @@ title: Tasarımın Yönü
 - Tasarlama eylemi sanıldığının aksine ileriye değil, geriye dönük bir
   eylemdir.
 
----
-
-## İçindekiler
-
-{% for p in site.pages %}
-  {% if p.path contains 'yazilar/tasarim-meselesi/' and p.url != '/yazilar/tasarim-meselesi/' %}
-    {% if p.url == page.url %}
-- {{ p.title }}
-    {% else %}
-- [{{ p.title }}]({{ site.baseurl }}{{ p.url }})
-    {% endif %}
-  {% endif %}
-{% endfor %}
+{% include tasarim-meseles/footer.html %}

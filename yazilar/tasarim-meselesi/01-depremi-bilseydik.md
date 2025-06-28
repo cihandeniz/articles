@@ -9,16 +9,4 @@ title: Depremi Bilseydik
 - Ne olursa olsun, geleceği bilmiyoruz, ama geçmişe bakıp hayatımızı yeniden
   tasarladığımızda geleceğe daha hazırlıklı olabiliriz
 
----
-
-## İçindekiler
-
-{% for p in site.pages %}
-  {% if p.path contains 'yazilar/tasarim-meselesi/' and p.url != '/yazilar/tasarim-meselesi/' %}
-    {% if p.url == page.url %}
-- {{ p.title }}
-    {% else %}
-- [{{ p.title }}]({{ site.baseurl }}{{ p.url }})
-    {% endif %}
-  {% endif %}
-{% endfor %}
+{% include tasarim-meseles/footer.html %}
