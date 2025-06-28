@@ -35,13 +35,13 @@ title: Geleceği Tasarlama Arzusu
 {% assign next = filtered_pages[index | plus: 1] %}
 
 {% if index_page %}
-↑ Yukarı: [{{ index_page.title }}]({{ index_page.url }})
+↑ Yukarı: [{{ index_page.title }}]({{ site.baseurl }}{{ index_page.url }})
 {% endif %}
 
 {% if previous %}
-← Önceki: [{{ previous.title }}]({{ previous.url }})
+← Önceki: [{{ previous.title }}]({{ site.baseurl }}{{ previous.url }})
 {% endif %}
 
 {% if next %}
-→ Sonraki: [{{ next.title }}]({{ next.url }})
+→ Sonraki: [{{ next.title }}]({{ site.baseurl }}{{ next.url }})
 {% endif %}
