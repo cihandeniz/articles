@@ -4,7 +4,7 @@ title: Tasarım Meselesi
 
 Tasarım ve tasarlama hiyerarşik aklın tanrısallaştırdığı ancak demokratik akla
 göre teknik olan meselelerdir. Hiyerarşik akla göre üst bir tasarımcı tarafından
-yapılmış ve belirleyici niteliktekki tasarımlar, tasarımdan sonra gelen
+yapılmış ve belirleyici nitelikteki tasarımlar, tasarımdan sonra gelen
 aşamalarda alt uygulayıcıların tam olarak uyması gereken kalıpları temsil eder.
 Bu akla göre alt uygulayıcılar mükemmel tasarımı asla uygulayamayan eksikler
 olmaktan çok nadiren kurtulabilirler. Tasarımın mükemmelliğinin imkansızlığı,
