@@ -12,7 +12,7 @@
       {% assign hit_current = true %}
     {% elsif hit_current == false %}
       {% assign prev = p %}
-    {% else %}
+    {% elsif next == nil %}
       {% assign next = p %}
     {% endif %}
   {% endif %}
