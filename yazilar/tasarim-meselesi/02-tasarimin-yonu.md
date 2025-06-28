@@ -21,7 +21,7 @@ title: Tasarımın Yönü
   {% if p.path contains 'yazilar/' and p.path contains '/index.md' and p.url != '/yazilar/' %}
     {% if p.url == page.url %}
 - [{{ p.title }}]({{ site.baseurl }}{{ p.url }})
-    {% elsif %}
+    {% else %}
 - {{ p.title }}
     {% endif %}
   {% endif %}
