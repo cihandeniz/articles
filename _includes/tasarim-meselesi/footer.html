@@ -11,9 +11,9 @@
     {% if p.url == page.url %}
       {% assign hit_current = true %}
     {% elsif hit_current == false %}
-      {% assign prev = page %}
+      {% assign prev = p %}
     {% else %}
-      {% assign next = page %}
+      {% assign next = p %}
     {% endif %}
   {% endif %}
 {% endfor %}
