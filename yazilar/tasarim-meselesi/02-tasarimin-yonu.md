@@ -30,18 +30,14 @@ title: Tasarımın Yönü
 {% assign previous = filtered_pages[index | minus: 1] %}
 {% assign next = filtered_pages[index | plus: 1] %}
 
-<nav>
-  {% if index_page %}
-    <p>↑ [{{ index_page.title }}]({{ index_page.url }})</p>
-  {% endif %}
+{% if index_page %}
+↑ Yukarı: [{{ index_page.title }}]({{ index_page.url }})
+{% endif %}
 
-  <p>
-    {% if previous %}
-      ← Önceki: [{{ previous.title }}]({{ previous.url }})
-    {% endif %}
+{% if previous %}
+← Önceki: [{{ previous.title }}]({{ previous.url }})
+{% endif %}
 
-    {% if next %}
-      → Sonraki: [{{ next.title }}]({{ next.url }})
-    {% endif %}
-  </p>
-</nav>
+{% if next %}
+→ Sonraki: [{{ next.title }}]({{ next.url }})
+{% endif %}
