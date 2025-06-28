@@ -18,7 +18,7 @@ title: Tasarımın Yönü
 ## İçindekiler
 
 {% for p in site.pages %}
-  {% if p.path contains 'yazilar/' and p.path contains '/index.md' and p.url != '/yazilar/' %}
+  {% if p.path contains 'yazilar/tasarim-meselesi/' and p.url != '/yazilar/tasarim-meselesi/' %}
     {% if p.url == page.url %}
 - [{{ p.title }}]({{ site.baseurl }}{{ p.url }})
     {% else %}
