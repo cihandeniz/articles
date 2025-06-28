@@ -1,16 +1,27 @@
+<br/>
 <hr/>
 <br/>
+<h4>Diğer Sayfalar</h4>
 
-<h2>İçindekiler</h2>
-
-<ul>
+{% assign prev = nil %}
+{% assign next = nil %}
+{% assign hit_current = false %}
 {% for p in site.pages %}
   {% if p.path contains 'yazilar/tasarim-meselesi/' and p.url != '/yazilar/tasarim-meselesi/' %}
     {% if p.url == page.url %}
-  <li>{{ p.title }}</li>
+      {% assign hit_current = true %}
+    {% elsif hit_current == false %}
+      {% assign prev = page %}
     {% else %}
-  <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
+      {% assign next = page %}
     {% endif %}
   {% endif %}
 {% endfor %}
-</ul>
+
+&lt; Ana Sayfa: <a href="{{ site.baseurl }}/yazilar/tasarim-meselesi/">Tasarım Meselesi</a>
+{% if prev != nil %}
+&lt; Önceki Sayfa: <a href="{{ site.baseurl }}{{ prev.url }}">{{ prev.title }}</a>
+{% endif %}
+{% if next != nil %}
+&gt; Sonraki Sayfa: <a href="{{ site.baseurl }}{{ next.url }}">{{ next.title }}</a>
+{% endif %}
