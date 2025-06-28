@@ -16,32 +16,16 @@ title: Geleceği Tasarlama Arzusu
   - Bu güven (trust değil, confidence), gelecekte olacak şeyleri
     etkileyebileceğimize olan inancımızdır. (Joe)
 
-{% assign pages = site.pages | sort: "path" %}
-{% assign filtered_pages = "" | split: "" %}
-{% assign index_page = nil %}
+---
 
-{% for p in pages %}
-  {% if p.path contains page.dir %}
-    {% if p.name == "index.md" %}
-      {% assign index_page = p %}
-    {% else %}
-      {% assign filtered_pages = filtered_pages | push: p %}
+## İçindekiler
+
+{% for p in site.pages %}
+  {% if p.path contains 'yazilar/' and p.path contains '/index.md' and p.url != '/yazilar/' %}
+    {% if p.url == page.url %}
+- [{{ p.title }}]({{ site.baseurl }}{{ p.url }})
+    {% elsif %}
+- {{ p.title }}
     {% endif %}
   {% endif %}
 {% endfor %}
-
-{% assign index = filtered_pages | index_of: page %}
-{% assign previous = filtered_pages[index | minus: 1] %}
-{% assign next = filtered_pages[index | plus: 1] %}
-
-{% if index_page %}
-↑ Yukarı: [{{ index_page.title }}]({{ site.baseurl }}{{ index_page.url }})
-{% endif %}
-
-{% if previous %}
-← Önceki: [{{ previous.title }}]({{ site.baseurl }}{{ previous.url }})
-{% endif %}
-
-{% if next %}
-→ Sonraki: [{{ next.title }}]({{ site.baseurl }}{{ next.url }})
-{% endif %}
