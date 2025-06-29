@@ -20,7 +20,7 @@ adımın en sonuna.
 ## İçindekiler
 
 {% for page in site.pages %}
-  {% if page.path contains 'yazilar/tasarim-meselesi/' and page.url != '/yazilar/tasarim-meselesi/' %}
+  {% if page.path contains 'yazilar/tasarlama-meselesi/' and page.url != '/yazilar/tasarlama-meselesi/' %}
   - [{{ page.title }}]({{ site.baseurl }}{{ page.url }})
   {% endif %}
 {% endfor %}

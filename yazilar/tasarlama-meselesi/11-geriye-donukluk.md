@@ -33,4 +33,4 @@ title: Geriye Dönüklük
   - İçtihat kavramı
   - Yasa tasarıları ve mevzuatlar, regülasyonlar ile hayatın düzenlenmesi
 
-{% include tasarim-meselesi/footer.html %}
+{% include tasarlama-meselesi/footer.html %}

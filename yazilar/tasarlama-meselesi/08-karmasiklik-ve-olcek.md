@@ -15,4 +15,4 @@ title: Karmaşıklık ve Ölçek
 - [Bağlam Olarak Zaman](../../eskizler/baglam-olarak-zaman.md)
   - Zaman kısmı değil de bağlam kısmından faydalanabilirim
 
-{% include tasarim-meselesi/footer.html %}
+{% include tasarlama-meselesi/footer.html %}

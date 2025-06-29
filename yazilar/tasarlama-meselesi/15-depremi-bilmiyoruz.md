@@ -8,4 +8,4 @@ title: Depremi Bilmiyoruz
   - Because we have our meta-skills in case our meta-designs fail
   - Because we have our meta-skills in case our meta-skills fail
 
-{% include tasarim-meselesi/footer.html %}
+{% include tasarlama-meselesi/footer.html %}

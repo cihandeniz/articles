@@ -19,4 +19,4 @@ title: Yaratımlar
   - Yaratma yolunda inanma eyleminin kaldıraç etkisi
 - Yaratmanın zorlukları, yaratmaya uygun kültür ve koşullar
 
-{% include tasarim-meselesi/footer.html %}
+{% include tasarlama-meselesi/footer.html %}

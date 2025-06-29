@@ -12,4 +12,4 @@ title: Meta Tasarım
   - Meta-tasarım gibi bir şeyden bahsediyor. öyle bir tasarım ki, onun içinde
     yanlış ya da "istenmeyen" yapılamıyor
 
-{% include tasarim-meselesi/footer.html %}
+{% include tasarlama-meselesi/footer.html %}

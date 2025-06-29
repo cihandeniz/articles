@@ -17,4 +17,4 @@ title: Oluşumlar - Tasarımsılar
   - [Bedenruh](../../eskizler/bedenruh.md)
     - Ölçek meselesi tarafından fikir alınabilir
 
-{% include tasarim-meselesi/footer.html %}
+{% include tasarlama-meselesi/footer.html %}

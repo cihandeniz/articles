@@ -6,7 +6,7 @@
 {% assign next = nil %}
 {% assign hit_current = false %}
 {% for p in site.pages %}
-  {% if p.path contains 'yazilar/tasarim-meselesi/' and p.url != '/yazilar/tasarim-meselesi/' %}
+  {% if p.path contains 'yazilar/tasarlama-meselesi/' and p.url != '/yazilar/tasarlama-meselesi/' %}
     {% if p.url == page.url %}
       {% assign hit_current = true %}
     {% elsif hit_current == false %}
@@ -23,4 +23,4 @@
 {% if prev != nil %}
 <b>&lt; Geri: <a href="{{ site.baseurl }}{{ prev.url }}">{{ prev.title }}</a> &lt;</b>
 {% endif %}
-<b>^ Yukarı: <a href="{{ site.baseurl }}/yazilar/tasarim-meselesi/">Tasarım Meselesi</a> ^</b>
+<b>^ Yukarı: <a href="{{ site.baseurl }}/yazilar/tasarlama-meselesi/">Tasarlama Meselesi</a> ^</b>

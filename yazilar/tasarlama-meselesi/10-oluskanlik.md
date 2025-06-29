@@ -32,4 +32,4 @@ title: Oluşkanlık (Emergence)
     tam tersi yeniliğe açılmak istiyordu. Tasarlama eyleminin ileriye dönük
     olması demek, kendisi ile çelişkili bir hal alması demektir.
 
-{% include tasarim-meselesi/footer.html %}
+{% include tasarlama-meselesi/footer.html %}

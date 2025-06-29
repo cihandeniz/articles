@@ -45,4 +45,4 @@ title: Tasarlamanın Neliği
 - Hedefin (amacın) zorunlu belirsizliği, evdeki hesabın çarşıya uyamaması.
   Tasarlama sürecindeki yaratıcılığın kaynağı olarak amacın belirsizliği.
 
-{% include tasarim-meselesi/footer.html %}
+{% include tasarlama-meselesi/footer.html %}
