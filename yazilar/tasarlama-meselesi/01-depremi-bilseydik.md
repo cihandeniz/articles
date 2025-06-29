@@ -2,7 +2,7 @@
 title: Depremi Bilseydik
 ---
 
-Geleceğe ışık tutmak ne demektir? Gelecek gelene kadar ne olacağı bilinemeyen
+Geleceğe ışık tutmak ne demektir? Gelecek, gelene kadar ne olacağı bilinemeyen
 bir şey ise ona ışık tutmak mümkün müdür? Bilinmesi mümkün olmayan geleceğin
 hayalimde belirmesini bekliyorum ve buna erişemeyeceğimi biliyorum ama yine de
 istiyorum. Neden? Eksik olan bir şey mi var ve varsa nedir? Bir şeyin
@@ -64,11 +64,69 @@ sonuçlara götüren davranışları saklıyor, diğerlerinden hemen vazgeçiyor
 Geçmişimin geleceğime ışık tutmasına izin veriyorum. Böylece var oluyorum.
 Herhangi bir şey olarak değil. Ben, ben olarak var oluyorum.
 
-- Depremi bir gün önce bilseydik ne yapabilirdik
-- Bir hafta önce, bir ay önce, bir yıl önce?
-- Gelecek depremi bilmiyor olabiliriz, ama geçmişteki depremleri şu an
-  biliyoruz, erken bilseydik ne yapardık sorusu bize yarın için ne verebilir?
-- Ne olursa olsun, geleceği bilmiyoruz, ama geçmişe bakıp hayatımızı yeniden
-  tasarladığımızda geleceğe daha hazırlıklı olabiliriz
+Deneyimlerim tekrarlayan yeni deneyimlerden ibaret olamaz. Öyle olsaydı ilk
+deneyim yepyeni olacağından hiçbir deneyimim olamazdı. Demek ki tekrar eden yeni
+deneyimlerin arasında ilk defa gelen yepyeni deneyimler de her zaman olacak.
+Bunlara hafızamdaki etiket yığının bir yerinde bir yer ayırmam işleri
+kolaylaştırıyor. Mesela üniversite yıllarım önceki okullar gibi geçmedi. Sıralar
+sıra gibi değil, hocalar hoca gibi değil, her şey farklı. Yine de sonuçta ders
+alıyoruz sınava giriyoruz. Eski yöntemlerim tam işe yaramıyor gibi olsa da bir
+süre sonra adapte olup üniversiteye de alışabiliyorum.
+
+Peki ya bir şey hem yepyeni hem de tek seferlik olursa? Daha önce hiç böyle bir
+şey olmuş muydu? Yepyeni ve tek seferlik olan şeyleri nasıl hatırlayacağım?
+Hatırlamıyorsam bu fikir nereden doğdu? Güneş hem yepyeni hem de tek seferlik.
+Kendi başına bir şey ve ikincisi yok. Dünya için Güneş yepyeni ve tek seferlik.
+Benim için ise her gün doğup batıyor, her gün yeni bir güneş var. Güneşi
+Dünya'nın algıladığı gibi algılayamıyorum.
+
+Anneannemin ölümünü hatırladım. Yepyeni ve tek seferlikti. O tekrar ölemez,
+başkaları ölebilir ama onlar da anneannem değiller. Özenle tasniflediğim
+hafızamı taradım, davranış kalıplarını tek tek denedim. Hiçbiri bu durumla uygun
+değildi. Ne yapacağımı bilemediğim bir durumdaydım. Elini fark etmeden yakan
+bebek gibi oturdum ağladım, zırladım.
+
+Böyle bir kayba hazırlıklı olabilir miydim? Hiç kayıp yaşamamış biri buna
+hazırlanabilir mi? Peki sevdiğim biricik insanları kaybettiğimde bunlar
+öncekilerin tekrarı mı olacaklar? Sanmıyorum. Nasıl başa çıkacağım?
+
+Elbette konu yalnızca kayıplar değil. Başarılar, başarısızlıklar, kavuşmalar,
+ayrılıklar, üzüntüler, sevinçler. Bunlara tasalanmanın bana bir faydası olmuyor.
+Benliğim yepyeni tek seferlik deneyimlere hazırlanmanın yollarını bulmakta
+zorlanıyor. Geçmiş tasarımlarım yalnızca beklenen geleceği karşılamaya yetiyor.
+Yıllar geçip deneyimlendikçe kendi içinde tutarlı bir hafıza tasnifi
+imkansızlaşıyor. Hafıza büyüdükçe çözünürlük artıyor, çözünürlük arttıkça
+deneyimlerin hepsi yepyeni tek seferlik gibi görünmeye başlıyor. Beklenen
+gelecek fikri gençlikle birlikte geçmişte kalıyor. Gelecek tamamen belirsiz,
+öngörülemez, tahmin edilemez, tasarlanamaz.
+
+Geleceğin kaçınılmaz belirsizliği, geçmişten gelen güvenli gelecek hissi ile
+birleştiğinde içimi korku sarıyor. Gelecek korkusunu yenmek için elimdeki tek
+yöntem ona ışık tutma arzusu. Geleceğe ışık tutmak ne demektir? Gelecek, gelene
+kadar ne olacağı bilinemeyen bir şey ise ona ışık tutmak mümkün müdür?
+
+Küçüklükte bu kadar kolay olan şey yetişkinlikte nasıl bu kadar zorlaşabiliyor
+anlamıyorum. Geçmişsizliğin getirdiği, ve bugün yersiz olduğunu gördüğüm,
+özgüven ile açıklamakla yetinmek istemiyorum çünkü geçmişsizlik geleceği
+kolaylaştırıyor olsaydı bu geleceğin her zaman kolaylaştırılabilen bir şey
+olduğu anlamına gelirdi. Eğer gelecek kolaylaştırılabiliyorsa geçmişimi silmeden
+de geleceğimi kolaylaştırabiliyor olmam gerekir. Oysa gelecek her zaman ve
+zorunlu olarak sisli bir hava gibi belirsiz. Küçükken sanki o sisin üstüne bir
+gelecek yansıtılmış da ona doğru deli gibi koşmuşum. Gerçek olup olmadığını
+bilmeden, gerçek olacağını umarak.
+
+Gelecek sisli bir hava ise, ona ışık tuttuğumda elime geçen tek şey
+belirsizliğin belirmesini sağlamak oluyor. Bunu kabul etmek bir çocuk için zor
+olsa gerek, büyüklerim orada bir hayal olduğuna inandırıyor. Bulutlara
+baktığımda olmayan şekilleri gördüğüm gibi o sisin üstündeki ışık da sanki
+belirsizliği yarıp bir tünel açıyor sanıyorum.
+
+Öyle ya da böyle, hayatı karşılamamı sağlayan bir benlik geliştirdim. Bu benliği
+geçmişe bakarak tasarladım. Öyle yapmaya devam edeceğim. Daha temkinli adımlarla
+bir ayağım geçmişte, bir ayağım geleceği yoklayarak sağlam zemin arayacak.
+İnançlarımın kapsamını daraltacağım ve onların bilgiye dönüşmesini bekleyeceğim.
+Sisin içine koşacak delikanlılık yılları geçti. Adım adım, geçmişime bakarak
+tasarladığım benliğimle geleceğe yürüyeceğim. Tüm deneyimlerin yepyeni ve
+tekseferlik olduğunu varsayarak, her birini ayrı ayrı tartarak.
 
 {% include tasarlama-meselesi/footer.html %}
