@@ -7,8 +7,8 @@ bir şey ise ona ışık tutmak mümkün müdür? Bilinmesi mümkün olmayan gel
 hayalimde belirmesini bekliyorum ve buna erişemeyeceğimi biliyorum ama yine de
 istiyorum. Neden? Eksik olan bir şey mi var ve varsa nedir? Bir şeyin
 eksikliğini hissetmem için önce onun varlığını deneyimlemiş olmam gerekir gibi
-geliyor. Bir konserde basçının varlığını sesi kesilene kadar anlayamamak gibi.
-Ya da ilk kez üşüyene kadar ısınma ihtiyacı duymamak gibi.
+geliyor. Bir konserde basın varlığını sesi kesilene kadar anlayamamak gibi. Ya
+da ilk kez üşüyene kadar ısınma ihtiyacı duymamak gibi.
 
 Geçmişimi tamamen silersem, geleceğin bilinmezliğine duyduğum endişe ortadan
 kalkar. Tutmak istediğim ışığın hayali dahil tüm hafızam silinince geçmiş ile
@@ -36,10 +36,11 @@ yanıyor. Elini yanma halinden yanmama haline geçirecek rastgele bir seri harek
 yapıyor, çekiyor itiyor, bir şekilde eski duruma geri dönüyor, sonra da ağlıyor.
 
 Hafızasında yanmak ile yanmamak arasında önceden olmayan bir fark var artık.
-Yanmak ve yanmamak aynı anda oluştu, adı henüz konmadı ama hayali sıcak. Bebek
-artık elinin yanmayacağı bir gelecek istiyor. Bu gelecek hayali geçmişteki yanma
-anısının üzerine kurulmuş görünüyor. Eli artan bir sıcaklıkla ısındığında ne
-yapacağını daha iyi biliyor ve önlemini alarak elini hızlıca geri çekiyor.
+Sanki olmayan bir şey yarıldı da yanma ve yanmama fikirleri aynı anda oluştu.
+Adı henüz konmadı belki ama hayali sıcak. Bebek artık elinin yanmayacağı bir
+gelecek istiyor. Bu gelecek hayali geçmişteki yanma anısının üzerine kurulmuş
+görünüyor. Eli artan bir sıcaklıkla ısındığında ne yapacağını daha iyi biliyor
+ve önlemini alarak elini hızlıca geri çekiyor.
 
 Geçmişime baktığımda iyi ya da kötü tüm anılarımı hatırlamamın mümkün olmadığını
 görüyorum. Yine de onların bıraktığı izler üzerimde, davranışlarımı
@@ -128,5 +129,61 @@ arayacak. İnançlarımın kapsamını daraltacağım ve onların bilgiye dönü
 bekleyeceğim. Sisin içine koşacak delikanlılık yılları geçti. Adım adım, geriye
 bakarak tasarladığım benliğimle ileriye yürüyeceğim. Tüm deneyimlerin yepyeni ve
 tek seferlik olduğunu varsayarak, her birini ayrı ayrı tartarak.
+
+Benliğimde tüm bunları yaşarken, içinde bulunduğum aile ve toplumdan bağımsız
+bir varlığım da diyemiyorum. Onlardan ayrıyım ama bağımsız değilim. Toplum
+olmadan ne ateşe elimi sokabilirim, ne de üniversitemi lisem ile
+kıyaslayabilirim. Benliğimi kurabilmem için topluma ihtiyaç duyuyorum. Toplum da
+benim gibi insanlardan oluşması itibariyle benliğime ihtiyaç duyuyor. Birey ile
+toplumu tanım olarak ayırmak kolay ama varlık olarak ayırmak pek mümkün
+görünmüyor.
+
+Benim hafızamın toplumun hafızasına ne gibi bir katkısı var? Toplum da benim
+gibi hafızasız olduğunda geçmişsiz, geleceksiz mi oluyor? Toplum hatırlar mı ya
+da unutur mu gibi söylemlerim bir benzetmeden ileri gidemez. Yine de parçası
+olduğum toplumu anlamak için kendimin dışına çıkıyormuş gibi yapmak istiyorum.
+Bedendışı bir deneyim yaşamak üzere gözlerimi kapatıyorum, içinde yaşadığım
+aileme, mahalleme, kültürüme ve tüm toplumuma doğru genişliyor, büyüyorum.
+
+Sadece benim için değil herhangi bir varlık için bilinç, üzerinde var olacağı
+bir benliğe ihtiyaç duyuyor gibi görünüyor. Benliğin de anılar ve etiketlerinden
+oluşan bir hafıza ile geçmişe bakılarak tasarlandığını düşünürsek, içinde
+büyüdüğüm toplum da kendisini tarihine göre her gün yeniden tasarlıyor olmalı.
+Toplumun elini yakması ve sonra ağlaması ne anlama gelirdi acaba? Toplumun
+büyümesi, bilinçlenmesi, gelişmesi. Hepsini kendi benliğimden hareket ederek
+anlıyor gibiyim. Anlamıyorum ama anlıyor gibi yapıyorum.
+
+Toplumun davranış kalıpları neler olabilir? Bir toplum için deneyim ne demektir?
+Toplumun duyu organları, eli ve kolu var mıdır? Bunu hayal etmek çok güç.
+Uzuvları var diyebiliyorum ama eli ve ayağı var diyebilmek zor geliyor.
+
+Deprem toplumsal deneyime iyi bir örnek olabilir. Bireyselin yanında toplumsal
+olarak da deneyimleniyor. Toplumun deprem ve benzeri felaketlere karşı güçlü bir
+hafıza geliştirdiğini tahmin ediyorum. Kıyamet ile deprem arasında bir bağ var
+gibi görünüyor. Toplum bir depremi yaşadığında onu kıyamet teması ile
+kavramsallaştırıyor ve efsanelerle benliklerimize işliyor. Depremlerden
+hareketle adeta kıyameti tasarlıyor. Ne zaman geleceği bilinmeyen, bir gün
+geleceğine inanılan, geçmişten mülhem bir gelecek tasarımı.
+
+Bu tasarım, temeline yaşadığı travmanın bıraktığı korkuyu alıyor. Hayatta kalmak
+için bir varlığın başvurması muhtemel bir duygu olan korku. En basit canlıdan en
+karmaşığına kadar tüm canlılarda gözlemleyebileceğimiz bu duygu toplumumun da
+yaşadığı bir duygu gibi görünüyor. Gelecekte elinin tekrar yanmaması için
+korkuya dayalı kendisi gibi dev bir efsane tasarlıyor.
+
+Bilinmezin karşılayan tek duygunun korku olmadığını benliğimden biliyorum.
+Kapsamı daraltılmış ve bilgiye gebe olan inançlarımın korku yerine bana güven
+vermesini sağlayabiliyorsam, toplumumun da bu dönüşümü yapabildiğini hayal
+etmekte özgürüm demektir. Geleceğe doğru temkinli adımlar atmak birey için
+olduğu kadar toplum için de mümkün olabilir. Bir sonraki depremin ne zaman
+olacağını bilmiyoruz, ama geçmiş depremleri biliyoruz. Geçmiş bir depremden bir
+gün önce onu bilseydik, bireysel ve toplumsal olarak ne yapabilirdik? Gece gelen
+bir deprem için ne önlem alınabilirdi, gündüz gelen için ne alınabilirdi?
+
+Her deneyim benim için olduğu gibi toplumum için de yepyeni ve tek seferlik.
+Gelecek tıpkı bana olduğu gibi toplumuma da belirsiz. Bu gerçeklikler dahilinde
+elimde olan tek şeyin geçmiş deneyimler ve onlarla ilgili ortaya attığım, mutlak
+olmayan, sürekli değişen tasarımlar olduğunu kabul etmek içimi rahatlatıyor.
+Korku dağılıyor, yerini güvene bırakıyor.
 
 {% include tasarlama-meselesi/footer.html %}
