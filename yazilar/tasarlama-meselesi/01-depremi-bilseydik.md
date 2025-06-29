@@ -28,7 +28,7 @@ edebilirim ama o zaman o kareleri gören gözlerim bunları hafızama kazırken 
 bir sistem ile kodladı hiçbir fikrim yok. Var olan yalnızca birkaç kare.
 
 Bir bebeğin ateşten korkmaması ve yakıcı sıcağa korkusuzca elini uzatması yanma
-hissine dair bir hafızasının olmaması ile ilgili olsa gerek. Varlığı geçmişte
+hissine dair bir hafızasının olmaması ile ilgili olsa gerek. Varlığı, geçmişte
 yaşadıklarının izlerinden oluşan hafızasından ibaret. Her yaşadığı deneyim yeni
 olabilir ama yepyeni değil. Eli de bir anda ateşe girmiyor, önce biraz sıcaklık
 hissediyor, sonra daha fazla, sonra yanıyor. "Yandım!" demiyor belki ama fiilen
@@ -54,7 +54,7 @@ aralarında kronolojik olmasa da mantıksal ilişki kuruyorum. Canımı yakan ş
 ister üç ister onüç yaşımda olsun, yan yana duruyorlar. Bu sınıflandırma öyle
 tek boyutlu da değil. Aynı anının üzerine yapıştırılmış başka başka etiketler
 var. Bir süre sonra hangi etiketleri kullandığımı ayrı yerlere yazıp onları da
-etiketlemeye başlıyorum. Sonra etiketler gruplarına yapıştırdığım etiketleri de
+etiketlemeye başlıyorum. Sonra etiket gruplarına yapıştırdığım etiketleri de
 grupluyorum. Koca bir yığın. Şu an gerçek anıların sayısı mı çok etiketlerin
 sayısı mı çok emin değilim. Önemli değil. Etiketlemeye devam.
 
