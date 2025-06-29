@@ -70,15 +70,15 @@ deneyimlerin arasında ilk defa gelen yepyeni deneyimler de her zaman olacak.
 Bunlara hafızamdaki etiket yığının bir yerinde bir yer ayırmam işleri
 kolaylaştırıyor. Mesela üniversite yıllarım önceki okullar gibi geçmedi. Sıralar
 sıra gibi değil, hocalar hoca gibi değil, her şey farklı. Yine de sonuçta ders
-alıyoruz sınava giriyoruz. Eski yöntemlerim tam işe yaramıyor gibi olsa da bir
+alıyoruz, sınava giriyoruz. Eski yöntemlerim tam işe yaramıyor gibi olsa da bir
 süre sonra adapte olup üniversiteye de alışabiliyorum.
 
 Peki ya bir şey hem yepyeni hem de tek seferlik olursa? Daha önce hiç böyle bir
 şey olmuş muydu? Yepyeni ve tek seferlik olan şeyleri nasıl hatırlayacağım?
-Hatırlamıyorsam bu fikir nereden doğdu? Güneş hem yepyeni hem de tek seferlik.
-Kendi başına bir şey ve ikincisi yok. Dünya için öyle olabilir. Benim için ise
-her gün doğup batıyor, her gün yeni bir güneş var. Güneşi Dünya'nın algıladığı
-gibi algılayamıyorum.
+Hatırlamıyorsam bu fikir nereden doğdu? Güneş hem yepyeni hem de tek seferlik
+olabilir mi? Kendi başına bir şey ve ikincisi yok. Belki Dünya için öyle
+olabilir ama benim için her gün doğup batıyor. Benim için her gün yeni bir güneş
+var, yepyeni bir Güneş yok. Güneşi Dünya'nın algıladığı gibi algılayamıyorum.
 
 Anneannemin ölümünü hatırladım. Yepyeni ve tek seferlikti. O tekrar ölemez,
 başkaları ölebilir ama onlar da anneannem değiller. Özenle tasniflediğim
@@ -116,17 +116,17 @@ gelecek yansıtılmış da ona doğru deli gibi koşmuşum. Gerçek olup olmadı
 bilmeden, gerçek olacağını umarak.
 
 Geleceğe ışık tuttuğumda aslında elime geçen tek şey belirsizliğin belirmesini
-sağlamak oluyor. Bunu kabul etmek bir çocuk için zor olsa gerek, büyüklerim
-orada bir hayal olduğuna inandırıyor. Bulutlara baktığımda olmayan şekilleri
-gördüğümü sandığım gibi o sisin üstündeki ışık da sanki belirsizliği yarıp bir
-tünel açıyor sanıyorum.
+sağlamak oluyor. Bunu kabul etmek bir çocuk için zor olduğundan olsa gerek,
+büyükler çocukları orada bir hayal olduğuna inandırıyor. Bulutlara baktığımda
+olmayan şekilleri gördüğümü sandığım gibi o sisin üstündeki ışık da sanki
+belirsizliği yarıp bir tünel açtı sanmışım.
 
 Öyle ya da böyle, hayatı karşılamamı sağlayan bir benlik geliştirdim. Bu benliği
-hep geçmişe bakarak tasarladım. Öyle yapmaya devam edeceğim. Daha temkinli
+aslında geçmişe bakarak tasarladım. Öyle yapmaya devam edeceğim. Daha temkinli
 adımlarla bir ayağım geçmişte, bir ayağım geleceği yoklayarak sağlam zemin
 arayacak. İnançlarımın kapsamını daraltacağım ve onların bilgiye dönüşmesini
-bekleyeceğim. Sisin içine koşacak delikanlılık yılları geçti. Adım adım,
-geçmişime bakarak tasarladığım benliğimle geleceğe yürüyeceğim. Tüm deneyimlerin
-yepyeni ve tek seferlik olduğunu varsayarak, her birini ayrı ayrı tartarak.
+bekleyeceğim. Sisin içine koşacak delikanlılık yılları geçti. Adım adım, geriye
+bakarak tasarladığım benliğimle ileriye yürüyeceğim. Tüm deneyimlerin yepyeni ve
+tek seferlik olduğunu varsayarak, her birini ayrı ayrı tartarak.
 
 {% include tasarlama-meselesi/footer.html %}
