@@ -140,7 +140,7 @@ görünmüyor.
 
 Benim hafızamın toplumun hafızasına ne gibi bir katkısı var? Toplum da benim
 gibi hafızasız olduğunda geçmişsiz, geleceksiz mi oluyor? Toplum hatırlar mı ya
-da unutur mu gibi söylemlerim bir benzetmeden ileri gidemez. Yine de parçası
+da unutur mu gibi söylemlerim birer benzetmeden ileri gidemez. Yine de parçası
 olduğum toplumu anlamak için kendimin dışına çıkıyormuş gibi yapmak istiyorum.
 Bedendışı bir deneyim yaşamak üzere gözlerimi kapatıyorum, içinde yaşadığım
 aileme, mahalleme, kültürüme ve tüm toplumuma doğru genişliyor, büyüyorum.
@@ -171,7 +171,7 @@ karmaşığına kadar tüm canlılarda gözlemleyebileceğimiz bu duygu toplumum
 yaşadığı bir duygu gibi görünüyor. Gelecekte elinin tekrar yanmaması için
 korkuya dayalı kendisi gibi dev bir efsane tasarlıyor.
 
-Bilinmezin karşılayan tek duygunun korku olmadığını benliğimden biliyorum.
+Bilinmezi karşılayan tek duygunun korku olmadığını benliğimden biliyorum.
 Kapsamı daraltılmış ve bilgiye gebe olan inançlarımın korku yerine bana güven
 vermesini sağlayabiliyorsam, toplumumun da bu dönüşümü yapabildiğini hayal
 etmekte özgürüm demektir. Geleceğe doğru temkinli adımlar atmak birey için
