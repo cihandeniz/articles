@@ -41,12 +41,12 @@ sistem ile kodladı hiçbir fikrim yok. Var olan yalnızca birkaç kare.
 Bir bebeğin ateşten korkmaması ve elini ateşin içine bir şey olmayacakmış gibi
 uzatması yanma hissine dair bir hafızasının olmaması ile ilgili olsa gerek.
 Sonuçta elinde yalnızca geçmişte yaşadıklarının izlerinden oluşan hafızası var.
-Her deneyim yeni olsa da yepyeni değil. Sıcağı daha önce deneyimlemiştir ve yine
-deneyimliyordur ama yanma gibi yepyeni bir deneyim henüz yoktur. Eli de bir anda
-yanmıyor zaten; önce biraz sıcaklık hissediyor, sonra daha fazla, en sonunda
-yanıyor. Bebek "Yandım!" diyemiyor belki ama fiilen yanıyor. Elini yanma
-halinden yanmama haline geçirecek rastgele bir seri hareket yapıyor, çekiyor
-itiyor, bir şekilde eski duruma geri dönüyor, sonra da ağlıyor.
+Sıcağı daha önce deneyimlemiştir ve yine deneyimliyordur ama yanma gibi yepyeni
+bir deneyim henüz yoktur. Eli de bir anda yanmıyor zaten; önce biraz sıcaklık
+hissediyor, sonra daha fazla, en sonunda yanıyor. Bebek "Yandım!" diyemiyor
+belki ama fiilen yanıyor. Elini yanma halinden yanmama haline geçirecek rastgele
+bir seri hareket yapıyor, çekiyor itiyor, bir şekilde eski duruma geri dönüyor,
+sonra da ağlıyor.
 
 Hafızasında yanmak ve yanmamak diye önceden olmayan bir fark var artık. Sanki
 bir şey yarıldı da yanma ve yanmama fikirleri oluştu. Adı henüz konmadı belki
