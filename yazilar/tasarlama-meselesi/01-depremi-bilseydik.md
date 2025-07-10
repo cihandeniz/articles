@@ -2,45 +2,59 @@
 title: Depremi Bilseydik
 ---
 
-Geleceğe ışık tutmak ne demektir? Gelecek, gelene kadar ne olacağı bilinemeyen
-bir şey ise ona ışık tutmak mümkün müdür? Bilinmesi mümkün olmayan geleceğin
-hayalimde belirmesini bekliyorum ve buna erişemeyeceğimi biliyorum ama yine de
-istiyorum. Neden? Eksik olan bir şey mi var ve varsa nedir? Bir şeyin
-eksikliğini hissetmem için önce onun varlığını deneyimlemiş olmam gerekir gibi
-geliyor. Bir konserde basın varlığını sesi kesilene kadar anlayamamak gibi. Ya
-da ilk kez üşüyene kadar ısınma ihtiyacı duymamak gibi.
+Geleceğe ışık tutmak ne demektir? Eğer gelecek gelene kadar ne olacağı
+bilinemeyen bir şey ise ona ışık tutmak nasıl mümkündür ya da mümkün müdür?
+Bilinmesi mümkün olmayan geleceğin hayalimde belirmesini ısrarla bekliyorum.
+Bunun erişilemez olduğunu biliyorum ama yine de istiyorum. Neden? Bir şey mi
+eksik ve eksikse nedir? Bir şeyin eksikliğini hissetmem için önce onun varlığını
+deneyimlemiş olmam gerekir gibi geliyor. Konserde bas sesinin varlığını ancak
+durduğunda anlamak gibi. Ya da ilk kez üşüyene kadar ısınma ihtiyacı duymamak
+gibi.
 
-Geçmişimi tamamen silersem, geleceğin bilinmezliğine duyduğum endişe ortadan
-kalkar. Tutmak istediğim ışığın hayali dahil tüm hafızam silinince geçmiş ile
-beraber gelecek fikri de ortadan kalkacaktır. Tüm duyularımı kapatırsam yeni
-hafızalar da edinmemiş olurum, böylece hafızasız ve duyusuz benliğim asla
-hatırlayamayacağı anlarla umursamadığı geleceğe doğru yol alır. Yol almamın
-benim için önemi yoksa, geçmişimle beraber geleceğim de yok olur, ben de yok
-olurum.
+O halde geçmişimi tamamen silersem, geleceğin bilinmezliğine duyduğum endişe
+ortadan kalkar. Tutmak istediğim ışığın hayali de dahil olmak üzere tüm hafızam
+silinince geçmiş ile beraber gelecek fikri de ortadan kalkacaktır. Duyularımı
+kapatırsam yeni hafızalar edinmemiş olurum. Böylece hafızasız ve duyusuz
+benliğim asla hatırlayamayacağı anlarla umursamadığı geleceğe doğru yol alır.
+Geleceği merak edemez hale gelirim. Bu durumda geçmişimle beraber geleceğim de
+yok olur. Ben de yok olurum.
 
-Bebekliğimi ailemden ve fotoğraflardan dolaylı olarak öğreniyorum. Doğrudan
-bilemiyorum ya da hatırlamıyorum. Sanki bebekliğim benliğimin içine dolacağı boş
-bir kap gibi. Şekli belli ve ben içine zamanla doluyorum. Benlikten yoksun bu
-beden duyularını kullanmayı dahi bilmiyor. Doğrudan hatırladığım ilk anım üç
-yaşından öncesi değil, belki biraz öncesi pek hatırlamıyorum. Anı bile denemez,
-yalnızca birkaç kare. Ne anlama geldiğini bugün düşününce belki biraz tasvir
-edebilirim ama o zaman o kareleri gören gözlerim bunları hafızama kazırken nasıl
-bir sistem ile kodladı hiçbir fikrim yok. Var olan yalnızca birkaç kare.
+Daha önce hiç yok olmuş muydum? Uyuduğum anlar yokluğa biraz benziyor.
+Geçirdiğim ameliyatları düşünürsem, o anlarda tamamen yok gibiyim. Karanlık bile
+değil, o kesit adeta hiç yok. Bu yok olmuşlukları sadece öncesi ve sonrasıyla
+anımsayabiliyorum ama yokluğun kendisini hatırlayamıyorum. Öyle olsaydı bu durum
+zaten kendi içinde çelişkili olurdu ve hatırladığım bir şey olduğuna göre "yok
+değilmişim" derdim. Uyku hali buna iyi bir örnek teşkil ediyor. Rüyalar, yarı
+uyanıklıklar ve en önemlisi arada geçen zamanı hissetmek. Sanki yokluk
+hatırlanabilecek bir şey değil de yalnızca üstüne düşünülebilecek bir şey. Madem
+öyle, en başa, gerçekten yok olduğum zamana gideyim ve gelecek merakımı
+geçmişimde arayayım.
 
-Bir bebeğin ateşten korkmaması ve yakıcı sıcağa korkusuzca elini uzatması yanma
-hissine dair bir hafızasının olmaması ile ilgili olsa gerek. Varlığı, geçmişte
-yaşadıklarının izlerinden oluşan hafızasından ibaret. Her yaşadığı deneyim yeni
-olabilir ama yepyeni değil. Eli de bir anda ateşe girmiyor, önce biraz sıcaklık
-hissediyor, sonra daha fazla, sonra yanıyor. "Yandım!" demiyor belki ama fiilen
-yanıyor. Elini yanma halinden yanmama haline geçirecek rastgele bir seri hareket
-yapıyor, çekiyor itiyor, bir şekilde eski duruma geri dönüyor, sonra da ağlıyor.
+Bebekliğimi ailemden ve fotoğraflardan, dolaylı olarak öğreniyorum. Doğrudan
+bilemiyorum. Sanki bebekliğim, benliğimin içine dolacağı boş bir kap gibi. Şekli
+belli ve ben içine zamanla doluyorum. Benlikten yoksun bu beden duyularını
+kullanmayı dahi bilmiyor. Doğrudan hatırladığım ilk hatıram üç yaşımdan öncesi
+değil. Belki biraz öncesidir, pek hatırlamıyorum. Hatıra bile denemez, yalnızca
+birkaç kare. Ne anlama geldiğini bugün düşündüğümde biraz tasvir edebilirim
+belki ama o zaman o kareleri gören gözlerim bunları hafızama kazırken nasıl bir
+sistem ile kodladı hiçbir fikrim yok. Var olan yalnızca birkaç kare.
 
-Hafızasında yanmak ile yanmamak arasında önceden olmayan bir fark var artık.
-Sanki olmayan bir şey yarıldı da yanma ve yanmama fikirleri aynı anda oluştu.
-Adı henüz konmadı belki ama hayali sıcak. Bebek artık elinin yanmayacağı bir
-gelecek istiyor. Bu gelecek hayali geçmişteki yanma anısının üzerine kurulmuş
-görünüyor. Eli artan bir sıcaklıkla ısındığında ne yapacağını daha iyi biliyor
-ve önlemini alarak elini hızlıca geri çekiyor.
+Bir bebeğin ateşten korkmaması ve elini ateşin içine bir şey olmayacakmış gibi
+uzatması yanma hissine dair bir hafızasının olmaması ile ilgili olsa gerek.
+Sonuçta elinde yalnızca geçmişte yaşadıklarının izlerinden oluşan hafızası var.
+Her deneyim yeni olsa da yepyeni değil. Sıcağı daha önce deneyimlemiştir ve yine
+deneyimliyordur ama yanma gibi yepyeni bir deneyim henüz yoktur. Eli de bir anda
+yanmıyor zaten; önce biraz sıcaklık hissediyor, sonra daha fazla, en sonunda
+yanıyor. Bebek "Yandım!" diyemiyor belki ama fiilen yanıyor. Elini yanma
+halinden yanmama haline geçirecek rastgele bir seri hareket yapıyor, çekiyor
+itiyor, bir şekilde eski duruma geri dönüyor, sonra da ağlıyor.
+
+Hafızasında yanmak ve yanmamak diye önceden olmayan bir fark var artık. Sanki
+bir şey yarıldı da yanma ve yanmama fikirleri oluştu. Adı henüz konmadı belki
+ama hayali sıcak. Bebek artık elinin yanmayacağı bir gelecek istiyor. Bu gelecek
+hayali geçmişteki yanma anısının üzerine kurulmuş görünüyor. Artık eli artan bir
+sıcaklıkla ısındığında ne yapacağını daha iyi biliyor ve önlemini alarak elini
+hızlıca geri çekiyor.
 
 Geçmişime baktığımda iyi ya da kötü tüm anılarımı hatırlamamın mümkün olmadığını
 görüyorum. Yine de onların bıraktığı izler üzerimde, davranışlarımı
