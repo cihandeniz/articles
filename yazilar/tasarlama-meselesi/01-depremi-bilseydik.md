@@ -4,12 +4,11 @@ title: Depremi Bilseydik
 
 Geleceğe ışık tutmak ne demektir? Eğer gelecek gelene kadar ne olacağı
 bilinemeyen bir şey ise ona ışık tutmak nasıl mümkündür ya da mümkün müdür?
-Bilinmesi mümkün olmayan geleceğin hayalimde belirmesini ısrarla bekliyorum.
-Bunun erişilemez olduğunu biliyorum ama yine de istiyorum. Neden? Bir şey mi
-eksik ve eksikse nedir? Bir şeyin eksikliğini hissetmem için önce onun varlığını
-deneyimlemiş olmam gerekir gibi geliyor. Konserde bas sesinin varlığını ancak
-durduğunda anlamak gibi. Ya da ilk kez üşüyene kadar ısınma ihtiyacı duymamak
-gibi.
+Israrla bilinemez geleceğin hayalimde belirmesini istiyorum. Erişilemez olduğunu
+biliyorum ama yine de istiyorum. Neden? Eksik bir şey mi var ve varsa nedir? Bir
+şeyin eksikliğini hissetmem için önce onun varlığını deneyimlemiş olmam gerekir
+gibi geliyor. Konserde bas sesinin varlığını ancak durduğunda anlamak gibi. Ya
+da ilk kez üşüyene kadar ısınma ihtiyacı duymamak gibi.
 
 O halde geçmişimi tamamen silersem, geleceğin bilinmezliğine duyduğum endişe
 ortadan kalkar. Tutmak istediğim ışığın hayali de dahil olmak üzere tüm hafızam
