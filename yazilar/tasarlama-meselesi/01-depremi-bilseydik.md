@@ -2,14 +2,13 @@
 title: Depremi Bilseydik
 ---
 
-Geleceğe ışık tutmak ne demektir? Gelecek, gerçekleşene kadar ne olacağı
-bilinemeyen bir şey. Bu durumda ona ışık tutmak nasıl mümkün olabilir? Geleceği
-önceden berrak bir şekilde hayal etmek istiyor olmam bir iç çelişki gibi
-görünüyor. Ne kadar çelişkili olsa da bu isteğimden vazgeçemiyorum. Neden?
-Sanki eksik bir şey var ve onu elde etmek istiyor gibiyim. Bir şeyin eksikliğini
-hissetmem için önce onun varlığını deneyimlemiş olmam gerekir. Tıpkı bir
-konserde bas sesini ancak sustuğunda fark etmek gibi. Ya da ilk kez üşüyene
-kadar ısınma ihtiyacı duymamak gibi.
+Geleceğe ışık tutmak ne demektir? Gelecek, gelene kadar bilinemeyen bir şey ise
+ona ışık tutmak mümkün müdür? Geleceği önceden berrak bir şekilde hayal etmek
+istiyor olmam bir iç çelişki gibi görünüyor. Ne kadar çelişkili olsa da bu
+isteğimden vazgeçemiyorum. Neden?  Sanki eksik bir şey var ve onu elde etmek
+istiyor gibiyim. Bir şeyin eksikliğini hissetmem için önce onun varlığını
+deneyimlemiş olmam gerekir. Tıpkı bir konserde bas sesini ancak sustuğunda fark
+etmek gibi. Ya da ilk kez üşüyene kadar ısınma ihtiyacı duymamak gibi.
 
 Bu çelişkiden kurtulmak adına geçmişimi tamamen silmeyi deneyeyim. Bu şekilde o
 eksiklik duygusunu da yok edeceğim. Tutmak istediğim ışığın hayali de dahil tüm
@@ -90,23 +89,25 @@ Sonra etiket gruplarına yapıştırdığım etiketleri de grupluyorum. Koca bir
 Şu an gerçek anıların sayısı mı çok, etiketlerin sayısı mı, emin değilim.
 Önemli değil. Etiketlemeye devam.
 
-Davranışlarımı her duruma özel olarak şekillendirmem pek mümkün görünmüyor.
-Hayat karşıma yeni bir deneyim getirdiğinde, öncekileri hafızamda tarıyorum.
-Benzer durumlarda beni iyiye götüren davranışları seçip uyguluyorum. Aldığım
-sonuca göre hala iyi olanları saklayıp, diğerlerinden hemen vazgeçiyorum.
-Böylece geçmişimin geleceğime ışık tutmasına izin veriyorum. Benliğim,
-geçmişimin izleri ile geleceğimin olasılıklarının tam ortasında yükseliyor.
-Böylece bedenimi benliğimle doldurdum ve artık varım. Geleceğim ise aydınlık.
+Bu etiketler birer tasarım görevi görüyorlar. Yeni olaylar yaşadığımda
+davranışlarımı bu hazır tasarımları kullanarak belirliyorum. Her duruma özel
+olarak davranış şekillendirmem pek mümkün görünmüyor. Hayat karşıma yeni bir
+durum getirdiğinde, hazır tasarımlarımı hafızamda tarıyorum. Benzer durumlarda
+beni iyiye götürenleri seçip uyguluyorum. Aldığım sonuca göre hala iyi olanları
+saklayıp, diğerlerinden vazgeçiyorum. Böylece geçmişimin geleceğime ışık
+tutmasına izin veriyorum. Benliğim, geçmişimin izleri ile geleceğimin
+olasılıklarının tam ortasında yükseliyor. Bedenim benliğimle doldu ve artık
+varım. Geleceğim ise aydınlık.
 
 Deneyimlerim yalnızca tekrarlayan yeni deneyimlerden ibaret olamaz. Öyle olsaydı
-ilk deneyim yepyeni olduğu için hiçbir deneyimim olamamış olurdu. Demek ki
-tekrar eden yeni deneyimlerin arasında ilk defa gelen yepyeni deneyimler de her
-zaman olacak. Bunlar için etiket yığınımın içinden hazır birkaç tane seçmek
-işimi kolaylaştırıyor. Mesela üniversite yıllarım önceki lise ya da ortaokul
-gibi geçmedi. Sıraları sıra gibi değil, hocaları hoca gibi değil. Her şeyiyle
-farklı. Bir açıdan da sonuçta ders alıyoruz, sınava giriyoruz. Mevcut etiketler
-tam oturmasa da çoğunlukla onları kullanıyorum. Nadiren de olsa yeni etiket
-yazdığım oluyor. Bir süre sonra adapte olup üniversiteye de alışabiliyorum.
+ilk deneyim yepyeni olacağı için hiçbir deneyimim olamamış olurdu. Demek ki
+tekrar eden yeni deneyimler ile beraber, ilk defa gelen yepyeni deneyimler de
+her zaman olacak. Mesela üniversite yıllarım önceki lise ya da ortaokul yıllarım
+gibi geçmiyor. Sıraları sıra gibi değil, hocaları hoca gibi değil. Her şeyiyle
+farklı. Bir açıdan da sonuçta ders alıyoruz ve sınava giriyoruz dolayısıyla
+tanıdık. Nadiren yeni etiket yazdığım da oluyor ama mevcut etiketler tam
+oturmasa da çoğunlukla onları kullanıyorum. Bir süre sonra adapte olup
+üniversiteye de alışabiliyorum.
 
 Peki ya bir şey hem yepyeni hem de tek seferlik olursa? Daha önce böyle bir şey
 olduğundan emin değilim. Yepyeni ve tek seferlik olan şeyleri hatırlamak oldukça
@@ -129,46 +130,46 @@ Böyle bir kayıp için hazırlıklı olabilir miydim? Hiç kayıp yaşamamış 
 hazırlanabilir mi? Peki sevdiğim biricik insanları kaybettiğimde bunlar
 öncekilerin tekrarı mı olacaklar? Sanmıyorum. Nasıl başa çıkacağım?
 
-Konu yalnızca kayıplar değil. Kazanımlar, başarılar, kavuşmalar, ayrılıklar,
-üzüntüler, sevinçler. Benliğim yepyeni tek seferlik deneyimlere hazırlanmanın
-yollarını bulmakta zorlanıyor ama bunlara tasalanmanın da bana bir faydası
-olmuyor. Geçmiş tasarımlarım yalnızca beklenen ve tekrar eden geleceği
-karşılamaya yetiyor. Yıllar geçip deneyimlendikçe, kendi içinde tutarlı bir
-hafıza tasnifi imkansızlaşıyor. Hafızam genişledikçe daha fazla etiket
-gerekiyor. Bu da deneyimler arasında daha hassas ayrımlara sebep oluyor.
-Benliğim daha yüksek çözünürlüklere geçiyor. Çözünürlük arttıkça deneyimlerin
-hepsi yepyeni tek seferlik gibi görünmeye başlıyor. Beklenen gelecek fikri
-gençlikle birlikte geçmişte kalıyor. Gelecek tamamen belirsiz, öngörülemez,
-tahmin edilemez, tasarlanamaz.
+Şüphesiz konu yalnızca kayıplar değil. Kazanımlar, başarılar, kavuşmalar,
+ayrılıklar, üzüntüler, sevinçler. Benliğim bu yepyeni tek seferlik deneyimlere
+hazırlanmanın yollarını bulmakta zorlanıyor. Mevcut tüm tasarımlarım yalnızca
+çok sapmadan geçmişin tekrarı olan bir geleceği karşılamaya yetiyor. Yıllar
+geçtikçe, kendi içinde tutarlı bir hafıza tasnifi imkansızlaşıyor. Hafızam
+genişledikçe daha fazla etiket gerekiyor. Bu da deneyimler arasında daha hassas
+ayrımlara sebep oluyor. Benliğim daha yüksek çözünürlüklere geçiyor. Çözünürlük
+arttıkça bu kez deneyimlerin hepsi yepyeni tek seferlik gibi görünmeye başlıyor.
+Beklenen ve tanıdık bir gelecek fikri gençlikle birlikte geçmişte kalıyor.
+Gelecek tamamen belirsiz, öngörülemez, tahmin edilemez, tasarlanamaz.
 
-Geleceğin kaçınılmaz belirsizliği, geçmişten gelen güvenli gelecek hissi ile
-birleştiğinde içimi korku sarıyor. Gelecek korkusunu yenmek için elimdeki tek
-yöntem ona ışık tutma arzusu. Geleceğe ışık tutmak ne demektir? Gelecek, gelene
-kadar ne olacağı bilinemeyen bir şey ise ona ışık tutmak mümkün müdür?
+Artık bir yanda geleceğin kaçınılmaz belirsizliği duruyor. Diğer yanda ise
+geçmişten gelen belirli ve güvenli bir gelecek düşüncesi. Bu çelişki içime korku
+salıyor. Gelecek korkusundan kurtulmak için bildiğim tek fikir hala ona ışık
+tutmak. Geleceğe ışık tutmak ne demektir? Gelecek, gelene kadar bilinemeyen bir
+şey ise ona ışık tutmak mümkün müdür?
 
-Küçüklükte bu kadar kolay olan şey yetişkinlikte nasıl bu kadar zorlaşabiliyor,
-anlamıyorum. Geçmişsizliğin getirdiği, ve bugün yersiz olduğunu gördüğüm,
-özgüven ile açıklamakla yetinmek istemiyorum çünkü geçmişsizlik geleceği
-kolaylaştırıyor olsaydı bu geleceğin her zaman kolaylaştırılabilen bir şey
-olduğu anlamına gelirdi. Eğer gelecek kolaylaştırılabiliyorsa geçmişimi silmeden
-de geleceğimi kolaylaştırabiliyor olmam gerekir. Oysa gelecek her zaman ve
-zorunlu olarak sisli bir hava gibi belirsiz. Küçükken sanki o sisin üstüne bir
-gelecek yansıtılmış da ona doğru deli gibi koşmuşum. Gerçek olup olmadığını
-bilmeden, gerçek olacağını umarak.
+Küçüklükte bu kadar kolay olan bir şeyin yetişkinlikte nasıl olup da bu kadar
+zorlaşabildiğini anlamakta güçlük çekiyorum. O kolaylığı, deneyimsizliğin
+getirdiği ve bugün yersiz olduğunu gördüğüm özgüven ile açıklayıp geçmek
+istemiyorum. Çünkü deneyimsizlik geleceği kolaylaştırıyor olsaydı, bu, geleceğin
+kolaylaştırılabilen bir şey olduğu anlamına gelirdi. Eğer öyleyse geçmişimi
+silmeden de geleceğimi kolaylaştırabiliyor olmam gerekir. Oysa gelecek her zaman
+ve zorunlu olarak sisli bir hava gibi belirsiz. O halde küçükken o sisin üstüne
+bir gelecek yansıtılmış ve ona doğru deli gibi koşmuş olmalıyım. Gerçek olup
+olmadığını bilmeden, olacağını umarak.
 
-Geleceğe ışık tuttuğumda aslında elime geçen tek şey belirsizliğin belirmesini
-sağlamak oluyor. Bunu kabul etmek bir çocuk için zor olduğundan olsa gerek,
-büyükler çocukları orada bir hayal olduğuna inandırıyor. Bulutlara baktığımda
-olmayan şekilleri gördüğümü sandığım gibi o sisin üstündeki ışık da sanki
-belirsizliği yarıp bir tünel açtı sanmışım.
+Geleceğe ışık tuttuğumda aslında yalnızca onun belirsizliğinin ortaya çıktığını
+görüyorum. Bunu kabul etmek küçükler için zor olduğundan olsa gerek, büyükler
+küçükleri orada bir şeyler olduğuna inandırıyor. Bulutlara baktığımda nasıl
+olmayan şekiller görebiliyorsam, o sisin üstüne tutulan ışık da bir gelecek
+görmemi sağlamış.
 
-Öyle ya da böyle, hayatı karşılamamı sağlayan bir benlik geliştirdim. Bu benliği
-aslında geçmişe bakarak tasarladım. Öyle yapmaya devam edeceğim. Daha temkinli
-adımlarla bir ayağım geçmişte, bir ayağım geleceği yoklayarak sağlam zemin
-arayacak. İnançlarımın kapsamını daraltacağım ve onların bilgiye dönüşmesini
-bekleyeceğim. Sisin içine koşacak delikanlılık yılları geçti. Adım adım, geriye
-bakarak tasarladığım benliğimle ileriye yürüyeceğim. Tüm deneyimlerin yepyeni ve
-tek seferlik olduğunu varsayarak, her birini ayrı ayrı tartarak.
+Öyle ya da böyle, hayatı karşılamamı sağlayan bir benlik geliştirmiş oldum. Bu
+benliği ise geçmişe bakarak tasarladım. Daha iyi bir yol bulana kadar bunu
+yapmaya devam edeceğim. Temkinli adımlarla bir ayağım geçmişte, bir ayağım
+geleceği yoklayarak sağlam zemin arayacak. İnançlarımın kapsamını daraltacağım
+ve onların bilgiye dönüşmesini bekleyeceğim. Sisin içine koşacak delikanlılık
+yılları geçti. Her deneyimin yepyeni ve tek seferlik olduğunu varsayıp, geçmişe
+bakarak tasarladığım benliğimle adım adım geleceğe yürüyeceğim.
 
 Benliğimde tüm bunları yaşarken, içinde bulunduğum aile ve toplumdan bağımsız
 bir varlığım da diyemiyorum. Onlardan ayrıyım ama bağımsız değilim. Toplum
