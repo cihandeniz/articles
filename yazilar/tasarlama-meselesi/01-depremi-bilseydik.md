@@ -21,7 +21,7 @@ edemez hale gelirim ve geçmişimle beraber geleceğim de yok olur. O halde ben 
 yok olmuş olurum.
 
 Daha önce hiç yok olmuş muydum? Belki uyku halini yokluğa benzetebilirim. Ya da
-geçirdiğim ameliyatları düşlünüyorum, onlar yokluğa daha çok benziyorlar. O
+geçirdiğim ameliyatları düşünüyorum, onlar yokluğa daha çok benziyorlar. O
 anlarda tamamen yok gibiyim. Hayatımın o kesiti karanlık dahi değil, adeta hiç
 yok. Bunlar yokluğun kendisinden ziyade, yok olmuşluğu öncesi ve sonrasıyla
 anlayabildiğim deneyimlerim. Yokluğun kendisini doğrudan hatırlayamıyorum. Öyle
