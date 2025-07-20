@@ -16,4 +16,4 @@ title: Hiyerarşik Akıl - Demokratik Akıl
 - İkinci modernlik - yeni aydınlanmacılık
 - Dünya tasarımının meta-skill'ler ile revizyonu
 
-{% include tasarlama-meselesi/footer.html %}
+{% include tasarim-meselesi/footer.html %}

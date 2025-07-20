@@ -1,11 +1,11 @@
 ---
-title: Tasarlama Meselesi
+title: Tasarım Meselesi
 ---
 
-Tasarlama hiyerarşik aklın tanrısallaştırdığı ancak demokratik akla göre teknik
+Tasarım hiyerarşik aklın tanrısallaştırdığı ancak demokratik akla göre teknik
 olan bir meseledir. Hiyerarşik akla göre üst bir tasarımcı tarafından yapılmış
 ve belirleyici nitelikteki tasarımlar, tasarlamadan sonra gelen aşamalarda alt
-uygulayıcıların tam olarak uyması gereken kalıplardır.  Bu akla göre alt
+uygulayıcıların tam olarak uyması gereken kalıplardır. Bu akla göre alt
 uygulayıcılar mükemmel tasarımı asla uygulayamayan eksik bireyler olmaktan
 nadiren kurtulabilirler. Tasarımın mükemmelliğinin imkansızlığı, tasarımın
 yalnızca var olan gerçeği temsil eden bir kalıp olduğu, tasarlamanın teknik bir
@@ -20,7 +20,7 @@ adımın en sonuna.
 ## İçindekiler
 
 {% for page in site.pages %}
-  {% if page.path contains 'yazilar/tasarlama-meselesi/' and page.url != '/yazilar/tasarlama-meselesi/' %}
+  {% if page.path contains 'yazilar/tasarim-meselesi/' and page.url != '/yazilar/tasarim-meselesi/' %}
   - [{{ page.title }}]({{ site.baseurl }}{{ page.url }})
   {% endif %}
 {% endfor %}
@@ -71,6 +71,5 @@ adımın en sonuna.
     olduğunu aktarır
   - bu sıçramalar ve sıçrama öncesi gelinen duvarlar, tasarımda doğrusal değil
     döngüsel yöntemlerin daha yenilikçi sonuçlar doğuracağını gösterirken; her
-    döngüde kontrollü yıkım ve yapımlara imkan tanıması açısından  yıkma ve
-    yapma becerilerinin bir meta-beceri olarak edinilmesinin öneminin de altını
-    çizer
+    döngüde kontrollü yıkım ve yapımlara imkan tanıması açısından yıkma ve yapma
+    becerilerinin bir meta-beceri olarak edinilmesinin öneminin de altını çizer

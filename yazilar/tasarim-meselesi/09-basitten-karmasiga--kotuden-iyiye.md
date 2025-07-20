@@ -21,4 +21,4 @@ title: Basitten Karmaşığa, Kötüden İyiye
 - Yanılma zorunluluğu, sürekli bütün kurma eylemi, anlam dünyasının sürekli
   yeniden tasarımı
 
-{% include tasarlama-meselesi/footer.html %}
+{% include tasarim-meselesi/footer.html %}

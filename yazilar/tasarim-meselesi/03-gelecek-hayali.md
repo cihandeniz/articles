@@ -16,4 +16,4 @@ title: Gelecek Hayali
   gidermeyi talep eder. Hangi tasarımın geleceğimizde yer edeceği ise zaman
   meselesidir.
 
-{% include tasarlama-meselesi/footer.html %}
+{% include tasarim-meselesi/footer.html %}

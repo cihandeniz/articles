@@ -14,4 +14,4 @@ title: Yaratmak, Yaratıcılık Üzerine
   - Yaratıcılık neden tasarım an(lar)ına endekslensin ki?
 - Yaratım ve oluşum, doğanın tasarım yöntemi ve kendiliğindenliği
 
-{% include tasarlama-meselesi/footer.html %}
+{% include tasarim-meselesi/footer.html %}

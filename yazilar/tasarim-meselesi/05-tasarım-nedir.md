@@ -1,5 +1,5 @@
 ---
-title: Tasarlamanın Neliği
+title: Tasarım Nedir?
 ---
 
 - Tasarımın işlev ile ilişkisi
@@ -45,4 +45,4 @@ title: Tasarlamanın Neliği
 - Hedefin (amacın) zorunlu belirsizliği, evdeki hesabın çarşıya uyamaması.
   Tasarlama sürecindeki yaratıcılığın kaynağı olarak amacın belirsizliği.
 
-{% include tasarlama-meselesi/footer.html %}
+{% include tasarim-meselesi/footer.html %}

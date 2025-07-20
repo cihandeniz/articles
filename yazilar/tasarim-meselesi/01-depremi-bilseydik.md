@@ -246,4 +246,4 @@ elimde olan tek şeyin geçmiş deneyimler ve onlarla ilgili ortaya attığım, 
 olmayan, sürekli değişen tasarımlar olduğunu kabul etmek içimi rahatlatıyor.
 Korku dağılıyor, yerini güvene bırakıyor.
 
-{% include tasarlama-meselesi/footer.html %}
+{% include tasarim-meselesi/footer.html %}
