@@ -3,12 +3,12 @@ title: Depremi Bilseydik
 ---
 
 Geleceğe ışık tutmak ne demektir? Gelecek, gelene kadar bilinemeyen bir şey ise
-ona ışık tutmak mümkün müdür? Gelecek, gelene kadar bilinemeyen bir şey ise onu
-önceden berrak bir şekilde hayal etmek istemek çelişkili. Yine de bu isteğimden
-vazgeçemiyorum. Neden? Sanki eksik bir şey var ve onu elde etmek istiyor
-gibiyim. Oysa bir şeyin eksikliğini hissetmem için önce onun varlığını
-deneyimlemiş olmam gerekir. Tıpkı bir konserde bas sesini ancak sustuğunda fark
-etmek gibi. Ya da ilk kez üşüyene kadar ısınma ihtiyacını hiç duymamak gibi.
+ona ışık tutmak mümkün müdür? Gelecek, böyle bir şey ise onu berrak bir şekilde
+hayal etmek istemek bir çelişkidir. Yine de bu isteğimden vazgeçemiyorum. Neden?
+Sanki eksik bir şey var ve onu elde etmek istiyor gibiyim. Oysa bir şeyin
+eksikliğini hissetmem için önce onun varlığını deneyimlemiş olmam gerekir. Tıpkı
+bir konserde bas sesini ancak sustuğunda fark etmek gibi. Ya da ilk kez üşüyene
+kadar ısınma ihtiyacını hiç duymamak gibi.
 
 Bu çelişkiden kurtulmak adına geçmişimi tamamen silmeyi deneyeyim. Geçmişimle
 beraber o eksiklik duygusu da yok olur diye tahmin ediyorum. Tutmak istediğim
@@ -23,7 +23,7 @@ Daha önce hiç yok olmuş muydum? Belki uyku halini yokluğa benzetebilirim. Ya
 geçirdiğim ameliyatları düşünüyorum, onlar yokluğa daha çok benziyorlar.
 Hayatımın o kesiti karanlık bile değil, hiç yok! Ancak bunlar yokluğun
 kendisinden ziyade, yok olmuşluğu öncesi ve sonrasıyla anlayabildiğim birer
-deneyim. Yokluğun kendisini doğrudan hatırlayamıyorum. Öyle olsaydı bu durum
+deneyimler. Yokluğun kendisini doğrudan hatırlayamıyorum. Öyle olsaydı bu durum
 zaten kendi içinde tutarsız olurdu ve "hatırladığım bir şey olduğuna göre yok
 değilmişim" derdim. Örneğin uyku hali için; rüyalar, yarı uyanıklıklar ve
 uyandıktan sonra uykuda geçen zamanı hissetmek o deneyimi mutlak yokluktan
@@ -73,21 +73,22 @@ arkadaş edinmemiz gibi.
 
 Geçmişi düşündüğümde, sonucu iyi ya da kötü olsun, çok sayıda anıya sahip
 olduğumu görüyorum. Her anının her detayını hatırlamam ise imkansız. Anılarla
-ilişkili net kareler birer imge olarak varlar ama detayları zamanla ve hızla
-kayboluyorlar. İzleri üzerimde ve ben farkında olmadan davranışlarımı
-biçimlendiriyorlar. Unuttuğum detayları davranışlarımı gözlemleyerek yeniden
-oluşturabiliyorum. Hafızamdaki anılar birer tarihi eser gibi. Eskiyen ya da
-bozulan parçalarını tarihi eserin geneline ve benzer diğer tarihi eserlere
-bakarak bulduğum aslına uygun yenileri ile değiştiriyorum. Anılarımı ancak bu
-şekilde hafızamda tutabiliyorum. İmgeler ve onları birbirine bağlayan yer yer
-aslına uygun kurgulanmış detaylar.
+ilişkili net kareler birer imge olarak varlar ama kopuk kopuk, neredeyse rüya
+gibi. Onları birbirine bağlayan detaylar zamanla (ve hızla) kayboluyorlar.
+İzleri üzerimde ve ben farkında olmadan davranışlarımı biçimlendiriyorlar.
+Unuttuğum detayları davranışlarımı gözlemleyerek yeniden oluşturabiliyorum.
+Hafızamdaki anılar birer tarihi eser gibi. Eskiyen ya da bozulan parçalarını
+tarihi eserin geneline ve benzer diğer tarihi eserlere bakarak bulduğum aslına
+uygun yenileri ile değiştiriyorum. Anılarımı ancak bu şekilde hafızamda
+tutabiliyorum. İmgeler ve onları birbirine bağlayan (ve yer yer aslına uygun
+kurgulanmış) detaylar.
 
 Bir yaştan sonra o kadar çok anı birikiyor ki; değil detaylarını, o net
 imgelerini bile hafızamda tutmam mümkün olmuyor. Bir sınıflandırma ile benzer
 anıları yan yana koyuyor, bu kez aralarında kronolojik değil niteliksel ilişki
 kuruyorum. Örneğin canımı yakan şeyler ister üç ister onüç yaşımda olsun, yan
-yana duruyorlar. Bu sınıflandırma öyle tek boyutlu da değil. Aynı hatıranın
-üzerine yapıştırılmış türlü türlü etiketler var. Bir süre sonra hangi etiketleri
+yana duruyorlar. Bu sınıflandırma öyle tek boyutlu da değil. Aynı anının üzerine
+yapıştırılmış birden fazla etiket olabiliyor. Bir süre sonra hangi etiketleri
 kullandığımı ayrı yerlere yazarak gruplayıp, onları da etiketlemeye başlıyorum.
 Sonra etiket gruplarına yapıştırdığım etiketleri de grupluyorum. Koca bir yığın.
 Şu an gerçek anıların sayısı mı çok, etiketlerin sayısı mı, emin değilim. Önemli
@@ -103,27 +104,27 @@ tutmasına izin veriyorum. Benliğim, geçmişimin izleri ile geleceğimin
 olasılıklarının tam ortasında yükseliyor. Bedenim benliğimle doldu ve artık
 varım. Geleceğim ise aydınlık.
 
-Deneyimlerim yalnızca tekrarlayan yeni deneyimlerden ibaret olamaz. Öyle olsaydı
-ilk deneyimin kendisi yepyeni olacağı için hiçbir deneyimim olamamış olurdu.
-Hayatın içindeki çeşitliliğe bakarsam yepyenilik yalnızca ilk deneyime özel
-değil diyebilirim. Demek ki tekrar eden yeni deneyimler ile beraber, ilk defa
-gelen yepyeni deneyimler de her zaman olacak. Mesela üniversite yıllarım önceki
-lise ya da ortaokul yıllarım gibi geçmiyor. Sıraları sıra gibi değil, hocaları
-hoca gibi değil. Her şeyiyle farklı. Bir açıdan da sonuçta ders alıyoruz ve
-sınava giriyoruz, dolayısıyla tanıdık. Nadiren yeni etiket yazdığım da oluyor
-ama mevcut etiketler tam oturmasa da çoğunlukla onları kullanıyorum. Bir süre
-sonra adapte olup üniversiteye de alışabiliyorum.
+Deneyimlerim yalnızca yeni ama tekrarlanan deneyimlerden ibaret olamaz. Öyle
+olsaydı hiçbir deneyimim olamamış olurdu çünkü ilk deneyim tekrarlanan bir
+deneyim değildir, yepyenidir. Hayatın içindeki çeşitliliğe bakarsam yepyenilik
+ilk deneyime özel bir şey gibi görünmüyor. Demek ki tekrar eden yeni deneyimler
+ile beraber, ilk defa gelen yepyeni deneyimler de her zaman olacak. Mesela
+üniversite yıllarım önceki lise ya da ortaokul yıllarım gibi geçmiyor. Sıraları
+sıra gibi değil, hocaları hoca gibi değil. Her şeyiyle farklı. Bir açıdan da
+sonuçta ders alıyoruz ve sınava giriyoruz, dolayısıyla tanıdık. Nadiren yeni
+etiket yazdığım da oluyor ama çoğunlukla tam oturmasa da mevcut etiketleri
+kullanıyorum. Bir süre sonra adapte olup üniversiteye de alışabiliyorum.
 
 Peki ya bir deneyim hem yepyeni hem de tek seferlik olursa? Daha önce böyle bir
 şey olduğundan emin değilim. Yepyeni ve tek seferlik olan deneyimleri hatırlamak
 zor. İyi de, hatırlayamıyorsam yepyeni ve tek seferlik deneyim fikri nereden
-doğdu? Güneş hem yepyeni hem de tek seferlik gibi görünüyor. Kendi başına bir
-şey ve ikincisi yok, dolayısıyla yepyeni. Kendisinin gidip yenisinin gelmesi de
-pek mümkün görünmüyor, dolayısıyla tek seferlik. Fikren bu doğru olsa da deneyim
-olarak hiç öyle görünmüyor. Dünya için yepyeni ve tek seferlik olabilir belki
-ama benim için her gün doğup batan tekrar eden bir deneyim. Benim için her gün
-yeni bir güneş var, yepyeni bir Güneş yok. Güneşi Dünya'nın algıladığı gibi
-algılayamıyorum.
+çıktı? Güneş hem yepyeni hem de tek seferlik olabilir diye düşünüyorum. Kendi
+başına bir şey ve ikincisi yok, dolayısıyla yepyeni. Kendisinin gidip yenisinin
+gelmesi de pek mümkün görünmüyor, dolayısıyla tek seferlik. Fikren bu doğru olsa
+bile deneyim olarak hiç öyle görünmüyor. Dünya için yepyeni ve tek seferlik
+olabilir belki ama benim için her gün doğup batan tekrar eden bir deneyim. Benim
+için her gün yeni bir güneş var, yepyeni bir Güneş yok. Güneş'i Dünya'nın
+algıladığı gibi algılayamıyorum.
 
 Anneannemin ölümünü hatırladım. Yepyeni ve tek seferlik. İlk defa anneannem
 ölmüştü, dolayısıyla yepyeni. O tekrar ölemezdi, dolayısıyla tek seferlik.
@@ -142,9 +143,9 @@ bir sapmayla geçmişin tekrarı olan bir geleceği karşılamaya yetiyor. Yıll
 geçtikçe, kendi içinde tutarlı bir hafıza tasnifi imkansızlaşıyor. Hafızam
 genişledikçe daha fazla etiket gerekiyor. Bu da deneyimler arasında daha hassas
 ayrımlara sebep oluyor. Benliğim daha yüksek çözünürlüklere geçiyor. Çözünürlük
-arttıkça bu kez deneyimlerin hepsi yepyeni tek seferlik gibi görünmeye başlıyor.
-Beklenen ve tanıdık bir gelecek fikri gençlikle birlikte geçmişte kalıyor.
-Gelecek tamamen belirsiz, öngörülemez, tahmin edilemez, tasarlanamaz.
+arttıkça bu kez de deneyimlerin hepsi yepyeni tek seferlik gibi görünmeye
+başlıyor. Beklenen ve tanıdık bir gelecek fikri gençlikle birlikte geçmişte
+kalıyor. Gelecek tamamen belirsiz, öngörülemez, tahmin edilemez, tasarlanamaz.
 
 Artık bir yanda geleceğin kaçınılmaz belirsizliği duruyor. Diğer yanda ise
 geçmişten gelen belirli ve güvenli bir gelecek düşüncesi. Bu bir çelişki ve bu
@@ -165,9 +166,9 @@ Gerçek olup olmadığını bilmeden, olacağını umarak.
 
 Artık geleceğe ışık tuttuğumda ortaya çıkan şeyin yalnızca belirsizliğin kendisi
 olduğunu görüyorum. Bunu kabul etmek küçükler için zor olduğundan olsa gerek,
-büyükler küçükleri bakınca gelecekte bir şeyler görülebildiğine inandırıyor.
-Bulutlara baktığımda nasıl olmayan şekiller görüyorsam, o sisin üstüne tuttuğum
-ışık da varsayımsal ve uydurma bir gelecek görmemi sağlamış.
+büyükler küçükleri bakınca gelecekte bir şeyler görülebildiğine inandırıyor
+olmalı. Bulutlara baktığımda nasıl olmayan şekiller görüyorsam, o sisin üstüne
+tuttuğum ışık da varsayımsal ve uydurma bir gelecek görmemi sağlamış.
 
 Öyle ya da böyle, hayatı karşılamamı sağlayan bir benlik geliştirmiş oldum. Bu
 benliği ise mecburen her zaman geçmişe bakarak tasarladım. Daha iyi bir yol
