@@ -178,55 +178,67 @@ Sisin içine korkusuzca koşacak delikanlılık yılları çoktan geçti. Her de
 yepyeni ve tek seferlik olduğunu varsayıp, geçmişe bakarak tasarladığım
 benliğimle adım adım geleceğe yürüyeceğim.
 
-Benliğimde tüm bunları yaşarken, içinde bulunduğum aile ve toplumdan bağımsız
-bir varlığım da diyemiyorum. Onlardan ayrıyım ama bağımsız değilim. Toplum
-olmadan ne ateşe elimi sokabilirim, ne de üniversitemi lisem ile
-kıyaslayabilirim. Benliğimi kurabilmem için topluma ihtiyaç duyuyorum. Toplum da
-benim gibi insanlardan oluşması itibariyle benliğime ihtiyaç duyuyor. Birey ile
-toplumu tanım olarak ayırmak kolay ama varlık olarak ayırmak pek mümkün
-görünmüyor.
+Bu yolculuk elbette yalnız yürüdüğüm bir yolculuk değil. Büyüklerim, yaşıtlarım
+ve küçüklerim ile içiçe bir hayat yaşıyorum. Birimizin yaptığı diğerinin
+geleceğini etkiliyor. Benliğim yaşadıklarım üzerinden şekillense de kendi başına
+ve bağımsız bir varlık değilim. İçinde bulunduğum ailemden ve çevremden kopuk
+bir şekilde benliğimi kuramazdım. Onlardan ayrıyım ama bağımsız değilim. Bu
+bağlantının ailem ve çevrem ile sınırlı olduğunu söylersem yine yanılırım. Belli
+ki bir toplumun da bir parçasıyım. Uyduğumu da düşünsem, uymadığımı da düşünsem
+onun bir parçasıyım. Toplumum olmadan ne elimi sokacak bir ateş olabilirdi, ne
+de kıyaslayacak bir üniversite ile bir lise. Benliğimi kurabilmem için aileme,
+çevreme ve toplumuma ihtiyaç duyuyorum. Aynı şekilde toplum da benim gibi
+insanlardan oluşması itibariyle benliğime ihtiyaç duyuyor. Birey ile toplumu
+tanım olarak ayırmak kolay ama varlık olarak ayırmak pek mümkün görünmüyor.
 
-Benim hafızamın toplumun hafızasına ne gibi bir katkısı var? Toplum da benim
-gibi hafızasız olduğunda geçmişsiz, geleceksiz mi oluyor? Toplum hatırlar mı ya
-da unutur mu gibi söylemlerim birer benzetmeden ileri gidemez. Yine de parçası
+Parçası olduğum toplumla ilişkimi düşünüyorum. Onunla nasıl iletişim kurduğumu,
+hatta kurup kuramadığımı düşünmek çekici geliyor. Örneğin, benim hafızamın
+toplumun hafızasına ne gibi bir katkısı olabilir? Toplum da benim gibi hafızasız
+olduğunda geçmişsiz, geleceksiz olur mu? "Toplum hatırlar mı ya da unutur mu?"
+gibi sorularımın çıkış noktası birer benzetmeden ileri gidemez. Yine de parçası
 olduğum toplumu anlamak için kendimin dışına çıkıyormuş gibi yapmak istiyorum.
 Bedendışı bir deneyim yaşamak üzere gözlerimi kapatıyorum, içinde yaşadığım
 aileme, mahalleme, kültürüme ve tüm toplumuma doğru genişliyor, büyüyorum.
 
-Sadece benim için değil herhangi bir varlık için bilinç, üzerinde var olacağı
-bir benliğe ihtiyaç duyuyor gibi görünüyor. Benliğin de anılar ve etiketlerinden
-oluşan bir hafıza ile geçmişe bakılarak tasarlandığını düşünürsek, içinde
-büyüdüğüm toplum da kendisini tarihine göre her gün yeniden tasarlıyor olmalı.
+Sadece ben değil, toplum da var olmak için bir benliğe ihtiyaç duyuyor gibi
+görünüyor. Benliğin anılar ve etiketlerinden oluşan bir hafıza ile geçmişe
+bakılarak tasarlandığını düşünürsek, içinde büyüdüğüm toplum da kendisini
+tarihine göre sürekli yeniden tasarlıyor olmalı, artık bu her ne demekse.
 Toplumun elini yakması ve sonra ağlaması ne anlama gelirdi acaba? Toplumun
-büyümesi, bilinçlenmesi, gelişmesi. Hepsini kendi benliğimden hareket ederek
-anlıyor gibiyim. Anlamıyorum ama anlıyor gibi yapıyorum.
+büyümesi, bilinçlenmesi, gelişmesi. Hepsini kendimden hareket ederek anlıyor
+gibiyim. Anlamıyorum ama anlıyor gibi yapıyorum.
 
-Toplumun davranış kalıpları neler olabilir? Bir toplum için deneyim ne demektir?
 Toplumun duyu organları, eli ve kolu var mıdır? Bunu hayal etmek çok güç.
-Uzuvları var diyebiliyorum ama eli ve ayağı var diyebilmek zor geliyor.
+Uzuvları var diyebiliyorum ama eli ve ayağı var demek zor geliyor. Yani bir
+anlamda benziyoruz ama bir anlamda da hiç benzemiyoruz. Toplumun davranış
+kalıpları olur mu? Bir toplum için deneyim ne demektir?
 
-Deprem toplumsal deneyime iyi bir örnek olabilir. Bireyselin yanında toplumsal
-olarak da deneyimleniyor. Toplumun deprem ve benzeri felaketlere karşı güçlü bir
-hafıza geliştirdiğini tahmin ediyorum. Kıyamet ile deprem arasında bir bağ var
-gibi görünüyor. Toplum bir depremi yaşadığında onu kıyamet teması ile
-kavramsallaştırıyor ve efsanelerle benliklerimize işliyor. Depremlerden
-hareketle adeta kıyameti tasarlıyor. Ne zaman geleceği bilinmeyen, bir gün
-geleceğine inanılan, geçmişten mülhem bir gelecek tasarımı.
+Deprem toplumsal deneyime bir örnek teşkil edebilir. Bireysel olarak
+deneyimlemenin yanında sanki toplumsal olarak da deneyimleniyor. Toplumun deprem
+ve benzeri felaketlere karşı güçlü bir hafıza geliştirdiğini tahmin ediyorum.
+Kıyamet ile deprem arasında bir bağ var gibi görünüyor. Toplum bir depremi
+yaşadığında onu kıyamet teması ile kavramsallaştırıyor ve efsaneler halinde
+nesiller boyu benliklerimize işliyor. Depremlerden hareketle adeta kıyameti
+tasarlıyor. Ne zaman geleceği bilinmeyen, bir gün geleceğine inanılan, geçmişten
+mülhem bir gelecek tasarımı.
 
-Bu tasarım, temeline yaşadığı travmanın bıraktığı korkuyu alıyor. Hayatta kalmak
-için bir varlığın başvurması muhtemel bir duygu olan korku. En basit canlıdan en
-karmaşığına kadar tüm canlılarda gözlemleyebileceğimiz bu duygu toplumumun da
-yaşadığı bir duygu gibi görünüyor. Gelecekte elinin tekrar yanmaması için
-korkuya dayalı kendisi gibi dev bir efsane tasarlıyor.
+Tıpkı yanan elin hatırasından oluşan davranış kalıbı gibi, depremden doğan bu
+tasarım da temeline yaşadığı travmanın bıraktığı korkuyu alıyor. Hayatta kalmak
+için bir canlının başvurması çok muhtemel bir duygu, korku. En ilkel canlıdan en
+karmaşığına kadar tüm canlılarda gözlemleyebileceğimiz bu duygu, toplumumun da
+yaşadığı bir duygu gibi görünüyor. Gelecekte yaşadığı acının tekrar etmemesi
+için korkuya dayalı ve kendisi gibi dev, kıyamet adında bir efsane
+tasarlayabiliyor.
 
-Bilinmezi karşılayan tek duygunun korku olmadığını benliğimden biliyorum.
-Kapsamı daraltılmış ve bilgiye gebe olan inançlarımın korku yerine bana güven
-vermesini sağlayabiliyorsam, toplumumun da bu dönüşümü yapabildiğini hayal
-etmekte özgürüm demektir. Geleceğe doğru temkinli adımlar atmak birey için
+Bilinmezi karşılarken işe yarar tek duygunun korku olmadığını kendi benliğimden
+biliyorum. Kapsamı daraltılmış ve bilgiye gebe olan inançlarımın korku yerine
+bana güven vermesini sağlayabiliyorsam, toplumumun da bu dönüşümü yapabildiğini
+hayal etmekte özgürüm demektir. Geleceğe doğru temkinli adımlar atmak birey için
 olduğu kadar toplum için de mümkün olabilir. Bir sonraki depremin ne zaman
-olacağını bilmiyoruz, ama geçmiş depremleri biliyoruz. Geçmiş bir depremden bir
-gün önce onu bilseydik, bireysel ve toplumsal olarak ne yapabilirdik? Gece gelen
-bir deprem için ne önlem alınabilirdi, gündüz gelen için ne alınabilirdi?
+olacağını bilmiyoruz ama geçmiş depremleri biliyoruz. Geçmiş bir depremden bir
+gün önce o depremin olacağını bilseydik toplum olarak ne yapabilirdik? Bir ay
+önce bilseydik? Veya gece gelen bir deprem için ne önlem alınabilirdi, gündüz
+gelen için ne alınabilirdi?
 
 Her deneyim benim için olduğu gibi toplumum için de yepyeni ve tek seferlik.
 Gelecek tıpkı bana olduğu gibi toplumuma da belirsiz. Bu gerçeklikler dahilinde
