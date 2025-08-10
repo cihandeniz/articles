@@ -1,4 +1,6 @@
-# Vicdan
+---
+title: Vicdan
+---
 
 Diğerlerini bilmiyorum ama bende bir içses var. Buna eminim. Bu içses doğru ile
 yanlışı ayırdetmemi sağladığı gibi, doğruyu inşa etmeme de yardımcı oluyor.

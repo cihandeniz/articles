@@ -1,4 +1,6 @@
-# Cennet
+---
+title: Cennet
+---
 
 Cennet amaç değil, araçtır ve götürdüğü yer bellidir. Oraya götüren her yol bana
 cennettir.

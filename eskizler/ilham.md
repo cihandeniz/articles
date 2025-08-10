@@ -1,4 +1,6 @@
-# İlham
+---
+title: İlham
+---
 
 Varlığın maddi ve manevi iki boyutu vardır. Yani her varlık maddi ve manevi
 boyutlarda yer kaplar. Bazısı tamamen maddi, bazısı tamamen manevi olabilir, ama
