@@ -19,6 +19,8 @@ title: Korku ve Güven
   - Ebeveynliğin (tanrı, liderler, ebeveynler, öğretmenler/hocalar hangisi ise)
     geçmişten gelen birer tasarım olduğunu anlamak
 - Hiyerarşik vs demokratik akıl için foreshadowing
+  - Bilinmezle başa çıkamadaığımız için bununla barışık olan, ya da bu riski
+    alan birilerine delege ediyoruz, buna hiyerarşik akıl diyorum
   - Ebeveynlikten gelen tasarımların taşıyıcısı olabiliriz, hazır yollardan
     gidebiliriz (hiyerarşik)
   - Geçmiş tasarımları meta düzeyde algılayıp bireysel yollar çizebiliriz
