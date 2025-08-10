@@ -3,23 +3,24 @@ title: Depremi Bilseydik
 ---
 
 Geleceğe ışık tutmak ne demektir? Gelecek, gelene kadar bilinemeyen bir şey ise
-ona ışık tutmak mümkün müdür? O halde, geleceği berrak bir şekilde hayal etmek
-istemek çelişkilidir. Yine de bu isteğimden vazgeçemiyorum. Neden? Sanki eksik
+ona ışık tutmak mümkün müdür? Onu berrak bir şekilde hayal etmek istemek açıkça
+çelişkili bir istek ama yine de bu isteğimden vazgeçemiyorum. Neden? Sanki eksik
 bir şey var ve onu elde etmek istiyor gibiyim. Oysa bir şeyin eksikliğini
 hissetmem için önce onun varlığını deneyimlemiş olmam gerekir. Tıpkı bir
 konserde bas sesini ancak sustuğunda fark etmek gibi. Ya da ilk kez üşüyene
 kadar ısınma ihtiyacını hiç duymamak gibi.
 
-Çelişkileri hiç sevmem. Bir noktada düğümü çözmek, rahatlamak isterim. Bu
-çelişkiden de aynı nedenle kurtulmak istiyorum. Geçmişimi tamamen silmeyi bir
-deneyeyim, böylece geçmişimle beraber eksiklik hissimi de silerim diye tahmin
-ediyorum. Tutmak istediğim ışığın hayali de dahil olmak üzere tüm hafızam
-silindiğinde, geçmişimle beraber gelecek fikrim de ortadan kalkacaktır. Peki ya
-yeni eksiklik hisleri oluşursa? Bunu da engellersem tamamen kurtulmuş olurum. O
-halde duyularımı da kapatayım, böylece yeni bir hafıza inşa edememiş olurum; ve
-hafızasız, duyusuz hale gelen benliğim asla hatırlayamayacağı anlarla
-umursamadığı geleceğe doğru yol alır. Geleceği merak edemez hale gelirim ve
-geçmişimle beraber benliğim, dolayısıyla ben yok olurum.
+Çelişkileri sevmem. Bir noktada düğümü çözmek, rahatlatmak isterim. Bu
+çelişkiden de aynı nedenle kurtulmak istiyorum ve kurtulmak için tek yol
+eksiklik duygusunu ortadan kaldırmak gibi geliyor. Geçmişimi tamamen silmeyi
+deneyeyim. Böylece geçmişimle beraber eksiklik hissimi de silerim diye tahmin
+ediyorum. Geleceğe tutmak istediğim ışığın hayali de dahil olmak üzere tüm
+hafızam silindiğinde, geçmişimin yanında gelecek fikrim de ortadan kalkacak ve
+sorun çözülecek. Peki ya yeni anılarla beraber yeni eksiklik hisleri oluşursa?
+Bunu da engellemem gerekiyor. O halde duyularımı da kapatayım, böylece yeni bir
+hafıza inşa edememiş olurum. Hafızasız, duyusuz hale gelen benliğim asla
+hatırlayamayacağı anlarla umursamadığı geleceğe doğru yol alır. Geleceği merak
+edemez hale gelirim ve geçmişimle beraber benliğim, dolayısıyla ben yok olurum.
 
 Daha önce hiç yok olmuş muydum? Uyku halini yokluğa benzetebilirim. Ya da
 geçirdiğim ameliyatları düşünüyorum, onlar yokluğa daha çok benziyorlar.
