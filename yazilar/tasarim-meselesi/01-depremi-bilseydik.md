@@ -42,9 +42,9 @@ içine dolacağı boş bir kap gibi. Şekli belli ve ben içine zamanla doluyoru
 Benlikten yoksun bu beden, duyuları dahil hiçbir şeyi kullanmayı bilmiyor.
 Doğrudan hatırladığım ilk hatıram üç yaşımdan öncesi değil. Belki biraz
 öncesidir, pek hatırlamıyorum. Hatıra bile denemez, yalnızca birkaç kare. Ne
-anlama geldiklerini bugün düşündüğümde, belki biraz tasvir edebilirim ama o
-zaman o kareleri gören gözlerim bunları hafızama nasıl kazıdı hiçbir fikrim yok.
-Tek bildiğim yalnızca birkaç kare.
+anlama geldiklerini bugün düşündüğümde belki biraz tasvir edebilirim ama o zaman
+o kareleri gören gözlerim bunları hafızama nasıl kazıdı hiçbir fikrim yok. Tek
+bildiğim birkaç kare.
 
 Bir bebeğin ateşten korkmaması ve elini ateşin içine bir şey olmayacakmış gibi
 uzatması yanma hissine dair bir hafızasının olmaması ile ilgili olsa gerek.
@@ -175,9 +175,9 @@ tuttuğum ışık da varsayımsal ve uydurma bir gelecek görmemi sağlamış.
 
 Öyle ya da böyle, hayatı karşılamamı sağlayan bir benlik geliştirmiş oldum. Bu
 benliği ise mecburen her zaman geçmişe bakarak tasarladım. Daha iyi bir yol
-bulana kadar da bunu yapmaya devam edeceğim. Tek fark, artık temkinli adımlarla
-bir ayağım geçmişte dururken bir ayağım geleceği yoklayarak sağlam zemin
-arayacak. Geleceğe dair inançlarımın kapsamını daraltacağım ve onların
+bulana kadar da bunu yapmaya devam edeceğim. Tek fark ile, artık temkinli
+adımlarla bir ayağım geçmişte dururken bir ayağım geleceği yoklayarak sağlam
+zemin arayacak. Geleceğe dair inançlarımın kapsamını daraltacağım ve onların
 gerçekleşip bilgiye dönüşmesini bekleyeceğim. Sisin içine korkusuzca koşacak
 delikanlılık yılları çoktan geçti. Her deneyimin yepyeni ve tek seferlik
 olduğunu varsayıp, geçmişe bakarak tasarladığım benliğimle adım adım geleceğe

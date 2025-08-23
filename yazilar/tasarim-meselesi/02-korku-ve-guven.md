@@ -47,11 +47,11 @@ kandırıp sakinleştiğimi iddia ettiğim zamanlar da oluyor tabi ama bu tehlik
 bir durum. Böyle olduğunda duygu, özellikle de korku, sinsi bir şekilde
 düşüncelerime hükmediyor. Korkunun baskısı altındaki düşünme yetim yaşadıklarımı
 tasarlamaktan aciz, yalnızca bir meşrulaştırma mekanizması olmaya sıkışıyor.
-Olan olayların olmak zorunda olduğu, yapılabilecek hiçbir şeyin zaten olmadığı,
-gelecekte yine tekrar etmesinin yüksek ihtimali, engellemek için elimden hiçbir
-şeyin gelmeyeceği.
+Olanların olmak zorunda olduğu, yapılabilecek hiçbir şeyin zaten olmadığı,
+gelecekte tekrar etmesinin yüksek ihtimali, engellemek için elimden hiçbir şeyin
+gelmeyeceği.
 
-Korku bir kez hükmetmeye başladığında ne yaşarsam yaşayayım kendi tahtını
+Korku bir kez hükmetmeye başladığında ne yaşarsam yaşayayım, o kendi tahtını
 mutlaka sağlamlaştırıyor. Hırsızlık vakası gibi kötü bir şey ise
 tekrarlanmasından korkuyorum. Birine aşık olduysam bu kez de kaybetmekten
 korkuyorum. Kaybetme korkusu ilişkinin seyrini olumsuz etkiliyor ve sonunda
@@ -60,8 +60,8 @@ sıkışmak istemiyorum. Kısır döngünün içinden herkes gibi ben de çıkma
 istiyorum. Korkunun tahakkümünü yenmek zorundayım.
 
 Birey olarak benliğimde oluşan duygulara paralel bir şekilde toplum olarak da
-korkunun tahakkümünü görebiliyorum. Geleceğimi korkunun tayin etmesi toplum
-üzerinden de pekala gerçekleşebiliyor. Depremin yarattığı çaresizlik ve korkuyu
+korkunun tahakkümünü görebiliyorum. Geleceği korkunun tayin etmesi toplum
+üzerinde de pekala gözlemlenebiliyor. Depremin yarattığı çaresizlik ve korkuyu
 düşününce bunu hayal etmek çok zor gelmiyor. Tekrar gerçekleşme olasılığı
 üzerinden toplumun kontrolsüz bir şekilde nasıl savrulabildiğine bakıyorum,
 sanki gelecek hayalleri tamamen korkuyla şekilleniyor. Şekilleniyor ama bir
