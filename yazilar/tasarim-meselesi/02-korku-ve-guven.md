@@ -105,35 +105,50 @@ mecburen korkunun kendisi olmuş oluyor. O, var olmak için rasyonelliğime
 başvurmak zorunda. Bir kere devreye giren rasyonellik yavaş yavaş oyunu ele
 geçirecek. İlk etapta korkunun çizdiği sınırlarda var olacak ve onun emirlerini
 yerine getirecek ama o da en az korku kadar sinsi. Rasyonellik bir zorunluluk ve
-irrasyonelliğin tam merkezinde belirecek, korkuda.
+irrasyonelliğin tam merkezindeki duyguda belirecek, korkuda.
 
 Bir travmanın nesilden nesile aktarılabilmesi, korkunun bir sonraki travmaya
-kadar var olmasının tek yolu ve bunun için şüphesiz hatırda kalan tasarımlar
-gerekiyor. Yaşanmış bir travmanın ardından korkunun esiri olan aklım, onun
-emirleriyle bazı tasarımlar yapıyor. Hikayeler, türküler, danslar, oyunlar
-tasarlamaya başlıyorum. Taslak halindeki bu tasarımları benzer travmaları
-yaşamış çevremdeki insanlarla paylaşıyorum. Onlar da duydukları taslakların
-bazılarını kendi taslaklarıyla birleştirip daha da akılda kalıcı hale
-getiriyorlar. Dilden dile, kulaktan kulağa geçen bu tasarımlar kolektif bir
-çalışmayla olgunlaşıyor. Geçmişin yaşananları, korkunun esirindeki aklın elinde
-efsanelere dönüşüyor.
+kadar var olabilmesinin tek yolu ve bunun için ona şüphesiz hatırda kalan
+tasarımlar gerekiyor. Yaşanmış bir travmanın ardından korkunun esiri olan aklım,
+onun emirleriyle bazı tasarımlar yapıyor. Hikayeler, türküler, danslar, oyunlar
+tasarlamaya başlıyorum. Taslak halindeki bu tasarımları çevremdeki insanlarla
+paylaşıyorum. Onlar da bu taslakların bazılarını kendi taslaklarıyla birleştirip
+daha da akılda kalıcı hale getiriyorlar. Dilden dile, kulaktan kulağa geçen bu
+tasarımlar kolektif bir çalışmayla olgunlaşıyor. Geçmişin yaşananları, korkunun
+esirindeki aklın elinde efsanelere dönüşüyor.
 
-... Bu efsanelerden beklentimiz çok basit. Bize yol göstermesi ve geleceğin
-karanlığını kaldırması. Yemek bulabilelim. Kışın aç kalmayalım. Hastalanınca
-şifa bulabilelim. O efsaneleri bilinçdışımızdan yine biz uyduruyoruz, ya da
-ruhumuza kodlanmışlar ve bizim üzerimizden açığa çıkıyorlar, bilmiyorum. Sonuç
-olarak onları dillendiren biziz. Nesilden nesile taşıyan bizleriz. Kulaktan
-kulağa değiştiren, dönüştüren yine bizleriz. ...
+Bu efsanelerin temel vaadi bize yol gösterecek ve geleceğin karanlığını
+aydınlatacak olmaları. Yemek bulabilelim, kışın aç kalmayalım, hastalanınca şifa
+bulabilelim. Duyguların güdümünde yazılmış olsalar da düşünce süzgecinden
+geçtiler ve kalbin yanında beyine de hitap ediyorlar. İrrasyonellikten de doğsa,
+ortada rasyonel bir talep var. Geleceğim korku dolu değil umut dolu olsun. Bu
+umudu beslemeyen bir türküyü kim neden söylesin? Bu efsaneler bizim uydurmamız
+da olsa, yüksek bir gerçekliğin bizim üzerimizden vücut buluşu da olsa,
+nihayetinde onları dillendiren, nesilden nesile taşıyan, kulaktan kulağa
+değiştiren, dönüştüren bizleriz.
 
-... Tanrı her şeyi bilir. Kader vardır ve biz görmesek de gelecek bellidir,
-yazılıdır. İsa geri dönecek ve bize yardım edecek. Kıyamet kopacak, sonunda
-yargılanacağız. Ya cennete, ya cehenneme gideceğiz. O olacak, bu gelecek, şu
-gidecek. Her şey belirlenmiş adeta. Bu belirlenim hali en küçük detaydan (regl?)
-en büyüğüne (kader?) kadar yayılmış durumda. Belirlenimli bir hayat. İç
-rahatlatıcı bir fikir. Bu fikri kim yarattıysa ona teşekkür etmekten başka
-yapacak bir şey yok. Gönlümüze su serpti, çocukken bizi korudu. Eğer bu
-olmasaydı, korkularımızla hareket etmekten önümüzü göremeyecektik. Efsanelerimiz
-geleceğimize bir ışık tuttu. Gerçek olmasa da hikayelerle bizi büyüttü. ...
+İşte düşüncelerim, çıkış kapısını duygularımın içinden böyle aralıyor.
+Düşüncenin doğuşunu ve dolayısıyla düşüncenin kendisini daha iyi anlamak için
+efsaneleri incelemeye bu nedenle karar veriyorum.
+
+Kader. Tanrı her şeyi bilir. Kader vardır ve biz görmesek de gelecek bellidir,
+yazılıdır.
+
+Peygamber. [İbrahim Yeniden](../../eskizler/ibrahim-yeniden.md)
+
+Son Peygamber. [Son Peygamber](../../eskizler/son-peygamber.md)
+
+Mesih. İsa geri dönecek ve bize yardım edecek.
+
+Mahşer. Kıyamet kopacak, sonunda yargılanacağız. Ya cennete, ya cehenneme
+gideceğiz.
+
+... Her şey belirlenmiş adeta. Bu belirlenim hali en küçük detaydan en büyüğüne
+kadar yayılmış durumda. Belirlenimli bir hayat. İç rahatlatıcı bir fikir. Bu
+fikri kim yarattıysa ona teşekkür etmekten başka yapacak bir şey yok. Gönlümüze
+su serpti, çocukken bizi korudu. Eğer bu olmasaydı, korkularımızla hareket
+etmekten önümüzü göremeyecektik. Efsanelerimiz geleceğimize bir ışık tuttu.
+Gerçek olmasa da hikayelerle bizi büyüttü. ...
 
 ... Tanrı, peygamber, lider, anne-baba, öğretmen-hoca. Bunların hepsi birey ve
 toplum için oluşturulmuş, bizi bilinmezden koruyan birer ebeveyn tasarımı.
@@ -181,14 +196,11 @@ Atalarımın, hocalarımın tasarımlarını olduğu gibi kullanmam için onlar�
 anlamam, ve zihnimde tekrar inşa etmem gerekiyor. Bunun için hiyerarşik, kabul
 ve biat eden değil, demokratik, tartışan ve eleyen akla ihtiyacım var. ...
 
-- Geleceğe korku yerine güvenle bakmak, gelecek hayalini güvenle kurmak daha
-  iyidir
-  - Korku hiyerarşik aklın, güven demokratik aklın duygusudur
-  - Mitler bizi aydınlanmaya, demokratik akla devam eder
-  - [Son Peygamber](../../eskizler/son-peygamber.md)
-  - Korku yerine güven duygusu ile geleceği karşılayabiliriz
-  - Bu güven (trust değil, confidence), gelecekte olacak şeyleri
-    etkileyebileceğimize olan inancımızdır (Joe)
-- Gelecek hayali nedir?
+- Korku hiyerarşik aklın, güven demokratik aklın duygusudur
+- Mitler bizi aynı zamanda aydınlanmaya ve demokratik akla devam eder
+- Korku yerine güven duygusu ile geleceği karşılayabiliriz
+- Bu güven (trust değil, confidence), gelecekte olacak şeyleri
+  etkileyebileceğimize olan inancımızdır (Joe)
+  - İnanç üzerinden sonraki chapter'a bağlayalım ve kapatalım
 
 {% include tasarim-meselesi/footer.html %}

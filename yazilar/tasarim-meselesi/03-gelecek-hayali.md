@@ -15,5 +15,7 @@ title: Gelecek Hayali
   aydınlatma da koyabiliriz. Bizi sonuca götüren iki tasarım da ihtiyacı
   gidermeyi talep eder. Hangi tasarımın geleceğimizde yer edeceği ise zaman
   meselesidir.
+- İnanmak geleceğe doğru elimizde olan en güçlü eylemdir. Güven inançdan doğar.
+- [İnanmak Bilmek ve Kabul](../../eskizler/inanmak-bilmek-ve-kabul.md)
 
 {% include tasarim-meselesi/footer.html %}
