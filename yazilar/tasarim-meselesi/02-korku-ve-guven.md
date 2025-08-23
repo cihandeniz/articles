@@ -17,7 +17,7 @@ geçiyor ve yürüyen gölge. Kalk kontrol et. Dön yat.
 Artık rutine binmiş olan bu davranışımın arkasında yalnızca o hırsızlık vakası
 yok. Olayın ardından gelen temkinli davranma güdüsünün yarattığı alışkanlıklar,
 bu alışkanlıkların getirdiği güven ve bu güvenin doğurduğu rahatlık. Bir yandan
-"O neydi ya öyle?!" diyorum, diğer artık yandan ezberlediğim kontrol listesinin
+"O neydi ya öyle?!" diyorum, diğer yandan artık ezberlediğim kontrol listesinin
 üzerinden geçiyorum:
 
 - ✓ Pencereler kapalı
@@ -29,17 +29,17 @@ bu alışkanlıkların getirdiği güven ve bu güvenin doğurduğu rahatlık. B
 Ve nihayet rahatlama: "Arabadır ya".
 
 İki tane ben var gibi. Bir tanesi korkup dürten çocuk, diğeri tamam sorun yok
-diyen baba. Uykudan kalkmış birine kıyasla kalbim hızlı çarpıyor ama beynim
-sakin. Sanki bir zaman sonra alışkanlıklar korkuları yönetmeyi öğreniyor.
+diyen baba. Uykudan yeni uyanmış olan birine kıyasla kalbim hızlı çarpıyor ama
+beynim sakin. Sanki bir zaman sonra alışkanlıklar korkuları yönetmeyi öğreniyor.
 Korkular da alışkanlıkları diri tutuyor ve bir denge oturuyor.
 
-Yaşadığım herhangi bir şeyin benliğimde yer ederken nasıl bir yol izlediği az
-çok belli. Önce deneyimin kendisi fotoğrafa benzer bir iz bırakıyor. Ham hali
-ile yorumsuz bir iz. Bunu olayın bende bıraktığı duygular takip ediyor. Son
-olarak yapabilirsem bir yetişkin gibi durumu değerlendiriyorum. Mevcut veya yeni
-tasarımlar ile deneyimi ve oluşturduğu duygularımı tanımlıyorum. Böylece o
-deneyim, duygusuyla ve düşüncesiyle benliğimde bir yere oturmuş oluyor. Olur da
-düşünecek alanı açamazsam, deneyim yalnızca duygularla yorumlanmış oluyor.
+Yaşadığım herhangi bir şeyin benliğimde yer ederken izlediği yol az çok belli.
+Önce deneyimin kendisi fotoğrafa benzer bir iz bırakıyor. Ham hali ile yorumsuz
+bir iz. Bunu olayın bende bıraktığı duygular takip ediyor. Son olarak
+yapabilirsem durumu düşünüp değerlendiriyorum. Mevcut veya yeni tasarımlar ile
+deneyimi ve duygularımı tanımlıyorum. Böylece o deneyim, duygusuyla ve
+düşüncesiyle benliğimde bir yere oturmuş oluyor. Olur da düşünecek alanı
+açamazsam, deneyim yalnızca duygularla yer ediyor.
 
 Duygu ne kadar yoğunsa, onu sindirmek için ihtiyaç duyduğum zaman da o kadar
 uzun sürüyor. Duygu yoğunluğu içindeyken düşünmek hiç kolay değil. Kendimi
@@ -64,28 +64,28 @@ korkunun tahakkümünü görebiliyorum. Geleceğimi korkunun tayin etmesi toplum
 üzerinden de pekala gerçekleşebiliyor. Depremin yarattığı çaresizlik ve korkuyu
 düşününce bunu hayal etmek çok zor gelmiyor. Tekrar gerçekleşme olasılığı
 üzerinden toplumun kontrolsüz bir şekilde nasıl savrulabildiğine bakıyorum,
-sanki gelecek hayalleri tamamen korkuyla şekilleniyor. Bir duygunun geleceği
-şekillendirebilmesi fikri kulağıma biraz tuhaf geliyor. Burada bir tutarsızlık
-var. "Korkuyla şekilleniyor" demek bir duygunun tasarım kabiliyeti var demektir.
-Oysa düşünce olmadan tasarım mümkün olamaz. Korku mutlak bir tahakkümdeyken bile
-sanki düşünceye bir kapı aralanıyor. İlginç bir şekilde tehlikeli olarak
-nitelediğim duygunun düşünceye hükmetmesi durumu, aynı zamanda çıkış kapısının
-kendisi gibi görünüyor.
+sanki gelecek hayalleri tamamen korkuyla şekilleniyor. Şekilleniyor ama bir
+duygunun geleceği şekillendirebilmesi fikri de kulağıma biraz tuhaf geliyor.
+Burada bir tutarsızlık var. "Korkuyla şekilleniyor" demek bir duygunun tasarım
+kabiliyeti var demektir. Oysa düşünce olmadan tasarım mümkün olamaz. Korku
+mutlak bir tahakkümdeyken bile sanki düşünceye bir kapı aralanıyor. İlginç bir
+şekilde tehlikeli olarak nitelediğim duygunun düşünceye hükmetmesi durumu, aynı
+zamanda çıkış kapısının kendisi gibi görünüyor.
 
 Duygu ve düşünce birbirinden ayrı iki düzlem. Duygunun düzlemi düşünce
 düzleminin aksine rastgele, tutarlılık kaygısı gütmeyen, sadece var olan,
 sebep-sonuç ilişkisi ile ilgilenmeyen ya da bu ilişkiye hiç sahip olmayan garip
-bir düzlem. Bu düzlemi en güzel rüya ile örneklendirebilirim. Rüyaları
-hatırlamak pek kolay değil ama hatırladığım birkaç tanesini düşünüyorum.
-Çocukken gördüğüm bir rüya. Bizim sokağın ilerisindeki dik bir yokuştan
-yuvarlanarak iniyorum. Her gece. Her seferinde yukarıdan beni aşağı iten bir şey
-var. Bazı yuvarlanışlarımda yaratıklar sağdan soldan korkutuyorlar. Yokuşun
+bir düzlem. Bu düzlemi en iyi rüya ile örneklendirebilirim. Rüyaları hatırlamak
+pek kolay değil ama hatırladığım birkaç tanesini düşünüyorum. Çocukken gördüğüm
+bir rüya. Bizim sokağın ilerisindeki dik bir yokuştan yuvarlanarak iniyorum. Her
+gece. Her seferinde yukarıdan beni aşağı iten bir şey var. Bazı
+yuvarlanışlarımda tuhaf yaratıklar sağdan soldan beni korkutuyorlar. Yokuşun
 sonunda bazen iyi bazen kötü bir şey beni bekliyor ama her seferinde yokuşun
-sonuna varamadan uyanıyorum. Bu rüya birçok anlama geliyor olabilir ya da hiçbir
-anlama gelmiyor olabilir. Uyandıktan sonra anlam yüklemek kolay. Oysa rüya
-sırasında anlamsızlıklar dünyasında birbirinden kopuk olaylar arka arkaya
-gelişirken bunları düşünmüyorum. Rüya sırasında zaten hiç düşünemiyorum, sadece
-bir şeyler oluyor.
+sonuna varamadan ter içinde uyanıyorum. Bu rüya birçok anlama geliyor olabilir
+ya da hiçbir anlama gelmiyor olabilir. Uyandıktan sonra anlam yüklemek kolay.
+Oysa rüya sırasında anlamsızlıklar dünyasında birbirinden kopuk olaylar arka
+arkaya gelişirken bunları düşünmüyorum. Rüya sırasında zaten hiç düşünemiyorum,
+sadece bir şeyler oluyor.
 
 Dikkatimi şu çekiyor. Duygu düzlemi tüm tutarsızlığı, dengesizliği,
 kararsızlığına rağmen imgelerini gerçek hayattan alıyor. Gerçekle bir bağı
@@ -107,15 +107,16 @@ geçirecek. İlk etapta korkunun çizdiği sınırlarda var olacak ve onun emirl
 yerine getirecek ama o da en az korku kadar sinsi. Rasyonellik bir zorunluluk ve
 irrasyonelliğin tam merkezinde belirecek, korkuda.
 
-Yaşanmış travmanın ardından korkunun esiri olan aklım, onun emirleriyle bazı
-tasarımlar yapıyor. Bu travmaların nesilden nesile aktarılabilmesi için şüphesiz
-hatırlanabilir olması gerekiyor. Hikayeler, türküler, danslar, oyunlar
-tasarlıyorum. Taslak çalışmalarımı benzer travmaları yaşamış çevremdeki
-insanlarla paylaşıyorum. Sonuçta onlar da benim gibiler, duydukları taslakların
+Bir travmanın nesilden nesile aktarılabilmesi, korkunun bir sonraki travmaya
+kadar var olmasının tek yolu ve bunun için şüphesiz hatırda kalan tasarımlar
+gerekiyor. Yaşanmış bir travmanın ardından korkunun esiri olan aklım, onun
+emirleriyle bazı tasarımlar yapıyor. Hikayeler, türküler, danslar, oyunlar
+tasarlamaya başlıyorum. Taslak halindeki bu tasarımları benzer travmaları
+yaşamış çevremdeki insanlarla paylaşıyorum. Onlar da duydukları taslakların
 bazılarını kendi taslaklarıyla birleştirip daha da akılda kalıcı hale
 getiriyorlar. Dilden dile, kulaktan kulağa geçen bu tasarımlar kolektif bir
-çalışmayla olgunlaşıyor. Geçmişin yaşananları; korkunun sponsorluğunda, aklın
-elinde, efsanelere dönüşüyor.
+çalışmayla olgunlaşıyor. Geçmişin yaşananları, korkunun esirindeki aklın elinde
+efsanelere dönüşüyor.
 
 ... Bu efsanelerden beklentimiz çok basit. Bize yol göstermesi ve geleceğin
 karanlığını kaldırması. Yemek bulabilelim. Kışın aç kalmayalım. Hastalanınca
