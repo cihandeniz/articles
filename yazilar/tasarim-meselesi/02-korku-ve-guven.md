@@ -52,39 +52,44 @@ gelecekte yine tekrar etmesinin yüksek ihtimali, engellemek için elimden hiçb
 şeyin gelmeyeceği.
 
 Korku bir kez hükmetmeye başladığında ne yaşarsam yaşayayım kendi tahtını
-mutlaka sağlamlaştırıyor. Hırsızlık vakası gibi kötü bir şey ise tekrar
-olmasından korkuyorum. Birine aşık olduysam bu kez de kaybetmekten korkuyorum.
-Kaybetme korkusu ilişkinin seyrini olumsuz etkiliyor ve gerçekten kaybediyorum.
-Kendini gerçekleyen kehanetlerle dolu bir hayata sıkışmak istemiyorum. Kısır
-döngünün içinden herkes gibi ben de çıkmak istiyorum doğal olarak. Korkunun
-tahakkümünü yenmek zorundayım. İlginç bir şekilde tehlikeli olarak nitelediğim
-duygunun düşünceye hükmetmesi durumu, aynı zamanda çıkış kapısının kendisi gibi
-görünüyor. Anlatayım.
+mutlaka sağlamlaştırıyor. Hırsızlık vakası gibi kötü bir şey ise
+tekrarlanmasından korkuyorum. Birine aşık olduysam bu kez de kaybetmekten
+korkuyorum. Kaybetme korkusu ilişkinin seyrini olumsuz etkiliyor ve sonunda
+gerçekten kaybediyorum. Kendini gerçekleyen kehanetlerle dolu bir hayata
+sıkışmak istemiyorum. Kısır döngünün içinden herkes gibi ben de çıkmak
+istiyorum. Korkunun tahakkümünü yenmek zorundayım.
 
-Birey olarak benliğimde oluşan duygulara paralel, toplum olarak da korkunun
-tahakkümünü görebiliyorum. Geleceğimi korkunun tayin etmesi toplum üzerinden de
-pekala gerçekleşebiliyor. Depremin yarattığı çaresizlik ve korkuyu düşününce
-bunu hayal etmek çok zor gelmiyor. Tekrar gerçekleşme olasılığı üzerinden
-toplumun nasıl savrulabildiğine bakıyorum, sanki gelecek hayalleri tamamen
-korkuyla şekilleniyor. Korkuyla şekilleniyor diyorum ama duygunun tasarım
-kabiliyeti nasıl mümkün olur bunu anlamak, anlamak için de açmak istiyorum.
+Birey olarak benliğimde oluşan duygulara paralel bir şekilde toplum olarak da
+korkunun tahakkümünü görebiliyorum. Geleceğimi korkunun tayin etmesi toplum
+üzerinden de pekala gerçekleşebiliyor. Depremin yarattığı çaresizlik ve korkuyu
+düşününce bunu hayal etmek çok zor gelmiyor. Tekrar gerçekleşme olasılığı
+üzerinden toplumun kontrolsüz bir şekilde nasıl savrulabildiğine bakıyorum,
+sanki gelecek hayalleri tamamen korkuyla şekilleniyor. Bir duygunun geleceği
+şekillendirebilmesi fikri kulağıma biraz tuhaf geliyor. Burada bir tutarsızlık
+var. "Korkuyla şekilleniyor" demek bir duygunun tasarım kabiliyeti var demektir.
+Oysa düşünce olmadan tasarım mümkün olamaz. Korku mutlak bir tahakkümdeyken bile
+sanki düşünceye bir kapı aralanıyor. İlginç bir şekilde tehlikeli olarak
+nitelediğim duygunun düşünceye hükmetmesi durumu, aynı zamanda çıkış kapısının
+kendisi gibi görünüyor.
 
-Duygu ve düşünce iki ayrı düzlemde var oluyor gibi. Duygunun düzlemi rastgele,
-tutarlılık kaygısı gütmeyen, sadece var olan, sebep sonuç ilişkisi ile
-ilgilenmeyen garip bir düzlem. Rüyaları hatırlamak pek kolay değil, ama
-hatırladığım birkaç tanesini düşünüyorum. Çocukken gördüğüm bir rüya. Bizim
-sokağın ilerisindeki dik bir yokuştan yuvarlanarak iniyorum. Her gece. Her
-seferinde yukarıdan beni aşağı iten bir şey var. Bazı yuvarlanışlarımda
-yaratıklar sağdan soldan korkutuyorlar. Yokuşun sonunda bazen iyi bazen kötü bir
-şey beni bekliyor. Her seferinde sonuna varamadan uyanıyorum. Bu rüya birçok
-anlama geliyor olabilir ya da hiçbir anlama gelmiyor olabilir. Uyandıktan sonra
-anlam yüklemek kolay. Oysa rüya sırasında anlamsızlıklar dünyasında birbirinden
-kopuk olaylar arka arkaya gelişirken bunları hiç düşünmüyorum. Rüya sırasında
-zaten düşünemiyorum ki, sadece bir şeyler oluyor.
+Duygu ve düşünce birbirinden ayrı iki düzlem. Duygunun düzlemi düşünce
+düzleminin aksine rastgele, tutarlılık kaygısı gütmeyen, sadece var olan,
+sebep-sonuç ilişkisi ile ilgilenmeyen ya da bu ilişkiye hiç sahip olmayan garip
+bir düzlem. Bu düzlemi en güzel rüya ile örneklendirebilirim. Rüyaları
+hatırlamak pek kolay değil ama hatırladığım birkaç tanesini düşünüyorum.
+Çocukken gördüğüm bir rüya. Bizim sokağın ilerisindeki dik bir yokuştan
+yuvarlanarak iniyorum. Her gece. Her seferinde yukarıdan beni aşağı iten bir şey
+var. Bazı yuvarlanışlarımda yaratıklar sağdan soldan korkutuyorlar. Yokuşun
+sonunda bazen iyi bazen kötü bir şey beni bekliyor ama her seferinde yokuşun
+sonuna varamadan uyanıyorum. Bu rüya birçok anlama geliyor olabilir ya da hiçbir
+anlama gelmiyor olabilir. Uyandıktan sonra anlam yüklemek kolay. Oysa rüya
+sırasında anlamsızlıklar dünyasında birbirinden kopuk olaylar arka arkaya
+gelişirken bunları düşünmüyorum. Rüya sırasında zaten hiç düşünemiyorum, sadece
+bir şeyler oluyor.
 
 Dikkatimi şu çekiyor. Duygu düzlemi tüm tutarsızlığı, dengesizliği,
 kararsızlığına rağmen imgelerini gerçek hayattan alıyor. Gerçekle bir bağı
-olduğu buradan belli, gerçekten pay almadan var olamıyor. Var olması için
+olduğu buradan belli, gerçeklikten pay almadan var olamıyor. Var olması için
 hatırlamam gerekiyor. Hatırlamam için rüyadan uyandığımda "Ben az önce ne
 gördüm?" sorusuna cevap vermeye ihtiyaç duyuyorum. Bu da gördüklerimin gerçekle
 ve düşüncelerimle bir bağı olmasını gerektiriyor. Belki sadece hatırladıklarım
@@ -93,15 +98,24 @@ Hatırlamadıklarım benim için mecburen yok hükmünde. Duygu düzlemi ile dü
 düzlemi arasındaki bu zorunlu bağ, korkunun geleceğimi şekillendirirken
 kullandığı bağ diye düşünüyorum.
 
-... Belirsiz gelecek ile ilgili bugün bir şeyler yapmak neredeyse içgüdüsel. Ne
-olursa olsun salt duygulardan oluşan bir canlı değiliz. Rasyonel yönümüz
-istemesek de bir şekilde devreye giriyor. Tüm olayları tek tek hatırlamak mümkün
-olmadığından, bunlarla ilgili bir tasnif yapmaya belki korku duygusunun kendisi
-başvuruyor. Bir kere devreye giren rasyonellik sanki bizim için bir zorunluluk.
-Devreye girdiğinde o da söz dinlemiyor, korkunun çizdiği sınırları aşıp geleceği
-düzenlemek istiyor. Bilinçi bir rasyonellik olmasa da bir rasyonellik.
-Bu akıl bize hikayeler yazmaya başlıyor. Anlatılar tasarlıyor. Geçmişin
-yaşananları, korkunun sponsorluğunda akıldan pay alıp efsanelere dönüşüyor. ...
+Yalnızca duygulardan oluşan bir canlı olmadığımdan rasyonel yönüm devreye girmek
+için her zaman yedek kulübesinde. Aklım korkunun esiri olarak da olsa,
+hatırlamak için mutlaka devreye giriyor. Bir anlamda düşünceyi oyuna alan
+mecburen korkunun kendisi olmuş oluyor. O, var olmak için rasyonelliğime
+başvurmak zorunda. Bir kere devreye giren rasyonellik yavaş yavaş oyunu ele
+geçirecek. İlk etapta korkunun çizdiği sınırlarda var olacak ve onun emirlerini
+yerine getirecek ama o da en az korku kadar sinsi. Rasyonellik bir zorunluluk ve
+irrasyonelliğin tam merkezinde belirecek, korkuda.
+
+Yaşanmış travmanın ardından korkunun esiri olan aklım, onun emirleriyle bazı
+tasarımlar yapıyor. Bu travmaların nesilden nesile aktarılabilmesi için şüphesiz
+hatırlanabilir olması gerekiyor. Hikayeler, türküler, danslar, oyunlar
+tasarlıyorum. Taslak çalışmalarımı benzer travmaları yaşamış çevremdeki
+insanlarla paylaşıyorum. Sonuçta onlar da benim gibiler, duydukları taslakların
+bazılarını kendi taslaklarıyla birleştirip daha da akılda kalıcı hale
+getiriyorlar. Dilden dile, kulaktan kulağa geçen bu tasarımlar kolektif bir
+çalışmayla olgunlaşıyor. Geçmişin yaşananları; korkunun sponsorluğunda, aklın
+elinde, efsanelere dönüşüyor.
 
 ... Bu efsanelerden beklentimiz çok basit. Bize yol göstermesi ve geleceğin
 karanlığını kaldırması. Yemek bulabilelim. Kışın aç kalmayalım. Hastalanınca
