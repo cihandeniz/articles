@@ -167,10 +167,9 @@ olarak görüyorum. Ve davete icabet adettendir.
 
 Efsane, tanım gereği büyük bir şey. Biraz yüksekten uçmadan efsaneleri incelemek
 mümkün olmaz diye düşünüyorum. Kader mi daha yüksekte, peygamberlik mi
-bilmiyorum ama bu konuya girince içimdeki korkuyu biraz daha fazla hissettiğimi
-ifade etmeliyim. Her yerinde narin ve çok değerli seramik ve kristal eşyalar
-olan bir odanın tozunu almaya girmişim gibi geliyor. İnsan kapıyı bile yavaş
-açıyor korkudan.
+bilmiyorum ama bu konuya girince içimdeki korkuyu biraz daha fazla hissediyorum.
+Her yerinde narin ve değerli kristal vazolar olan bir odanın tozunu almaya
+girmişim gibi geliyor. İnsan odanın kapısını bile yavaş açıyor korkudan.
 
 Ben kavramından bahsettiğimde bile çekinirken, kendisini görmek nasıl bir duygu
 olurdu acaba. Duygu olumlu ya da olumsuz olsa da büyük olacağı kesin. Benim
@@ -178,55 +177,67 @@ peygamberimse zaten kendimden geçerdim herhalde. Benim değilse de hınç, öfk
 nefret hissederdim. Belki gizli bir hayranlık ya da muhtemelen hepsi bir arada
 olurdu. Öyle ya da böyle büyük bir duygulanma halinde olurdum gibi geliyor.
 
-Kendisini görmek bir yana asıl peygamber olmak nasıl bir şey, bunu hiç aklım
-almıyor. Bir insan nasıl peygamber olur? Bunu bilmem mümkün değil ama biraz akıl
-yürütebilirim.
+Peki peygamber olmak nasıl bir şey? Bir insan nasıl peygamber olur? Bunu bilmek
+mümkün değil, hayal etmek de biraz tuhaf. Geriye akıl yürütmek kalıyor.
 
-Bir peygamber öncelikle bir toplumsal lider, hiç değilse hitap ettiği bir
-topluluk ya da bir dinleyeni mutlaka olmalı. Henüz lider olmasa da, lider
-olabilecek biri olmalı diye düşünüyorum. Yoksa kendi kendine tanrıdan mesaj alıp
-bunu kimseyle paylaşmayan birinden kimene, öyle değil mi. Diğer yandan onu
+Peygamber bir lider olmalı. Hiç değilse hitap ettiği bir topluluk ya da en
+azından bir dinleyeni mutlaka olmalı. Yoksa kendi kendine tanrıdan mesaj alıp
+bunu kimseyle paylaşmayan birinden kimene, öyle değil mi. Dolayısıyla henüz
+lider olmasa da, lider olabilecek biri olmalı diye düşünüyorum. Diğer yandan onu
 liderden ayıran özelliği ise peygamberin tanrı ile bir şekilde iletişim halinde
-olması.
+olması, yani tanrının mesajını getirmesi.
 
-...
+Ne kadar ilginç. Bugün tarihin bir döneminde gerçekleşmiş bir olgu olarak bunu
+kabul edebiliyoruz ya da kabul edilmesini kolaylıkla tolere edebiliyoruz ama
+biri çıkıp ben peygamberim dese bunu kimse ciddiye almayacaktır. Ciddiye almak
+derken, bu bir hakaret olarak bile algılanmaz. Büyük ihtimalle bunu iddia edene
+deli gözüyle bakılır ve hastaneye sevk edilirdi ya da zararsız diye kendi haline
+bırakılırdı. Oysa tarih öyle demiyor. Peygamberleri peygamber olarak kabul etmiş
+insanlar, onları inananı inanmayanı da ciddiye almış.
 
-Biri çocuğunu kurban edecekken kendisine iletilen bir mesajla artık çocuğunu
-kurban etmek zorunda değilse, bu herhalde herkes için müjdedir. O zamanın
-toplumu belli ki eskimiş kuralların baskısı altında ya da bir korku yönetiminin
-esiri. Bir peygamber, tanrıyla iletişimi olan bir lider, çıkmaza girmiş bir
-toplumun kurtarıcısı oluveriyor. Harika bir an olsa gerek. Toplum için inanılmaz
-bir özgüven yüklemesi ve müthiş bir rahatlama.
+Kurban hikayesini anımsıyorum. Genelde tanrıya adanmışlığın ve sonsuz güvenin
+örneği olarak bilinir ama bana bu hikaye sadece onu anlatıyor gibi gelmiyor.
+Biri var, rüya görüp çocuğunu kurban etmesi gerektiği mesajı alıyor. Tam
+yapacakken artık çocuğunu kurban etmek zorunda değil diye bir mesaj daha alıyor.
+Çocuk yerine de bir koç kesiliyor.
 
-Her rahatlama beraberinde hataları ve keyfiyeti de getiriyor şüphesiz. Toplum
-yeniden yolunu kaybedecek ve tüm uyarılara rağmen yanlışa sürüklenecek. Ah şu
-toplum, hep yanlışlara sapıyor. Yeni peygamber geliyor ve tam rayına oturuyor
-derken yine birileri yoldan çıkmayı başarabiliyor. Yüzlerce peygamber gelmiş,
-yine de insanlık yolda kalamamış. Keşke hep bir peygamber olsa da hiç yoldan
-çıkmasak.
+Bu hikayeyi ne kadar süslersem süsleyeyim, tek başına binlerce yıla meydan
+okuyacak bir hikaye gibi durmuyor ama gerçek şu ki bugün hikayeyi hala
+biliyoruz. Bu olayın dönemin toplumu üzerinde hiçbir etkisi olmasa bunu kim
+neden konuşsun ve nesiller boyu anlatsın. Olay gerçekte her nasıl geliştiyse
+gelişsin, döneminde herkes için bir müjde olarak algılanmış olmalı. Dönemin
+insanı belli ki eskimiş ve amacını aşmış kuralların baskısı altında, bir korku
+yönetiminin esiri. Bir peygamber, tanrıyla konuşuyor ve çıkmaza girmiş bir
+toplumu yapmak istemediği şeylerden azad ediyor. O dönemde yaşıyor olsaydım ben
+bunu harika bir an olarak hatırlardım. Toplum için inanılmaz bir özgüven
+yüklemesi ve bir rahatlama.
 
-Korkunun yaptırdığı tasarımların tekrar eden bir özelliği, önerilen sistemin
+Şüphesiz her rahatlama beraberinde hataları da getiriyor. Toplum yeniden yolunu
+kaybedecek ve tüm uyarılara rağmen yanlışa sürüklenecek. Ah şu toplum, hep
+yanlışlara sapıyor. Yeni peygamber geliyor ve tam rayına oturuyor derken yine
+birileri yoldan çıkmayı başarabiliyor. Yüzlerce peygamber gelmiş, yine de
+insanlık yolda kalamamış. Keşke hep bir peygamber olsa da hiç yoldan çıkmasak.
+
+Korkunun yaptırdığı tasarımlarda belirgin bir özellik bu, önerilen düzenin
 olamayacak şeylerin gerçekleşmesine bağlı olması. Peygamber her zaman gelirse
-peygamberliği kalmaz ama peygamber gelmezse de toplum çıkmazdan kurtulamaz. Bu
-düzende toplum, bir noktada kurtarılmaya ihtiyaç duyacağı bir düşüş yaşamak
-zorunda kalıyor. Yine tam korkuya göre bir tasarım. Efsanesini devam ettiriyor,
-kendine muhtaç bırakıyor.
+kraldan padişahtan farkı kalmaz ama peygamber hiç gelmezse de toplum çıkmazdan
+kurtulamaz. Bu düzende toplum, bir noktada kurtarılmaya ihtiyaç duyacağı bir
+düşüş yaşamak zorunda. Böylece korkunun efsanesi devam edecek, biz de hep ona
+muhtaç olacağız.
 
-Bir şey daha dikkatimi çekiyor. Birinin liderliğini kabul etmek için onun ancak
+Bir şey daha dikkatimi çekiyor. Birinin liderliğini kabul etmek için onun
 tanrıdan mesaj getirecek seviyede olmasını beklemek ironik bir şekilde kibirli
 bir tutum. "Ben öyle herkesi dinlemem! Bana peygamber getirin ancak onu
 dinlerim!" der gibi bir halimiz var.
 
 ### Son Peygamber
 
-Peygamberlik ancak sürekli
-bir peygamber olursa işe yarıyor. Eğer bir peygamber gelir de bu düzeni bozarsa,
-o zaman peygamberlik efsanesi bitecektir. Bu da korkunun efsanelerinden en
-güzelini kaybetmesi demektir. Bir toplum düşünün ki böyle bir peygambere ihtiyaç
-duymuyor, kendi sorunlarını kendisi çözebiliyor. Bu toplum neden tanrıdan yeni
-mesaj beklesin ki, zaten alınacak mesajı almış gibi görünüyor.
-
-[Son Peygamber](../../eskizler/son-peygamber.md)
+Peygamberlik ancak sürekli bir peygamber olursa işe yarıyor. Eğer bir peygamber
+gelir de bu düzeni bozarsa, o zaman peygamberlik efsanesi bitecektir. Bu da
+korkunun efsanelerinden en güzelini kaybetmesi demektir. Bir toplum düşünün ki
+böyle bir peygambere ihtiyaç duymuyor, kendi sorunlarını kendisi çözebiliyor. Bu
+toplum neden tanrıdan yeni mesaj beklesin ki, zaten alınacak mesajı almış gibi
+görünüyor.
 
 ### Mesih
 
@@ -236,6 +247,8 @@ mesaj beklesin ki, zaten alınacak mesajı almış gibi görünüyor.
 
 Kıyamet kopacak, sonunda yargılanacağız. Ya cennete, ya cehenneme
 gideceğiz.
+
+[Son Peygamber](../../eskizler/son-peygamber.md)
 
 ---
 
