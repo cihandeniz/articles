@@ -165,9 +165,66 @@ olarak görüyorum. Ve davete icabet adettendir.
 
 ### Peygamber
 
-[İbrahim Yeniden](../../eskizler/ibrahim-yeniden.md)
+Efsane, tanım gereği büyük bir şey. Biraz yüksekten uçmadan efsaneleri incelemek
+mümkün olmaz diye düşünüyorum. Kader mi daha yüksekte, peygamberlik mi
+bilmiyorum ama bu konuya girince içimdeki korkuyu biraz daha fazla hissettiğimi
+ifade etmeliyim. Her yerinde narin ve çok değerli seramik ve kristal eşyalar
+olan bir odanın tozunu almaya girmişim gibi geliyor. İnsan kapıyı bile yavaş
+açıyor korkudan.
+
+Ben kavramından bahsettiğimde bile çekinirken, kendisini görmek nasıl bir duygu
+olurdu acaba. Duygu olumlu ya da olumsuz olsa da büyük olacağı kesin. Benim
+peygamberimse zaten kendimden geçerdim herhalde. Benim değilse de hınç, öfke,
+nefret hissederdim. Belki gizli bir hayranlık ya da muhtemelen hepsi bir arada
+olurdu. Öyle ya da böyle büyük bir duygulanma halinde olurdum gibi geliyor.
+
+Kendisini görmek bir yana asıl peygamber olmak nasıl bir şey, bunu hiç aklım
+almıyor. Bir insan nasıl peygamber olur? Bunu bilmem mümkün değil ama biraz akıl
+yürütebilirim.
+
+Bir peygamber öncelikle bir toplumsal lider, hiç değilse hitap ettiği bir
+topluluk ya da bir dinleyeni mutlaka olmalı. Henüz lider olmasa da, lider
+olabilecek biri olmalı diye düşünüyorum. Yoksa kendi kendine tanrıdan mesaj alıp
+bunu kimseyle paylaşmayan birinden kimene, öyle değil mi. Diğer yandan onu
+liderden ayıran özelliği ise peygamberin tanrı ile bir şekilde iletişim halinde
+olması.
+
+...
+
+Biri çocuğunu kurban edecekken kendisine iletilen bir mesajla artık çocuğunu
+kurban etmek zorunda değilse, bu herhalde herkes için müjdedir. O zamanın
+toplumu belli ki eskimiş kuralların baskısı altında ya da bir korku yönetiminin
+esiri. Bir peygamber, tanrıyla iletişimi olan bir lider, çıkmaza girmiş bir
+toplumun kurtarıcısı oluveriyor. Harika bir an olsa gerek. Toplum için inanılmaz
+bir özgüven yüklemesi ve müthiş bir rahatlama.
+
+Her rahatlama beraberinde hataları ve keyfiyeti de getiriyor şüphesiz. Toplum
+yeniden yolunu kaybedecek ve tüm uyarılara rağmen yanlışa sürüklenecek. Ah şu
+toplum, hep yanlışlara sapıyor. Yeni peygamber geliyor ve tam rayına oturuyor
+derken yine birileri yoldan çıkmayı başarabiliyor. Yüzlerce peygamber gelmiş,
+yine de insanlık yolda kalamamış. Keşke hep bir peygamber olsa da hiç yoldan
+çıkmasak.
+
+Korkunun yaptırdığı tasarımların tekrar eden bir özelliği, önerilen sistemin
+olamayacak şeylerin gerçekleşmesine bağlı olması. Peygamber her zaman gelirse
+peygamberliği kalmaz ama peygamber gelmezse de toplum çıkmazdan kurtulamaz. Bu
+düzende toplum, bir noktada kurtarılmaya ihtiyaç duyacağı bir düşüş yaşamak
+zorunda kalıyor. Yine tam korkuya göre bir tasarım. Efsanesini devam ettiriyor,
+kendine muhtaç bırakıyor.
+
+Bir şey daha dikkatimi çekiyor. Birinin liderliğini kabul etmek için onun ancak
+tanrıdan mesaj getirecek seviyede olmasını beklemek ironik bir şekilde kibirli
+bir tutum. "Ben öyle herkesi dinlemem! Bana peygamber getirin ancak onu
+dinlerim!" der gibi bir halimiz var.
 
 ### Son Peygamber
+
+Peygamberlik ancak sürekli
+bir peygamber olursa işe yarıyor. Eğer bir peygamber gelir de bu düzeni bozarsa,
+o zaman peygamberlik efsanesi bitecektir. Bu da korkunun efsanelerinden en
+güzelini kaybetmesi demektir. Bir toplum düşünün ki böyle bir peygambere ihtiyaç
+duymuyor, kendi sorunlarını kendisi çözebiliyor. Bu toplum neden tanrıdan yeni
+mesaj beklesin ki, zaten alınacak mesajı almış gibi görünüyor.
 
 [Son Peygamber](../../eskizler/son-peygamber.md)
 
