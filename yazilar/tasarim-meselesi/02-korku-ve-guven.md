@@ -131,17 +131,54 @@ değiştiren, dönüştüren bizleriz.
 Düşüncenin doğuşunu ve dolayısıyla düşüncenin kendisini daha iyi anlamak için
 efsaneleri incelemeye bu nedenle karar veriyorum.
 
-Kader. Tanrı her şeyi bilir. Kader vardır ve biz görmesek de gelecek bellidir,
-yazılıdır.
+### Kader
 
-Peygamber. [İbrahim Yeniden](../../eskizler/ibrahim-yeniden.md)
+Geleceği bilemeyecek olsam da en azında belirli olmasının rahatlatıcı bir yanı
+var. En azından eskiden böyle düşünürdüm. Bu durum belki bir gün benim de
+bilebileceğim umudunu aşılıyor sanırım. Hiç olmadı birilerinin bilmesi içimi
+rahatlatmaya aday bir düşünce. Kaderin yazmakla yazılmakla ilişkisi çok güçlü.
+Yazgımız neyse o, alın yazısı gibi deyimlerden hareketle kader yazılan bir şey
+gibi görünüyor. Her eylemin bir eyleyeni de mutlaka olacağından, kaderi de yazan
+biri ya da bir şey var olmalı. Yani efsanenin kendisi bunu gerektiriyor. Faili
+malum, tanrı ya da tanrısal bir varlık.
 
-Son Peygamber. [Son Peygamber](../../eskizler/son-peygamber.md)
+Sonuç olarak ben o grupta değilim, yani o kesin. Yazan değil de yazılan
+gruptayım yani yazgılı bir varlığım. Bu yazgılı olma fikri bana iyi gelmiyor,
+geleceğin bu denli belirlenmiş olmasının bir şeyleri değiştirebileceğime dair
+inancım ile çelişmesini hiç sevmiyorum. Her şey belirlenmiş ama biz bir türlü
+bilemiyoruz ve olacaklar olmak zorunda, yapılabilecek hiçbir şey yok... Korku,
+çok sinsisin. Kader, korkunun işi, bariz. Ama senden sinsisi de var. Kaderin
+içine çözeyim diye bir bulmaca gizlenmiş beni çekiyor.
 
-Mesih. İsa geri dönecek ve bize yardım edecek.
+Bir şeyin ne olacağı belli ise ve onu bilen bir varlık var diyorsan, o zaman ben
+de bilebilirim diye düşünmeden edemiyorum. Bilemeyeceksem, belirlenmiş olup
+olmaması beni niye ilgilendirsin ki? Ya ben de bilebilirim ya da belirlenmiş
+olması beni ilgilendirmez. Kaderin verdiği bu bilebilme umudu biliyorum ki
+korkunun da işine gelen bir havuç, çünkü efsaneye olan ilgimi kaybedersem onunla
+beraber korku da yok olacak.
 
-Mahşer. Kıyamet kopacak, sonunda yargılanacağız. Ya cennete, ya cehenneme
+Bilemeyecek olsam dahi zamanımı olan bitene yakacağım ağıtlarla geçireceğime,
+bilmeye çalışarak geçirmiş olurum diye düşünüyorum. Dolayısıyla bunu bir davet
+olarak görüyorum ve davete icabet adettendir.
+
+### Peygamber
+
+[İbrahim Yeniden](../../eskizler/ibrahim-yeniden.md)
+
+### Son Peygamber
+
+[Son Peygamber](../../eskizler/son-peygamber.md)
+
+### Mesih
+
+İsa geri dönecek ve bize yardım edecek.
+
+### Mahşer
+
+Kıyamet kopacak, sonunda yargılanacağız. Ya cennete, ya cehenneme
 gideceğiz.
+
+---
 
 ... Her şey belirlenmiş adeta. Bu belirlenim hali en küçük detaydan en büyüğüne
 kadar yayılmış durumda. Belirlenimli bir hayat. İç rahatlatıcı bir fikir. Bu
