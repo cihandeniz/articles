@@ -2,20 +2,19 @@
 title: Tasarım Meselesi
 ---
 
-Tasarım hiyerarşik aklın tanrısallaştırdığı ancak demokratik akla göre teknik
-olan bir meseledir. Hiyerarşik akla göre üst bir tasarımcı tarafından yapılmış
-ve belirleyici nitelikteki tasarımlar, tasarlamadan sonra gelen aşamalarda alt
-uygulayıcıların tam olarak uyması gereken kalıplardır. Bu akla göre alt
-uygulayıcılar mükemmel tasarımı asla uygulayamayan eksik bireyler olmaktan
-nadiren kurtulabilirler. Tasarımın mükemmelliğinin imkansızlığı, tasarımın
-yalnızca var olan gerçeği temsil eden bir kalıp olduğu, tasarlamanın teknik bir
-iş olduğu ısrarla atlanır.
+Tasarım buyuran aklın tanrısallaştırdığı ancak uzlaşan akla göre teknik olan bir
+meseledir. Buyuran akla göre üst bir tasarımcı tarafından yapılmış ve
+belirleyici nitelikteki tasarımlar, sonra gelen aşamalarda uygulayıcılara
+buyrulmuş ve tam olarak uyulması gereken kalıplardır. Bu akla göre uygulayıcılar
+mükemmel tasarımı asla uygulayamayan eksik bireyler olmaktan pek kurtulamazlar.
+Tasarımın mükemmelliğinin imkansızlığı, tasarımın yalnızca var olan gerçeği
+temsil eden bir kalıp olduğu, tasarlamanın teknik bir iş olduğu ısrarla atlanır.
 
 Tasarım ancak tasarlanan olgu gerçekleştikten sonra bitebilen bir
 kavramsallaştırmadır. Tasarlama eylemi de bu tasarımı geleceğe değil, geçmişe
-bakarak ortaya çıkaran teknik bir iştir. Demokratik akıl, tasarlamayı ne
-yüceltir ne alçaltır, tam olması gereken yere yerleştirir. Bütünü oluşturan her
-adımın en sonuna.
+bakarak ortaya çıkaran teknik bir iştir. Uzlaşan akıl, tasarlamayı ne yüceltir
+ne alçaltır, tam olması gereken yere yerleştirir. Bütünü oluşturan her adımın en
+sonuna.
 
 ## İçindekiler
 

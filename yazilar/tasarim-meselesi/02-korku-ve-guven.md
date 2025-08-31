@@ -131,7 +131,7 @@ değiştiren, dönüştüren bizleriz.
 Düşüncenin doğuşunu ve dolayısıyla düşüncenin kendisini daha iyi anlamak için
 efsaneleri incelemeye bu nedenle karar veriyorum.
 
-### Kader
+## Kader
 
 Geleceği bilemeyecek olsam da belirli olmasının rahatlatıcı bir yanı var. En
 azından eskiden böyle düşünürdüm. Bu durum belki bir gün benim de bilebileceğim
@@ -163,7 +163,7 @@ Bilemeyecek olsam dahi zamanımı olan bitene yakacağım ağıtlarla geçirece�
 bilmeye çalışarak geçirmiş olurum diye düşünüyorum. Dolayısıyla bunu bir davet
 olarak görüyorum. Ve davete icabet adettendir.
 
-### Peygamber
+## Peygamber
 
 Efsane, tanım gereği büyük bir şey. Biraz yüksekten uçmadan efsaneleri incelemek
 mümkün olmaz diye düşünüyorum. Kader mi daha yüksekte, peygamberlik mi
@@ -230,7 +230,7 @@ tanrıdan mesaj getirecek seviyede olmasını beklemek ironik bir şekilde kibir
 bir tutum. "Ben öyle herkesi dinlemem! Bana peygamber getirin ancak onu
 dinlerim!" der gibi bir halimiz var.
 
-### Mahşer
+## Mahşer
 
 Kıyamet kopacak, sonunda hepimiz yargılanacağız. Sırat köprüsünün dünyadaki
 yaşantısına göre bazısına çok geniş, bazısına ise çok dar olacağı söylenir. Ama
@@ -268,7 +268,7 @@ Benim için bugün tek kalacak da olsam doğruyu yapmak artık onun sayesinde da
 kolay. Ne de olsa son gün zaten tek olacağım. Son günden korkmam için tasarlanan
 efsane, bugünkü korkularımı yenerken bana yardım ediyor.
 
-### Son Peygamber
+## Son Peygamber
 
 Bir peygamber gelip peygamberlik düzenini bozuyor ve o efsane bir anda
 bitiveriyor. Yüzlerce hatta binlerce peygamber ve onların oluşturduğu
@@ -306,23 +306,35 @@ lider, yönetici beklemeyin, büyüyün.
 
 ---
 
-... Her şey belirlenmiş adeta. Bu belirlenim hali en küçük detaydan en büyüğüne
-kadar yayılmış durumda. Belirlenimli bir hayat. İç rahatlatıcı bir fikir. Bu
-fikri kim yarattıysa ona teşekkür etmekten başka yapacak bir şey yok. Gönlümüze
-su serpti, çocukken bizi korudu. Eğer bu olmasaydı, korkularımızla hareket
-etmekten önümüzü göremeyecektik. Efsanelerimiz geleceğimize bir ışık tuttu.
-Gerçek olmasa da hikayelerle bizi büyüttü. ...
+Atalarımdan miras bu tasarımlar ile adeta her şey belirlenmiş olarak başlıyor.
+Bu belirlenim hali en küçüğünden en büyüğüne kadar tüm hayatıma nüfuz ediyor. Su
+içerken yılan da dokunmuyor, ölünce gidilen bir yer de oluyor. Belirlenimli bir
+hayat. Onca belirsizliğin ortasında iç rahatlatıcı bir fikir. Çocukken beni
+korudu, geleceğime ışık tuttu ve hikayelerle beni büyüttü.
 
-... Tanrı, peygamber, lider, anne-baba, öğretmen-hoca. Bunların hepsi birey ve
-toplum için oluşturulmuş, bizi bilinmezden koruyan birer ebeveyn tasarımı.
-Yepyeni tek seferlik deneyimler ile her karşılaştığımızda, bu tasarımlara
-başvuruyor ve rotamızı yeniden düzenliyoruz. Yetişkin de olsak, kafamızdaki
-annemiz, babamız bizimle konuşmaya devam eder. Onların ruhu her zaman
-bizimledir. Birer tasarım kalıbı olarak kayıtlıdırlar, ayakta durmamızı
-sağlarlar. Ebeveynlik önce fiilen vardır, sonra fikren devam eder. Benliğimiz
-geçmişten gelen tasarımları yeniden ve yeniden düzenler. Artık bize yol gösteren
-annemiz mi, babamız mı, öğretmenimiz mi, peygamberimiz mi, tanrımız mı çok da
-anlayamayız. Benliğimize işlemiştir. Yetişkin olarak geleceği karşılarız. ...
+İster tanrı, ister peygamber, ister lider, isterse öğretmen olsun, bunların
+hepsi benim (ve toplumum için) oluşturulmuş, beni bilinmezden koruyan birer
+ebeveyn tasarımı. Yepyeni tek seferlik deneyimler ile her karşılaştığımda, bu
+tasarımlara başvuruyor ve rotamı yeniden düzenliyorum. Kendi tasarımlarımı
+onların koruması altında şekillendiriyorum. Yetişkin hayatımda artık geçmişin
+parçası olan bu ebeveyn tasarımları, bu şekilde benliğime işlenmiş halde
+varlıklarını sürdürüyorlar. Bir anlamda ruhumun yapıtaşları ya da ilham perileri
+olarak ölümsüzleşiyorlar. Anneannem gibi artık burada olmadan da benliğimin bir
+parçası olarak dolaylı bir şekilde bana yol göstermeye devam edebiliyorlar.
+Sanırım ebeveynlik başta fiilen, sonda fikren var oluyor. Bir noktadan sonra
+benliğim geçmişten gelen tasarımları yeniden ve yeniden düzenliyor. Artık bana
+yol gösteren annem mi, babam mı, öğretmenim mi, peygamberim mi ya da tanrım mı
+çok da ayırt edemiyorum.
+
+Efsanelerin bazıları ömürlerinin sonlarına doğru sessizce aramızdan ayrılırken
+bazıları da epey yaygara koparıyor. Temel varsayımlara yerleşmişlerse onlara
+veda etmek çok daha zor oluyor. Sonuçta yaşamı kolaylaştırmak için
+hazırlanmışlar ve içiçe geçmiş bir şekilde elime geçiyorlar. Birini çekip
+aldığımda ise tüm yapı sarsılabiliyor. Bunu kolaylaştırmak için aklın izini
+takip ederek yapıyı anlama yolunu seçiyorum. Böylelikle neyi çektiğimi, ne zaman
+çekmem gerektiğini ve yerine ne koymam gerektiğini daha iyi bilebileceğimi
+umuyorum. Bu zorlu ve taşlı bir yol ama buradan gideceğim, çünkü zaten
+yürüyebileceğim tek yolun bu olduğunu düşünüyorum, kendi yolum.
 
 ... Tasarım kalıplarının bir akıldan diğerine olduğu gibi aktarılamayacağı.
 Aktarılıyorsa da bunun her zaman hatalı olacağını söylemeliyim. Bir beyine
