@@ -163,7 +163,7 @@ Bilemeyecek olsam dahi zamanımı olan bitene yakacağım ağıtlarla geçirece�
 bilmeye çalışarak geçirmiş olurum diye düşünüyorum. Dolayısıyla bunu bir davet
 olarak görüyorum. Ve davete icabet adettendir.
 
-## Peygamber
+## Peygamberlik
 
 Efsane, tanım gereği büyük bir şey. Biraz yüksekten uçmadan efsaneleri incelemek
 mümkün olmaz diye düşünüyorum. Kader mi daha yüksekte, peygamberlik mi
@@ -177,13 +177,13 @@ peygamberimse zaten kendimden geçerdim herhalde. Benim değilse de hınç, öfk
 nefret hissederdim. Belki gizli bir hayranlık ya da muhtemelen hepsi bir arada
 olurdu. Öyle ya da böyle büyük bir duygulanma halinde olurdum gibi geliyor.
 
-Peki peygamber olmak nasıl bir şey? Bir insan nasıl peygamber olur? Bunu bilmek
-mümkün değil, hayal etmek de biraz tuhaf. Geriye akıl yürütmek kalıyor.
+Peki peygamber olmak nasıl bir şey ve bir insan nasıl peygamber olur? Bunu
+bilmek mümkün değil, hayal etmek de biraz tuhaf. Geriye akıl yürütmek kalıyor.
 
 Peygamber bir lider olmalı. Hiç değilse hitap ettiği bir topluluk ya da en
 azından bir dinleyeni mutlaka olmalı. Yoksa kendi kendine tanrıdan mesaj alıp
-bunu kimseyle paylaşmayan birinden kimene, öyle değil mi. Dolayısıyla henüz
-lider olmasa da, lider olabilecek biri olmalı diye düşünüyorum. Diğer yandan onu
+bunu kimseyle paylaşmayan birinden kimene öyle değil mi. Dolayısıyla henüz lider
+olmasa da, lider olabilecek biri olmalı diye düşünüyorum. Diğer yandan onu
 liderden ayıran özelliği ise peygamberin tanrı ile bir şekilde iletişim halinde
 olması, yani tanrının mesajını getirmesi.
 
@@ -329,53 +329,11 @@ yol gösteren annem mi, babam mı, öğretmenim mi, peygamberim mi ya da tanrım
 Efsanelerin bazıları ömürlerinin sonlarına doğru sessizce aramızdan ayrılırken
 bazıları da epey yaygara koparıyor. Temel varsayımlara yerleşmişlerse onlara
 veda etmek çok daha zor oluyor. Sonuçta yaşamı kolaylaştırmak için
-hazırlanmışlar ve içiçe geçmiş bir şekilde elime geçiyorlar. Birini çekip
-aldığımda ise tüm yapı sarsılabiliyor. Bunu kolaylaştırmak için aklın izini
-takip ederek yapıyı anlama yolunu seçiyorum. Böylelikle neyi çektiğimi, ne zaman
+hazırlanmışlar ve içiçe geçmiş bir şekilde karşıma çıktılar. Birini çekip
+aldığımda tüm yapı sarsılabiliyor. Bunu kolaylaştırmak için aklın izini takip
+ederek yapıyı anlama yolunu seçiyorum. Böylelikle neyi çektiğimi, ne zaman
 çekmem gerektiğini ve yerine ne koymam gerektiğini daha iyi bilebileceğimi
-umuyorum. Bu zorlu ve taşlı bir yol ama buradan gideceğim, çünkü zaten
+umuyorum. Bu zorlu ve taşlı bir yol ama buradan gideceğim, çünkü zaten güvenle
 yürüyebileceğim tek yolun bu olduğunu düşünüyorum, kendi yolum.
-
-... Tasarım kalıplarının bir akıldan diğerine olduğu gibi aktarılamayacağı.
-Aktarılıyorsa da bunun her zaman hatalı olacağını söylemeliyim. Bir beyine
-diğerine bilgi ışınlayabilseydik bile bu o beyine uyar mıydı, aynı anlama gelir
-miydi emin değilim. Birey kendi hayatı biricik olsa da tüm tasarımlarını
-sıfırdan üretemez. Bir şekilde ortak bir dil kurulduğunda, bu dil üzerinden aynı
-değilse de benzer bilgilerin birinden diğerine aktarılması, tabi bir hata
-payıyla, mümkün duruyor. En azından aktarıldığını varsaymak bizi çok fazla
-yanıltmıyor. Aktarımın mümkün olması, benzer durumlarla karşılaşmış atalarımızın
-yolundan dümdüz gitmek fikrini besliyor. Biz atalarımızı anlayamadıysak, anlayan
-ve yanımızda olan yaşayan birilerine bu mücadeleyi devredebiliyoruz. Devreden
-akla, hiyerarşik akıl diyorum. İmam ne derse onu yapıyoruz. Ya da hoca ne derse
-onu takip ediyoruz. Buna annemiz ve babamızın kurallarına ve yoluna uyum
-sağlamış olan çocukluk yıllarımız imkan tanıyor. Hayat boyu karşımıza çıkan
-belirsizliklere karşın ne yapacağımızı delege edebiliyoruz. Bazen de
-kararlarımızı kişiye değil, bir kuruma ya da sisteme bırakıyoruz. Hastalanınca
-doktora danışıyoruz ya da burçlarımıza göre fallara bakıyoruz, hocaya
-gidebiliyoruz. Doğru ya da yanlış olduğunu düşünmemiz bir yana, bunların bizi
-rahatlatan bir yanı var. Bizim çocuk kalmamızı sağlayan, rahatlatan bir yan bu.
-...
-
-... Diğer yandan bazılarımız için bu delegasyon hiç doğru değil. Doktor da olsa,
-kim olursa olsun, bazısı anlamak ister. Baştan keşfetmek zorun değildir bunlar,
-ama anlamak isterler. Bunlar da demokratik akıldır. Mesele kararı kimin verdiği
-meselesi. Ben mi vermeliyim, benim adıma daha iyi bildiğini varsaydığım bir
-başkası mı. Bazısı için kendi kararını vermek zor, bazısı için de kararı
-devretmek zor. ...
-
-... Geleceğin belirsizliğini ne dersek diyelim yalnız karşılıyoruz. Mahşer günü
-sırat köprüsünden bile tek tek geçiyoruz. Tüm kararlarımızdan bizim sorumlu
-olduğumuzu, ve yalnızca bizim sorumlu olduğumuzu, düşündüğümde, demokratik aklın
-çatışma, tartışma, taviz barındırsa da daha doğru olduğuna kanaat getiriyorum.
-Atalarımın, hocalarımın tasarımlarını olduğu gibi kullanmam için onları önce
-anlamam, ve zihnimde tekrar inşa etmem gerekiyor. Bunun için hiyerarşik, kabul
-ve biat eden değil, demokratik, tartışan ve eleyen akla ihtiyacım var. ...
-
-- Korku hiyerarşik aklın, güven demokratik aklın duygusudur
-- Mitler bizi aynı zamanda aydınlanmaya ve demokratik akla devam eder
-- Korku yerine güven duygusu ile geleceği karşılayabiliriz
-- Bu güven (trust değil, confidence), gelecekte olacak şeyleri
-  etkileyebileceğimize olan inancımızdır (Joe)
-  - İnanç üzerinden sonraki chapter'a bağlayalım ve kapatalım
 
 {% include tasarim-meselesi/footer.html %}
