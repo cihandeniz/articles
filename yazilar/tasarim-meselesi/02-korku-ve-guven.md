@@ -230,25 +230,79 @@ tanrıdan mesaj getirecek seviyede olmasını beklemek ironik bir şekilde kibir
 bir tutum. "Ben öyle herkesi dinlemem! Bana peygamber getirin ancak onu
 dinlerim!" der gibi bir halimiz var.
 
-### Son Peygamber
-
-Peygamberlik ancak sürekli bir peygamber olursa işe yarıyor. Eğer bir peygamber
-gelir de bu düzeni bozarsa, o zaman peygamberlik efsanesi bitecektir. Bu da
-korkunun efsanelerinden en güzelini kaybetmesi demektir. Bir toplum düşünün ki
-böyle bir peygambere ihtiyaç duymuyor, kendi sorunlarını kendisi çözebiliyor. Bu
-toplum neden tanrıdan yeni mesaj beklesin ki, zaten alınacak mesajı almış gibi
-görünüyor.
-
-### Mesih
-
-İsa geri dönecek ve bize yardım edecek.
-
 ### Mahşer
 
-Kıyamet kopacak, sonunda yargılanacağız. Ya cennete, ya cehenneme
-gideceğiz.
+Kıyamet kopacak, sonunda hepimiz yargılanacağız. Sırat köprüsünün dünyadaki
+yaşantısına göre bazısına çok geniş, bazısına ise çok dar olacağı söylenir. Ama
+beni o köprüde hem korkutan hem de rahatlatan başka bir şey daha var, o da
+köprüden tek tek geçeceğimiz fikri.
 
-[Son Peygamber](../../eskizler/son-peygamber.md)
+Kendi davranışlarımın, ahlak anlayışımın ne kadarını aklımla açıklayabilirim?
+Sırat köprüsünden geçerken "Herkes öyle yapıyordu, o nedenle ben de öyle yaptım"
+cevabı kabul görecek bir cevap gibi görünmüyor. O halde her davranışımı, her
+kabulumü kendi aklımla tartmak zorundayım. Herkes sağa gidiyor diye sağa
+gidiyorsam ve o yolun sonu felaket ise ben de sorumluyum. Karşıdan karşıya
+geçerken yanımdakine uyup araç geliyor mu diye bakmadığımda bu ne kadar
+yanlışsa, topluma körü körüne uymak da o kadar yanlış geliyor. Ya toplumum o
+kadar da haklı değilse. Ya en temel kabullerimiz hatalıysa. Ya gerçekten herkes
+ama herkes yanılıyorsa.
+
+Mahşer günü hesap veremeyeceğim için korkmam çok anormal değil. Şüphesiz sayısız
+hata yaptım ve yapmaya devam ediyorum. Diğer yandan da zamanı geri alamayacağım
+için onlarla yaşamak zorundayım, korkunun beni ele geçirmesine izin vermek
+istemiyorum. Yanacaksam başım dik yanmak isterim. Ne kadar zor da olsa doğru
+olanı yapmalı ve o gün geldiğinde içim rahat bir şekilde eylemlerimin hesabını
+verebilecek düşünceyi üretmeliyim. Bunu geçmiş hatalarımı meşrulaştıran bir
+akılla değil, gelecekteki davranışlarımın beni geçmişteki gibi hatalara
+sürükleyen davranışlarımdan farklı olmasını sağlayan bir akılla yapmalıyım.
+
+Sırat köprüsünden tek tek geçeceğimiz fikrinin ruhuma üflediği korkuyu
+hissedebiliyorum. Bu efsane de şüphesiz aynı duygu üzerinde duruyor. Yanlış
+yapmaktan korkarız, bu duyguyu besliyor veya bu duygudan besleniyor. Oysa aklın
+gizlediği mesaj da korkuyla aynı yerde apaçık duruyor. Özünde yanlış olduğunu
+sezdiğim, düşündüğüm ya da yanlış olduğundan şüphelendiğim herhangi bir
+davranışı toplum baskısı sebebiyle yapmak zorunda hissedebilirim. Dışlanma
+korkusuyla yanlışa sürüklenebilirim. Toplumca yanlış, bence doğru olan bir
+davranışın eşiğine geldiğimde, aklım mahşer efsanesiyle bugünüme güç veriyor.
+Benim için bugün tek kalacak da olsam doğruyu yapmak artık onun sayesinde daha
+kolay. Ne de olsa son gün zaten tek olacağım. Son günden korkmam için tasarlanan
+efsane, bugünkü korkularımı yenerken bana yardım ediyor.
+
+### Son Peygamber
+
+Bir peygamber gelip peygamberlik düzenini bozuyor ve o efsane bir anda
+bitiveriyor. Yüzlerce hatta binlerce peygamber ve onların oluşturduğu
+peygamberlik müessesesi artık yok. Korkunun en güçlü efsanelerinden bir tanesine
+güle güle demek zorundayım.
+
+Efsane bitiyor ama sanki türküleri hala söyleniyor. Yani pratikte peygamberlik
+özlemi bitmiş görünmüyor. Peygamber gider gitmez, halifeler dönemi başlıyor.
+Halifeler benzer sorumlulukları üstlenseler de asla birer peygamber değiller.
+Peygamber değillikleri ise liderlik açısından değil elçilik açısından, yani
+tanrıdan yeni mesaj getirmemelerinden ileri geliyor. Bu da yeni mesaj
+gerektiğinde vahiy dışında yeni bir yol ihtiyacını beraberinde getirmiş oluyor.
+Eğer peygamberimiz sonuncu peygamber idiyse, o halde bu durum tanrının bize
+söyleyeceği yepyeni bir şey yok ve her şeyin kitapta yazılmış olduğu anlamına
+gelir. Yeni mesaj ihtiyacı olduğunda üzerimize düşen de bu ihtiyacı eski
+mesajlar ile karşılayacak şekilde kutsal metni okumak, anlamak ve hatta
+yorumlamaktır. Her kafadan ayrı yorum çıkma olasılığı olduğundan, halifeliğin
+liderliğine gömülü olan bir sorumluluk da yorumlamak ya da en azından hangi
+yorumun doğru olduğunu belirlemek olsa gerek. Bunun için de aynı anda bir tane
+halife olması gerekir. Olur da toplumdaki bir alt grup kabul gören yorumlara
+katılmazsa, imam gibi yeni bir lider kavramıyla yolunu ayırmak zorunda
+kalacaktır.
+
+Halifeliğin diğer bir farkı da peygamberlerin devrimci, halifelerin muhafazakar
+olmak zorunda olması. Ne garip. Takip ettiğin, senin için belki de en değerli
+olan kişiyi asla anlayamayacaksın. Çünkü o bir devrimci, sen ise bir
+muhafazakarsın.
+
+Paralel evrende bir toplum düşünün ki bir peygambere ihtiyaç duymuyor, kendi
+sorunlarını çözebileceğine inanıyor. Bu toplum neden tanrıdan yeni mesaj
+beklesin ki, zaten alınacak mesajı almış gibi görünüyor.
+
+Belki de aklın bu efsaneye sakladığı mesaj budur: Artık peygamber, halife, imam,
+lider, yönetici beklemeyin, büyüyün.
 
 ---
 
