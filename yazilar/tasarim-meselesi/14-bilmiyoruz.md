@@ -1,5 +1,5 @@
 ---
-title: Depremi Bilmiyoruz
+title: Bilmiyoruz
 ---
 
 - But that's ok

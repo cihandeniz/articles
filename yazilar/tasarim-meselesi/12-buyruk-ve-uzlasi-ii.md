@@ -2,12 +2,12 @@
 title: Buyruk ve Uzlaşı II
 ---
 
-- Hiyerarşik aklın yaratım yöntemleri
+- Hiyerarşik aklın yöntemleri
   - Tasarımcıların hiyerarşik düşünmesinin sorunları. Yapılan öngörülerin
     faşizmi ve geleceğin oluşkanlığına olan kapalılığı
   - Hiyerarşik aklın yaratıcılığa koyduğu engel olarak önden tasarlamak
   - Tasarımcılığın prometheus sevdası
-- Demokratik aklın yaratım yöntemleri
+- Demokratik aklın yöntemleri
   - Prometheus'çuluğa karşı epimetheus'çuluk
   - Uzlaşma, didişme, çarpışma, sürekli tasarım
   - Yaratıcılık tekelinin dağıtılması

@@ -16,6 +16,10 @@ title: Gelecek Hayali
   gidermeyi talep eder. Hangi tasarımın geleceğimizde yer edeceği ise zaman
   meselesidir.
 - İnanmak geleceğe doğru elimizde olan en güçlü eylemdir. Güven inançdan doğar.
-- [İnanmak Bilmek ve Kabul](../../eskizler/inanmak-bilmek-ve-kabul.md)
+  - Bilmek ve inanmak, kesişimleri ayrışımları
+    - Bilme eylemi olarak inanmak
+    - Bilinemezlik ve kabul
+    - Yaratma yolunda inanma eyleminin kaldıraç etkisi
+  - [İnanmak Bilmek ve Kabul](../../eskizler/inanmak-bilmek-ve-kabul.md)
 
 {% include tasarim-meselesi/footer.html %}

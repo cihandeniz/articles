@@ -7,12 +7,14 @@ geçen bir araba farından gelen ışığın duvarda sebep olduğu küçük göl
 oyunlarını gözümün ucuyla fark edersem, emin olmak için bazen kalkar ve
 gölgelerin düştüğü yerde gerçekten bir şey olup olmadığını kontrol ederim. Tabi
 bunu korkarak yaparım. Korkum defalarca boşa çıkmıştır ama yine de dayanamam,
-perdeyi şöyle bir sallarım. Geçmişte uyurken eve hırsız girmiş olmasının bende
-bıraktığı izlerden biri, biliyorum. Uyandığımda pencerenin önünden geçen
-hırsızın gölgesini hatırlıyorum. Biz uyurken içeride dolaşmış. El attığı
-eşyaların bazılarını almış, bazılarını bırakmış. İnsan böyle bir anda ne
-yapacağını bilemiyor. Şimdi buzdolabı tıkırtısına bile uyanıyorum, sonra bir
-araba geçiyor ve yürüyen gölge. Kalk kontrol et. Dön yat.
+perdeyi şöyle bir sallarım.
+
+Geçmişte uyurken eve hırsız girmiş olmasının bende bıraktığı izlerden biri,
+biliyorum. Uyandığımda pencerenin önünden geçen hırsızın gölgesini hatırlıyorum.
+Biz uyurken içeride dolaşmış. El attığı eşyaların bazılarını almış, bazılarını
+bırakmış. İnsan böyle bir anda ne yapacağını bilemiyor. Şimdi buzdolabı
+tıkırtısına bile uyanıyorum, sonra bir araba geçiyor ve yürüyen gölge. Kalk
+kontrol et. Dön yat.
 
 Artık rutine binmiş bu davranışım, hırsızlık vakasının yalnızca kendisiyle
 şekillenmiyor. Olayın ardından gelen temkinli olma ihtiyacı, bu ihtiyaç

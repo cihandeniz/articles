@@ -46,4 +46,9 @@ title: Tasarım Nedir?
 - Hedefin (amacın) zorunlu belirsizliği, evdeki hesabın çarşıya uyamaması.
   Tasarlama sürecindeki yaratıcılığın kaynağı olarak amacın belirsizliği.
 
+> [!NOTE]
+>
+> Sonraki section önceden yaratıcılık idi, artık o chapter yok, bu chapter'ın
+> çıkışı sonraki chapter'a göre revize edilecek
+
 {% include tasarim-meselesi/footer.html %}
