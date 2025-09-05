@@ -20,91 +20,97 @@ alışkanlıkların getirdiği güven ve bu güvenin korku ile paralel beslediğ
 rahatlık. Bir yandan içimden "O neydi öyle?!" diyorum, diğer yandan artık
 ezberlediğim kontrol listesinin üzerinden geçiyorum:
 
-- ✓ Tıkırtı buzdolabından
 - ✓ Pencereler kapalı
 - ✓ Kapı kilitli
 - ✓ Her şey bıraktığım yerde
 - ✓ Ev sessiz
+- ✓ Tıkırtı buzdolabından
 
-Ve rahatlama: "Arabadır".
+Ve rahatlama, "Arabadır".
 
 İki tane ben var gibi. Bir tanesi korkup dürten çocuk, diğeri tamam sorun yok
-diyen baba. Uykudan yeni uyanmış olan birine kıyasla kalbim hızlı ama beynim
-sakin. Bir zaman sonra alışkanlıklar korkuları yönetmeyi öğreniyor gibi.
-Korkular da alışkanlıkları diri tutuyor ve bir denge oturuyor.
+diyen baba. Uykudan yeni uyanmış birine kıyasla kalbim hızlı ama beynim sakin.
+Bir zaman sonra alışkanlıklar korkuları yönetmeyi öğreniyor gibi. Korkular da
+alışkanlıkları diri tutuyor ve bir denge oturuyor.
 
-Yaşadıklarımın benliğimde yer ederken izlediği yol az çok belli. Önce deneyimin
+Her yaşadığım benliğimde yer ederken az çok belli bir yol izliyor. Önce olayın
 kendisi fotoğrafa benzer bir iz bırakıyor. Ham hali ile yorumsuz bir iz. Bunu,
 olayın bende bıraktığı duygular takip ediyor. Son olarak yapabilirsem durumu
-düşünüp değerlendiriyorum. Mevcut veya yeni tasarımlar ile deneyimi ve
-duygularımı tanımlıyorum. Böylece o deneyim, duygusuyla ve düşüncesiyle
-benliğimde bir yere oturuyor.
+düşünüp değerlendiriyorum. Mevcut veya yeni tasarımlar ile olayı ve duygularımı
+tanımlıyorum. Böylece o olay, duygusuyla ve düşüncesiyle benliğimde bir deneyim
+olarak bir yere oturuyor.
 
 Olur da düşünecek alanı açamazsam, deneyim yalnızca duygularla ilişkilenmiş
 halde yer ediyor. Duygu ne kadar yoğunsa, onu sindirmek için ihtiyaç duyduğum
-zaman da o kadar uzun sürüyor ve duygu yoğunluğunda düşünmek hiç kolay değil.
-Kendimi kandırıp sakinleştiğimi iddia ettiğim zamanlar da oluyor tabi ama bu
-tehlikeli bir durum. Böyle olduğunda duygu, özellikle de korku, sinsi bir
-şekilde düşüncelerime hükmediyor. Korkunun baskısı altındaki düşünme yetim
+zaman da o kadar uzun oluyor. İhtiyaç duyduğum bu zamanı kendime ancak düzenli
+bir hayatta sağlayabiliyorum. Böyle bir alanım olmadığında mecburen duygu
+yoğunluğundayken düşünmek zorunda kalıyorum ve duygu yoğunluğunda düşünmek hiç
+kolay değil. Kendimi kandırıp sakinleştiğimi iddia ediyorum ve bu tehlikeli bir
+durum. Böyle olduğunda duygu, özellikle de korku, sinsi bir şekilde
+düşüncelerime hükmediyor. Korkunun baskısı altındaki düşünme yetim ise
 yaşadıklarımı tasarlamaktan aciz, yalnızca bir meşrulaştırma mekanizması olmaya
 sıkışıyor. Olanların olmak zorunda olduğu, yapılabilecek hiçbir şeyin zaten
 olmadığı, gelecekte tekrar etmesinin yüksek ihtimali, engellemek için elimden
 hiçbir şeyin gelmeyeceği gibi meşrulaştırmalar.
 
-Korku hükmetmeye başladığında yaşadığım şey kötü de olsa iyi de olsa o kendi
-tahtını sağlamlaştıracak bahaneyi mutlaka buluyor. Hırsızlık vakası gibi kötü
-bir şey ise, tekrarlanmasından korkuyorum. Aşık oldum diyeliim, bu kez de
-kaybetmekten korkuyorum. Bu korku ilişkinin seyrini olumsuz etkiliyor ve sonunda
-gerçekten kaybediyorum. Gelecek kaygısı ile kendini gerçekleyen kehanetler
-arasında sıkışmış bir hayat istemiyorum. Kısır döngünün içinden herkes gibi ben
-de çıkmak istiyorum. Korkunun tahakkümünü yenmek zorundayım.
+Korku hükmetmeye başladığında yaşadığım şey kötü de olsa iyi de olsa, o kendi
+tahtını sağlamlaştıracak bahaneyi mutlaka buluyor. Yaşadığım hırsızlık vakası
+gibi kötü bir şey ise, tekrarlanmasından endişe ediyorum. Aşık oldum diyelim, bu
+kez de kaybetme endişesine düşüyorum. Bu endişe, ilişkinin seyrini olumsuz
+etkiliyor ve sonunda gerçekten kaybediyorum. Gelecek kaygısı ile kendini
+gerçekleyen kehanetler arasında sıkışmış bir hayat istemiyorum. Kısır döngünün
+içinden herkes gibi ben de çıkmak istiyorum. Korkunun tahakkümünü yenmek
+zorundayım.
 
-Geleceği korkunun tayin ettiği bu durum toplum üzerinde de belirgin. Fakirliğin,
-açlığın yarattığı çaresizliği düşününce bunu hayal etmek çok zor gelmiyor.
-Yarının belirsizliğinin toplumu kontrolsüz bir şekilde nasıl savurabildiğine
-bakıyorum, sanki gelecek hayalleri tamamen korkuyla şekilleniyor.
+Geleceği korkunun tayin ettiği bu durumu toplum üzerinden de
+gözlemleyebiliyorum. Örneğin fakirliğin, açlığın yarattığı çaresizliği anımsamak
+bu gözlem için yeterli oluyor. Yarının belirsizliğinin toplumu kontrolsüz bir
+şekilde nasıl savurabildiğine bakıyorum, sanki çoğunluğun gelecek hayali
+korkuyla şekilleniyor.
 
-Şekilleniyor ama bir duygunun geleceği şekillendirebilmesi fikri de kulağıma
-biraz tuhaf geliyor. Burada bir tutarsızlık var. "Korkuyla şekilleniyor" demek
-bir duygu kendi başına tasarım yapabiliyor demektir. Oysa tasarım düşünceye ait
-bir beceri idi. Bu durumda duygu mutlak bir tahakkümdeyken bile düşünceye bir
-kapı aralıyor olmalı. İlginç bir şekilde tehlikeli olarak nitelediğim bu durum,
-aynı zamanda çıkış kapısının kendisi olacak gibi görünüyor.
+Şekillenmek. Bir duygunun geleceği şekillendirebilmesi fikri kulağıma biraz
+tuhaf geliyor. Burada bir tutarsızlık var. "Korkuyla şekilleniyor" demek bir
+duygu kendi başına tasarım yapabiliyor demektir. Oysa tasarım düşüncenin bir
+becerisi idi. Bu durumda duygu mutlak bir tahakkümdeyken bile düşünceye bir kapı
+aralıyor olmalı. İlginç bir şekilde tehlikeli olarak nitelediğim bu durum, aynı
+zamanda çıkış kapısının kendisi olacak gibi görünüyor.
 
 Duygu ve düşünce birbirinden ayrı iki düzlem. Duygu düzlemi düşünce düzleminin
 aksine rastgele, tutarlılık kaygısı gütmeyen, sadece var olan, sebep-sonuç
-ilişkisi sahip olmayan ya da o ilişkiyle hiç ilgilenmeyen garip bir düzlem. Bu
+ilişkisine sahip olmayan ya da o ilişkiyle hiç ilgilenmeyen garip bir düzlem. Bu
 düzlemi en iyi rüya ile örneklendirebilirim. Rüyaları hatırlamak pek kolay değil
-ama hiç unutmadığım bir tanesini var, çocukken gördüğüm bir rüya. Sokağın
-ilerisindeki dik bir yokuştan yuvarlanarak iniyorum. Her gece. Her seferinde ben
+ama hiç unutmadığım bir tanesi var, küçükken gördüğüm bir rüya. Sokağın
+ilerisindeki dik yokuştan yuvarlanarak iniyorum. Her gece. Her seferinde ben
 istemeden yukarıda beni aşağı iten görmediğim bir şey var. Bazı
 yuvarlanışlarımda tuhaf yaratıklar sağdan soldan bana bulaşıyorlar, onlardan
 kaçayım derken iyice hızlanıyorum. Yokuşun sonunda bazen iyi bazen kötü bir şey
 beni bekliyor ama her seferinde o sona varamadan ter içinde uyanıyorum. Bu rüya
 birçok anlama geliyor olabilir ya da hiçbir anlama gelmiyor olabilir.
-Uyandıktan sonra anlam yüklemek kolay. Oysa rüya sırasında anlamsızlıklar
-dünyasında birbirinden kopuk olaylar arka arkaya gelişirken bunları
-düşünmüyorum. Rüya sırasında zaten düşünemiyorum, sadece bir şeyler oluyor.
+Uyandıktan sonra anlam yüklemek kolay. Oysa rüyadaki anlamsızlıklar dünyasında
+birbirinden kopuk olaylar arka arkaya gelişirken bunları düşünmüyorum. Rüya
+sırasında zaten düşünemiyorum, sadece bir şeyler oluyor.
 
 Bu rüyadan hareketle dikkatimi şu çekiyor. Duygu düzlemi tüm tutarsızlığı,
 dengesizliği ve kararsızlığına rağmen imgelerini gerçek hayattan alıyor.
-Gerçekle bir bağı olduğu ondan pay almadan var olamamasından belli oluyor. Var
-olması için hatırlamam gerekiyor. Hatırlamam için rüyadan uyandığımda "Ben az
-önce ne gördüm?" sorusuna cevap vermeye ihtiyaç duyuyorum. Bu da gördüklerimin
-gerçekle ve düşüncelerimle bir bağı olmasını gerektiriyor. Belki sadece
-hatırladıklarım üzerinden yorum yapabildiğim için böyle düşünüyorumdur ama konu
-da bu zaten. Hatırlamadıklarım benim için mecburen yok hükmünde. Duygu düzlemi
-ile düşünce düzlemi arasındaki bu zorunlu bağ, korkunun geleceğimi
-şekillendirirken kullandığı bağ diye düşünüyorum.
+Gerçekle bir bağı olduğu ondan pay almadan var olamamasından belli. Var olması
+için hatırlamam gerekiyor. Hatırlamak için, uyandığımda "Ben az önce ne gördüm?"
+sorusuna cevap vermeye ihtiyaç duyuyorum. Bu da gördüklerimin gerçekle ve
+düşüncelerimle bir bağı olmasını gerektiriyor. Belki sadece hatırladıklarım
+üzerinden yorum yapabildiğim için böyle düşünüyorumdur ama konu da bu zaten.
+Hatırlamadıklarım benim için mecburen yok hükmünde. Duygu düzlemi ile düşünce
+düzlemi arasındaki bu zorunlu bağ, korkunun geleceğimi şekillendirirken
+kullandığı bağ diye düşünüyorum.
 
-Yalnızca duygulardan oluşan bir canlı değilim, rasyonel yönüm oyuna girmek üzere
-yedek kulübesinde ısınıyor. Aklım korkunun esiri olarak da olsa, hatırlamak için
-mutlaka devreye giriyor. Bir anlamda düşünceyi oyuna alan mecburen korkunun
-kendisi olmuş oluyor. O, var olmak için rasyonelliğime başvurmak zorunda. Bir
-kere devreye giren rasyonellik yavaş yavaş oyunu ele geçirecek. İlk etapta
-korkunun çizdiği sınırlarda var olacak ve onun emirlerini yerine getirecek ama o
-da en az korku kadar sinsi. Rasyonellik bir zorunluluk ve irrasyonelliğin tam
-merkezinde duran bir duygudan belirecek, korkudan.
+Rasyonel yönüm oyuna girmek üzere sürekli yedek kulübesinde ısınıyor gibi. Aklım
+korkunun esiri olarak da olsa gerektiğinde hatırlamak için hemen devreye
+giriyor. Bir anlamda düşünceyi oyuna alan mecburen korkunun kendisi olmuş
+oluyor. O, var olmak için rasyonelliğime başvurmak zorunda. Bir kere devreye
+giren rasyonellik yavaş yavaş oyunu ele geçirecek. İlk etapta korkunun çizdiği
+sınırlarda var olacak ve onun emirlerini yerine getirecek ama o da en az korku
+kadar sinsi. Rasyonellik bir zorunluluk ve irrasyonelliğin tam merkezindeki
+duygudan belirecek, korkudan.
+
+...
 
 Bir travmanın nesilden nesile aktarılabilmesi, korkunun bir sonraki travmaya
 kadar var olabilmesinin tek yolu ve bunun için ona şüphesiz hatırda kalan
@@ -121,10 +127,11 @@ aydınlatacak olmaları. Yemek bulabilelim, kışın aç kalmayalım, hastalanı
 bulabilelim. Duyguların güdümünde yazılmış olsalar da düşünce süzgecinden
 geçtiler ve kalbin yanında beyine de hitap ediyorlar. İrrasyonellikten de doğsa,
 ortada rasyonel bir talep var. Geleceğim belirsiz olmasın, ona hazırlanayım ve
-iyi olacağını umut edebileyim. Bu umudu beslemeyen bir türküyü kim neden
-söylesin? Efsaneler bizim icadımız ya da üstün bir varlığım bizim üzerimizden
-ete kemiğe büründürdüğü gerçekler olsun; nihayetinde onları dillendiren,
-nesilden nesile taşıyan, kulaktan kulağa değiştiren, dönüştüren bizleriz.
+geleceğin iyi olacağını umut edebileyim. Bu umudu beslemeyen bir türküyü kim
+neden söylesin? Efsaneler ister bizim icadımız ister üstün bir varlığın bizim
+üzerimizden ete kemiğe büründürdüğü anlatılar olsun; iki halde de onları
+dillendiren, nesilden nesile taşıyan, kulaktan kulağa değiştiren, dönüştüren
+bizleriz.
 
 İşte düşüncelerim, çıkış kapısını duygularımın içinden böyle aralıyor.
 Düşüncenin doğuşunu ve dolayısıyla düşüncenin kendisini daha iyi anlamak için

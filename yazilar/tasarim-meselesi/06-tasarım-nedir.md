@@ -14,6 +14,7 @@ title: Tasarım Nedir?
       - Tasa (kaygı) ile ses benzerliği ve Tasalanmamak için Tasarlamak
       - Tasavvur ile ses benzerliği ya da etimolojik bağı
     - Taslak - Tasarım - Tasarlamak, kabasını çıkarmak, kabaca çizmek
+    - Şekil, şekillenmek, şekillendirmek (korku ve güven'de kullandım)
   - İngilizce, Fransızca, Arapça, Farsça, Yunanca bağlantılar
     - Design => de- sign
     - Conception => concept -ion
