@@ -329,17 +329,18 @@ Efsaneye göre yenisi gelmeyecek olsa da türküleri hala söyleniyor. Toplum li
 istiyor. Peygamber gider gitmez, halifeler dönemi başlıyor. Halifeler benzer
 sorumlulukları üstlenseler de peygamber değiller. Peygamber değillikleri ise
 liderlik açısından değil elçilik açısından. Yani tanrıdan yeni mesaj
-getirmemeleri onları farklı tasarım yapıyor. Lider bir halife olunca, yeni mesaj
-gerektiğinde vahiy dışında yeni bir yol ihtiyacı da beraberinde geliyor. Eğer
-peygamberimiz sonuncu peygamber idiyse, o halde bu durum tanrının bize
-söyleyeceği yepyeni bir şey yok ve her şeyin kitapta yazılmış olduğu anlamına
-gelir. Rehberlik ihtiyacı olduğunda üzerimize düşen de bu ihtiyacı eldeki
-mesajlar ile karşılayacak şekilde kutsal metni okumak, anlamak ve hatta
-yorumlamak. Her kafadan ayrı yorum çıkma olasılığı olduğundan, halifeliğin
-liderliğine gömülü olan yorumlama ya da en azından hangi yorumun doğru olduğunu
-belirleme gibi bir sorumluluk olsa gerek. Bunun için aynı anda bir tane halife
-olması icap eder. Olur da toplumdaki bir grup kabul gören yorumlara katılmazsa,
-imam gibi yeni bir lider kavramıyla yolunu ayırmak zorunda kalacak.
+getirmemeleri onları farklı tasarım yapıyor. Toplumun lideri artık bir halife
+olduğunda, yeni mesaj gerekirse vahiy dışında yeni bir yol ihtiyacı da
+beraberinde gelmiş oluyor. Eğer peygamberimiz sonuncu peygamber idiyse, o halde
+bu durum tanrının bize söyleyeceği yepyeni bir şey yok ve her şeyin kitapta
+yazılmış olduğu anlamına gelir. Rehberlik ihtiyacı olduğunda üzerimize düşen de
+bu ihtiyacı eldeki mesajlar ile karşılayacak şekilde kutsal metni okumak,
+anlamak ve hatta yorumlamak. Her kafadan ayrı yorum çıkma olasılığı olduğundan,
+halifeliğin liderliğine gömülü olan yorumlama ya da en azından hangi yorumun
+doğru olduğunu belirleme gibi bir sorumluluk olsa gerek. Bunun için aynı anda
+bir tane halife olması icap eder. Olur da toplumdaki bir grup kabul gören
+yorumlara katılmazsa, imam gibi yeni bir lider kavramıyla yolunu ayırmak zorunda
+kalacak.
 
 Halifeliğin diğer bir farkı da peygamberlerin devrimci, halifelerin koruyucu
 olmak zorunda olması. Halifeler verilen mesajı ve kurulan düzeni muhafaza
