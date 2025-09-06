@@ -36,7 +36,7 @@ Bir zaman sonra alışkanlıklar korkuları yönetmeyi öğreniyor gibi. Korkula
 alışkanlıkları diri tutuyor ve bir denge oturuyor.
 
 Yaşadığım şeyler benliğimde yer ederken az çok belli bir yol izliyor. Önce
-olayın kendisi fotoğrafa benzer bir iz bırakıyor. Ham hali ile yorumsuz bir iz.
+olayın kendisi fotoğrafa benzer bir iz bırakıyor, ham hali ile yorumsuz bir iz.
 Bunu, olayın bende bıraktığı duygular takip ediyor. Son olarak yapabilirsem
 durumu düşünüp değerlendiriyorum. Mevcut veya yeni tasarımlar ile olayı ve
 duygularımı tanımlıyorum. Böylece o olay, duygusuyla ve düşüncesiyle benliğimde
@@ -71,16 +71,18 @@ aktarıyor. Yarının belirsizliğinin toplumu kontrolsüz bir şekilde nasıl
 savurabildiğine bakıyorum, sanki çoğunluğun gelecek hayali korkuyla
 şekilleniyor.
 
-Şekillenmek. Bir duygunun geleceği şekillendirebilmesi fikri kulağıma biraz
-tuhaf geliyor. Burada bir tutarsızlık var. "Korkuyla şekilleniyor" demek bir
-duygu kendi başına tasarım yapabiliyor demektir. Oysa tasarım düşüncelik bir iş.
-Duygu mutlak bir tahakkümdeyken bile düşünceye bir kapı aralıyor olmalı. İlginç
-bir şekilde tehlikeli olarak nitelediğim bu durum, aynı zamanda çıkış kapısının
-kendisi olacak gibi görünüyor.
+Şekillenmek.
+
+Bir duygunun geleceği şekillendirebilmesi fikri kulağıma biraz tuhaf geliyor.
+Burada bir tutarsızlık var. "Korkuyla şekilleniyor" demek bir duygu kendi başına
+tasarım yapabiliyor demektir. Oysa tasarım düşüncelik bir iş. Duygu mutlak bir
+tahakkümdeyken bile düşünceye bir kapı aralıyor olmalı. İlginç bir şekilde
+tehlikeli olarak nitelediğim bu durum, aynı zamanda çıkış kapısının kendisi
+olacak gibi görünüyor.
 
 Bir tasarımdan konuşabilmek için tasarlayanın hiç değilse temel bir tutarlılık
 kaygısı gütmesi gerekir. Etiketlerin her an değişebileceği bir yerde tasarım da
-pek mümkün görünmüyor. Duygu ve düşünceyi incelediğimde tutarlılık kaygısı
+pek mümkün görünmüyor. Duygu ve düşünceye baktığımda tutarlılık kaygısı daha çok
 düşünce tarafında ağır basıyor. Duygu ise düşüncenin aksine rastgele, tutarlılık
 kaygısı gütmeyen, sadece var olan, neden-sonuç ilişkisine sahip olmayan hatta o
 ilişkiyle hiç ilgilenmeyen, garip bir düzlem.
@@ -107,10 +109,11 @@ tasarımlarından pay almaksızın var olamadığını açıkça görebiliyorum.
 için hatırlamam gerekiyor. Hatırlamak için, uyandığımda "Ben az önce ne gördüm?"
 sorusuna cevap vermeye ihtiyaç duyuyorum. Bu da rüyada gördüklerimin gerçekle ve
 düşüncelerimle bir bağı olmasını gerektiriyor. Belki yaptığım tüm bu yorumlar
-sadece hatırladıklarımın arasından olabildiği için böyle düşünüyorumdur. Zaten
-konu da bu. Hatırlamadıklarım benim için tanım gereği yok hükmünde. Duygu ve
-düşünce birbirinden ayrı iki düzlem ve bu iki düzlem arasındaki bu zorunlu bağ,
-korkunun geleceğimi şekillendirirken kullandığı bağ diye düşünüyorum.
+sadece hatırladıklarımın arasından olmak zorunda olduğu için böyle
+düşünüyorumdur ama zaten konu da bu. Hatırlamadıklarım, benim için tanım gereği
+yoklar. Duygu ve düşünce birbirinden ayrı iki düzlem ve bu iki düzlem arasındaki
+zorunlu bağ, korkunun geleceğimi şekillendirirken kullandığı bağ diye
+düşünüyorum.
 
 İki düzlemi de bünyesinde barındıran bir canlı olarak, duygu düzleminin bu denli
 aktif olması ama düşünce düzleminin tamamen pasif olması aralarındaki bağ gereği
