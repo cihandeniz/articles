@@ -149,35 +149,48 @@ incelemeye karar veriyorum.
 
 ## Kader
 
-Geleceği bilemeyecek olsam da belirli olmasının rahatlatıcı bir yanı var. En
-azından eskiden böyle düşünürdüm. Bu durum belki bir gün benim de bilebileceğim
-umudunu aşılıyor sanırım. Hiç olmadı, birilerinin bilmesi içimi rahatlatmaya
-aday bir düşünce olsa gerek.
+Gelecek bilinmez olsa da en azından belirli olduğu fikrinin rahatlatıcı bir yanı
+var. Belki de bu durum bir gün benim de geleceği bilebileceğim umudunu
+aşılıyordur, bilmiyorum. Bu umuda tutunmak ne kadar doğru onu da bilmiyorum.
+Diğer yandan "kim belirledi?", "acaba kötü bir şey mi olacak?" gibi soruları ve
+"ya o belirlenmiş hayat benim için iyi değilse" gibi endişeleri de beraberinde
+getiriyor. Bir açıdan umut, bir açıdan endişe getiren bir yapısı var. Belki de
+kader, kaybedecek şeyi çok az ve dolayısıyla geleceğin kendisi için kayıp değil
+kazanç getirmesi daha muhtemel olan insanlarda ağırlıklı olarak umudu
+besliyordur. Bir toplumda çoğunluk bu durumdaysa, kader de o toplumda doğal
+olarak yayılacak bir efsane olmuş oluyor.
 
-Kaderin yazmakla yazılmakla ilişkisi çok güçlü. "Yazgımız neyse o", "alın
-yazısı" gibi ifadelerden hareket edince, kader yazılan bir şey gibi görünüyor.
-Her eylemin bir eyleyeni de mutlaka olacağından, efsane gereği kaderi de yazan
-biri ya da bir şey mutlaka var olmalı. Faili malum, tanrı ya da tanrısal bir
-varlık. Ben o grupta değilim, orası da malum. Yazan değil de yazılan gruptaysam
-ben yazgılı bir varlık oluyorum.
+"Yazgımız neyse o", "alın yazısı" gibi ifadelerden hareket edince, kaderin
+yazmakla yazılmakla ilişkisinin güçlü olduğunu görüyorum. Her fiilin bir faili
+de mutlaka olacağından, kaderi de biri ya da bir şey mutlaka yazmış olmalı.
+Faili malum, tanrı ya da tanrısal bir varlık. Bu benim içinde olmadığım bir
+grup, orası da malum. Yani yazan değil yazılan gruptayım, o halde kadere göre
+ben yazgılı bir varlık olmuş oluyorum.
 
-Bu yazgılı olma fikri bana iyi gelmiyor, geleceğin bu denli belirlenmiş
-olmasının bir şeyleri değiştirebileceğime dair inancım ile çelişmesini hiç
-sevmiyorum. Her şey belirlenmiş ama biz bir türlü bilemiyoruz ve olacaklar olmak
-zorunda, yapılabilecek hiçbir şey yok... Korku, çok sinsisin. Kader, korkunun
-işi, bariz. Ama senden sinsisi de var. Kaderin içine çözeyim diye bir bulmaca
-gizlenmiş beni çağırıyor.
+Yazgılı olma fikri bana iyi gelmiyor, geleceğin bu denli belirlenmiş olmasının
+bir şeyleri değiştirebileceğime olan inancım ile çelişmesini sevmiyorum.
+Geleceğin belirsizliği benim için yalnızca umut değil, aynı zamanda endişe de
+yaratıyor. "Her şey belirlenmiş ama biz bir türlü bilemiyoruz", "olacaklar olmak
+zorunda", "yapılabilecek hiçbir şey yok" gibi düşüncelerin korkunun güdümünde
+tasarlanan düşünceler olduğunu biliyorum. Umut duygusunu aşıladığına artık
+aldanmıyorum. Kader, korkunun tasarımı. Ama korkudan sinsisi de var. Kaderin
+içine çözeyim diye bir bulmaca gizlenmiş beni çağırıyor.
 
-Bir şeyin ne olacağı belli ise ve onu bilen bir varlık var diyorsan, o zaman bu
-bilinebilir bir şeydir, dolayısıyla ben de bilebilirim diye düşünmeden
-edemiyorum. Bilemeyeceksem, belirlenmiş olup olmaması beni niye ilgilendirsin
-ki? Ya ben de bilebilirim ya da belirlenmiş olması beni ilgilendirmez. Kaderin
-ima ettiği bu bilebilme umudu biliyorum ki korkunun da işine gelen bir havuç,
-çünkü efsaneye olan ilgimi kaybedersem onunla beraber korku da yok olacak.
+Bir şeyin ne olacağı belli ise onu bilen bir varlık da var demektir. Biri
+yazdığına göre bu böyle olmalı. Bu durumda mecburen gelecek bilinebilir bir şey
+oluyor, belki ben okuyayım diye yazılmadı ama biri okuyabiliyorsa o halde
+gelecekte olacaklar okunabilir olmalı. Dolayısıyla ne kadar zor olsa da teknik
+olarak ben de bilebilirim diye düşünmeden edemiyorum. Yani muhtemel değil, ama
+mümkün olmalı. Hiç bir zaman bilemeyeceksem, belirlenmiş olup olmaması beni niye
+ilgilendirsin ki? Ya ben de bir gün bilebileceğim ya da belirlenmiş olmasının
+beni ilgilendiren bir yanı kalmayacak. Kaderin ima ettiği bu ihtimal biliyorum
+ki korkunun da işine gelen bir havuç, çünkü efsaneye olan ilgimi kaybedersem
+korku anlık bir duygu olarak kalacak, hatırlanmayacak ve yok olacak.
 
-Bilemeyecek olsam dahi zamanımı olan bitene yakacağım ağıtlarla geçireceğime,
-bilmeye çalışarak geçirmiş olurum diye düşünüyorum. Dolayısıyla bunu bir davet
-olarak görüyorum. Ve davete icabet adettendir.
+İhtimal düşük de olsa zamanımı olan bitene yakacağım ağıtlarla geçireceğime,
+bilmeye çalışarak geçirmek daha iyi diye düşünüyorum. Dolayısıyla bu ihtimal,
+düşüncenin kaderin içine gizlediği davetin kendisi olmalı. Davete icabet
+adettendir.
 
 ## Peygamberlik
 
