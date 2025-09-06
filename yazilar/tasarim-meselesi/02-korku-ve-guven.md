@@ -90,9 +90,9 @@ ilişkiyle hiç ilgilenmeyen, garip bir düzlem.
 Duygu düzlemini en iyi rüya ile örneklendirebilirim. Rüyaları hatırlamak pek
 kolay değil ama hiç unutmadığım bir tanesi var, küçükken bir dönem hemen her
 gece gördüğüm bir rüya. Bir şekilde sokağımızın ilerisindeki dik yokuştan
-yuvarlanıyorum. Her seferinde ben istemeden yukarıda beni aşağı iten görmediğim
-bir şey var. Bazı yuvarlanışlarımda tuhaf yaratıklar sağdan soldan bana
-bulaşıyorlar, onlardan kaçınayım derken istemeden daha da hızlanıyorum. Yokuşun
+yuvarlanıyorum. Beni isteğim dışında her seferinde aşağı iten görmediğim bir şey
+var. Bazı yuvarlanışlarımda tuhaf yaratıklar sağdan soldan bana bulaşıyorlar,
+onlardan kaçınayım derken farkında olmmadan daha da hızlanıyorum. Yokuşun
 sonunda bazen iyi bazen kötü bir şey beni bekliyor ama her seferinde o sona
 varamadan ter içinde uyanıyorum. Bu rüya birçok anlama geliyor olabilir ya da
 hiçbir anlama gelmiyor olabilir. Uyandıktan sonra anlam yüklemek kolay. Oysa
@@ -103,17 +103,17 @@ sadece oluyor.
 Bu rüyadan hareketle dikkatimi şu çekiyor. Duygu düzlemi tüm tutarsızlığı,
 dengesizliği ve kararsızlığına rağmen gerçek hayatın tutarlı, dengeli ve kararlı
 imgelerini kullanıyor. Yokuş, sokak, yuvarlanmak, sağ, sol. Yaratık bile rüyanın
-ürünü gibi görünse de aslında gerçek hayattan ödünç alınan bir korku imgesi.
+ürünü gibi görünse de aslında gerçek hayattan ödünç aldığı bir korku imgesi.
 Düşünce ile bir bağı olduğunu ve düşüncenin gerçek hayata bakarak yaptığı
-tasarımlarından pay almaksızın var olamadığını açıkça görebiliyorum. Var olması
-için hatırlamam gerekiyor. Hatırlamak için, uyandığımda "Ben az önce ne gördüm?"
-sorusuna cevap vermeye ihtiyaç duyuyorum. Bu da rüyada gördüklerimin gerçekle ve
-düşüncelerimle bir bağı olmasını gerektiriyor. Belki yaptığım tüm bu yorumlar
-sadece hatırladıklarımın arasından olmak zorunda olduğu için böyle
-düşünüyorumdur ama zaten konu da bu. Hatırlamadıklarım, benim için tanım gereği
-yoklar. Duygu ve düşünce birbirinden ayrı iki düzlem ve bu iki düzlem arasındaki
-zorunlu bağ, korkunun geleceğimi şekillendirirken kullandığı bağ diye
-düşünüyorum.
+tasarımlarından pay almaksızın duygunun varlığını sürdüremediğini açıkça
+görebiliyorum. Var olmaya devam edebilmesi için hatırlamam gerekiyor. Hatırlamak
+için, uyandığımda "Ben az önce ne gördüm?" sorusuna cevap vermeye ihtiyaç
+duyuyorum. Bu da rüyada gördüklerimin gerçekle ve düşüncelerimle bir bağı
+olmasını gerektiriyor. Belki yaptığım tüm bu yorumlar sadece hatırladıklarımın
+arasından olmak zorunda olduğu için böyle düşünüyorumdur ama zaten konu da bu.
+Hatırlamadıklarım, benim için tanım gereği yoklar. Duygu ve düşünce birbirinden
+ayrı iki düzlem ve bu iki düzlem arasındaki zorunlu bağ, korkunun geleceğimi
+şekillendirirken kullandığı bağ diye düşünüyorum.
 
 İki düzlemi de bünyesinde barındıran bir canlı olarak, duygu düzleminin bu denli
 aktif olması ama düşünce düzleminin tamamen pasif olması aralarındaki bağ gereği
