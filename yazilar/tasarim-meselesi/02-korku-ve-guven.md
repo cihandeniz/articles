@@ -190,7 +190,7 @@ hatırlanmayacak ve yok olacak.
 
 İhtimal düşük de olsa zamanımı olan bitene yakacağım ağıtlarla geçireceğime,
 bilmeye çalışarak geçirmek daha iyi geliyor. Dolayısıyla bu ihtimal, düşüncenin
-kaderin içine gizlediği davetin kendisi olmalı ve davete icabet adettendir.
+kaderin içine gizlediği davetin kendisi olmalı. Ve davete icabet adettendir.
 
 ## Peygamberlik
 
