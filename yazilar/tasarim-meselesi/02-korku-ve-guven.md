@@ -317,47 +317,48 @@ efsane, bugünkü korkularımı yenerken bana yardım ediyor.
 
 ## Son Peygamber
 
-Bir peygamber gelip peygamberlik düzenini bozuyor ve o efsane bir anda
-bitiveriyor. Yüzlerce hatta binlerce peygamber ve onların oluşturduğu
-peygamberlik müessesesi artık yok. Korkunun en güçlü efsanelerinden bir tanesine
-güle güle demek zorundayım.
+Peygamberlik efsanesi ancak bir peygamber ile sona erebilirdi, hem de çelişkiye
+düşmeden. Örneğin bir zorbalık efsanesi yine bir zorbayla bitemezdi. Ya da
+padişahlık bir padişah ile son bulamazdı. Halifelik bile halife ile son bulmadı.
+Peygamberlikte ise durum böyle değil. Bir peygamber geliyor ve kendisinin
+sonuncu olduğu mesajını getiriyor. Binlerce peygamberin binlerce yıldır
+oluşturduğu peygamberlik müessesesi artık yok. Korkunun en güçlü efsanelerinden
+bir tanesine güle güle demek zorundayım.
 
-Efsane bitiyor ama sanki türküleri hala söyleniyor. Yani pratikte peygamberlik
-özlemi bitmiş görünmüyor. Peygamber gider gitmez, halifeler dönemi başlıyor.
-Halifeler benzer sorumlulukları üstlenseler de asla birer peygamber değiller.
-Peygamber değillikleri ise liderlik açısından değil elçilik açısından, yani
-tanrıdan yeni mesaj getirmemelerinden ileri geliyor. Bu da yeni mesaj
-gerektiğinde vahiy dışında yeni bir yol ihtiyacını beraberinde getirmiş oluyor.
-Eğer peygamberimiz sonuncu peygamber idiyse, o halde bu durum tanrının bize
+Efsaneye göre yenisi gelmeyecek olsa da türküleri hala söyleniyor. Toplum lider
+istiyor. Peygamber gider gitmez, halifeler dönemi başlıyor. Halifeler benzer
+sorumlulukları üstlenseler de peygamber değiller. Peygamber değillikleri ise
+liderlik açısından değil elçilik açısından. Yani tanrıdan yeni mesaj
+getirmemeleri onları farklı tasarım yapıyor. Lider bir halife olunca, yeni mesaj
+gerektiğinde vahiy dışında yeni bir yol ihtiyacı da beraberinde geliyor. Eğer
+peygamberimiz sonuncu peygamber idiyse, o halde bu durum tanrının bize
 söyleyeceği yepyeni bir şey yok ve her şeyin kitapta yazılmış olduğu anlamına
-gelir. Yeni mesaj ihtiyacı olduğunda üzerimize düşen de bu ihtiyacı eski
+gelir. Rehberlik ihtiyacı olduğunda üzerimize düşen de bu ihtiyacı eldeki
 mesajlar ile karşılayacak şekilde kutsal metni okumak, anlamak ve hatta
-yorumlamaktır. Her kafadan ayrı yorum çıkma olasılığı olduğundan, halifeliğin
-liderliğine gömülü olan bir sorumluluk da yorumlamak ya da en azından hangi
-yorumun doğru olduğunu belirlemek olsa gerek. Bunun için de aynı anda bir tane
-halife olması gerekir. Olur da toplumdaki bir alt grup kabul gören yorumlara
-katılmazsa, imam gibi yeni bir lider kavramıyla yolunu ayırmak zorunda
-kalacaktır.
+yorumlamak. Her kafadan ayrı yorum çıkma olasılığı olduğundan, halifeliğin
+liderliğine gömülü olan yorumlama ya da en azından hangi yorumun doğru olduğunu
+belirleme gibi bir sorumluluk olsa gerek. Bunun için aynı anda bir tane halife
+olması icap eder. Olur da toplumdaki bir grup kabul gören yorumlara katılmazsa,
+imam gibi yeni bir lider kavramıyla yolunu ayırmak zorunda kalacak.
 
-Halifeliğin diğer bir farkı da peygamberlerin devrimci, halifelerin muhafazakar
-olmak zorunda olması. Ne garip. Takip ettiğin, senin için belki de en değerli
-olan kişiyi asla anlayamayacaksın. Çünkü o bir devrimci, sen ise bir
-muhafazakarsın.
+Halifeliğin diğer bir farkı da peygamberlerin devrimci, halifelerin koruyucu
+olmak zorunda olması. Halifeler verilen mesajı ve kurulan düzeni muhafaza
+etmekle yükümlüler. Ne garip. Takip ettiğin, senin için belki de en değerli olan
+kişiyi asla anlayamayacaksın. Çünkü o bir devrimci, sen ise bir muhafazakarsın.
 
-Paralel evrende bir toplum düşünün ki bir peygambere ihtiyaç duymuyor, kendi
-sorunlarını çözebileceğine inanıyor. Bu toplum neden tanrıdan yeni mesaj
-beklesin ki, zaten alınacak mesajı almış gibi görünüyor.
-
-Belki de aklın bu efsaneye sakladığı mesaj budur: Artık peygamber, halife, imam,
-lider, yönetici beklemeyin, büyüyün.
+Paralel evrende başka bir toplum hayal ediyorum. Öyle bir toplum ki artık bir
+lidere ihtiyaç duymuyor, kendi sorunlarını çözebileceğine inanıyor. Bu toplum
+neden tanrıdan yeni mesaj beklesin ki, zaten alınacak mesajı almış gibi
+görünüyor. Belki de aklın bu efsaneye sakladığı mesaj budur: artık peygamber,
+halife, imam, lider, yönetici beklemeyin.
 
 ---
 
 Atalarımdan miras bu tasarımlar ile adeta her şey belirlenmiş olarak başlıyor.
 Bu belirlenim hali en küçüğünden en büyüğüne kadar tüm hayatıma nüfuz ediyor. Su
-içerken yılan da dokunmuyor, ölünce gidilen bir yer de oluyor. Belirlenimli bir
-hayat. Onca belirsizliğin ortasında iç rahatlatıcı bir fikir. Çocukken beni
-korudu, geleceğime ışık tuttu ve hikayelerle beni büyüttü.
+içerken yılan da dokunmuyor, ölünce gidilen bir öbür dünya da oluyor.
+Belirlenimli bir hayat. Onca belirsizliğin ortasında iç rahatlatıcı bir fikir.
+Çocukken beni korudu, geleceğime ışık tuttu ve hikayelerle beni büyüttü.
 
 İster tanrı, ister peygamber, ister lider, isterse öğretmen olsun, bunların
 hepsi benim (ve toplumum için) oluşturulmuş, beni bilinmezden koruyan birer
