@@ -198,9 +198,9 @@ Efsaneler doğası gereği büyük. Biraz yüksekten uçmadan efsaneleri incelem
 mümkün olmaz diye düşünüyorum. Kader mi daha yükseği ister, peygamberlik mi
 bilmiyorum ama bu konuya girince içimdeki korkuyu biraz daha fazla hissediyorum.
 Her yerinde kristal vazolar olan bir odanın tozunu almaya giriyormuşum gibi
-geliyor. İnsan odanın kapısını bile çok yavaş açıyor korkudan.
+geliyor. İnsan odanın kapısını çok yavaş açıyor korkudan.
 
-Kavramını incelerken bile çekiniyorken, peygamberin kendisini görmek nasıl bir
+Kavramına bakması bile çekindiriyorken, peygamberin kendisine bakmak nasıl bir
 duygu olurdu acaba. Duygu olumlu da olsa, olumsuz da olsa çok yoğun olacağı
 kesin. Gördüğüm kişi kendi peygamberimse zaten kendimden geçerdim herhalde.
 Değilse de hınç, öfke gibi duygular yanında gizli bir hayranlık da olurdu. Öyle
@@ -210,13 +210,13 @@ Peki peygamberin kendisi olmak nasıl bir şey? Bir insan nasıl peygamber olur?
 Bunu bilmem şu an mümkün değil, hayal etmek de tuhaf. Geriye akıl yürütmek
 kalıyor.
 
-Peygamber olan biri bir lider olmalı. Hitap ettiği bir topluluk ya da en az bir
-dinleyeni mutlaka olmalı. Yoksa kendi kendine tanrıdan mesaj alıp bunu kimseyle
-paylaşmayan birinden kimene öyle değil mi. Dolayısıyla henüz lider olmasa da,
+Peygamber bir lider olmalı. Hitap ettiği bir topluluk ya da en az bir dinleyeni
+mutlaka olmalı. Yoksa kendi kendine tanrıdan mesaj alıp bunu kimseyle
+paylaşmayan birinden kime ne öyle değil mi. Dolayısıyla henüz lider olmasa da,
 mutlaka lider olabilecek biri olmalı diye düşünüyorum. Diğer yandan onu herhangi
 bir liderden ayıran özelliği de tabi peygamberin tanrı ile bir şekilde iletişim
-halinde olması, yani tanrının mesajını getirmesi, aksi takdirde her komutana,
-siyasi ya da ruhani lidere peygamber dememiz gerekirdi. Peygamber, tanrının
+halinde olması, yani tanrının mesajını getirmesi. Aksi takdirde her komutana,
+siyasi ya da ruhsal lidere peygamber dememiz gerekirdi. Peygamber, tanrının
 mesajını getiren bir lider.
 
 Ne kadar ilginç. Bugün tarihin bir döneminde gerçekleşmiş bir olgu olarak
@@ -234,7 +234,7 @@ da mesihim dediğini düşününce bile istemsiz gülümsüyorum. Oysa geçmişt
 insanlar, bugün peygamber olarak kabul edilen insanlar için böyle düşünmemiş
 gibi görünüyor.
 
-Sayısız örneği olan peygamber ve hikayelerinden biri olan kurban hikayesi beni
+Sayısız örneği olan peygamber hikayelerinden biri olan kurban hikayesi beni
 zaman zaman düşündürüyor. Tanrıya teslimiyetin örneği olarak bilinir ama bana
 sadece onu anlatıyor gibi gelmiyor. Bir peygamber bir gün rüyasında çocuğunu
 kurban etmesi gerektiği mesajını alıyor. Emri yerine getirmek için yola
@@ -249,13 +249,13 @@ tanrının emirlerine uymak mıdır? Emin değilim. Bu olayın dönemin toplumu
 Olay aslen nasıl geliştiyse gelişsin, döneminde herkes için başka bir anlamı
 olmuş olmalı. Dönemin insanı belki de eskimiş ve amacını aşmış kuralların
 baskısı altında, bir korku yönetiminin esiriydi. Bir lider çıkıyor ve topluma
-yapmaktan yorulduğu ve artık yapmak istemediği bir şeyi yapmak zorunda
-olmadığını söylüyor. Onları bu zorunluluktan azad edecek bir hikaye veriyor.
-Belki gerçekten çocuklar kurban ediliyordu ve artık dur dendi. Belki de yalnızca
-sembolik olarak bu şekilde efsaneleşti. Binlerce yıldır bunu anıyoruz. Bu kadar
-güçlü etki bırakan bir olaya eğer gerçekleştiği dönemde şahit olsaydım, bunu bir
-müjde olarak algılardım. Dönemin toplumu için inanılmaz bir özgüven yüklemesi ve
-bir rahatlama olmuş olmalı.
+yapmaktan yorulduğu ve yapmak istemediği bir şeyi artık yapmak zorunda
+olmadığını söylüyor. Onlara, onları bu zorunluluktan azad edecek bir hikaye
+veriyor. Belki bir zamanlar gerçekten de çocuklar kurban ediliyordu ve artık dur
+dendi. Belki de yalnızca sembolik olarak bu şekilde efsaneleşti. Binlerce yıldır
+bunu anıyoruz. Bu kadar güçlü etki bırakan bir olaya eğer gerçekleştiği dönemde
+şahit olsaydım, bunu bir müjde olarak algılardım. Dönemin toplumu için inanılmaz
+bir özgüven yüklemesi ve bir rahatlama olmuş olmalı.
 
 Şüphesiz her rahatlama beraberinde rehavet ve hataları da getirecek. Toplum
 yeniden yolunu kaybedecek ve tüm uyarılara rağmen yanlışa sürüklenecek. Ah şu
@@ -266,16 +266,16 @@ da hiç yoldan çıkmasak.
 
 Korkunun yaptırdığı tasarımlarda belirgin bir özellik bu; önerilen düzenin
 olamayacak şeylerin gerçekleşmesine bağlı olması. Peygamber her zaman gelirse
-kraldan padişahtan farkı kalmaz ama peygamber hiç gelmezse de toplum çıkmazdan
-kurtulamaz. Bu efsaneye göre toplum, bir noktada kurtarılmaya ihtiyaç duyacağı
-bir düşüş yaşamak zorunda. Böylece korkunun efsanesi devam edecek, biz de hep
-ona muhtaç olacağız.
+kraldan ya padişahtan farkı kalmaz ama peygamber hiç gelmezse de toplum
+çıkmazdan kurtulamaz. Bu efsaneye göre toplum, bir noktada kurtarılmaya ihtiyaç
+duyacağı bir düşüş yaşamak zorunda. Böylece korkunun efsanesi devam edecek, biz
+de hep ona muhtaç olacağız.
 
 Bir şey daha dikkatimi çekiyor. Herhangi birinin liderliğini kabul etmeyip,
 bunun için ısrarla o kişinin tanrıdan mesaj getirecek seviyede biri olmasını
-beklemek de toplum açısından ironik bir şekilde kibirli bir tutum. "Ben öyle
-herkesi dinlemem! Bana peygamber getirin, ancak onu dinlerim!" der gibi bir
-halimiz var. Oysa normal insanları da dinleyebilmeliyiz.
+bekliyoruz. "Ben öyle herkesi dinlemem! Bana peygamber getirin, ancak onu
+dinlerim!" der gibi bir halimiz var. Zor durumda olan bir toplum açısından
+ironik bir şekilde kibirli bir tutum.
 
 ## Mahşer
 
