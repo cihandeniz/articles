@@ -1,5 +1,5 @@
 ---
-title: Bilseydik
+title: Bilseydim
 ---
 
 Geleceğe ışık tutmak ne demektir? Gelecek, gelene kadar bilinemeyen bir şey ise
