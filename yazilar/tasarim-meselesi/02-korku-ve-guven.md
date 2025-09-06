@@ -155,10 +155,10 @@ aşılıyordur, bilmiyorum. Bu umuda tutunmak ne kadar doğru onu da bilmiyorum.
 Diğer yandan "kim belirledi?", "acaba kötü bir şey mi olacak?" gibi soruları ve
 "ya o belirlenmiş hayat benim için iyi değilse" gibi endişeleri de beraberinde
 getiriyor. Bir açıdan umut, bir açıdan endişe getiren bir yapısı var. Belki de
-kader, kaybedecek şeyi çok az ve dolayısıyla geleceğin kendisi için kayıp değil
-kazanç getirmesi daha muhtemel olan insanlarda ağırlıklı olarak umudu
-besliyordur. Bir toplumda çoğunluk bu durumdaysa, kader de o toplumda doğal
-olarak yayılacak bir efsane olmuş oluyor.
+kader, kaybedecek şeyi çok az olan ve geleceğin kendisi için kayıp değil kazanç
+getirmesi daha muhtemel olan insanlarda ağırlıklı olarak umudu besliyordur. Bir
+toplumda çoğunluk bu durumdaysa, kader de o toplumda doğal olarak yayılacak bir
+efsane olmuş oluyor.
 
 "Yazgımız neyse o", "alın yazısı" gibi ifadelerden hareket edince, kaderin
 yazmakla yazılmakla ilişkisinin güçlü olduğunu görüyorum. Her fiilin bir faili
@@ -167,30 +167,30 @@ Faili malum, tanrı ya da tanrısal bir varlık. Bu benim içinde olmadığım b
 grup, orası da malum. Yani yazan değil yazılan gruptayım, o halde kadere göre
 ben yazgılı bir varlık olmuş oluyorum.
 
-Yazgılı olma fikri bana iyi gelmiyor, geleceğin bu denli belirlenmiş olmasının
+Yazgılı olma fikri bana iyi gelmiyor. Geleceğin bu denli belirlenmiş olmasının
 bir şeyleri değiştirebileceğime olan inancım ile çelişmesini sevmiyorum.
 Geleceğin belirsizliği benim için yalnızca umut değil, aynı zamanda endişe de
 yaratıyor. "Her şey belirlenmiş ama biz bir türlü bilemiyoruz", "olacaklar olmak
 zorunda", "yapılabilecek hiçbir şey yok" gibi düşüncelerin korkunun güdümünde
 tasarlanan düşünceler olduğunu biliyorum. Umut duygusunu aşıladığına artık
 aldanmıyorum. Kader, korkunun tasarımı. Ama korkudan sinsisi de var. Kaderin
-içine çözeyim diye bir bulmaca gizlenmiş beni çağırıyor.
+içine çözeyim diye bir davet gizlenmiş beni çağırıyor.
 
 Bir şeyin ne olacağı belli ise onu bilen bir varlık da var demektir. Biri
-yazdığına göre bu böyle olmalı. Bu durumda mecburen gelecek bilinebilir bir şey
-oluyor, belki ben okuyayım diye yazılmadı ama biri okuyabiliyorsa o halde
-gelecekte olacaklar okunabilir olmalı. Dolayısıyla ne kadar zor olsa da teknik
-olarak ben de bilebilirim diye düşünmeden edemiyorum. Yani muhtemel değil, ama
-mümkün olmalı. Hiç bir zaman bilemeyeceksem, belirlenmiş olup olmaması beni niye
-ilgilendirsin ki? Ya ben de bir gün bilebileceğim ya da belirlenmiş olmasının
-beni ilgilendiren bir yanı kalmayacak. Kaderin ima ettiği bu ihtimal biliyorum
-ki korkunun da işine gelen bir havuç, çünkü efsaneye olan ilgimi kaybedersem
-korku anlık bir duygu olarak kalacak, hatırlanmayacak ve yok olacak.
+yazdığına göre bu böyle olmalı. Bu durumda kader varsa mecburen gelecek de
+bilinebilir bir şey oluyor. Belki ben okuyayım diye yazılmadı ama biri
+okuyabiliyorsa o halde gelecekte olacaklar okunabilir olmalı. Dolayısıyla ne
+kadar zor olsa da teknik olarak ben de bilebilirim diye düşünmeden edemiyorum.
+Yani muhtemel değil, ama mümkün olmalı. Hiç bir zaman bilemeyeceksem,
+belirlenmiş olup olmaması beni niye ilgilendirsin ki? Ya ben de bir gün
+bilebileceğim ya da belirlenmiş olmasının beni ilgilendiren bir yanı kalmayacak.
+Kaderin ima ettiği bu ihtimal biliyorum ki korkunun da işine gelen bir havuç,
+çünkü efsaneye olan ilgimi kaybedersem korku anlık bir duygu olarak kalacak,
+hatırlanmayacak ve yok olacak.
 
 İhtimal düşük de olsa zamanımı olan bitene yakacağım ağıtlarla geçireceğime,
-bilmeye çalışarak geçirmek daha iyi diye düşünüyorum. Dolayısıyla bu ihtimal,
-düşüncenin kaderin içine gizlediği davetin kendisi olmalı. Davete icabet
-adettendir.
+bilmeye çalışarak geçirmek daha iyi geliyor. Dolayısıyla bu ihtimal, düşüncenin
+kaderin içine gizlediği davetin kendisi olmalı ve davete icabet adettendir.
 
 ## Peygamberlik
 
