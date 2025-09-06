@@ -375,14 +375,14 @@ ve benliğim geçmişten gelen tasarımları tekrar tekrar düzenliyor. Artık b
 gösteren annem mi, babam mı, öğretmenim mi, peygamberim mi ya da tanrım mı çok
 da ayırt edemiyorum.
 
-Efsanelerin bazıları ömürlerinin sonlarına doğru sessizce aramızdan ayrılırken
-bazıları yaygara koparabiliyor. Bir efsane, temel varsayımlara yerleşmişse ona
-veda etmek çok daha zor oluyor. Sonuçta yaşamı kolaylaştırmak için oluşan bu
-efsaneler, içiçe geçmiş bir şekilde karşıma çıktılar. Birini çekip aldığımda tüm
-yapı sarsılabiliyor. Bunu kolaylaştırmak için aklın izini takip ederek yapıyı
-anlama yolunu seçiyorum. Böylelikle neyi çektiğimi, ne zaman çekmem gerektiğini
-ve yerine ne koymam gerektiğini daha iyi bilebileceğimi umuyorum. Bu zorlu ve
-taşlı bir yol ama buradan gideceğim, çünkü güvenle yürüyebileceğim tek yolun bu
+Efsanelerin bazıları ömürlerinin sonlarına doğru sessizce ayrılırken, bazıları
+büyük yaygara koparabiliyor. Bir efsane, temel varsayımlara yerleşmişse ona veda
+etmek çok daha zor oluyor. Sonuçta yaşamı kolaylaştırmak için oluşan efsaneler,
+içiçe geçmiş bir şekilde karşıma çıktılar. Birini çekip aldığımda tüm yapı
+sarsılabiliyor. Bunu kolaylaştırmak için aklın izini takip ederek yapıyı anlama
+yolunu seçiyorum. Böylelikle neyi çektiğimi, ne zaman çekmem gerektiğini ve
+yerine ne koymam gerektiğini daha iyi bilebileceğimi umuyorum. Bu zorlu ve taşlı
+bir yol ama buradan gideceğim, çünkü güvenle yürüyebileceğim tek yolun bu
 olduğunu düşünüyorum, kendi yolum.
 
 {% include tasarim-meselesi/footer.html %}
