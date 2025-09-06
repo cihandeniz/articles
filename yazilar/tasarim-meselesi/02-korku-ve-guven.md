@@ -284,7 +284,7 @@ Kıyamet kopacak, sonunda hepimiz yargılanacağız. Sırat köprüsünün bazı
 geniş, bazısına ise çok dar olacağı söylenir. Beni o köprüde hem korkutan hem de
 rahatlatan şey köprünün genişliği değil, oradan tek tek geçeceğimiz fikri.
 
-Kendi davranışlarımın, ahlak anlayışımın ne kadarının hesabını açıklayabilirim?
+Kendi davranışlarımın, ahlak anlayışımın ne kadarının hesabını verebilirim?
 Sırat köprüsünden geçerken "Herkes öyle yapıyordu, o sebeple ben de öyle yaptım"
 cevabı pek kabul görecek bir cevap gibi görünmüyor. Bu kabul görecek olsaydı,
 herhangi bir günah bununla savunulabilirdi. Bu kabul görmüyorsa her davranışımı,
