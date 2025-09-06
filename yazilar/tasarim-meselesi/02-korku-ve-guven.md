@@ -368,10 +368,10 @@ tasarımlara başvuruyor ve rotamı yeniden düzenliyorum. Kendi tasarımlarım�
 onların koruması altında şekillendiriyorum. Yetişkin hayatımda artık geçmişin
 parçası olan bu ebeveyn tasarımları, benliğime işlenmiş halde varlıklarını
 sürdürüyorlar. Bir anlamda ruhumun yapıtaşları ya da ilham perileri olarak
-ölümsüzleşiyorlar. Anneannem gibi artık burada olmadan da benliğimin bir parçası
+ölümsüzleşiyorlar. Anneannem gibi artık burada olmasa da benliğimin bir parçası
 olarak dolaylı bir şekilde bana yol göstermeye devam edebiliyorlar. Sanırım
 ebeveynlik başta fiilen, sonda fikren var oluyor. Bir noktadan sonra büyüyorum
-ve benliğim geçmişten gelen tasarımları tekrar tekrar düzenliyor. Artık bana yol
+ve geçmişten gelen tasarımları tekrar tekrar düzenliyorum. Artık bana yol
 gösteren annem mi, babam mı, öğretmenim mi, peygamberim mi ya da tanrım mı çok
 da ayırt edemiyorum.
 
