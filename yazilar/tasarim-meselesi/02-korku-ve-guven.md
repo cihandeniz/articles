@@ -280,33 +280,32 @@ ironik bir şekilde kibirli bir tutum.
 
 ## Mahşer
 
-Kıyamet kopacak, sonunda hepimiz yargılanacağız. Sırat köprüsünün dünyadaki
-yaşantısına göre bazısına çok geniş, bazısına ise çok dar olacağı söylenir. Ama
-beni o köprüde hem korkutan hem de rahatlatan başka bir şey daha var, o da
-köprüden tek tek geçeceğimiz fikri.
+Kıyamet kopacak, sonunda hepimiz yargılanacağız. Sırat köprüsünün bazısına çok
+geniş, bazısına ise çok dar olacağı söylenir. Beni o köprüde hem korkutan hem de
+rahatlatan şey köprünün genişliği değil, oradan tek tek geçeceğimiz fikri.
 
-Kendi davranışlarımın, ahlak anlayışımın ne kadarını aklımla açıklayabilirim?
+Kendi davranışlarımın, ahlak anlayışımın ne kadarının hesabını açıklayabilirim?
 Sırat köprüsünden geçerken "Herkes öyle yapıyordu, o sebeple ben de öyle yaptım"
-cevabı kabul görecek bir cevap gibi görünmüyor. O halde her davranışımı, her
-kabulumü kendi aklımla tartmak zorundayım. Herkes sağa gidiyor diye sağa
-gidiyorsam ve o yolun sonu felaket ise ben de sorumluyum. Karşıdan karşıya
-geçerken yanımdakine uyup araç geliyor mu diye bakmadığımda bu ne kadar
-yanlışsa, topluma körü körüne uymak da o kadar yanlış geliyor. Ya toplumum o
-kadar da haklı değilse. Ya en temel kabullerimiz hatalıysa. Ya gerçekten herkes
-ama herkes yanılıyorsa.
+cevabı pek kabul görecek bir cevap gibi görünmüyor. Bu kabul görecek olsaydı,
+herhangi bir günah bununla savunulabilirdi. Bu kabul görmüyorsa her davranışımı,
+her kabulumü tartmak ve hesabını verebilir hale gelmek zorundayım. Herkes sağa
+gidiyor diye sağa gidiyorsam ve o yolun sonu felaket ise ben de sorumluyum.
+Karşıdan karşıya geçerken yanımdakine uyup araç geliyor mu diye bakmadan yola
+atlamak ne kadar yanlışsa, topluma körü körüne uymak da o kadar yanlış gibi
+geliyor. Ya toplumum o kadar da haklı değilse. Ya en temel kabullerimiz
+yanlışsa. Ya gerçekten herkes ama herkes yanılıyorsa.
 
-Mahşer günü hesap veremeyeceğim için korkmam çok anormal değil. Şüphesiz sayısız
-hata yaptım ve yapmaya devam ediyorum. Diğer yandan da zamanı geri alamayacağım
-için onlarla yaşamak zorundayım, korkunun beni ele geçirmesine izin vermek
-istemiyorum. Yanacaksam başım dik yanmak isterim. Ne kadar zor da olsa doğru
-olanı yapmalı ve o gün geldiğinde içim rahat bir şekilde eylemlerimin hesabını
-verebilecek düşünceyi üretmeliyim. Bunu geçmiş hatalarımı meşrulaştıran bir
-akılla değil, gelecekteki davranışlarımın beni geçmişteki gibi hatalara
-sürükleyen davranışlarımdan farklı olmasını sağlayan bir akılla yapmalıyım.
+Mahşer günü hesap veremeyeceğim düşüncesiyle korkmam çok anormal değil. Şüphesiz
+sayısız hata yaptım ve yapmaya devam ediyorum. Diğer yandan da zamanı geri
+alamayacağım için onlarla yaşamak zorundayım, korkunun beni ele geçirmesine izin
+vermek istemiyorum. Yanacaksam başım dik yanmak isterim. Ne kadar zor da olsa
+doğru olanı yapmalı ve o gün geldiğinde içim rahat bir şekilde eylemlerimin
+hesabını verebilmeliyim. Bunu geçmiş hatalarımı meşrulaştıran bir akılla değil,
+gelecekteki davranışlarımın beni geçmişteki gibi hatalara sürükleyen
+davranışlarımdan farklı olmasını sağlayan bir akılla yapmalıyım.
 
 Sırat köprüsünden tek tek geçeceğimiz fikrinin ruhuma üflediği korkuyu
-hissedebiliyorum. Bu efsane de şüphesiz aynı duygu üzerinde duruyor. Yanlış
-yapmaktan korkarız, bu duyguyu besliyor veya bu duygudan besleniyor. Oysa aklın
+hissedebiliyorum. Yanlış yapmaktan korkuyor olmamdan besleniyor. Oysa aklın
 gizlediği mesaj da korkuyla aynı yerde apaçık duruyor. Özünde yanlış olduğunu
 sezdiğim, düşündüğüm ya da yanlış olduğundan şüphelendiğim herhangi bir
 davranışı toplum baskısı sebebiyle yapmak zorunda hissedebilirim. Dışlanma
