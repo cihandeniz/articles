@@ -39,6 +39,11 @@ ve biat eden değil, demokratik, tartışan ve eleyen akla ihtiyacım var. ...
 
 - Korku hiyerarşik aklın, güven demokratik aklın duygusudur diyelim ve önceki
   chapter'dan bağlayarak açalım
+  - korkuyu benden ayrı bir şey gibi anlatıyorum, akıl benim, korku başkası
+    gibi. sonunda korku da benim, ben korkuyorum diyerek güven ve olgunluğun
+    altını çizeyim
+  - yani efendi-köle diyalektiğinde korku-akıl diyalektiğini devam ettireyim,
+    aklın da tek başına olmayacağını, sentezin ben olduğumu ifade edeyim
 - Hiyerarşik akıl nedir? Her şeyi hiyerarşi üzerinden okuyan akıldır
   - Hiyerarşik akıl yeniliği şansa bırakır
   - Doğal lider arar
