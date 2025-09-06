@@ -329,16 +329,16 @@ Efsaneye göre yenisi gelmeyecek olsa da türküleri hala söyleniyor. Toplum li
 istiyor. Peygamber gider gitmez, halifeler dönemi başlıyor. Halifeler benzer
 sorumlulukları üstlenseler de peygamber değiller. Peygamber değillikleri ise
 liderlik açısından değil elçilik açısından. Yani tanrıdan yeni mesaj
-getirmemeleri onları farklı tasarım yapıyor. Toplumun lideri artık bir halife
-olduğunda, yeni mesaj gerekirse vahiy dışında yeni bir yol ihtiyacı da
-beraberinde gelmiş oluyor. Eğer peygamberimiz sonuncu peygamber idiyse, o halde
-bu durum tanrının bize söyleyeceği yepyeni bir şey yok ve her şeyin kitapta
-yazılmış olduğu anlamına gelir. Rehberlik ihtiyacı olduğunda üzerimize düşen de
-bu ihtiyacı eldeki mesajlar ile karşılayacak şekilde kutsal metni okumak,
-anlamak ve hatta yorumlamak. Her kafadan ayrı yorum çıkma olasılığı olduğundan,
-halifeliğin liderliğine gömülü olan yorumlama ya da en azından hangi yorumun
-doğru olduğunu belirleme gibi bir sorumluluk olsa gerek. Bunun için aynı anda
-bir tane halife olması icap eder. Olur da toplumdaki bir grup kabul gören
+getirmeyecek olması halifeliği farklı bir tasarım yapıyor. Toplumun lideri artık
+bir halife olduğunda, yeni mesaj gerekirse vahiy dışında yeni bir yol ihtiyacı
+da beraberinde gelmiş oluyor. Eğer peygamberimiz sonuncu peygamber idiyse, o
+halde bu durum tanrının bize söyleyeceği yepyeni bir şey yok ve her şeyin
+kitapta yazılmış olduğu anlamına gelir. Rehberlik ihtiyacı olduğunda üzerimize
+düşen de bu ihtiyacı eldeki mesajlar ile karşılayacak şekilde kutsal metni
+okumak, anlamak ve hatta yorumlamak. Her kafadan ayrı yorum çıkma olasılığı
+olduğundan, halifeliğin liderliğine gömülü olan yorumlama ya da en azından hangi
+yorumun doğru olduğunu belirleme gibi bir sorumluluk olsa gerek. Bunun için aynı
+anda bir tane halife olması icap eder. Olur da toplumdaki bir grup kabul gören
 yorumlara katılmazsa, imam gibi yeni bir lider kavramıyla yolunu ayırmak zorunda
 kalacak.
 
@@ -355,34 +355,34 @@ halife, imam, lider, yönetici beklemeyin.
 
 ---
 
-Atalarımdan miras bu tasarımlar ile adeta her şey belirlenmiş olarak başlıyor.
+Atalarımdan miras bu tasarımlar ile hayatım adeta belirlenmiş olarak başlıyor.
 Bu belirlenim hali en küçüğünden en büyüğüne kadar tüm hayatıma nüfuz ediyor. Su
-içerken yılan da dokunmuyor, ölünce gidilen bir öbür dünya da oluyor.
+içerken yılan da dokunmuyor, ölünce gideceğim bir öbür dünya da oluyor.
 Belirlenimli bir hayat. Onca belirsizliğin ortasında iç rahatlatıcı bir fikir.
 Çocukken beni korudu, geleceğime ışık tuttu ve hikayelerle beni büyüttü.
 
-İster tanrı, ister peygamber, ister lider, isterse öğretmen olsun, bunların
-hepsi benim (ve toplumum için) oluşturulmuş, beni bilinmezden koruyan birer
-ebeveyn tasarımı. Yepyeni tek seferlik deneyimler ile her karşılaştığımda, bu
+İster tanrı, ister peygamber, ister lider, ister baba, isterse öğretmen olsun,
+bunların hepsini beni bilinmezden koruyan birer ebeveyn tasarımı olarak
+görüyorum. Yepyeni tek seferlik deneyimler ile her karşılaştığımda, bu
 tasarımlara başvuruyor ve rotamı yeniden düzenliyorum. Kendi tasarımlarımı
 onların koruması altında şekillendiriyorum. Yetişkin hayatımda artık geçmişin
-parçası olan bu ebeveyn tasarımları, bu şekilde benliğime işlenmiş halde
-varlıklarını sürdürüyorlar. Bir anlamda ruhumun yapıtaşları ya da ilham perileri
-olarak ölümsüzleşiyorlar. Anneannem gibi artık burada olmadan da benliğimin bir
-parçası olarak dolaylı bir şekilde bana yol göstermeye devam edebiliyorlar.
-Sanırım ebeveynlik başta fiilen, sonda fikren var oluyor. Bir noktadan sonra
-benliğim geçmişten gelen tasarımları yeniden ve yeniden düzenliyor. Artık bana
-yol gösteren annem mi, babam mı, öğretmenim mi, peygamberim mi ya da tanrım mı
-çok da ayırt edemiyorum.
+parçası olan bu ebeveyn tasarımları, benliğime işlenmiş halde varlıklarını
+sürdürüyorlar. Bir anlamda ruhumun yapıtaşları ya da ilham perileri olarak
+ölümsüzleşiyorlar. Anneannem gibi artık burada olmadan da benliğimin bir parçası
+olarak dolaylı bir şekilde bana yol göstermeye devam edebiliyorlar. Sanırım
+ebeveynlik başta fiilen, sonda fikren var oluyor. Bir noktadan sonra büyüyorum
+ve benliğim geçmişten gelen tasarımları tekrar tekrar düzenliyor. Artık bana yol
+gösteren annem mi, babam mı, öğretmenim mi, peygamberim mi ya da tanrım mı çok
+da ayırt edemiyorum.
 
 Efsanelerin bazıları ömürlerinin sonlarına doğru sessizce aramızdan ayrılırken
-bazıları da epey yaygara koparıyor. Temel varsayımlara yerleşmişlerse onlara
-veda etmek çok daha zor oluyor. Sonuçta yaşamı kolaylaştırmak için
-hazırlanmışlar ve içiçe geçmiş bir şekilde karşıma çıktılar. Birini çekip
-aldığımda tüm yapı sarsılabiliyor. Bunu kolaylaştırmak için aklın izini takip
-ederek yapıyı anlama yolunu seçiyorum. Böylelikle neyi çektiğimi, ne zaman
-çekmem gerektiğini ve yerine ne koymam gerektiğini daha iyi bilebileceğimi
-umuyorum. Bu zorlu ve taşlı bir yol ama buradan gideceğim, çünkü zaten güvenle
-yürüyebileceğim tek yolun bu olduğunu düşünüyorum, kendi yolum.
+bazıları yaygara koparabiliyor. Bir efsane, temel varsayımlara yerleşmişse ona
+veda etmek çok daha zor oluyor. Sonuçta yaşamı kolaylaştırmak için oluşan bu
+efsaneler, içiçe geçmiş bir şekilde karşıma çıktılar. Birini çekip aldığımda tüm
+yapı sarsılabiliyor. Bunu kolaylaştırmak için aklın izini takip ederek yapıyı
+anlama yolunu seçiyorum. Böylelikle neyi çektiğimi, ne zaman çekmem gerektiğini
+ve yerine ne koymam gerektiğini daha iyi bilebileceğimi umuyorum. Bu zorlu ve
+taşlı bir yol ama buradan gideceğim, çünkü güvenle yürüyebileceğim tek yolun bu
+olduğunu düşünüyorum, kendi yolum.
 
 {% include tasarim-meselesi/footer.html %}
