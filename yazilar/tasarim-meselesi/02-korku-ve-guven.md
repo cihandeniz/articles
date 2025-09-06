@@ -195,7 +195,7 @@ kaderin içine gizlediği davetin kendisi olmalı. Ve davete icabet adettendir.
 ## Peygamberlik
 
 Efsaneler doğası gereği büyük. Biraz yüksekten uçmadan efsaneleri incelemek
-mümkün olmaz diye düşünüyorum. Kader mi daha yükseği ister, peygamberlik mi
+mümkün değil diye düşünüyorum. Kader mi daha yükseği ister, peygamberlik mi
 bilmiyorum ama bu konuya girince içimdeki korkuyu biraz daha fazla hissediyorum.
 Her yerinde kristal vazolar olan bir odanın tozunu almaya giriyormuşum gibi
 geliyor. İnsan odanın kapısını çok yavaş açıyor korkudan.
@@ -245,17 +245,18 @@ Bu hikaye ana hatlarıyla pek de öyle binlerce yıla meydan okuyacak bir hikaye
 gibi görünmüyor. Buna karşın gerçekler aksine işaret ediyor ve bugün hikayeyi
 hala biliyoruz. Gerçekten de bu hikayeden çıkarılacak tek ders, ne derse desin
 tanrının emirlerine uymak mıdır? Emin değilim. Bu olayın dönemin toplumu
-üzerinde hiçbir etkisi olmasa bunu kim neden konuşsun ve nesiller boyu anlatsın.
-Olay aslen nasıl geliştiyse gelişsin, döneminde herkes için başka bir anlamı
-olmuş olmalı. Dönemin insanı belki de eskimiş ve amacını aşmış kuralların
+üzerinde hiçbir etkisi olmasa, bunu kim neden konuşsun ve nesiller boyu
+anlatsın. Olay aslen nasıl geliştiyse gelişsin, döneminde herkes için başka bir
+anlamı olmuş olmalı. Dönemin insanı belki de eskimiş ve amacını aşmış kuralların
 baskısı altında, bir korku yönetiminin esiriydi. Bir lider çıkıyor ve topluma
 yapmaktan yorulduğu ve yapmak istemediği bir şeyi artık yapmak zorunda
 olmadığını söylüyor. Onlara, onları bu zorunluluktan azad edecek bir hikaye
 veriyor. Belki bir zamanlar gerçekten de çocuklar kurban ediliyordu ve artık dur
-dendi. Belki de yalnızca sembolik olarak bu şekilde efsaneleşti. Binlerce yıldır
-bunu anıyoruz. Bu kadar güçlü etki bırakan bir olaya eğer gerçekleştiği dönemde
-şahit olsaydım, bunu bir müjde olarak algılardım. Dönemin toplumu için inanılmaz
-bir özgüven yüklemesi ve bir rahatlama olmuş olmalı.
+dendi. Belki de yalnızca sembolik olarak bu şekilde efsaneleşti. Sonuçta
+binlerce yıldır bunu anıyoruz. Bu kadar güçlü etki bırakan bir olaya eğer
+gerçekleştiği dönemde şahit olsaydım, herhalde bunu bir müjde olarak algılardım.
+Dönemin toplumu için inanılmaz bir özgüven yüklemesi ve bir rahatlama olmuş
+olmalı.
 
 Şüphesiz her rahatlama beraberinde rehavet ve hataları da getirecek. Toplum
 yeniden yolunu kaybedecek ve tüm uyarılara rağmen yanlışa sürüklenecek. Ah şu
