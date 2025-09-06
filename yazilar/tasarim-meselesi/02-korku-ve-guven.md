@@ -201,13 +201,13 @@ Her yerinde kristal vazolar olan bir odanın tozunu almaya giriyormuşum gibi
 geliyor. İnsan odanın kapısını çok yavaş açıyor korkudan.
 
 Kavramına bakması bile çekindiriyorken, peygamberin kendisine bakmak nasıl bir
-duygu olurdu acaba. Duygu olumlu da olsa, olumsuz da olsa çok yoğun olacağı
+duygu olurdu acaba? Duygu olumlu da olsa, olumsuz da olsa çok yoğun olacağı
 kesin. Gördüğüm kişi kendi peygamberimse zaten kendimden geçerdim herhalde.
 Değilse de hınç, öfke gibi duygular yanında gizli bir hayranlık da olurdu. Öyle
 ya da böyle büyük bir duygulanma halinde olurdum gibi geliyor.
 
 Peki peygamberin kendisi olmak nasıl bir şey? Bir insan nasıl peygamber olur?
-Bunu bilmem şu an mümkün değil, hayal etmek de tuhaf. Geriye akıl yürütmek
+Bunları bilmem şu an mümkün değil, hayal etmek de tuhaf. Geriye akıl yürütmek
 kalıyor.
 
 Peygamber bir lider olmalı. Hitap ettiği bir topluluk ya da en az bir dinleyeni
@@ -222,32 +222,32 @@ mesajını getiren bir lider.
 Ne kadar ilginç. Bugün tarihin bir döneminde gerçekleşmiş bir olgu olarak
 tanrının mesajını getiren biri olduğu fikrini kolaylıkla kabul ediyoruz ya da en
 azından kabul eden birileri olduğunu olağan karşılıyoruz. Ama biri çıkıp ben
-peygamberim ya da mesihim dese, bunu istisnasız hiç kimse ciddiye dahi
-almayacaktır. Bu bir hakaret olarak bile algılanmayacaktır. Büyük ihtimalle bunu
-iddia edene deli gözüyle bakılır ve hastaneye sevk edilirdi ya da zararsız diye
-kendi haline bırakılırdı. Oysa tarih öyle demiyor. Peygamberler tarihte ciddiye
-alınmışlar ve birçok sorun da yaşamışlar. Kendi takipçilerinin onları ciddiye
-almasının şaşırtıcı bir yanı yok. Bugüne kıyasla ilginç olan, ona inanmayanlar
-ya da artık her ne sebeple karşısında olan bir grup var ise, o grup tarafından
-ciddiye alınmış olmaları. Bugün sevmediğim bir siyasi liderin ben peygamberim ya
-da mesihim dediğini düşününce bile istemsiz gülümsüyorum. Oysa geçmişteki
-insanlar, bugün peygamber olarak kabul edilen insanlar için böyle düşünmemiş
-gibi görünüyor.
+peygamberim ya da mesihim dese, bunu istisnasız hiç kimse ciddiye almayacaktır.
+Bu, bir hakaret olarak bile algılanmayacaktır. Büyük ihtimalle bunu iddia edene
+deli gözüyle bakılır ve hastaneye sevk edilirdi ya da zararsız diye kendi haline
+bırakılırdı. Oysa tarih öyle demiyor. Peygamberler tarihte ciddiye alınmışlar ve
+birçok sorun da yaşamışlar. Kendi takipçilerinin onları ciddiye almasının
+şaşırtıcı bir yanı yok. Bugüne kıyasla ilginç olan, ona inanmayanlar ya da artık
+her ne sebeple karşısında olan bir grup var ise, o grup tarafından ciddiye
+alınmış olmaları. Bugün sevmediğim bir siyasi liderin ben peygamberim ya da
+mesihim dediğini düşününce bile istemsiz gülümsüyorum. Oysa geçmişteki insanlar,
+bugün peygamber olarak kabul edilen insanlar için böyle düşünmemiş gibi
+görünüyor.
 
 Sayısız örneği olan peygamber hikayelerinden biri olan kurban hikayesi beni
-zaman zaman düşündürüyor. Tanrıya teslimiyetin örneği olarak bilinir ama bana
-sadece onu anlatıyor gibi gelmiyor. Bir peygamber bir gün rüyasında çocuğunu
-kurban etmesi gerektiği mesajını alıyor. Emri yerine getirmek için yola
-koyuluyor ve çocuk da razı. Tam yapacakken artık çocuğunu kurban etmek zorunda
-değil diye bir mesaj daha alıyor. Sonuçta çocuk yerine bir koç kesiliyor.
+zaman zaman düşündürüyor. Bu hikaye tanrıya teslimiyetin örneği olarak bilinir
+ama bana sadece onu anlatıyor gibi gelmiyor. Bir peygamber bir gün rüyasında
+çocuğunu kurban etmesi gerektiği mesajını alıyor. Emri yerine getirmek için yola
+koyuluyor ve çocuk da razı. Tam yapacakken artık çocuğu kurban etmek zorunda
+değil diye bir mesaj daha alıyor. Çocuk yerine bir koç kesiliyor. Son.
 
 Bu hikaye ana hatlarıyla pek de öyle binlerce yıla meydan okuyacak bir hikaye
 gibi görünmüyor. Buna karşın gerçekler aksine işaret ediyor ve bugün hikayeyi
 hala biliyoruz. Gerçekten de bu hikayeden çıkarılacak tek ders, ne derse desin
-tanrının emirlerine uymak mıdır? Emin değilim. Bu olayın dönemin toplumu
-üzerinde hiçbir etkisi olmasa, bunu kim neden konuşsun ve nesiller boyu
-anlatsın. Olay aslen nasıl geliştiyse gelişsin, döneminde herkes için başka bir
-anlamı olmuş olmalı. Dönemin insanı belki de eskimiş ve amacını aşmış kuralların
+tanrının emirlerine uymak mıdır? Emin değilim. Bu olayın, dönemin toplumu
+üzerinde hiçbir etkisi olmasa bunu kim neden konuşsun ve nesiller boyu anlatsın.
+Olay aslen nasıl geliştiyse gelişsin, döneminde herkes için başka bir anlamı
+daha olmuş olmalı. Dönemin insanı belki de eskimiş ve amacını aşmış kuralların
 baskısı altında, bir korku yönetiminin esiriydi. Bir lider çıkıyor ve topluma
 yapmaktan yorulduğu ve yapmak istemediği bir şeyi artık yapmak zorunda
 olmadığını söylüyor. Onlara, onları bu zorunluluktan azad edecek bir hikaye
