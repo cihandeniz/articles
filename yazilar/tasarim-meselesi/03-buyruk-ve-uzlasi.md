@@ -62,10 +62,8 @@ ve biat eden değil, demokratik, tartışan ve eleyen akla ihtiyacım var. ...
     proaktif, devrimci, betimleyici (sontasarımcı), yaratıcı, yenilikçi
 - Her iki akılda diğerinin özelliklerini barındırabilir. Ama karşı tarafı
   ilineksel olarak, kendi tarafını özsel olarak barındırır.
-- Buyrukçu için inanç geriye dönük tasarım ileriye dönükken, uzlaşmacı için
-  inanç ileriye dönük, tasarım geriye dönüktür
-- Bu güven (trust değil, confidence), gelecekte olacak şeyleri
-  etkileyebileceğimize olan inancımızdır (Joe)
-  - İnanç üzerinden sonraki chapter'a bağlayalım ve kapatalım
+- İnanç üzerinden sonraki chapter'a bağlayalım ve kapatalım
+  - Buyrukçu için inanç geriye dönük tasarım ileriye dönükken, uzlaşmacı için
+    inanç ileriye dönük, tasarım geriye dönüktür
 
 {% include tasarim-meselesi/footer.html %}

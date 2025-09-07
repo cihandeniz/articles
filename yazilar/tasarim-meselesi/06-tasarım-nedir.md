@@ -44,11 +44,7 @@ title: Tasarım Nedir?
   - Tasarlamak eylemi tanım gereği var olan bir olgunun basitleştirilmesi ile
     temsilinin çıkarılmasıdır.
 - Hedefin (amacın) zorunlu belirsizliği, evdeki hesabın çarşıya uyamaması.
-  Tasarlama sürecindeki yaratıcılığın kaynağı olarak amacın belirsizliği.
-
-> [!NOTE]
->
-> Sonraki section önceden yaratıcılık idi, artık o chapter yok, bu chapter'ın
-> çıkışı sonraki chapter'a göre revize edilecek
+  Belirsizlik ve yokluk içinde ilk tasarımın da tasarımsılardan rastgele ortaya
+  çıkacak olması ile sonraki bölüme bağlayabiliriz
 
 {% include tasarim-meselesi/footer.html %}

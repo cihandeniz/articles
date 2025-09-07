@@ -43,7 +43,7 @@ sonuna.
 - jean piaget
 - charles lyell jeolojinin kurucusu
   - biyoloji ile jeoloji arasındaki bağ bizi 19. yy'da bir sıçramaya götürdü
-- maurice merleau-ponty, "varlık kendini müşhade edebilmemiz için bizden
+- maurice merleau-ponty, "varlık kendini müşahede edebilmemiz için bizden
   yaratıcılık ister" der
 - gregory bateson
   - dağınıklığın doğallığı

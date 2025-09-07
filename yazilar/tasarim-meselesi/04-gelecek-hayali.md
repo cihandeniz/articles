@@ -16,6 +16,8 @@ title: Gelecek Hayali
   gidermeyi talep eder. Hangi tasarımın geleceğimizde yer edeceği ise zaman
   meselesidir.
 - İnanmak geleceğe doğru elimizde olan en güçlü eylemdir. Güven inançdan doğar.
+  - Güven (trust değil, confidence), gelecekte olacak şeyleri
+    etkileyebileceğimize olan inancımızdır
   - Bilmek ve inanmak, kesişimleri ayrışımları
     - Bilme eylemi olarak inanmak
     - Bilinemezlik ve kabul
