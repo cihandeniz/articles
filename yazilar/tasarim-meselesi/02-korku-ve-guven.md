@@ -37,7 +37,7 @@ alışkanlıkları diri tutuyor ve bir denge oturuyor.
 
 Yaşadığım şeyler benliğimde yer ederken az çok belli bir yol izliyor. Önce
 olayın kendisi fotoğrafa benzer bir iz bırakıyor, ham hali ile yorumsuz bir iz.
-Bunu, olayın bende bıraktığı duygular takip ediyor. Son olarak yapabilirsem
+Bunu, olayın bende oluşturduğu duygular takip ediyor. Son olarak yapabilirsem
 durumu düşünüp değerlendiriyorum. Mevcut veya yeni tasarımlar ile olayı ve
 duygularımı tanımlıyorum. Böylece o olay, duygusuyla ve düşüncesiyle benliğimde
 bir deneyim olarak bir yere oturuyor.
@@ -76,9 +76,9 @@ savurabildiğine bakıyorum, sanki çoğunluğun gelecek hayali korkuyla
 Bir duygunun geleceği şekillendirebilmesi fikri kulağıma biraz tuhaf geliyor.
 Burada bir tutarsızlık var. "Korkuyla şekilleniyor" demek bir duygu kendi başına
 tasarım yapabiliyor demektir. Oysa tasarım düşüncelik bir iş. Duygu mutlak bir
-tahakkümdeyken bile düşünceye bir kapı aralıyor olmalı. İlginç bir şekilde
-tehlikeli olarak nitelediğim bu durum, aynı zamanda çıkış kapısının kendisi
-olacak gibi görünüyor.
+tahakkümdeyken bile düşünceye bir kapı aralamak zorunda kalıyor olmalı. İlginç
+bir şekilde tehlikeli olarak nitelediğim bu durum, aynı zamanda çıkış kapısının
+kendisi olacak gibi görünüyor.
 
 Bir tasarımdan konuşabilmek için tasarlayanın hiç değilse temel bir tutarlılık
 kaygısı gütmesi gerekir. Etiketlerin her an değişebileceği bir yerde tasarım da
@@ -174,7 +174,7 @@ yaratıyor. "Her şey belirlenmiş ama biz bir türlü bilemiyoruz", "olacaklar 
 zorunda", "yapılabilecek hiçbir şey yok" gibi düşüncelerin korkunun güdümünde
 tasarlanan düşünceler olduğunu biliyorum. Umut duygusunu aşıladığına artık
 aldanmıyorum. Kader, korkunun tasarımı. Ama korkudan sinsisi de var. Kaderin
-içine çözeyim diye bir davet gizlenmiş beni çağırıyor.
+içine bulayım diye bir davet gizlenmiş beni çağırıyor.
 
 Bir şeyin ne olacağı belli ise onu bilen bir varlık da var demektir. Biri
 yazdığına göre bu böyle olmalı. Bu durumda kader varsa mecburen gelecek de
@@ -188,9 +188,10 @@ Kaderin ima ettiği bu ihtimal biliyorum ki korkunun da işine gelen bir havuç,
 çünkü efsaneye olan ilgimi kaybedersem korku anlık bir duygu olarak kalacak,
 hatırlanmayacak ve yok olacak.
 
-İhtimal düşük de olsa zamanımı olan bitene yakacağım ağıtlarla geçireceğime,
-bilmeye çalışarak geçirmek daha iyi geliyor. Dolayısıyla bu ihtimal, düşüncenin
-kaderin içine gizlediği davetin kendisi olmalı. Ve davete icabet adettendir.
+İhtimal düşük de olsa, yaşantımı olan bitene ağıt yakarak geçireceğime, bilmeye
+çalışarak geçirmek daha iyi bir fikir gibi geliyor. Dolayısıyla bu ihtimal,
+düşüncenin kaderin içine gizlediği davetin kendisi olmalı. Ve davete icabet
+adettendir.
 
 ## Peygamberlik
 
@@ -362,8 +363,8 @@ Belirlenimli bir hayat. Onca belirsizliğin ortasında iç rahatlatıcı bir fik
 Çocukken beni korudu, geleceğime ışık tuttu ve hikayelerle beni büyüttü.
 
 İster tanrı, ister peygamber, ister lider, ister baba, isterse öğretmen olsun,
-bunların hepsini beni bilinmezden koruyan birer ebeveyn tasarımı olarak
-görüyorum. Yepyeni tek seferlik deneyimler ile her karşılaştığımda, bu
+hepsinin bendeki izdüşümlerini beni bilinmezden koruyan birer ebeveyn tasarımı
+olarak görüyorum. Yepyeni tek seferlik deneyimler ile her karşılaştığımda, bu
 tasarımlara başvuruyor ve rotamı yeniden düzenliyorum. Kendi tasarımlarımı
 onların koruması altında şekillendiriyorum. Yetişkin hayatımda artık geçmişin
 parçası olan bu ebeveyn tasarımları, benliğime işlenmiş halde varlıklarını
@@ -378,7 +379,7 @@ da ayırt edemiyorum.
 Efsanelerin bazıları ömürlerinin sonlarına doğru sessizce ayrılırken, bazıları
 büyük yaygara koparabiliyor. Bir efsane, temel varsayımlara yerleşmişse ona veda
 etmek çok daha zor oluyor. Sonuçta yaşamı kolaylaştırmak için oluşan efsaneler,
-içiçe geçmiş bir şekilde karşıma çıktılar. Birini çekip aldığımda tüm yapı
+karşıma içiçe geçmiş bir şekilde çıktılar. Birini çekip aldığımda tüm yapı
 sarsılabiliyor. Bunu kolaylaştırmak için aklın izini takip ederek yapıyı anlama
 yolunu seçiyorum. Böylelikle neyi çektiğimi, ne zaman çekmem gerektiğini ve
 yerine ne koymam gerektiğini daha iyi bilebileceğimi umuyorum. Bu zorlu ve taşlı
