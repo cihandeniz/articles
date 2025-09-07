@@ -15,6 +15,7 @@ title: Gelecek Hayali
   aydınlatma da koyabiliriz. Bizi sonuca götüren iki tasarım da ihtiyacı
   gidermeyi talep eder. Hangi tasarımın geleceğimizde yer edeceği ise zaman
   meselesidir.
+- Burada inançtan bahsediyoruz, iman'dan değil, bunun altı çizilmeli
 - İnanmak geleceğe doğru elimizde olan en güçlü eylemdir. Güven inançdan doğar.
   - Güven (trust değil, confidence), gelecekte olacak şeyleri
     etkileyebileceğimize olan inancımızdır

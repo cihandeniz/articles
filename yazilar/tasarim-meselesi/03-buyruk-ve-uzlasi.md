@@ -51,7 +51,7 @@ ve biat eden değil, demokratik, tartışan ve eleyen akla ihtiyacım var. ...
   - Gelenekçidir ve statükocudur
   - Kalıpçı, reçeteci, sonuççu, aktarımcı, hiyerarşik, buyrukçu, buyuran,
     belirlenimci, delege eden, reaktif, belirleyici (öntasarımcı, preskriptif,
-    normatif), gelenekçi, korumacı
+    normatif), gelenekçi, korumacı, otoriter, asalet nevrozlu
 - Demokratik akıl nedir? Her şeyi çatışma, tolerans, taviz ve uzlaşma üzerinden
   okuyan akıldır
   - Demokratik akıl yeniliği sistematikleştirebilir
@@ -59,10 +59,11 @@ ve biat eden değil, demokratik, tartışan ve eleyen akla ihtiyacım var. ...
   - Yapıya bakar, sisteme güvenir
   - Hem yıkıcı, hem kurucudur
   - Süreççi, deneyci, yıkıcı, mucit, keşifçi, demokratik, uzlaşmacı, çatışmacı,
-    proaktif, devrimci, betimleyici (sontasarımcı), yaratıcı, yenilikçi
+    proaktif, devrimci, betimleyici (sontasarımcı), yaratıcı, yenilikçi, nanikçi
 - Her iki akılda diğerinin özelliklerini barındırabilir. Ama karşı tarafı
   ilineksel olarak, kendi tarafını özsel olarak barındırır.
 - İnanç üzerinden sonraki chapter'a bağlayalım ve kapatalım
+  - Burada inançtan bahsedeceği, iman'dan değil, buna dikkat
   - Buyrukçu için inanç geriye dönük tasarım ileriye dönükken, uzlaşmacı için
     inanç ileriye dönük, tasarım geriye dönüktür
 
