@@ -240,7 +240,7 @@ zaman zaman düşündürüyor. Bu hikaye tanrıya teslimiyetin örneği olarak b
 ama bana sadece onu anlatıyor gibi gelmiyor. Bir peygamber bir gün rüyasında
 çocuğunu kurban etmesi gerektiği mesajını alıyor. Emri yerine getirmek için yola
 koyuluyor ve çocuk da razı. Tam yapacakken artık çocuğu kurban etmek zorunda
-değil diye bir mesaj daha alıyor. Çocuk yerine bir koç kesiliyor. Son.
+değil diye bir mesaj daha alıyor. Çocuk yerine bir kurbanlık kesiliyor. Son.
 
 Bu hikaye ana hatlarıyla pek de öyle binlerce yıla meydan okuyacak bir hikaye
 gibi görünmüyor. Buna karşın gerçekler aksine işaret ediyor ve bugün hikayeyi

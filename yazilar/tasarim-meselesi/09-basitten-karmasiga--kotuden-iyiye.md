@@ -7,6 +7,17 @@ title: Basitten Karmaşığa, Kötüden İyiye
   - Determinism'in alt kümesi olarak non-determinism mümkün mü?
     - Spinoza etiğine referans verilebilir. totalde deterministik olan bir
       sistem ama alt kümelerinde non-deterministik olarak deneyimlenir
+- Aristo madde formu da, kaos kozmosu da kullanabilirim
+  - Toprak madde, ev ise formdur. toprak kaostur, dağınıktır, anlamsızdır
+  - Ev topraktan yapılır. yani kozmos kaostan doğar
+    - ama tamamen kopmaz, madde hala topraktır
+  - Kaos, irrasyonalite, toprak, doğa; insana, akla, tanrıys hareket veri
+  - Aristonun hareket etmeyen tanrısı, hegelin tarihte varacağı mükemmelliktir
+    - ama kaos her zaman bu mükemmelliği bozmak isteyecek, ve ona hareket
+    katacaktır
+  - Hayat bu ikisi arasındaki çekişmede mümkündür
+  - Yoksa ya tamamen kaos ile anlamsız, ya da tamamen kozmos ile hareketsiz
+    olurdu
 - İnsan anlayışı (anlağı), eksikten bütüne gidebiliyor, anlayış zorunlu olarak
   böyle, demek ki kötüden (eksik) iyiye (bütün) gidiş mümkün
   - [Kesitlerden Bütüne Gidebilmek](../../eskizler/kesitlerden-butune-gidebilmek.md)
