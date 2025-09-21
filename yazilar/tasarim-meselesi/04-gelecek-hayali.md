@@ -2,6 +2,7 @@
 title: Gelecek Hayali
 ---
 
+- İnanç üzerinden önceki chapter'a bağlayarak açalım
 - Tasarımlarımız doğası gereği geleceğin belirsizliğini ortadan kaldırma
   amacını içinde barındırır. Burada tasarımın kendisine ulaştığımızda elde
   edilecek sonuç hayal edilir. Geleceği düşündüğümüzde önce varmak istediğimiz
@@ -24,5 +25,7 @@ title: Gelecek Hayali
     - Bilinemezlik ve kabul
     - Yaratma yolunda inanma eyleminin kaldıraç etkisi
   - [İnanmak Bilmek ve Kabul](../../eskizler/inanmak-bilmek-ve-kabul.md)
+- Buyrukçu için inanç geriye dönük tasarım ileriye dönükken, uzlaşmacı için
+  inanç ileriye dönük, tasarım geriye dönüktür
 
 {% include tasarim-meselesi/footer.html %}

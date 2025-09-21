@@ -10,17 +10,18 @@ hissetmem için önce onun varlığını deneyimlemiş olmam gerekir. Tıpkı bi
 konserde bas sesini ancak sustuğunda fark etmek gibi. Ya da ilk kez üşüyene
 kadar ısınma ihtiyacını hiç duymamak gibi.
 
-Çelişkileri sevmem. Bir noktada düğümü çözmek, rahatlatmak isterim. Bu
-çelişkiden de aynı nedenle kurtulmak istiyorum ve kurtulmak için tek yol
-eksiklik duygusunu ortadan kaldırmak gibi geliyor. Geçmişimi tamamen silmeyi
-deneyeyim. Böylece geçmişimle beraber eksiklik hissimi de silerim diye tahmin
-ediyorum. Geleceğe tutmak istediğim ışığın hayali de dahil olmak üzere tüm
-hafızam silindiğinde, geçmişimin yanında gelecek fikrim de ortadan kalkacak ve
-sorun çözülecek. Peki ya yeni anılarla beraber yeni eksiklik hisleri oluşursa?
-Bunu da engellemem gerekiyor. O halde duyularımı da kapatayım, böylece yeni bir
-hafıza inşa edememiş olurum. Hafızasız, duyusuz hale gelen benliğim asla
-hatırlayamayacağı anlarla umursamadığı geleceğe doğru yol alır. Geleceği merak
-edemez hale gelirim ve geçmişimle beraber benliğim, dolayısıyla ben yok olurum.
+Bir çelişki fark ettiğimde bende bir huzurusuzluk oluşuyor. Bir noktada düğümü
+çözmek, rahatlamak istiyorum. Bu çelişkiden de aynı nedenle kurtulmak istiyorum
+ve bunun için eksiklik duygusunu ortadan kaldırmak iyi bir fikir gibi geliyor.
+Geçmişimi tamamen silmeyi deneyeyim. Böylece geçmişimle beraber eksiklik hissimi
+de silerim diye tahmin ediyorum. Geleceğe tutmak istediğim ışığın hayali de
+dahil olmak üzere tüm hafızam silindiğinde, geçmişimin yanında gelecek fikrim de
+ortadan kalkacak ve sorun çözülecek. Peki ya yeni anılarla beraber yeni eksiklik
+hisleri oluşursa? Bunu da engellemem gerekiyor. O halde duyularımı da kapatayım,
+böylece yeni bir hafıza inşa edememiş olurum. Hafızasız, duyusuz hale gelen
+benliğim asla hatırlayamayacağı anlarla umursamadığı geleceğe doğru yol alır.
+Geleceği merak edemez hale gelirim ve geçmişimle beraber benliğim, dolayısıyla
+ben yok olurum.
 
 Daha önce hiç yok olmuş muydum? Uyku halini yokluğa benzetebilirim. Ya da
 geçirdiğim ameliyatları düşünüyorum, onlar yokluğa daha çok benziyorlar.

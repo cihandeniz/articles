@@ -13,6 +13,11 @@ title: Buyruk ve Uzlaşı II
   - Yaratıcılık tekelinin dağıtılması
   - Son eylem olarak tasarlamak
 - Bilinmezlik ile barışmak
+  - korkuyu benden ayrı bir şey gibi anlatıyorum. akıl ben, korku başkası
+    gibi. sonunda korku da benim, ben korkuyorum diyerek güven ve olgunluğun
+    altını çizeyim.
+  - yani efendi-köle diyalektiğinde korku-akıl diyalektiğini devam ettireyim,
+    aklın da tek başına olmayacağını, sentezin ben olduğumu ifade edeyim
 - İkinci modernlik - yeni aydınlanmacılık
 - Dünya tasarımının meta-skill'ler ile revizyonu
 
