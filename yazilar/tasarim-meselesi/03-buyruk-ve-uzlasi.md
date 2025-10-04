@@ -98,17 +98,16 @@ anlaşmak ve ortada buluşmaktır.
 
 İki pozisyon da kendi çerçevesi dahilinde beklendiği gibi işliyor. Buyrukçular
 otorite yokluğunda savaşıyor, biri otoriteyi alınca ortalık sakinleşiyor ve
-çatışmalar hızlıca çözülüyor. Uzlaşmacılar çatışmayı doğal olarak görüyor ve
-sürekli çatışma ve çözülme halinde bir yaşam sürüyor. Asıl sorun bir buyrukçu
-ile bir uzlaşmacı karşılaştığında ve çatıştığında doğuyor. Buyrukçu otorite
-çağırıyor ve uzlaşmacı onu danışman olarak görüyor ve katılmadığı noktalarda
-itiraz ediyor. Otorite itirazları tehdit olarak algılıyor ve belki sertleşiyor.
-Direnci kırılırsa buyrukçu karşısındaki uzlaşmacıyı yeni otorite sanıyor, oysa
-uzlaşmacı ortada buluşulduğunu ve buyrukçunun rızasını aldığını sanıyor. Tersi
-de mümkün. Uzlaşmacı danışman getiriyor, buyrukçu onu otorite sanıyor ve onu
-alaşağı etmek için üstüne gidiyor. Danışman siz bilirsiniz diyip gidiyor,
-buyrukçu kendini yeni otorite sanıyor, uzlaşmacıya karşı daha yoğun bir baskıya
-geçiyor.
+çatışmalar hızlıca çözülüyor. Uzlaşmacılar çatışmayı doğal karşılıyor ve sürekli
+çatışma ve çözülme halinde bir yaşam sürüyor. Asıl sorun bir buyrukçu ile bir
+uzlaşmacı karşılaştığında ve çatıştığında doğuyor. Buyrukçu otorite çağırıyor ve
+uzlaşmacı onu danışman olarak görüyor ve katılmadığı noktalarda itiraz ediyor.
+Otorite itirazları tehdit olarak algılıyor ve belki sertleşiyor. Direnci
+kırılırsa buyrukçu karşısındaki uzlaşmacıyı yeni otorite sanıyor, oysa uzlaşmacı
+ortada buluşulduğunu ve buyrukçunun rızasını aldığını sanıyor. Tersi de mümkün.
+Uzlaşmacı danışman getiriyor, buyrukçu onu otorite sanıyor ve onu alaşağı etmek
+için üstüne gidiyor. Danışman siz bilirsiniz diyip gidiyor, buyrukçu kendini
+yeni otorite sanıyor, uzlaşmacıya karşı daha yoğun bir baskıya geçiyor.
 
 Ben bunları düşündüğümde ister istemez gülümsüyorum. Yukarıdaki çatışmayı öyle
 büyük iktidar savaşları üzerinden değil de günlük bir olayla örneklendirmek
@@ -135,7 +134,7 @@ yapıyordu. Derya garsona döndü ve "Hayır, şuradan alın lütfen" dedi. Gars
 Yücel için bir otorite iken, Derya için bir danışman. Garsonun ne söylediği
 Yücel için belirleyici ama Derya için yönlendirici.
 
-Bu sahneyi binlerce kez yaşamış olabilirim. Bir tanesinde garson uzlaşmacı çıkar
+Bu sahneyi yüzlerce kez yaşamış olabilirim. Bir tanesinde garson uzlaşmacı çıkar
 "Aranızda anlaşın" der gibi ellerini kaldırır. Diğerinde buyrukçu çıkar bir
 tarafa meyleder. Yücel, garsonu zayıf otorite olarak görür üstüne gider. Derya
 garsona bir taraf seçince için görevini hatırlatır. Yani bu konuya yazabileceğim
