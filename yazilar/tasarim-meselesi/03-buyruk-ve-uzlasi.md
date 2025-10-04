@@ -137,14 +137,14 @@ Yücel için belirleyici ama Derya için yönlendirici.
 Bu sahneyi yüzlerce kez yaşamış olabilirim. Bir tanesinde garson uzlaşmacı çıkar
 "Aranızda anlaşın" der gibi ellerini kaldırır. Diğerinde buyrukçu çıkar bir
 tarafa meyleder. Yücel, garsonu zayıf otorite olarak görür üstüne gider. Derya
-garsona bir taraf seçince için görevini hatırlatır. Yani bu konuya yazabileceğim
+bir taraf seçince garsona görevini hatırlatır. Yani bu konuya yazabileceğim
 onlarca farklı son var ama önemli olan sonunda ne olduğu değil. Önemli olan
 çatışmadaki dinamikleri anlayabilmem.
 
 Bu iki akıl da bana tanıdık geliyor, herhalde babam buyrukçu annem uzlaşmacı
 olduğu için böyle. Bu, annem hiç buyurmadı, babam da hiç uzlaşmadı anlamına
 gelmiyor. Yalnızca temelden ayrışan iki farklı düşünce yapılarına sahiplerdi.
-Şimdi önümde iki yol var, ben özümde bir buyrukçu mu olacağım, yoksa uzlaşmacı
+Şimdi önümde iki yol var, ben özünde bir buyrukçu mu olacağım, yoksa uzlaşmacı
 mı?
 
 ## Buyrukçu Akıl
