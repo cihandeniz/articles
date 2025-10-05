@@ -30,6 +30,7 @@ sonuna.
 - deleuze - assemblage
 - systems theory, systemic emergence
 - tasarim felsefesi ve emergentism
+- freud ve lacan
 - wittgenstein - dil oyunlari
 - bergson - gelecek ile ilişkilenme türleri
   - virtuel kavramı
