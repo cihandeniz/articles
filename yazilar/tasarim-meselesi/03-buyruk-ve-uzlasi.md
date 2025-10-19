@@ -67,21 +67,20 @@ hali ile aynı durumdur. Bir'in Bir olarak kalması kendi içinde çelişkili de
 ama kısıtlı. Bir, kendi etki alanı içinde mutlak olduğundan, balıklara su neyse,
 bize hava neyse ona benzer bir hal oluşuyor. Kendisi var ama hakkında konuşmak
 zorlaşıyor, hatta anlamsızlaşıyor. Herkesin her işe vakıf olması, her bireyin
-her görevi yerine getirmesi gibi koşullar, böyle bireylerden oluşacak topluluğun
-imkanlarını kısıtlı hale geliyor. Görev paylaşımı yapan topluluk yapmayana göre
-büyümeyi ve güçlenmeyi çok daha kolay yapıyorsa, bölünmek ve çeşitlenmek Bir
-için kaçınılmaz. Bir o halde kalamıyor ve bölünüyor ve tekrar İki oluyor. İki
-stabil kalamadığından Üç'ü doğuruyor.
+her görevi yerine getirmesi ve benzeri sebeplerden dolayı böyle bireylerden
+oluşacak topluluğun imkanları kısıtlı hale geliyor. Görev paylaşımı yapan
+topluluk yapmayana göre büyümeyi ve güçlenmeyi çok daha kolay yapıyorsa,
+bölünmek ve çeşitlenmek Bir için kaçınılmaz. Bir o halde kalamıyor ve bölünüyor
+ve tekrar İki oluyor. İki stabil kalamadığından Üç'ü doğuruyor.
 
 İki'yi Üç yapan bu yeni unsur, diğer ikisi ile aynı türden değil. Üçüncü, diğer
 ikisinin sürekliliğini ve birlikteliğini mümkün kılan farklı bir tür.
 Varoluşuyla ikiliyi birbirine bağlayan ve bir arada tutan bir yapıda. Üçüncü,
 ikilinin öyle kalabilmek için ihtiyaç duyduğu, ortada ikili yoksa tek başına var
 olamayan bir varoluş ortaya koyuyor. İkiliden biri ortadan kalkarsa, üçüncü de
-mecburen ortadan kalkacaktır. Üçüncü uygun değil ise, yani bağlayan ve bir arada
-tutan nitelikleri zayıf ya da hiç yoksa, o Üç de sahte oluyor. Sahte Üç'teki
-üçüncü ikiliden önce birini sonra diğerini yok eder ve tekrar Bir'e dönülür.
-Gerçek Üç stabildir ve ancak uygun bir üçüncü ile mümkündür.
+mecburen ortadan kalkacaktır. Benzer şekilde, üçüncü sahte bir üçüncü ise, yani
+bu varoluşa uygun bir üçüncü değilse, ikiliden önce birini sonra diğerini yok
+eder ve tekrar Bir'e dönülür. Gerçek Üç, uygun bir üçüncü ile mümkündür.
 
 ...
 
