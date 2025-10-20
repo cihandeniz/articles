@@ -92,13 +92,13 @@ kolay değil ama hiç unutmadığım bir tanesi var, küçükken bir dönem heme
 gece gördüğüm bir rüya. Bir şekilde sokağımızın ilerisindeki dik yokuştan
 yuvarlanıyorum. Beni isteğim dışında her seferinde aşağı iten görmediğim bir şey
 var. Bazı yuvarlanışlarımda tuhaf yaratıklar sağdan soldan bana bulaşıyorlar,
-onlardan kaçınayım derken farkında olmmadan daha da hızlanıyorum. Yokuşun
-sonunda bazen iyi bazen kötü bir şey beni bekliyor ama her seferinde o sona
-varamadan ter içinde uyanıyorum. Bu rüya birçok anlama geliyor olabilir ya da
-hiçbir anlama gelmiyor olabilir. Uyandıktan sonra anlam yüklemek kolay. Oysa
-rüyadaki anlamsızlıklar dünyasında birbirinden kopuk olaylar arka arkaya
-gelişirken bunları düşünmüyorum. Rüya sırasında zaten hiç düşünemiyorum, şeyler
-sadece oluyor.
+onlardan kaçınayım derken farkında olmadan daha da hızlanıyorum. Yokuşun sonunda
+bazen iyi bazen kötü bir şey beni bekliyor ama her seferinde o sona varamadan
+ter içinde uyanıyorum. Bu rüya birçok anlama geliyor olabilir ya da hiçbir
+anlama gelmiyor olabilir. Uyandıktan sonra anlam yüklemek kolay. Oysa rüyadaki
+anlamsızlıklar dünyasında birbirinden kopuk olaylar arka arkaya gelişirken
+bunları düşünmüyorum. Rüya sırasında zaten hiç düşünemiyorum, şeyler sadece
+oluyor.
 
 Bu rüyadan hareketle dikkatimi şu çekiyor. Duygu düzlemi tüm tutarsızlığı,
 dengesizliği ve kararsızlığına rağmen gerçek hayatın tutarlı, dengeli ve kararlı
