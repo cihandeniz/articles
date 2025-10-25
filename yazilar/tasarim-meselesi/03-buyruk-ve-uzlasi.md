@@ -28,74 +28,110 @@ durumunda, o varoluşun birlikte devam etmesi için tüm sorumlulukların kapsan
 gerekecektir. Yani iki ayrı görev tanımı yaptıysak, bu görev tanımları kesişiyor
 olmalı. Aksi takdirde ortak bir varoluş sürdürülemezdi ve ayrılık olurdu.
 
-Öyle iki görev tanımı yapalım ki, ne dışarıda sorumluluk kalsın ne de herhangi
-bir kesişim olmuş olsun. Böyle mükemmel bir ayrımın mümkün olduğunu
-düşünmüyorum. Tüm olası halleri öngörmeyi gerektiren bu mükemmel ayrımı yapmayı
-beklemek, hayatı durdurmak olurdu. İnsan olarak bunu yapabileceğimizi pek
-sanmıyorum, o nedenle örtüşme ya da ayrışma opsiyonlarını değerlendireceğim.
+Öyle iki görev tanımı yapalım ki, ne ayrışsınlar ve kapsanmayan bir sorumluluk
+kalmasın, ne de sorumluluklar arasında herhangi bir kesişme olmasın. Böyle
+mükemmel bir tanımlamanın mümkün olduğunu düşünmüyorum. Tüm olası halleri
+öngörmeyi gerektiren bu mükemmel tanımlamayı yapmayı beklemek, hayatı durdurmak
+olurdu. Hayat aktığına göre insan olarak bunu yapabileceğimizi pek sanmıyorum, o
+nedenle kesişme ya da ayrışma opsiyonlarını değerlendireceğim.
 
-Kesişen kümedeki sorumluluğu iki görev tanımına da dahil edelim. Yani bordür
-taşını döşeme işini hem asfaltçılara hem de kaldırımcılara bıraktık ve görevler
-kısmen örtüştü diyelim. Kesişen sorumluluk alanında çıkacak olası çatışmaların
-çözülebilir olması için üçüncü bir görev tanımı yapmak bir zorunluluk gibi
-görünüyor. Olur da asfaltçılar ile kaldırımcılar anlaşamazsa, başka bir otorite
-gelecek ve anlaşmayı sağlayacak. İki görev tanımında kalmak bu haliyle mümkün
-görünmüyor, üçüncü görev mecburen doğuyor.
+İki görev tanımını ortak sorumluluk alanı olacak şekilde, yani kesişecek şekilde
+yapalım. Örnekten gitmek gerekirse, bordür taşını döşeme işini hem asfaltçılara
+hem de kaldırımcılara bıraktık ve görevler kısmen örtüştü diyelim. Kesişen
+sorumluluk alanında çıkacak olası çatışmaların çözülebilir olması için üçüncü
+bir görev tanımı yapmak bir zorunluluk gibi görünüyor. Olur da asfaltçılar ile
+kaldırımcılar ortak sorumluluk alanında bir çatışma yaşarlarsa, başka bir
+otorite gelecek ve anlaşmayı sağlayacak. İki görev tanımında kalmak bu haliyle
+mümkün görünmüyor, üçüncü bir görev tanımı mecburen doğuyor.
 
 İki görev tanımını birbirinden tamamen ayırmayı deneyelim. Yani birbirinin
 ayağına basma olasılığını ortadan kaldıracak şekilde hiç kesişmeyen iki görev
-tanımı yaptık. Şimdi de o iki görev tanımı arasında kalan sorumluluk boşluğunu
+tanımı yaptık. Şimdi de o iki görev tanımı dışında kalan sorumluluk boşluğunu
 yine bir başka görev ile doldurmak gerekecek. Yani bordür taşı yerleştiricisi
 diye ayrı bir görev tanımı gerekecek. Üçüncü görevden yine kaçamadık. Hatta bu
 kez durum daha kötü, çünkü bu yeni görevle diğer ikisi arasında da yine ya bir
-örtüşme ya da bir ayrışma olacak. Örtüştürürsek yine bir otorite, ayrıştırırsak
+kesişme ya da bir ayrışma olacak. Kesiştirirsek yine bir otorite, ayrıştırırsak
 yine arayı dolduracak yeni görev tanımları gerekecek. Sonsuza kadar daralan
-görev tanımı yapamayacağımıza göre, bir noktada otorite yine gerekecek.
+görev tanımı yapamayacağımıza göre, bir noktada bir otorite yine gerekecek.
 
-Şu söylenebilir; görevlerden birine anlaşmazlık durumunda diğerine karşı otorite
-olma sorumluluğu verilirse iki görev tanımı ile yeterli olabilir. Kısmen doğru,
-ama sınırın zamanla hangi tarafa esnetileceğini tahmin etmek zor değil.
-Asfaltçılara verirsek asfalt işi, kaldırımcılara verirsek kaldırım işi zamanla
-otorite sahibinin lehine değişim gösterecektir ve otoriteyi alan görev tanımı
-diğerini yutacaktır. ... niye? ... Bu kez de tek görev tanımına, yani hiç görev
-tanımına, geri döndük.
+Şöyle bir alternatif önerilebilir; "Görevlerden birine anlaşmazlık durumunda
+diğerine karşı otorite olma sorumluluğu verelim ve böylece iki görev tanımı
+yeterli olsun". Bu öneri kısa vadede geçerlidir ve bir süre iki görev tanımı ile
+yaşamak mümkün olacaktır. Ancak kesişmenin gerçekleştiği sorumluluk alanının
+sınırı zamanla otorite sahibinin lehinde esneyecektir. Örneğin bordür taşı
+sorumluluğunu kaldırımcılara verdik diyelim, bu durumda bu taşı döşeme işi
+zamanla kaldırımcı lehinde değişim gösterecektir. Çünkü otorite sahibi olan
+kaldırımcının, kendi ana sorumluluğu olan kaldırım taşı döşemek ile yan
+sorumluluğu olan asfaltçılarla çıkan anlaşmazlığı çözmek arasında bir çelişki
+yaşaması durumunda nesnel muhakemeyi bırakıp kendi lehinde kararlar vermeye
+başlaması beklenir. Bu çatışma sınırı zamanla asfaltçıların iç işlerine kadar
+sızacak ve kaldırımcılar zamanla tüm yol işinde mutlak otorite olmaya
+başlayacaktır. Diğer bir deyiş ile otorite hakkı olan görev tanımı zamanla
+diğerini yutacaktır. Bu kez de bir görev tanımına geri döndük ve yine iki görev
+tanımında kalamadık.
 
-Öyle görünüyor ki; İki stabil değil. Ya Bir'e dönecek, ya iki ayrı Bir olacak,
-ya da biri otorite olmak kaydıyla Üç olacak. İki ayrı Bir olması demek ortak
-uzayı paylaşmayı bırakmaları demektir. Bu da bir sonraki karşılaşmaya kadar Bir
-hali ile aynı durumdur. Bir'in Bir olarak kalması kendi içinde çelişkili değil,
-ama kısıtlı. Bir, kendi etki alanı içinde mutlak olduğundan, balıklara su neyse,
-bize hava neyse ona benzer bir hal oluşuyor. Kendisi var ama hakkında konuşmak
-zorlaşıyor, hatta anlamsızlaşıyor. Herkesin her işe vakıf olması, her bireyin
-her görevi yerine getirmesi ve benzeri sebeplerden dolayı böyle bireylerden
-oluşacak topluluğun imkanları kısıtlı hale geliyor. Görev paylaşımı yapan
-topluluk yapmayana göre büyümeyi ve güçlenmeyi çok daha kolay yapıyorsa,
-bölünmek ve çeşitlenmek Bir için kaçınılmaz. Bir o halde kalamıyor ve bölünüyor
-ve tekrar İki oluyor. İki stabil kalamadığından Üç'ü doğuruyor.
+Öyle görünüyor ki; İki stabil değil. Ya Bir'e dönecek, ya iki tane Bir olacak,
+ya da üçüncüsü otorite olmak kaydıyla Üç olacak. İki ayrı Bir olması demek ortak
+alanı paylaşmayı bırakmaları demektir. Bu da her ne kadar iki tane olsalar da
+sonraki karşılaşmalarına kadar Bir halinde kalmak demektir. İki tane Bir
+opsiyonunu eledim. Gelelim Bir'in Bir olarak kalmasının mümkün olup olmamasına.
+Bir'in Bir olarak kalması aslında kendi içinde çelişkili değil, ama kısıtlı.
+Bir, kendi etki alanı içinde mutlak olduğundan, balıklara su neyse, bize hava
+neyse Bir halinde de buna benzer bir durum oluşuyor. Kendisi var ama hakkında
+konuşmak zorlaşıyor, hatta anlamsızlaşıyor. Görev tanımı örneğine dönersem Bir
+hali, herkesin her işe vakıf olması, her bireyin her görevi yerine getirebilmesi
+ve hatta getirmesi gibi bir durum yaratıyor ve bu tip bireylerden oluşacak bir
+topluluğun imkanları kısıtlı hale geliyor. Görev paylaşımı yapan topluluk daha
+verimli olduğundan bu paylaşımı yapmayana göre büyümeyi ve güçlenmeyi çok daha
+kolay yapıyor. Diğer bir deyiş ile bir gün "Herkes her işi yapmasın, bir grup
+asfaltı halletsin, diğerleri de kaldırımı" deniyor ve fayda sağlanıyor.
+Dolayısıyla bölünmek Bir için zaman içinde kaçınılmaz. Bir o halde kalamıyor ve
+bölünüyor ve tekrar İki oluyor.
 
-İki'yi Üç yapan bu yeni unsur, diğer ikisi ile aynı türden değil. Üçüncü, diğer
-ikisinin sürekliliğini ve birlikteliğini mümkün kılan farklı bir tür.
-Varoluşuyla ikiliyi birbirine bağlayan ve bir arada tutan bir yapıda. Üçüncü,
-ikilinin öyle kalabilmek için ihtiyaç duyduğu, ortada ikili yoksa tek başına var
-olamayan bir varoluş ortaya koyuyor. İkiliden biri ortadan kalkarsa, üçüncü de
-mecburen ortadan kalkacaktır. Benzer şekilde, üçüncü sahte bir üçüncü ise, yani
-bu varoluşa uygun bir üçüncü değilse, ikiliden önce birini sonra diğerini yok
-eder ve tekrar Bir'e dönülür. Gerçek Üç, uygun bir üçüncü ile mümkündür.
+Bir'den İki'ye, İki'den Üç'e zorunlu olarak geçiyorum. Üç'te beni durduran
+nedir? Dört, Beş diye neden gitmiyorum? Burada bahsettiğim ayrımların kategorik
+olduğunu kendime hatırlatıyorum. Bir ve İki yerine, Bir ve Çok diye de
+adlandırabilirim. Yani İki, burada Çok anlamında. O zaman Üç nedir? İki, Çok'u
+temsil ediyorsa Üç neyi temsil ediyor? Burada Üç dediğim de aslında Bir'den
+İki'ye geçilirken mecburen ortaya çıkan bağlam ya da düzlemin kendisi. Tek bir
+nokta var iken başka hiçbir kavrama ihtiyaç duymuyorum. Ama iki ayrı nokta
+dediğim an, bir de aralarında çekilebilen çizgi doğuyor. İki ayrı nokta diyorsam
+çizgi bir zorunluluk. Dolayısıyla İki'yi Üç yapan bu yeni unsur, diğer ikisi ile
+aynı türden değil. Üç'teki üçüncü, diğer ikisinin sürekliliğini ve beraber var
+olmalarını mümkün kılan farklı bir türe ait. Varoluşuyla ikiliyi birbirine bağlayan
+ve bir arada tutan bir yapıda. Üçüncü, ikilinin öyle kalabilmek için ihtiyaç
+duyduğu, ortada ikili yoksa tek başına var olamayan bir varoluş ortaya koyuyor.
+İkiliden biri ortadan kalkarsa, üçüncü de mecburen ortadan kalkacaktır.
+
+Bir'den İki'ye, İki'den Üç'e...
+
+Güzel ve fazlasıyla soyut. Biraz ayaklarım yere bassın. Konu neydi... Hah,
+bordür taşı.
+
+Bu inşaatlardan biraz yoruldum sanırım. Çok gürültülüler ve bir türlü
+bitmiyorlar. Yolda yürürken kafamı dağıtmaya ihtiyaç duyuyorum. Bu kadar
+soyutlayıp kafamı dağıtayım derken bir daha toplayamayacağım diye de korkuyorum.
+
+Sınır konusu ilgimi fazlasıyla çekiyor. Bunun günlük hayatın çatışmalarını
+anlamak ve çözmek istememle yakın bir ilişkisi var. Bordür taşının beni sınır
+üzerine düşündürmesini ve içinde bulunduğum çatışmalarda bana rehberlik etmesini
+en kolay böyle açıklayabilirim.
+
+Ailemle, arkadaşlarımla, komşularla, yöneticilerle, müşterilerle,
+meslektaşlarla, çalışanlarla, ortaklarla; ilişki türü ne olursa olsun çatışma
+kaçınılmaz. Bir'de kalamıyoruz, İki oluyoruz. Kesişen hayatlar kesiştikleri
+yerde çatışma doğuruyor. Her çatışma da çözümünü çağırıyor. İki varsa Üç de
+olacak. Öyle ya da böyle bir çözüm mutlaka bulunuyor, şüphe yok. Zamana bırakmak
+bir yöntem olabilir, taraflardan birinin inisiyatifine bırakılabilir veya ortada
+buluşma yani bir anlaşma yoluna gidilebilir. Üç'ün üçüncüsünün nasıl bir şey
+olacağını kesin olarak söylemek zor. Birçok yol mümkün ve bu yollardan
+hangisinin uygulanacağını taraflar belirliyor. Kavga edebiliriz, ayrılığı tercih
+edebiliriz ya da bir otoriteye başvurabiliriz. Taraflar bunu seçiyor evet, ama
+bir yandan da tarafların içinde bulunduğu bağlam, yani kültür, belli çözüm
+yöntemlerini ucuzlaştırırken, belli çözüm yöntemlerine ek maliyetler yüklüyor.
 
 ...
 
-Bordür taşının kendimi içinde bulduğum çatışmaları daha iyi anlamak için bana
-yol göstereceğini hiç tahmin edemezdim ama gösteriyor işte. Ailemle,
-arkadaşlarımla, komşularla, yöneticilerle, müşterilerle, meslektaşlarla,
-çalışanlarla, ortaklarla; ilişki türü ne olursa olsun çatışma kaçınılmaz
-diyebilirim. Kesişen hayatlar kesiştikleri yerde çatışma doğuruyor. Her çatışma
-da çözümünü çağırıyor. Öyle ya da böyle bir çözüm mutlaka bulunuyor, şüphe yok.
-Zamana bırakmak bir yöntem olabilir, taraflardan birinin inisiyatifine
-bırakılabilir veya ortada buluşma yani bir anlaşma yoluna gidilebilir. Birçok
-yöntem uygulanabilir. Bu yöntemlerden hangisinin uygulanacağını belirlerken
-çatışmanın tarafları karar veriyor gibi görünse de, taraflar çözüm yöntemini tüm
-dış etmenlerden bağımsız belirleyemiyor ve kültürel arkaplan belli bir yöntemi
-ucuzlaştırıyor, diğer bir deyiş ile dayatıyor.
 
 Buyruk ve uzlaşı, görebildiğim kadarıyla çözüm yöntemlerinde iki ana hattı
 oluşturuyor. Buyrukçu duruş, çözüm yolunda mutlak çıkmaza girilirse çıkışın
@@ -264,6 +300,10 @@ olduğu için böyle. Bu, annem hiç buyurmadı, babam da hiç uzlaşmadı anlam
 gelmiyor. Yalnızca temelden ayrışan iki farklı düşünce yapılarına sahiplerdi.
 Şimdi önümde iki yol var, ben özünde bir buyrukçu mu olacağım, yoksa uzlaşmacı
 mı?
+
+Üçüncü sahte bir üçüncü ise, yani bu varoluşa uygun bir üçüncü değilse,
+ikiliden önce birini sonra diğerini yok eder ve tekrar Bir'e dönülür. Gerçek Üç,
+uygun bir üçüncü ile mümkündür.
 
 ... Uzlaşmacı kalmak zor ama kaçınılmaz ve imkanlı. Buyrukçu kalmak kolay ama
 geçici ve kısıtlı. Bir'den Üç'e gidip gelen bir döngünün içindeysek bile ben bu
