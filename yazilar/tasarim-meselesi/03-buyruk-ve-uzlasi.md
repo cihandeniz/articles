@@ -18,15 +18,17 @@ yorulmuşlarsa, ya da her neyse, bir sebepten anlaşamayacakları bir an mutlaka
 gelecek. İki taraftan birinde olduğunu düşün, bu durumda bu sorunu çözmek için
 "hiç olmadı X ile çözülecek" demiş olsaydın, X ne olurdu?
 
-Ortada iki ayrı görev tanımı var diyelim. Eğer bu iki görev tanımı ortak bir
-varoluşun içindeyse, bu iki görev tanımının kesiştiği bir sorumluluk alanı
-mecburen olacaktır. Örneğin, aynı evde yaşayan insanlardan bahsediyorsak veya
-aynı şirketin çalışanlarından bahsediyorsak veya aynı mahallede yaşayan
-insanlardan bahsediyorsak, bu böyle olmalı. Ortak bir varoluşun içinde olan
-insanların bu varoluşu devam ettirmeleri için görev dağılımı yapmaları
-durumunda, o varoluşun birlikte devam etmesi için tüm sorumlulukların kapsanması
-gerekecektir. Yani iki ayrı görev tanımı yaptıysak, bu görev tanımları kesişiyor
-olmalı. Aksi takdirde ortak bir varoluş sürdürülemezdi ve ayrılık olurdu.
+(? bu paragraf neye hizmet ediyor netleşsin ve ona göre sadeleşsin, bu haliyle
+devam eden paragraflarla kesişme kavramı bağlamında çelişiyor) Ortada iki ayrı
+görev tanımı var diyelim. Eğer bu iki görev tanımı ortak bir varoluşun
+içindeyse, bu iki görev tanımının kesiştiği bir sorumluluk alanı mecburen
+olacaktır. Örneğin, aynı evde yaşayan insanlardan bahsediyorsak veya aynı
+şirketin çalışanlarından bahsediyorsak veya aynı mahallede yaşayan insanlardan
+bahsediyorsak, bu böyle olmalı. Ortak bir varoluşun içinde olan insanların bu
+varoluşu devam ettirmeleri için görev dağılımı yapmaları durumunda, o varoluşun
+birlikte devam etmesi için tüm sorumlulukların kapsanması gerekecektir. Yani iki
+ayrı görev tanımı yaptıysak, bu görev tanımları kesişiyor olmalı. Aksi takdirde
+ortak bir varoluş sürdürülemezdi ve ayrılık olurdu.
 
 Öyle iki görev tanımı yapalım ki, ne ayrışsınlar ve kapsanmayan bir sorumluluk
 kalmasın, ne de sorumluluklar arasında herhangi bir kesişme olmasın. Böyle
@@ -84,33 +86,34 @@ ve hatta getirmesi gibi bir durum yaratıyor ve bu tip bireylerden oluşacak bir
 topluluğun imkanları kısıtlı hale geliyor. Görev paylaşımı yapan topluluk daha
 verimli olduğundan bu paylaşımı yapmayana göre büyümeyi ve güçlenmeyi çok daha
 kolay yapıyor. Diğer bir deyiş ile bir gün "Herkes her işi yapmasın, bir grup
-asfaltı halletsin, diğerleri de kaldırımı" deniyor ve fayda sağlanıyor.
-Dolayısıyla bölünmek Bir için zaman içinde kaçınılmaz. Bir o halde kalamıyor ve
-bölünüyor ve tekrar İki oluyor.
+asfaltı halletsin, diğerleri de kaldırımı" deniyor ve bu ayrımdan fayda
+sağlanıyor. Dolayısıyla bölünmek Bir için zaman meselesi. Bir o halde kalamıyor
+ve bölünüyor ve tekrar İki oluyor.
 
 Bir'den İki'ye, İki'den Üç'e zorunlu olarak geçiyorum. Üç'te beni durduran
-nedir? Dört, Beş diye neden gitmiyorum? Burada bahsettiğim ayrımların kategorik
-olduğunu kendime hatırlatıyorum. Bir ve İki yerine, Bir ve Çok diye de
-adlandırabilirim. Yani İki, burada Çok anlamında. O zaman Üç nedir? İki, Çok'u
-temsil ediyorsa Üç neyi temsil ediyor? Burada Üç dediğim de aslında Bir'den
-İki'ye geçilirken mecburen ortaya çıkan bağlam ya da düzlemin kendisi. Tek bir
-nokta var iken başka hiçbir kavrama ihtiyaç duymuyorum. Ama iki ayrı nokta
-dediğim an, bir de aralarında çekilebilen çizgi doğuyor. İki ayrı nokta diyorsam
-çizgi bir zorunluluk. Dolayısıyla İki'yi Üç yapan bu yeni unsur, diğer ikisi ile
-aynı türden değil. Üç'teki üçüncü, diğer ikisinin sürekliliğini ve beraber var
-olmalarını mümkün kılan farklı bir türe ait. Varoluşuyla ikiliyi birbirine bağlayan
-ve bir arada tutan bir yapıda. Üçüncü, ikilinin öyle kalabilmek için ihtiyaç
-duyduğu, ortada ikili yoksa tek başına var olamayan bir varoluş ortaya koyuyor.
-İkiliden biri ortadan kalkarsa, üçüncü de mecburen ortadan kalkacaktır.
+nedir? Dört, Beş diye neden gitmiyorum? Burada bahsettiğim ayrımların, kategorik
+olduğunu kendime hatırlatıyorum. Bir ve İki derken Bir ve Çok kastediyorum. Yani
+İki, burada Çok anlamında. O zaman Üç nedir? İki, Çok'u temsil ediyorsa Üç neyi
+temsil ediyor? Burada Üç dediğim de aslında Bir'den İki'ye geçilirken mecburen
+ortaya çıkan bağlam ya da düzlemin kendisi. Tek bir nokta var iken başka hiçbir
+kavrama ihtiyaç duymuyorum. Ama iki ayrı nokta dediğim an, bir de aralarında
+çekilebilecek bir çizgi imkanı doğuyor. İki ayrı nokta diyorsam çizgi bir
+zorunluluk. Dolayısıyla İki'yi Üç yapan bu yeni unsur, diğer ikisi ile aynı
+türden değil. Üç'teki üçüncü, diğer ikisinin sürekliliğini ve beraber var
+olmalarını mümkün kılan farklı bir türe ait. Varoluşuyla ikiliyi birbirine
+bağlayan ve bir arada tutan bir yapıda. Üçüncü, ikilinin öyle kalabilmek için
+ihtiyaç duyduğu, ortada ikili yoksa tek başına var olamayan bir varoluş ortaya
+koyuyor. İkiliden biri ortadan kalkarsa, üçüncü de mecburen ortadan kalkacak.
 
 Bir'den İki'ye, İki'den Üç'e...
 
-Güzel ve fazlasıyla soyut. Biraz ayaklarım yere bassın. Konu neydi... Hah,
+Güzel ama fazlasıyla soyut. Biraz ayaklarım yere bassın. Konu neydi... Hah,
 bordür taşı.
 
-Bu inşaatlardan biraz yoruldum sanırım. Çok gürültülüler ve bir türlü
-bitmiyorlar. Yolda yürürken kafamı dağıtmaya ihtiyaç duyuyorum. Bu kadar
-soyutlayıp kafamı dağıtayım derken bir daha toplayamayacağım diye de korkuyorum.
+Evimin etrafındaki inşaatlardan dolayı biraz yoruldum sanırım. Çok gürültülüler
+ve bir türlü bitmiyorlar. Yolda yürürken kafamı dağıtmaya ihtiyaç duyuyorum. Bu
+kadar soyutlayıp kafamı dağıtayım derken bir daha toplayamayacağım diye de
+korkuyorum.
 
 Sınır konusu ilgimi fazlasıyla çekiyor. Bunun günlük hayatın çatışmalarını
 anlamak ve çözmek istememle yakın bir ilişkisi var. Bordür taşının beni sınır
@@ -123,15 +126,15 @@ kaçınılmaz. Bir'de kalamıyoruz, İki oluyoruz. Kesişen hayatlar kesiştikle
 yerde çatışma doğuruyor. Her çatışma da çözümünü çağırıyor. İki varsa Üç de
 olacak. Öyle ya da böyle bir çözüm mutlaka bulunuyor, şüphe yok. Zamana bırakmak
 bir yöntem olabilir, taraflardan birinin inisiyatifine bırakılabilir veya ortada
-buluşma yani bir anlaşma yoluna gidilebilir. Üç'ün üçüncüsünün nasıl bir şey
-olacağını kesin olarak söylemek zor. Birçok yol mümkün ve bu yollardan
-hangisinin uygulanacağını taraflar belirliyor. Kavga edebiliriz, ayrılığı tercih
-edebiliriz ya da bir otoriteye başvurabiliriz. Taraflar bunu belirliyor evet,
-ama bir yandan da tarafların içinde bulunduğu bağlam, yani kültür, belli çözüm
-yöntemlerini ucuzlaştırırken, belli çözüm yöntemlerine ek maliyetler yüklüyor.
-Diğer yandan bir yöntemin ucuz olması doğru olduğunu göstermiyor ya da zorlu
-olması onu değerli kılmıyor. Çatışmalar hayatımın kaçınılmaz bir parçası ve
-bununla ilgili duruşumu sağlam bir temele bağlamak istiyorum.
+buluşma yoluna gidilebilir. Üç'ün üçüncüsünün nasıl bir şey olacağını kesin
+olarak söylemek zor. Birçok yol mümkün ve bu yollardan hangisinin uygulanacağını
+taraflar belirliyor. Kavga edebiliriz, ayrılığı tercih edebiliriz ya da bir
+otoriteye başvurabiliriz. Taraflar bunu belirliyor evet, ama bir yandan da
+tarafların içinde bulunduğu bağlam, yani kültür, belli çözüm yöntemlerini
+ucuzlaştırırken, belli çözüm yöntemlerine ek maliyetler yüklüyor. Diğer yandan
+bir yöntemin ucuz olması doğru olduğunu göstermiyor ya da zorlu olması onu
+değerli kılmıyor. Çatışmalar hayatımın kaçınılmaz bir parçası ve bununla ilgili
+duruşumu sağlam bir temele bağlamak istiyorum.
 
 Üçüncüye baktığımda onun bir otorite niteliği taşıdığını görüyorum. Aksi
 takdirde iki tarafı çatışmadan çıkaracak bir üçüncüden söz etmek çok zor. Şöyle
@@ -140,17 +143,18 @@ birbiriyle ölümüne bir çatışma haline girebilir. Girmek zorunda değildir,
 girebilir ve otorite yoksa çatışma hali sonsuza kadar devam edemez. Biri
 diğerine üstün gelecektir ve diğeri ya gidecektir ya da çatışmaktan
 vazgeçecektir. Burada bile bir üçüncü var: orman kanunu. Otorite bir kişi olmak
-zorunda değil. Üçüncünün ayrı bir tür olduğunu ve bağlam ve düzlem benzeri bir
-nitelikte olduğunu hatırlıyorum. Üçüncü ne kadar gerçek ise İki o kadar dengeli
-bir varoluş sürdürebiliyor, ne kadar sahte ise İki'den Bir'e dönüş o kadar hızlı
+zorunda değil. Üçüncünün ayrı bir tür olduğunu, bağlam ve düzlem benzeri bir
+nitelikte olduğunu hatırlıyorum. Üçüncü ne kadar gerçek ise İki'nin varoluşu o
+kadar dengeli seyrediyor, ne kadar sahte ise İki'den Bir'e dönüş o kadar hızlı
 oluyor sanırım.
 
-Otoritenin iki akıl türü var; buyruk ve uzlaşı. Buyrukçu akıl, çatışma çözümünde
-çıkışın taraflara buyrulması gerektiğini savunurken, uzlaşmacı akıl iki tarafın
-karşılıklı taviz ile ortada buluşmasını gerektiğini savunuyor. İki aklı da
-birazdan ayrı ayrı değerlendireceğim. Öncesinde şunu da eklemek istiyorum ki
-otorite, temeldeki bu ayrım sebebiyle iki akıl için farklı biçimleniyor. Yani
-her iki akıl için de otorite zorunlu, ama şeklen farklılaşıyorlar.
+Otorite orman kanununa düşmek istemiyorsam iki temel akıl türünde mümkün;
+buyrukçu ve uzlaşmacı. Buyrukçu akıl, çatışma çözümünde çıkışın taraflara
+buyrulması gerektiğini savunurken, uzlaşmacı akıl iki tarafın karşılıklı taviz
+ile ortada buluşmasını gerektiğini savunuyor. İki aklı da birazdan ayrı ayrı
+değerlendireceğim. Öncesinde şunu da eklemek istiyorum ki otorite, temeldeki bu
+ayrım sebebiyle iki akıl için farklı biçimleniyor. Yani her iki akıl için de
+otorite zorunlu, ama şeklen farklılaşıyorlar.
 
 Buyrukçu için otorite adeta bir Hoca. Taraflar arasında çatışma çıktığında
 çözümü söylüyor ve tarafların uymasını bekliyor. İki taraf da Hoca'ya uyup
