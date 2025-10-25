@@ -126,30 +126,53 @@ bir yöntem olabilir, taraflardan birinin inisiyatifine bırakılabilir veya ort
 buluşma yani bir anlaşma yoluna gidilebilir. Üç'ün üçüncüsünün nasıl bir şey
 olacağını kesin olarak söylemek zor. Birçok yol mümkün ve bu yollardan
 hangisinin uygulanacağını taraflar belirliyor. Kavga edebiliriz, ayrılığı tercih
-edebiliriz ya da bir otoriteye başvurabiliriz. Taraflar bunu seçiyor evet, ama
-bir yandan da tarafların içinde bulunduğu bağlam, yani kültür, belli çözüm
+edebiliriz ya da bir otoriteye başvurabiliriz. Taraflar bunu belirliyor evet,
+ama bir yandan da tarafların içinde bulunduğu bağlam, yani kültür, belli çözüm
 yöntemlerini ucuzlaştırırken, belli çözüm yöntemlerine ek maliyetler yüklüyor.
+Diğer yandan bir yöntemin ucuz olması doğru olduğunu göstermiyor ya da zorlu
+olması onu değerli kılmıyor. Çatışmalar hayatımın kaçınılmaz bir parçası ve
+bununla ilgili duruşumu sağlam bir temele bağlamak istiyorum.
 
-...
+Üçüncüye baktığımda onun bir otorite niteliği taşıdığını görüyorum. Aksi
+takdirde iki tarafı çatışmadan çıkaracak bir üçüncüden söz etmek çok zor. Şöyle
+ki, eğer üçüncüde bir otorite niteliği yoksa bu durumda çatışan iki taraf
+birbiriyle ölümüne bir çatışma haline girebilir. Girmek zorunda değildir, ama
+girebilir ve otorite yoksa çatışma hali sonsuza kadar devam edemez. Biri
+diğerine üstün gelecektir ve diğeri ya gidecektir ya da çatışmaktan
+vazgeçecektir. Burada bile bir üçüncü var: orman kanunu. Otorite bir kişi olmak
+zorunda değil. Üçüncünün ayrı bir tür olduğunu ve bağlam ve düzlem benzeri bir
+nitelikte olduğunu hatırlıyorum. Üçüncü ne kadar gerçek ise İki o kadar dengeli
+bir varoluş sürdürebiliyor, ne kadar sahte ise İki'den Bir'e dönüş o kadar hızlı
+oluyor sanırım.
 
+Otoritenin iki akıl türü var; buyruk ve uzlaşı. Buyrukçu akıl, çatışma çözümünde
+çıkışın taraflara buyrulması gerektiğini savunurken, uzlaşmacı akıl iki tarafın
+karşılıklı taviz ile ortada buluşmasını gerektiğini savunuyor. İki aklı da
+birazdan ayrı ayrı değerlendireceğim. Öncesinde şunu da eklemek istiyorum ki
+otorite, temeldeki bu ayrım sebebiyle iki akıl için farklı biçimleniyor. Yani
+her iki akıl için de otorite zorunlu, ama şeklen farklılaşıyorlar.
 
-Buyruk ve uzlaşı, görebildiğim kadarıyla çözüm yöntemlerinde iki ana hattı
-oluşturuyor. Buyrukçu duruş, çözüm yolunda mutlak çıkmaza girilirse çıkışın
-ancak olması gerekenin taraflara buyrularak mümkün olduğunu savunurken,
-uzlaşmacı duruş ise iki tarafın karşılıklı taviz ile ortada buluşmasını
-savunuyor diye düşünüyorum. İki duruşu da birazdan ayrı ayrı ve aklıma gelen tüm
-detaylarıyla değerlendireceğim. Öncesinde şunu da eklemek istiyorum ki; yukarıda
-zorunlu olarak ortaya çıktığını söylediğim üçüncü hal temeldeki bu ayrım
-sebebiyle iki duruş için farklı biçimleniyor. Yani her iki duruş için de üçüncü
-hal zorunlu, ama şeklen farklılaşıyorlar. Buyrukçu için üçüncü hal bir hoca.
-Taraflar arasında çatışma çıktığında çözümü, deyim yerindeyse, buyuruyor. İki
-taraf da hocaya uyup söyleneni yapmak zorunda. Bir taraf bu durumu kabul
-etmiyorsa kendisini hocaya rakip yapıp otoriteyle savaşacak, ya ölecek ve
-hocanın yeri perçinlenecek ya da öldürecek ve yeni hoca gelecek. Her halde hoca
-buyuracak, diğerleri uyacak. Uzlaşmacı için üçüncü hal bir hakem. Çözüm yolu
-tıkandığında kendisine başvurulan, verilen karara itiraz hakkının olduğu,
-taraflar uzlaştığı sürece kendisine ihtiyaç duyulmayan, aslolanın karşılıklı
-uzlaşma olduğunu bilen müdahale alanı sınırlı bir üçüncü kişi.
+Buyrukçu için otorite adeta bir Hoca. Taraflar arasında çatışma çıktığında
+çözümü söylüyor ve tarafların uymasını bekliyor. İki taraf da Hoca'ya uyup
+söyleneni yapmak zorunda. Bir taraf bu durumu kabul etmiyorsa kendisini Hoca'ya
+rakip yapıp otoriteyle savaşabilir ancak bu durumda buyrukçu olmaktan çıkmış
+oluyor çünkü otoriteye karşı geliyor. Ya kendisi ölüyor ve çatışma kendiliğinden
+çözülüyor ya da öldürüyor ve otorite yok oluyor, yeni otorite olana kadar yine
+orman kanunu geçerli olacak.
+
+Uzlaşmacı için üçüncü adeta bir Hakem. Çatışmalar uzlaşma ile çözülüyor ancak
+uzlaşma sağlanamazsa kendisine başvuruluyor. Hakem, verdiği karara itiraz hakkı
+tanımak zorunda olan, taraflar uzlaştığı sürece kendisine ihtiyaç duyulmayan,
+aslolanın karşılıklı uzlaşma olduğunu bilen ve müdahale alanı sınırlı bir
+üçüncü. Buyrukçu'daki Hoca'nın aksine Hakem bir şey buyurmuyor ve taraflar da
+Hakem'e uymak zorunda değil ve itiraz beklenen bir şey. Yalnızca uzlaşmacı
+olmaları itibariyle orta yolda buluşmayı en baştan kabul etmiş durumdalar.
+
+Bu iki akıl da bana tanıdık geliyor, herhalde babam buyrukçu annem uzlaşmacı
+olduğu için böyle. Bu, annem hiç buyurmadı, babam da hiç uzlaşmadı anlamına
+gelmiyor. Yalnızca temelden ayrışan iki farklı düşünce yapılarına sahiplerdi.
+Şimdi önümde iki yol var, ben özünde bir buyrukçu mu olacağım, yoksa uzlaşmacı
+mı?
 
 ## Buyrukçu Akıl
 
@@ -294,12 +317,6 @@ değiştirilmiştir.
 
 ... Her iki akıl da diğerinin özelliklerini barındırır. Ama karşı tarafı
 ilineksel olarak, kendi tarafını özsel olarak barındırır. ...
-
-Bu iki akıl da bana tanıdık geliyor, herhalde babam buyrukçu annem uzlaşmacı
-olduğu için böyle. Bu, annem hiç buyurmadı, babam da hiç uzlaşmadı anlamına
-gelmiyor. Yalnızca temelden ayrışan iki farklı düşünce yapılarına sahiplerdi.
-Şimdi önümde iki yol var, ben özünde bir buyrukçu mu olacağım, yoksa uzlaşmacı
-mı?
 
 Üçüncü sahte bir üçüncü ise, yani bu varoluşa uygun bir üçüncü değilse,
 ikiliden önce birini sonra diğerini yok eder ve tekrar Bir'e dönülür. Gerçek Üç,
