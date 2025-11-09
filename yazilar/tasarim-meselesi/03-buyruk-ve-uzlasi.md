@@ -180,13 +180,44 @@ mı?
 
 ## Buyrukçu Akıl
 
-... Tamamen hiyerarşi üzerinden okuyan bir zihniyetten bahsediyoruz. Bu zihniyet
-oturduğu bir yemek masasında bile hiyerarşi arıyor, bulamazsa hiyerarşiyi
-kendini tepeye koyacak şekilde tesis ediyor. Bu akla göre hiyerarşi dışında bir
-model mümkün değil. Yine bu akla göre öyle olmadığını söyleyen uzlaşmacı
-zihniyet bile aslında arka planda, satır aralarında kendi hiyerarşisini
-dayatıyor. Her uzlaşma çağrısı, otorite için bir tehdit oluyor. Yukarıdan aşağı
-buyurulan doğruların tartışmaya açılması bu hiyerarşiyi tanımamak demek. ...
+Bu aklın nasıl çalıştığını anlamamı sağlayan ana kavram: Hiyerarşi. Yalnızca
+hiyerarşik bir ilişki sisteminde yaşayan ve düşünen bir akıldan bahsetmiyorum.
+Hayatı yalnızca hiyerarşik yapılar üzerinden okumaktan bahsediyorum. Her yerde,
+her ilişkide hiyerarşi gören bir akıl. Buyrukçu akıl, hiyerarşi olmayan yerde de
+hiyerarşi görüyor. Örneğin yemek masasında, ailede, vahşi doğada, işte, okulda
+sınıfta, arkadaşlar arasında, eşiyle ilişkisinde. Bu öyle bir akıl ki, her şeyi
+üst alt ilişkisi ile anlayabiliyor. Bu aklı pek sevmiyorum, o kadar belli
+olmuştur herhalde. Uzlaşmacılığı seçeceğim en başından belli. Elediğim seçeneği
+daha iyi tanımak istiyorum ki istemeden onu seçmeyeyim.
+
+Buyrukçu akla göre tüm modeller hiyerarşiktir ve aksini söyleyen de biraz
+saftır. Her şey güç ilişkisi ile açıklanır, hatta güç her şeydir. Model
+hiyerarşik olunca, zirve de tek hedef oluverir. Besin zincirinde bile hiyerarşi
+vardır. Bazı canlılar diğerlerine göre üsttedir, diğerleri altta. Kimse
+bakterilerden söz etmez ya da ağaçlardan, varsa yoksa çita ve ceylan. Ailenin
+bir reisi olur, şirketin ise bir patronu. Arkadaşlar ile masaya oturulduğunda,
+bir buyrukçu mutlaka hesabı ödeyerek hiyerarşide yukarıda olduğunu ispatlama
+çabasına girer. Bazen "Olur mu ya, senin paran burada geçmez!" gibi baskın,
+bazen de "Bu seferlik ben ödemiş olayım ne olacak, ha ben, ha sen" gibi sinsi.
+Oysa aynı masada yemek yendiyse muhtaç olan yoktur, herkes kendi hesabını normal
+normal ödeyebilir.
+
+Gündelik olaylarda dahi bu akla tahammül etmek benim için oldukça güç bir hal
+aldı. Neden bilmiyorum ama beni rahatsız ediyor. İçimdeki buyrukçuya bile
+tahammülüm kalmamış. Birinin birinden değişmez bir biçimde üstün olabileceğini
+kabul etmeyi yanlış buluyorum. Bu fikir örneğin birilerini sırf yetenekli olduğu
+ya da kültürlü bir ortamda büyüdüğü için üstün kılmaya müsait bir ortam
+oluşturuyor. Nasıl başladıysa öyle giden bir sistem. Ne kadar kısır bir dünya
+tasarımı. Her şey en baştan belli ise, niye yaşıyoruz?
+
+Bir buyrukçu içten içe kendi hiyerarşisinin merdivenlerini tırmanmak ister ve
+bunun için gerekirse üst/alt ilişkisini belirleyen unsurları değiştirir. Biri
+"ben yaşça büyüğüm" derken, diğeri "ben burada daha eskiyim" der, öteki "benim
+emeğim daha çok" der. Der de der. Herkes kendisinin avantajlı olduğu ekseni
+hiyerarşinin belirleyici unsuru olarak birbirine dayatır. Demek istediğim şu ki,
+buyrukçu akıl tahmin ettiğimden daha yaygın ve kökleri derinlere iniyor.
+Diyorum ya, hiyerarşi dışında hiçbir model kuramıyor, kurulduğu söylenirse de
+arkasında ısrarla başka bir hiyerarşi arıyor.
 
 ... Korku, hiyerarşik zihniyet üzerinde otoritenin araçsallaştırdığı bir duygu
 haline geliyor. Böylece bireysel olan bu duygu, o çerçevede kalmayıp, otoritenin
@@ -255,6 +286,11 @@ devretmek zor. ...
 ...
 
 ## Buyrukçu v Uzlaşmacı
+
+... Buyrukçu akla göre öyle olmadığını söyleyen uzlaşmacı zihniyet bile aslında
+arka planda, satır aralarında kendi hiyerarşisini dayatıyor. Her uzlaşma
+çağrısı, otorite için bir tehdit oluyor. Yukarıdan aşağı buyurulan doğruların
+tartışmaya açılması bu hiyerarşiyi tanımamak demek. ...
 
 İki pozisyon da kendi çerçevesi dahilinde beklendiği gibi işliyor. Buyrukçular
 otorite yokluğunda savaşıyor, biri otoriteyi alınca ortalık sakinleşiyor ve
