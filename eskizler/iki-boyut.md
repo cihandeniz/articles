@@ -2,8 +2,8 @@
 title: İki Boyut
 ---
 
-İdealizm; fikircilik, teorik düşünenler, idealciler.
-Ampirizm; deneycilik, pratik düşünenler, uygulamacılar.
+1. İdealizm; fikircilik, teorik düşünenler, idealciler.
+2. Ampirizm; deneycilik, pratik düşünenler, uygulamacılar.
 
 Bir uçta idealizm, diğer uçta ampirizm var gibi konuşuyoruz. "Fazla idealist
 bakıyorsun" diyoruz örneğin "biraz pratik olman lazım". Sanki pratik olmanın
