@@ -49,7 +49,7 @@ Fikir yoksa, deneyin tabi olduğu konu muğlak olduğundan, deney deney değildi
 Fikirsiz deney olmaz. Peki konu yeniyse onun fikrini nereden doğuracağım?
 
 Fikir yoksa, rastgele ve hatta kasıtlı olarak saçma şeyler yapmak gerekir. Neyi
-denediğini bilmeden, bir şey çıkma umuduyla, kasıtlı saçmalamak. Sonra o
+denediğini bilmeden, bir şey çıkması umuduyla kasıtlı saçmalamak. Sonra o
 saçmalamayı bırakıp, o saçmalığa bir bakmak gerekir. Örüntü aramak, örnek aramak
 gerekir. Eğer saçmalığın içinde anlamlı gibi görünen bir şey var ise onu fikre
 çevirmek demek fikir üretmek demek oluyor. Al sana yumurta.
