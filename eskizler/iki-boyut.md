@@ -16,7 +16,7 @@ ve birlikte oluşturdukları şey bir çizgi değil bir düzlem.
                                 Deneyimli
                                     ↑
                                     |
-                              Usta  | Mühendis
+                              Usta  | Uzman
                                     |
                 Teorisiz ←----------+-----------→ Teorili
                                     |
