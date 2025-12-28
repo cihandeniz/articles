@@ -12,7 +12,7 @@ idealistliği bırakmak gibi bir zorunluluğu varmış gibi.
 Ben bu ikiliyi tek çizginin iki ucu olarak görmüyorum. Bu ikili ayrı birer boyut
 ve birlikte oluşturdukları şey bir çizgi değil bir düzlem.
 
-```text
+```bash
                 Deneyimli
                     ↑
                     |
