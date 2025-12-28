@@ -38,10 +38,10 @@ En uçları bağlamsız ifade etmek gerekirse;
 
 > Deneyle insan tanınsaydı esnaf babam psikolog olurdu.
 
-Peki başlangıçta ne yapmalı? Acemi biri nasıl ilerleyecek. Hatta o alan yepyeni
-bir alansa, yani o alanın ne teorisi ne deneyimi henüz hiç yoksa nasıl
+Peki başlangıçta ne yapmalı, yani acemi biri nasıl ilerleyecek? Hatta o alan
+yepyeni bir alansa, yani o alanın ne teorisi ne deneyimi henüz yoksa nasıl
 ilerleyeceğiz? Yani aslında tavuk-yumurta paradoksunu soruyorum: fikir mi
-deneyden, deney mi fikirden?
+deneyden, deney mi fikirden...
 
 Önce deney diyeceğim gibi geliyor biliyorum, ama önce fikir.
 
