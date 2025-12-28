@@ -6,7 +6,7 @@ title: İki Boyut
 2. Ampirizm; deneycilik, pratik düşünenler, uygulamacılar.
 
 Bir uçta idealizm, diğer uçta ampirizm var gibi konuşuyoruz. "Fazla idealist
-bakıyorsun" diyoruz örneğin "biraz pratik olman lazım". Sanki pratik olmanın
+bakıyorsun" diyoruz örneğin "biraz pratik olman lazım". Pratik olmanın
 idealistliği bırakmak gibi bir zorunluluğu varmış gibi.
 
 Ben bu ikiliyi tek çizginin iki ucu olarak görmüyorum. Bu ikili ayrı birer boyut
