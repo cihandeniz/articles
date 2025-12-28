@@ -12,18 +12,18 @@ idealistliği bırakmak gibi bir zorunluluğu varmış gibi.
 Ben bu ikiliyi tek çizginin iki ucu olarak görmüyorum. Bu ikili ayrı birer boyut
 ve birlikte oluşturdukları şey bir çizgi değil bir düzlem.
 
-```bash
-                Deneyimli
-                    ↑
-                    |
-              Usta  | Mühendis
-                    |
-Teorisiz ←----------+-----------→ Teorili
-                    |
-              Acemi | Danışman
-                    |
-                    ↓
-                Deneyimsiz
+```text
+                                Deneyimli
+                                    ↑
+                                    |
+                              Usta  | Mühendis
+                                    |
+                Teorisiz ←----------+-----------→ Teorili
+                                    |
+                              Acemi | Danışman
+                                    |
+                                    ↓
+                                Deneyimsiz
 ```
 
 İdealizm ile vizyonu artırıyoruz, ampirizim ile deneyi. Ancak bu ikisi
