@@ -92,13 +92,13 @@ ve bölünüyor ve tekrar İki oluyor.
 
 Bir'den İki'ye, İki'den Üç'e zorunlu olarak geçiyorum. Üç'te beni durduran
 nedir? Dört, Beş diye neden gitmiyorum? Burada bahsettiğim ayrımların, kategorik
-olduğunu kendime hatırlatıyorum. Bir ve İki derken Bir ve Çok kastediyorum. Yani
-İki, burada Çok anlamında. O zaman Üç nedir? İki, Çok'u temsil ediyorsa Üç neyi
-temsil ediyor? Burada Üç dediğim de aslında Bir'den İki'ye geçilirken mecburen
-ortaya çıkan bağlam ya da düzlemin kendisi. Tek bir nokta var iken başka hiçbir
-kavrama ihtiyaç duymuyorum. Ama iki ayrı nokta dediğim an, bir de aralarında
-çekilebilecek bir çizgi imkanı doğuyor. İki ayrı nokta diyorsam çizgi bir
-zorunluluk. Dolayısıyla İki'yi Üç yapan bu yeni unsur, diğer ikisi ile aynı
+olduğunu kendime hatırlatıyorum. Bir ve İki derken Bir ve Çok'u kastediyorum.
+Yani İki, burada Çok anlamında. O zaman Üç nedir? İki, Çok'u temsil ediyorsa Üç
+neyi temsil ediyor? Burada Üç dediğim de aslında Bir'den İki'ye geçilirken
+mecburen ortaya çıkan bağlam ya da düzlemin kendisi. Tek bir nokta var iken
+başka hiçbir kavrama ihtiyaç duymuyorum. Ama iki ayrı nokta dediğim an, bir de
+aralarında çekilebilecek bir çizgi imkanı doğuyor. İki ayrı nokta diyorsam çizgi
+bir zorunluluk. Dolayısıyla İki'yi Üç yapan bu yeni unsur, diğer ikisi ile aynı
 türden değil. Üç'teki üçüncü, diğer ikisinin sürekliliğini ve beraber var
 olmalarını mümkün kılan farklı bir türe ait. Varoluşuyla ikiliyi birbirine
 bağlayan ve bir arada tutan bir yapıda. Üçüncü, ikilinin öyle kalabilmek için
@@ -107,15 +107,17 @@ koyuyor. İkiliden biri ortadan kalkarsa, üçüncü de mecburen ortadan kalkaca
 
 Bir'den İki'ye, İki'den Üç'e...
 
-Güzel ama fazlasıyla soyut. Biraz ayaklarım yere bassın. Konu neydi... Hah,
+Güzel ama fazlasıyla soyut. Biraz ayaklarım yere bassın. Konu neydi... Heh,
 bordür taşı.
 
-Evimin etrafındaki inşaatlardan dolayı biraz yoruldum sanırım. Çok gürültülüler
-ve bir türlü bitmiyorlar. Yolda yürürken kafamı dağıtmaya ihtiyaç duyuyorum. Bu
-kadar soyutlayıp kafamı dağıtayım derken bir daha toplayamayacağım diye de
-korkuyorum.
+Evimin etrafındaki şantiyeler beni yordu. Gürültülüler ve bir türlü bitmiyorlar.
+Yolda yürürken kafamı dağıtmaya ihtiyaç duyuyorum. Düzenli makine sesi belli bir
+ritm yaratıyor ve hipnotize oluyorum. Düşünceler arka arkaya saldırmaya
+başlıyor. Sesleri gittikçe yükseliyor, muhtemelen inşaat gürültüsünü bastırmaya
+çalışıyorlar. Biraz uzaklaşınca, sesler azalıyor ve düşüncelerim bağırmaktan
+vazgeçiyor.
 
-Sınır konusu ilgimi fazlasıyla çekiyor. Bunun günlük hayatın çatışmalarını
+Bu sınır konusu ilgimi fazlasıyla çekiyor. Bunun günlük hayatın çatışmalarını
 anlamak ve çözmek istememle yakın bir ilişkisi var. Bordür taşının beni sınır
 üzerine düşündürmesini ve içinde bulunduğum çatışmalarda bana rehberlik etmesini
 en kolay böyle açıklayabilirim.
@@ -148,7 +150,7 @@ nitelikte olduğunu hatırlıyorum. Üçüncü ne kadar gerçek ise İki'nin var
 kadar dengeli seyrediyor, ne kadar sahte ise İki'den Bir'e dönüş o kadar hızlı
 oluyor sanırım.
 
-Otorite orman kanununa düşmek istemiyorsam iki temel akıl türünde mümkün;
+Otorite, orman kanununa düşmek istemiyorsam, iki temel akıl türünde mümkün;
 buyrukçu ve uzlaşmacı. Buyrukçu akıl, çatışma çözümünde çıkışın taraflara
 buyrulması gerektiğini savunurken, uzlaşmacı akıl iki tarafın karşılıklı taviz
 ile ortada buluşmasını gerektiğini savunuyor. İki aklı da birazdan ayrı ayrı
@@ -358,15 +360,25 @@ değiştirilmiştir.
 ... Her iki akıl da diğerinin özelliklerini barındırır. Ama karşı tarafı
 ilineksel olarak, kendi tarafını özsel olarak barındırır. ...
 
-Üçüncü sahte bir üçüncü ise, yani bu varoluşa uygun bir üçüncü değilse,
-ikiliden önce birini sonra diğerini yok eder ve tekrar Bir'e dönülür. Gerçek Üç,
-uygun bir üçüncü ile mümkündür.
+Üçüncü geçici bir üçüncü ise, yani bu varoluşa uygun bir üçüncü değilse,
+ikiliden birini yok eder, dolayısıyla kendisini de yok eder ve tekrar Bir'e
+dönülür. Kalıcı Üç, yalnızca uygun bir üçüncü ile mümkündür.
+
+... Hiyerarşik yapıların oluşması kolay ancak ömrü kısıtlı oluyor. Hiyerarşik
+yapı bir düzenek kursa da var ettiği düzeni devam ettirmesinin tek yolu
+hiyerarşide üste çıkmak gibi nicel bir şeye dayandıkça, tüm hiyerarşi yalnızca
+hiyerarşide olmakla ilgilenenlerce işgal ediliyor. Ve nihayet yapı kendi içine
+çöküyor. Ancak demokratik yapılar bir kültürü gerektirmesi bağlamında erişmesi
+daha zor olsalar da, bir kez kurulduğunda uzun ömürlü olma eğilimindeler ve
+dolayısıyla daha kalıcılar. ...
 
 ... Uzlaşmacı kalmak zor ama kaçınılmaz ve imkanlı. Buyrukçu kalmak kolay ama
 geçici ve kısıtlı. Bir'den Üç'e gidip gelen bir döngünün içindeysek bile ben bu
 döngünün yarattığı çatışmada yaşamak istemem, dengenin mümkün olduğu yerde
-yaşamak isterim. Denge, Üç'te mümkün görünüyor. Bu nedenle, uzlaşmacı akıl bana
-daha uygun geliyor. ...
+yaşamak isterim. Denge, Üç'te mümkün görünüyor. Buyrukçuluğun bedeli kısa ömürlü
+olması, sürekli yıkılıp yeniden yapılmak zorunda olması ve bu tansiyonu içindeki
+tüm unsurlara sürekli yaşatmasında. Bu nedenle, uzlaşmacı akıl bana daha kalıcı
+ve dolayısıyla daha uygun geliyor. ...
 
 ... Geleceğin belirsizliğini yalnız karşılıyoruz. Mahşer günü sırat köprüsünden
 bile tek tek geçiyoruz. Tüm kararlarımızdan bizim sorumlu olduğumuzu, ve

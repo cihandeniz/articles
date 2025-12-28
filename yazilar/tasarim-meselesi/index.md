@@ -73,3 +73,5 @@ sonuna.
     döngüsel yöntemlerin daha yenilikçi sonuçlar doğuracağını gösterirken; her
     döngüde kontrollü yıkım ve yapımlara imkan tanıması açısından yıkma ve yapma
     becerilerinin bir meta-beceri olarak edinilmesinin öneminin de altını çizer
+- zero sum, game thory
+  - iki buyrukçu çatışması
