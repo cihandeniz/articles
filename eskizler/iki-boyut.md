@@ -26,10 +26,10 @@ ve birlikte oluşturdukları şey bir çizgi değil bir düzlem.
                                 Deneyimsiz
 ```
 
-İdealizm ile vizyonu artırıyoruz, ampirizim ile deneyi. Ancak bu ikisi
+İdealizm ile vizyonu artırıyoruz, ampirizm ile deneyi. Ve ancak bu ikisi
 birleşince bilgi sahibi olabiliyoruz.
 
-En uçları bağlamsız ifade etmek gerekirse;
+Düzlemin en uçlarını bağlamsız ifade etmek gerekirse;
 
 - Tam deneyimli, tam teorili: O şeyin en bileni
 - Tam deneyimli, hiç teorisiz: O şeyin en yapanı
