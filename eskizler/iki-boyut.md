@@ -26,8 +26,8 @@ ve birlikte oluşturdukları şey bir çizgi değil bir düzlem.
                                 Deneyimsiz
 ```
 
-İdealizm ile vizyonu artırıyoruz, ampirizm ile deneyi. Ve ancak bu ikisi
-birleşince bilgi sahibi olabiliyoruz.
+İdealizm ile ufuk genişletiyoruz, ampirizm ile de o ufka doğru yürüyoruz. Ve
+ancak bu ikisi birleşince bir yere varıp, bilgi sahibi olabiliyoruz.
 
 Düzlemin en uçlarını bağlamsız ifade etmek gerekirse;
 
