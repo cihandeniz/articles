@@ -1,8 +1,8 @@
 ---
-title: Aklın Yolu Bir
+title: Aklın Yolu
 ---
 
-Aklın yolu bir derken bir olan şey yolun sonu değil yolun kendisi. O yol da
+"Aklın yolu bir" derken bir olan şey yolun sonu değil yolun kendisi. O yol da
 (yani metot, yordam da) mantık. Yani akıl yalnızca bir şekilde çalışır ve bu
 herkes için ortaktır, o da mantığın yoludur. Akıl yürütmek derken kastettiğimiz
 de aklı mantığın yolunda yürümek olsa gerek.
