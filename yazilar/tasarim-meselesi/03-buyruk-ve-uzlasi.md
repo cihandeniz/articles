@@ -266,37 +266,87 @@ oluyoruz. Ne kadar kısır bir dünya tasarımı.
 
 ## Uzlaşmacı Akıl
 
-... Demokratik akıl her şeyi çatışma, tolerans, taviz ve uzlaşma üzerinden okuyan
-akıldır ...
+Hiyerarşi, benim çevremdekilerle ilişki ağımın ortaya koyduğu haritaya bakarken
+gördüğüm bir alt kümeden ibaret. Merkeze başkasını aldığımda hiyerarşi bir anda
+başka bir hale bürünüyor. Örneğin soy ağacımı gözümün önüne getiriyorum. Dedemin
+dedesinin dedesinden diye gelen koca bir ağaç. Tepesinde 3 kuşak önceden dedem
+var. Oysa bu büyük büyük dedemin yanında bir de büyük büyük ninem var. Benden
+yukarı giden yol babamdan olduğu gibi annemden de geçiyor. Onun da babası ve
+annesi derken, ağacı ters çeviriyorum. Tepede ben varım, aşağıda bütün soyum.
+Aslında ortada bir ağaç yapısı da yok, yalnızca koca bir ağ var.
 
-... Tasarım kalıplarının bir akıldan diğerine olduğu gibi aktarılamayacağı.
+Birden fazla varlıktan oluşan bir sistemin tüm ilişkilenmeleri, ortaya noktalar
+ve aralarındaki bağlardan oluşan koca bir ağ koyuyor. Bu ağın ne başı ne sonu
+var. Uzlaşmacı aklım bu ağı anlamak için merkeze kendini alıyor ve etrafıyla
+ilişkilenmesini inceliyor. Bu akla göre bir merkez yok, herkes kendine göre
+merkezde duruyor. Bu akıl beni kendisini çevresinden ayrı bir varlık olarak
+kabul etmeye davet ediyor. Bu kabul bir yandan beni özgürleştirecekken, bir
+yandan büyük bir mücadeleye atacak. Sonuçta her nokta kendi varoluşunu etrafına
+dayatır ve var olmak özünde çatışmak demek. Buyruklardan azad oluyorum ama tüm
+sorunlarımla da başbaşa kalıyorum. Koca hiyerarşiler kurmuş buyrukçuların
+arasında ne kadar hayatta kalabilirim bilmiyorum. Bu varoluş mücadelesiyle baş
+etmenin bir yöntemi de uzlaşmak. Kendim gibi olanlarla uzlaşarak koca
+hiyerarşilere karşı bir şansım olabilir. Ancak bu durumda da yine bir tür
+hiyerarşi kuruyor olabilirim. Şimdilik iki farklı akıl türünün çatışmasını
+düşünmek istemiyorum. Önce uzlaşmacı aklın iç çelişkileri olup olmadığını
+anlamam gerekiyor.
+
+... Tek olarak başlayayım ve dışarı doğru uzlaşarak bir varoluş inşa edeyim.
+Belki de hiyerarşik yapılar kaçınılmazdır, yalnızca mutlaklığının önüne geçmek
+yeterlidir. Bu konular hakkında düşünebiliyor olmak bile özgür hissettiriyor. Bu
+bir başlangıç olabilir. Tamamen uzlaşmacılardan oluşan bir grubun var olabilmesi
+mümkün mü? ...
+
+... Bunun üzerinden uzlaşmacı aklın niteliklerini tanımlamak gerekiyor.
+(Süreççi, deneyci, yıkıcı, mucit, keşifçi, demokratik, uzlaşmacı, çatışmacı,
+proaktif, devrimci, betimleyici (sontasarımcı), yaratıcı, yenilikçi, nanikçi)
+...
+
+... Uzlaşmacı aklın kültürle ilişkisi zorunlu bir miras veya buyruk niteliğinde
+değildir. Diğer yandan da geleneği reddedip her seferinde baştan başlayarak
+kendisi keşfetmek zorunda da değildir. Yalnızca anlaması yeterlidir. Mesele
+neyin ne olduğuna ilişkin kararı kimin verdiği meselesi. Uzlaşmacı kararı ben
+vereyim ister, buyrukçu kararı devretmek ister (hocasına, o da geleneğe). ...
+
+... Tasarımların bir akıldan diğerine olduğu gibi aktarılamayacağı.
 Aktarılıyorsa da bunun her zaman hatalı olacağını söylemeliyim. Bir beyinden
 diğerine bir bilgiyi kopyalayıp birebir yapıştırabilseydik bile bu o beyine uyar
 mıydı, aynı anlama gelir miydi emin değilim. Birey kendi hayatı biricik olsa da
 tüm tasarımlarını sıfırdan üretemez. Bir şekilde ortak bir dil kurulduğunda, bu
 dil üzerinden aynı değilse de benzer bilgilerin birinden diğerine aktarılması,
 tabi bir hata payıyla, mümkün duruyor. En azından aktarıldığını varsaymak bizi
-çok fazla yanıltmıyor. Aktarımın mümkün olduğunu düşünmemiz, bize başkasının,
-yaşamın zorluklarını atlatabilmiş birilerinin, belki de ataların yolundan
-gitmeyi mümkün kılıyor. Böylece atalar ile kendi aramızda bir hiyerarşi kuruyor,
-adeta buyrukları tarihten alıyoruz. ...
+çok fazla yanıltmıyor. Aktarımın mümkün olduğunu düşünmemiz başkasının, yaşamın
+zorluklarını atlatabilmiş birilerinin, belki de ataların, yolundan gitmeyi
+mümkün kılıyor. ...
 
-... Diğer yandan bazılarımız için bu delegasyon hiç doğru değil. Doktor da olsa,
-kim olursa olsun, bazısı anlamak ister. Baştan keşfetmek zorun değildir bunlar,
-ama anlamak isterler. Bunlar da demokratik akıldır. Mesele kararı kimin verdiği
-meselesi. Ben mi vermeliyim, benim adıma daha iyi bildiğini varsaydığım bir
-başkası mı. Bazısı için kendi kararını vermek zor, bazısı için de kararı
-devretmek zor. ...
+... Bu durumda uzlaşmacı akıl birliğini hiyerarşik bir buyruk zincirine değil
+oturttuğu kültürel zemine dayandırıyor ve çelişkisinden arınıyor.  ...
 
-## Buyrukçu v Buyrukçu
+... Korkuyla yüzleşip tek başına var olmanın gereklerini yerine getirecek
+cesareti ortaya koyuyoruz. Bunu yaparken tek olduğumuz gerçeğini unutup
+hiyerarşik yapılara başvurmak yerine, uzlaşıyor ve beraber varolmayı
+öğreniyoruz. İçinde bulunduğumuz yapı her sarsıldığında buyrukçu aklın bizi
+içinde bıraktığı savaş yerine uzlaşmacı aklın attığı kültürel zemin üzerinde
+yapısal değişimleri yönetiyoruz. ...
+
+## Akıl Çatışmaları
+
+... İki aklın çatışması gündelik deneyimlediğimiz bir durum. Bu çatışmaların en
+çarpıcısı buyrukçu v uzlaşmacıdır. Göreceğiz ki uzlaşmacı akıl ironik bir
+biçimde tek başına daha zayıftır. Buyrukçu birliğe daha az ihtiyaç duyar ama
+daha kolay kurarken, uzlaşmacı birliğe daha çok ihtiyaç duyar ama daha zor
+kurar. Buna karşın uzlaşmacının birliği uzun ömürlü ve güçlüdür, buyrukçununki
+ise kırılgandır. ...
+
+### Buyrukçu v Buyrukçu
 
 ...
 
-## Uzlaşmacı v Uzlaşmacı
+### Uzlaşmacı v Uzlaşmacı
 
 ...
 
-## Buyrukçu v Uzlaşmacı
+### Buyrukçu v Uzlaşmacı
 
 ... Buyrukçu akla göre öyle olmadığını söyleyen uzlaşmacı zihniyet bile aslında
 arka planda, satır aralarında kendi hiyerarşisini dayatıyor. Her uzlaşma
@@ -347,13 +397,13 @@ bir taraf seçince garsona görevini hatırlatır. Yani bu konuya yazabileceğim
 onlarca farklı son var ama önemli olan sonunda ne olduğu değil. Önemli olan
 çatışmadaki dinamikleri anlayabilmem.
 
-### Uzlaşmacının Hocalığı
+#### Uzlaşmacının Hocalığı
 
 ... Uzlaşmacı buyrukçunun gözünde otorite olduğunda, öneriler buyruk olarak
 anlaşılır. Hoca fetişleştirilir, sonra da kaçınılmaz sinisizm gelir ve hoca
 yerle bir edilir. ...
 
-### Buyrukçunun Hakemliği
+#### Buyrukçunun Hakemliği
 
 ... Buyrukçu uzlaşmacının gözünde hakem olduğunda, uzlaşmacılar ilk
 tutarsızlıkları görmezden gelir, istisna olarak tanımlar. Tutarsızlığın yapısal
