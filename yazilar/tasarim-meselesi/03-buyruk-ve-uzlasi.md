@@ -182,72 +182,87 @@ mı?
 
 ## Buyrukçu Akıl
 
-Bu aklın nasıl çalıştığını anlamamı sağlayan ana kavram: Hiyerarşi. Bu akılda
-hiyerarşik bir ilişki sisteminde yaşamanın ötesinde, hayatı yalnızca hiyerarşik
-yapılar üzerinden okuyan bir temel kavrayış var. Her yerde, her ilişkide
-hiyerarşi gören bir akıl. Buyrukçu akıl, hiyerarşi olmayan yerde de hiyerarşi
-görüyor. Bu öyle bir akıl ki, her şeyi üst/alt ilişkisi ile anlayabiliyor. Bu
-aklı pek sevmiyorum, o kadarı belli olmuştur herhalde. Uzlaşmacılığı seçeceğim
-en başından belli. Elediğim seçeneği daha iyi tanımak istiyorum ki farkında
-olmadan onu seçmeyeyim.
+Buyrukçu aklın nasıl çalıştığını anlamamı sağlayan ana kavram: Hiyerarşi. Bu
+akılda hayatı yalnızca hiyerarşik yapılar üzerinden okuyan bir temel kavrayış
+var. Her yerde, her ilişkide hiyerarşi gören bir akıl. Hiyerarşi olmayan yerde
+de hiyerarşi görüyor ve her şeyi üst/alt ilişkisi ile açıklıyor. Bu aklı pek
+sevmiyorum, o kadarı belli olmuştur herhalde. Uzlaşmacılığı seçeceğimi en
+başından belli ediyorum. Yine de acele etmeden elediğim seçeneği daha iyi
+tanımak istiyorum ki farkında olmadan onu seçmeyeyim.
 
-Buyrukçu akla göre tüm modeller hiyerarşiktir. Bu akıl bunun aksini iddia
-edenleri de biraz "saf" olarak görür. Ona göre her şey güç ilişkisi ile
-açıklanır, hatta güç her şeydir. Model hiyerarşik olunca, zirve de varılabilecek
-son yer oluverir. Besin zincirinde bile hiyerarşi vardır. Bazı canlılar
-diğerlerine göre üsttedir, diğerleri altta. Kimse bakterilerden söz etmez ya da
-ağaçlardan, varsa yoksa çita ve ceylan. Ailede bir reisi vardır, şirkette ise
-bir patron.
-
-Gündelik olaylarda bile bu akla tahammül etmek benim için oldukça güç bir hal
-aldı. Arkadaşlarımla yemeğe çıktım diyelim. Grupta buyrukçu varsa bu kişi
-mutlaka hesabı ödeyerek hiyerarşide yukarıda olduğunu gösterme çabasına girer.
-Bazen "Olur mu ya, senin paran burada geçmez!" gibi baskın, bazen de "Ben ödemiş
-olayım ne olacak, ha ben, ha sen" gibi sinsi. Oysa aynı masada yemek yendiyse
-kimse muhtaç değildir, herkes kendi payını garip kültürel tümseklerden geçmeden
-ödeyebilmelidir. Bunu zaman zaman ben de yapıyorum, "Bu kez benden olsun"
-diyorum. Çok itici. İçimdeki buyrukçuya bile tahammülüm kalmamış. Bunun sebebi
-birinin diğerinden mutlak ve kalıcı olarak üstün olabileceğini reddetmek
-istemem. Birisi sırf yetenekli olduğu veya kültürlü bir ortamda büyüdüğü veya
-varlıklı olduğu için karşısındakiyle bir üst/alt ilişkisi kuramamalı. Hiyerarşik
-modeller buna müsait bir ortam oluşturuyor. Nasıl başladıysa öyle giden bir
-hayata mahkum oluyoruz. Ne kadar kısır bir dünya tasarımı.
-
-Bir buyrukçu doğal olarak kendi hiyerarşisinin merdivenlerini tırmanmak ister.
-Bunu hiyerarşisinin kurallarına göre yapabileceği gibi ve gerekirse üst/alt
-ilişkisini belirleyen unsurları değiştirerek de yapabilir. Biri "ben yaşça
-büyüğüm" derken, diğeri "ben burada daha eskiyim" der, öteki "benim emeğim daha
-çok" der, diğeri ise "benim param daha çok". Herkes kendisinin avantajlı olduğu
-ekseni hiyerarşinin belirleyici unsuru olarak birbirine dayatır. Buyrukçu akıl
-sanırım düşündüğümden daha yaygın ve kökleri derinlere iniyor. Kastım tarihsel
-bir derinlik değil, düşünsel bir derinlik. Buyrukçu aklın düşünce sisteminde
-derinlere inince bu aklın hiyerarşik olmayan bir modeli algılayamadığını daha
-iyi anlıyorum. Öyle ki, karşısına hiyerarşik olmayan bir model gelse bile
-modelin arkasına gizlenmiş bir hiyerarşi arıyor.
-
-Hiyerarşik modellerin hayatı kolaylaştırmak gibi epey önemli bir özelliğine
-değinmem gerek. Yaşamak, ya da genel olarak varolmak, zaten yeterince zor bir
-eylem. Sonuçta ölü olmak canlı olmaktan daha az enerji istiyor. Taş bile bir yer
-kaplamak için onca enerjiyi içinde sıkışmış halde barındırıyor ve koca
-uzayzamanı büküyor. Kendiliğinden zor olan bu varolma eylemi halinde iken, insan
-ister istemez kolaylaştırıcı tüm fırsatları değerlendiriyor. Benzer durumlarla
-karşılaşmış atalarımın hazır tasarımlarını kullanmak varken her seferinde
-sıfırdan başlamaya ne gerek var? Yalnız bu kez de bu tasarımları anlamak gibi
-bir zorluk baş gösteriyor. Bunu da hazırda o tasarımları anlamış hocalar ile
-çözünce yaşamak iyice kolaylaşıyor. Hocalar söylesin, biz yapalım. Uyalım imama.
+Hiyerarşik yapıların hayatı kolaylaştırmak gibi epey önemli bir özelliği var.
+Yaşamak, ya da genel olarak varolmak, zaten yeterince zor bir eylem. Sonuçta ölü
+olmak canlı olmaktan daha az enerji istiyor. Taş bile bir yer kaplamak için onca
+enerjiyi barındırıyor ve koca uzayzamanı büküyor. Kendinde zor bu varolma
+mücadelesi sürerken, insan ister istemez kolaylaştırıcı tüm fırsatları
+değerlendiriyor. Benzer durumlarla karşılaşmış atalarımın hazır tasarımlarını
+kullanmak varken sıfırdan başlamaya ne gerek var? Hatta bu tasarımları anlamaya
+bile ihtiyacım yok. Bunu da hazırda o tasarımları anlamış hocalar ile çözerek
+yaşamayı kolaylaştırabilirim. Hocalar buyursun, ben yapayım.
 
 Başkasının çizdiği yoldan gitmeyi benim için tanıdık kılan şeyin, anne-babamın
-kurallarına uyum sağlayarak geçirdiğim çocukluk yılları olduğunu düşünüyorum.
-Karşıma çıkan belirsizliklere karşın ne yapacağımı devretmişliğim var ve kural
-koyuculuğu devretmeye devam etmek kendi kurallarımı koymaya başlamaktan şüphesiz
-daha kolay. Hatta bu devri kişi ya da kişilere değil, bir kuruma da yapabilirim.
-Hastalanınca kendimi modern tıbba emanet ederim, alacağımı tahsil edemezsem
-hukukun üstünlüğüne başvururum. Ne doktorun ne de avukatın nasıl çalıştığını
-anlamak zorunda değilim, onlar söylesin ben uyarım. Bir buyrukçu olarak bu
-yapıların hepsini birer hiyerarşik model olarak algılamaya devam edebilirim. Ha
+kurallarına uyarak geçirdiğim çocukluk yıllarım olduğunu düşünüyorum. Karşıma
+çıkan belirsizliklere karşın ne yapacağımı devretmişliğim var ve kural
+koyuculuğu devretmeye devam etmek kendi kurallarımı koymaya başlamaktan daha
+kolay. Hatta bu devir-teslimi kişi ya da kişilere değil, bir kuruma da
+yapabilirim. Hastalanınca kendimi modern tıbba emanet ederim, haksızlığa
+uğrarsam hukukun üstünlüğüne başvururum. Ne doktorun ne de avukatın nasıl
+çalıştığını anlamak zorunda değilim, onlar söylesin ben uyarım. Bir buyrukçu
+olarak bu yapıların hepsini hiyerarşi olarak algılamaya devam edebilirim. Ha
 hoca üflemiş, ha doktor muayene etmiş. Buyruk var mı ben ona bakarım.
 
-... !!! buraya bir çıkış gerekiyor !!! ...
+Bu tutumda düşüncelerime açılan yerin dar olması beni rahatsız ediyor. Kas gibi
+kullandıkça gelişecek ve zinde kalacak düşünsel becerilerimin gelişmeyeceği
+hatta köreleceği bir ortam görüyorum. Düşüncenin sınırlandığı yerde, duyguların
+hakim olacağını biliyorum. Bu sebeple, buyrukçu akıl korkuyla güdülmeye çok
+müsait görünüyor. Hiyerarşinin neresinde olduğun, bu korkunun varlığını pek
+etkilemiyor. Buyrulan, hayatta kalmak için üstüne ihtiyaç duyuyor çünkü tek
+başına kalırsa hayat çok daha zor olacak. Bu rahatlığı kaybetmek istemiyor.
+Buyuran, altındakilerin verdiği güç ile buyuracak pozisyonda kalabiliyor. Bu
+yapı olmazsa emir verecek kimse kalmayacak ve iş başa düşecek. Tek başına
+kalırsa hayat buyuran için de oldukça zor. Belki de buyrukçunun kaybetmekten
+korktuğu temel şey hiyerarşik yapının kendisidir. Belki de bu nedenle ona göre
+her şey hiyerarşiktir.
+
+Baktığı her yerde hiyerarşik bir yapı görmesi gerektiğini düşünen biri, olmayan
+yerde de o yapıyı görür. Boşlukları hiyerarşiyle doldurur. Özgüveni yerinde bir
+buyrukçu bunun aksini iddia edenleri de "saf" olarak niteleyecek kadar kendinden
+emindir. Ona göre her şey güç ilişkisi ile açıklanır, hatta güç her şeydir. Yapı
+hiyerarşik olunca, onun zirvesi de varılabilecek son noktadır. Besin zincirinde
+bile hiyerarşi görür. Bazı canlılar diğerlerine göre üstündür, güçlüdür. Kimse
+bakterilerden ya da ağaçlardan söz etmez, varsa yoksa çita ve ceylan. Ailenin
+bir reisi vardır, şirketin ise bir patronu. Bu sebeple bir buyrukçu içten içe
+kendi hiyerarşisinin merdivenlerini tırmanmak ister. Bir dengesizlik durumunda
+bunu hiyerarşisinin kurallarına göre yapabileceği gibi, gerekirse üst/alt
+ilişkisini belirleyen unsurları değiştirerek de yapabilir. Biri "ben yaşça
+büyüğüm" derken, diğeri "ben burada daha eskiyim" der. Biri "benim emeğim daha
+çok" derken, diğeri "benim param daha çok" der. Herkes kendisinin avantajlı
+olduğu ekseni hiyerarşinin belirleyici unsuru olarak birbirine dayatır. Bu durum
+denge tekrar kurulana kadar devam eder.
+
+Buyrukçu akıl sanırım düşündüğümden daha yaygın ve kökleri derinlere iniyor.
+Kastım tarihsel bir derinlik değil, düşünsel bir derinlik. Buyrukçu aklın
+düşünce sisteminde derinlere inince bu aklın hiyerarşik olmayan bir yapıyı hiç
+algılayamadığını daha iyi anlıyorum. Öyle ki, karşısına hiyerarşik olmayan bir
+yapı çıksa bile onun ardında gizlenmiş bir hiyerarşi arıyor.
+
+Evet, temelde gerçekten de hiyerarşiyi kaybetme ve kendi başına kalma korkusu
+yatıyor gibi görünüyor ve bu korku konusu baydı artık. Altında korku yatan her
+şeye karşı alerji geliştiriyorum. Buyrukçuluk da bundan nasibini alıyor.
+Gündelik olaylarda bile buna tahammül etmek benim için güçleşti. Arkadaşlarımla
+yemeğe çıktım diyelim. Grupta bir buyrukçu varsa bu kişi mutlaka hesabı ödemek
+gibi bir çıkıntılıkla hiyerarşide yukarıda olduğunu gösterme çabasına girer.
+Bazen "Olur mu ya, senin paran burada geçmez!" gibi baskın, bazen de "Ben ödemiş
+olayım ne olacak, ha ben, ha sen" gibi sinsi. Oysa aynı masada yemek yendiyse,
+yani yemek bir davet değilse, kimse kimseye muhtaç değildir ve herkes kendi
+payına düşeni garip kültürel tümseklerden geçmeden ödeyebilmelidir. Bunu zaman
+zaman ben de yapıyorum, "Bu kez benden olsun" diyorum. Çok itici. İçimdeki
+buyrukçuya bile tahammülüm kalmamış. Bunun sebebi bir kişinin diğerinden mutlak
+ve kalıcı olarak üstün olabileceğini reddetmek istemem. Birisi sırf yetenekli
+olduğu veya kültürlü bir ortamda büyüdüğü veya varlıklı olduğu için
+karşısındakiyle bir üst/alt ilişkisi kurabilir olmamalı. Hiyerarşik yapılar buna
+müsait bir ortam oluşturuyor. Nasıl başladıysa öyle giden bir hayata mahkum
+oluyoruz. Ne kadar kısır bir dünya tasarımı.
 
 ## Uzlaşmacı Akıl
 
