@@ -2,9 +2,16 @@
 title: Gelecek Hayali
 ---
 
-- İnanç üzerinden önceki chapter'a bağlayarak açalım
-  - Buyrukçu için inanç geriye dönük tasarım ileriye dönükken, uzlaşmacı için
-    inanç ileriye dönük, tasarım geriye dönüktür
+- Buyrukçunun hayali
+  - Yeniliği şansa bırakır
+  - Doğal lider arar
+  - Zamanın süzgecine güvenir
+  - Gelenekçidir ve statükocudur
+- Uzlaşmacının hayali
+  - Yeniliği sistemleştirir
+  - Lider aramaz, sistem kurar
+  - Yapıya bakar, sisteme güvenir
+  - Hem yıkıcı, hem kurucudur
 - Tasarımlarımız doğası gereği geleceğin belirsizliğini ortadan kaldırma
   amacını içinde barındırır. Burada tasarımın kendisine ulaştığımızda elde
   edilecek sonuç hayal edilir. Geleceği düşündüğümüzde önce varmak istediğimiz

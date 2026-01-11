@@ -2,13 +2,20 @@
 title: Tasarımın Yönü
 ---
 
+- Buyrukçu için inanç geriye dönük tasarım ileriye dönük
+  - Kalıpçı, reçeteci, sonuççu, aktarımcı, hiyerarşik, buyrukçu, buyuran,
+    belirlenimci, delege eden, reaktif, belirleyici (öntasarımcı, preskriptif,
+    normatif), gelenekçi, korumacı, otoriter, asalet nevrozlu
+- Uzlaşmacı için inanç ileriye dönük, tasarım geriye dönüktür
+  - Süreççi, deneyci, yıkıcı, mucit, keşifçi, demokratik, uzlaşmacı, çatışmacı,
+    proaktif, devrimci, betimleyici (sontasarımcı), yaratıcı, yenilikçi, nanikçi
 - Hiyerarşik aklın kontrol etmek istemesi korku (ya da endişe) ile ilgilidir
   - Endişe, plan kurarak rahatlamak istiyor
   - Planlara uyulması için de hiyerarşik sistem gerekiyor
   - Buyrukçu kontrol etmeye çalışır, ama niye kontrol etmeye çalıştığını kontrol
     edemez
   - Öze inmek lazım, o zaman çözüm gelecek
-  - Doğa kendiliğindendir, sanayi devreiminden beri doğaya inanmayı bıraktık
+  - Doğa kendiliğindendir, sanayi devriminden beri doğaya inanmayı bıraktık
   - Kendiliğindenliğe tekrar yelken açmaya davet ediyorum
 - Yaşanacakları tasarlayamayız, yaşananları yaşandıktan sonra ele alıp
   tasarlayabiliriz
