@@ -74,4 +74,5 @@ sonuna.
     döngüde kontrollü yıkım ve yapımlara imkan tanıması açısından yıkma ve yapma
     becerilerinin bir meta-beceri olarak edinilmesinin öneminin de altını çizer
 - zero sum, game thory
+  - von neumann
   - iki buyrukçu çatışması

@@ -256,13 +256,12 @@ Bazen "Olur mu ya, senin paran burada geçmez!" gibi baskın, bazen de "Ben öde
 olayım ne olacak, ha ben, ha sen" gibi sinsi. Oysa aynı masada yemek yendiyse,
 yani yemek bir davet değilse, kimse kimseye muhtaç değildir ve herkes kendi
 payına düşeni garip kültürel tümseklerden geçmeden ödeyebilmelidir. Bunu zaman
-zaman ben de yapıyorum, "Bu kez benden olsun" diyorum. Çok itici. İçimdeki
-buyrukçuya bile tahammülüm kalmamış. Bunun sebebi bir kişinin diğerinden mutlak
-ve kalıcı olarak üstün olabileceğini reddetmek istemem. Birisi sırf yetenekli
-olduğu veya kültürlü bir ortamda büyüdüğü veya varlıklı olduğu için
-karşısındakiyle bir üst/alt ilişkisi kurabilir olmamalı. Hiyerarşik yapılar buna
-müsait bir ortam oluşturuyor. Nasıl başladıysa öyle giden bir hayata mahkum
-oluyoruz. Ne kadar kısır bir dünya tasarımı.
+zaman ben de yapıyorum, "Bu kez benden olsun" diyorum. İçimdeki buyrukçuya bile
+tahammülüm kalmamış. Bunun sebebi bir kişinin diğerinden mutlak ve kalıcı olarak
+üstün olabileceğini reddetmek istemem. Birisi sırf yetenekli olduğu veya
+kültürlü bir ortamda büyüdüğü veya varlıklı olduğu için karşısındakiyle bir
+üst/alt ilişkisi kurabilir olmamalı. Hiyerarşik yapılar buna müsait bir ortam
+oluşturuyor. Nasıl başladıysa öyle giden bir hayata mahkum oluyoruz.
 
 ## Uzlaşmacı Akıl
 
@@ -273,7 +272,7 @@ dedesinin dedesinden diye gelen koca bir ağaç. Tepesinde 3 kuşak önceden ded
 var. Oysa bu büyük büyük dedemin yanında bir de büyük büyük ninem var. Benden
 yukarı giden yol babamdan olduğu gibi annemden de geçiyor. Onun da babası ve
 annesi derken, ağacı ters çeviriyorum. Tepede ben varım, aşağıda bütün soyum.
-Aslında ortada bir ağaç yapısı da yok, yalnızca koca bir ağ var.
+Aslında ortada bir ağaç yok, yalnızca koca bir ağ var.
 
 Birden fazla varlıktan oluşan bir sistemin tüm ilişkilenmeleri, ortaya noktalar
 ve aralarındaki bağlardan oluşan koca bir ağ koyuyor. Bu ağın ne başı ne sonu
@@ -286,10 +285,9 @@ dayatır ve var olmak özünde çatışmak demek. Buyruklardan azad oluyorum ama
 sorunlarımla da başbaşa kalıyorum. Koca hiyerarşiler kurmuş buyrukçuların
 arasında ne kadar hayatta kalabilirim bilmiyorum. Bu varoluş mücadelesiyle baş
 etmenin bir yöntemi de uzlaşmak. Kendim gibi olanlarla uzlaşarak koca
-hiyerarşilere karşı bir şansım olabilir. Ancak bu durumda da yine bir tür
-hiyerarşi kuruyor olabilirim. Şimdilik iki farklı akıl türünün çatışmasını
-düşünmek istemiyorum. Önce uzlaşmacı aklın iç çelişkileri olup olmadığını
-anlamam gerekiyor.
+hiyerarşilere karşı bir şansım olabilir ama şimdilik iki bu iki aklın
+çatışmasını düşünmek istemiyorum. Önce uzlaşmacı aklın ne olduğunu anlamam
+gerekiyor.
 
 ... Tek olarak başlayayım ve dışarı doğru uzlaşarak bir varoluş inşa edeyim.
 Belki de hiyerarşik yapılar kaçınılmazdır, yalnızca mutlaklığının önüne geçmek
