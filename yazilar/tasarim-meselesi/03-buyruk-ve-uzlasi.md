@@ -265,14 +265,17 @@ oluşturuyor. Nasıl başladıysa öyle giden bir hayata mahkum oluyoruz.
 
 ## Uzlaşmacı Akıl
 
-Hiyerarşi, benim çevremdekilerle ilişki ağımın ortaya koyduğu haritaya bakarken
-gördüğüm bir alt kümeden ibaret. Merkeze başkasını aldığımda hiyerarşi bir anda
+Hiyerarşi, çevremdekilerle ilişki ağımın ortaya koyduğu haritaya bakarken
+gördüğüm bir alt kümeden ibaret. Merkezi değiştirdiğimde hiyerarşi bir anda
 başka bir hale bürünüyor. Örneğin soy ağacımı gözümün önüne getiriyorum. Dedemin
-dedesinin dedesinden diye gelen koca bir ağaç. Tepesinde 3 kuşak önceden dedem
-var. Oysa bu büyük büyük dedemin yanında bir de büyük büyük ninem var. Benden
-yukarı giden yol babamdan olduğu gibi annemden de geçiyor. Onun da babası ve
-annesi derken, ağacı ters çeviriyorum. Tepede ben varım, aşağıda bütün soyum.
-Aslında ortada bir ağaç yok, yalnızca koca bir ağ var.
+dedesinin dedesinden diye gelen koca bir ağaç, ben de en sondayım, yanımda
+kardeşlerim. Tepesinde 3 kuşak önceden dedem var. Oysa bu büyük büyük dedemin
+yanında bir de büyük büyük ninem var. Yukarı giderken yollar yalnızca erkek
+tarafından geçmiyor, kadın tarafından da geçiyor. Annemin da babası ve annesi
+derken, ağaçı ters çeviriyorum. Tepede ben varım, aşağıda soyum. Çocuğu dahil
+edince bu kez eşim resme giriyor, kendi ağacı altında. Kardeşler, teyzeler,
+amcalar, kuzenler resme girdiğinde bu bir ağaç olmaktan çıkıyor. Aslında ortada
+bir ağaç hiç yoktu, yalnızca koca bir ağ vardı.
 
 Birden fazla varlıktan oluşan bir sistemin tüm ilişkilenmeleri, ortaya noktalar
 ve aralarındaki bağlardan oluşan koca bir ağ koyuyor. Bu ağın ne başı ne sonu
@@ -285,15 +288,47 @@ dayatır ve var olmak özünde çatışmak demek. Buyruklardan azad oluyorum ama
 sorunlarımla da başbaşa kalıyorum. Koca hiyerarşiler kurmuş buyrukçuların
 arasında ne kadar hayatta kalabilirim bilmiyorum. Bu varoluş mücadelesiyle baş
 etmenin bir yöntemi de uzlaşmak. Kendim gibi olanlarla uzlaşarak koca
-hiyerarşilere karşı bir şansım olabilir ama şimdilik iki bu iki aklın
+hiyerarşilere karşı bir şansım olabilir ama şimdilik bu iki farklı aklın
 çatışmasını düşünmek istemiyorum. Önce uzlaşmacı aklın ne olduğunu anlamam
 gerekiyor.
 
-... Tek olarak başlayayım ve dışarı doğru uzlaşarak bir varoluş inşa edeyim.
-Belki de hiyerarşik yapılar kaçınılmazdır, yalnızca mutlaklığının önüne geçmek
-yeterlidir. Bu konular hakkında düşünebiliyor olmak bile özgür hissettiriyor. Bu
-bir başlangıç olabilir. Tamamen uzlaşmacılardan oluşan bir grubun var olabilmesi
-mümkün mü? ...
+Dış dünyayla etkileşimim içten dışa doğru olmaya mecbur görünüyor. Kendimi var
+diye kabul ediyorum. Yok isem söylediklerim zaten anlamsız. Var isem, yani
+diğerlerinden ayrı bir şey olarak varsam, diğerleriyle etkileşimimi kendimden
+dışa doğru yapabilirim. Kendimden olmayan her şeyle çarpıştığımda, kendimi ve
+kendim olmayanı biraz daha iyi anlayacağım. Bebek olarak ateşe el uzattığımda
+kendimden ayrı bir ateş olduğunu anlıyorum. Bir kaldırım işçisiysem diğer
+kaldırım ve asfalt işçileriyle olan uyum ve çatışmalarımdan benim dışımda
+birileri daha olduğumu anlıyorum. Bir yandan varoluşumu diğerlerine pek borçlu
+değilim, özünde zaten varım. Bir yandan da beni diğerlerinden ayıran sınırımı
+çatışmalarım belirliyor. Havayla bile çatışıyorum, kolumdaki tüyler
+hareketleniyor. Sonra boş boş koluma bakıyorum diye ustabaşıyla çatışıyorum ve
+sorumluluk sınırlarımı keşfediyorum.
+
+Ustabaşını ustabaşı yapan şey benim için bir anlaşmadan ibaret. İstersem ben de
+olabilirim. Sonuçta yıllardır kaldırım taşı döşüyorum. İnsan halidir, bazen
+dalgınlık yapıyorum, o da gelip beni uyarıyor, iyi de ediyor. Onun
+söylediklerine uyma sebebim söylediğinin aramızdaki anlaşma ile uyumlu olması.
+Ben zaten onun ustabaşılığını beni daha iyi bir usta yapabilsin diye kabul
+ettim. Kendisini iş dışında da bana uyarı çekerken görürsem buna itirazım olur.
+"Bu ustabaşının biraz dinlenme vakti geldi" diye düşünürüm.
+
+Ben böyle düşünüyorum ama o nasıl düşünüyor acaba? Anlaşma o kadar uzun zamandır
+devam ediyor ki, olur da anlaşmaya uygun hareket edilmezse ne yapacağımı
+unuttum. Hatta bunlar ben daha doğmadan yapılmıştı ve ben anlaşmazlık halinde ne
+yapacağımı hiçbir zaman öğrenmedim. Gece tek başıma kaldırımda eve dönerken
+karşıdan iki kişi yaklaşıyor. Bu kişiler selam verip (ya da vermeden) yanımdan
+geçip gitmek yerine üstüme yürürlerse, laf atarlarsa ne yapacağımı hiç
+bilmiyorum. Ortada medeni bir anlaşma olduğunu varsayıyorum ama bu sadece benim
+kafamda olabilir. Ya da herkesin kafasında bir anlaşma vardır ama bunlar belki
+birbirleriyle hiç de uyuşmayan anlaşmalardır. Karşıdan gelen iki kişi yanımdan
+geçip gidiyor ve biraz rahatlıyorum. Kafamdaki anlaşmaları tek sınamam gerektiği
+fikrini de cebime koyuyorum.
+
+... Belki de hiyerarşik yapılar kaçınılmazdır, yalnızca mutlaklığının önüne
+geçmek yeterlidir. Bu konular hakkında düşünebiliyor olmak bile özgür
+hissettiriyor. Bu bir başlangıç olabilir. Tamamen uzlaşmacılardan oluşan bir
+grubun var olabilmesi mümkün mü? ...
 
 ... Bunun üzerinden uzlaşmacı aklın niteliklerini tanımlamak gerekiyor.
 (Süreççi, deneyci, yıkıcı, mucit, keşifçi, demokratik, uzlaşmacı, çatışmacı,
