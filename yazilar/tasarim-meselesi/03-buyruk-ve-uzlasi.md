@@ -322,8 +322,8 @@ geçip gitmek yerine üstüme yürürlerse, laf atarlarsa ne yapacağımı hiç
 bilmiyorum. Ortada medeni bir anlaşma olduğunu varsayıyorum ama bu sadece benim
 kafamda olabilir. Ya da herkesin kafasında bir anlaşma vardır ama bunlar belki
 birbirleriyle hiç de uyuşmayan anlaşmalardır. Karşıdan gelen iki kişi yanımdan
-geçip gidiyor ve biraz rahatlıyorum. Kafamdaki anlaşmaları tek sınamam gerektiği
-fikrini de cebime koyuyorum.
+geçip gidiyor ve biraz rahatlıyorum. Kafamdaki anlaşmaları tek tek sınamam
+gerektiği fikrini de cebime koyuyorum.
 
 ... Belki de hiyerarşik yapılar kaçınılmazdır, yalnızca mutlaklığının önüne
 geçmek yeterlidir. Bu konular hakkında düşünebiliyor olmak bile özgür
