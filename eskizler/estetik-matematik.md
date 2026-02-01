@@ -22,7 +22,7 @@ hoşlanıyoruz. Görme ve işitmenin diğer duyulara göre matematiği duymak
 bağlamında artısı var gibi görünüyor. Bu ikisi sayesinde fikir dünyasına ait
 temel taşları, yani sayıları, duyuyoruz.
 
-Bu duyma halinin bize verdiği haz müziği ve sanatı ayrı bir yere koyuyor. Müzik
+Bu duyma halinin bize verdiği haz, müziği ve sanatı ayrı bir yere koyuyor. Müzik
 ve sanat yalnızca kültürel, toplumsal, siyasal değil. Bunlar aynı zamanda
 düşünsel, doğal, tanrısal. Aynı zamanda da insani ve bireysel. Hem içsel hem de
 dışsal. Maruz kaldığımda zihnimde fikirler oluşturabilmesi, bu fikirleri
