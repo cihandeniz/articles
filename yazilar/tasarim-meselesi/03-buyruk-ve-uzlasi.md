@@ -281,26 +281,25 @@ Birden fazla varlıktan oluşan bir sistemin tüm ilişkilenmeleri, ortaya nokta
 ve aralarındaki bağlardan oluşan koca bir ağ koyuyor. Bu ağın ne başı ne sonu
 var. Uzlaşmacı aklım bu ağı anlamak için merkeze kendini alıyor ve etrafıyla
 ilişkilenmesini inceliyor. Bu akla göre bir merkez yok, herkes kendine göre
-merkezde duruyor. Bu akıl beni kendisini çevresinden ayrı bir varlık olarak
-kabul etmeye davet ediyor. Bu kabul bir yandan beni özgürleştirecekken, bir
-yandan büyük bir mücadeleye atacak. Sonuçta her nokta kendi varoluşunu etrafına
-dayatır ve var olmak özünde çatışmak demek. Buyruklardan azad oluyorum ama tüm
+merkezde duruyor. Bu akıl beni, kendimi çevremden ayrı bir varlık olarak kabul
+etmeye davet ediyor. Bu kabul bir yandan beni özgürleştirecekken, bir yandan
+büyük bir mücadeleye atacak. Sonuçta her nokta kendi varoluşunu etrafına
+dayatır, var olmak özünde çatışmak demek. Buyruklardan azad oluyorum ama tüm
 sorunlarımla da başbaşa kalıyorum. Koca hiyerarşiler kurmuş buyrukçuların
 arasında ne kadar hayatta kalabilirim bilmiyorum. Bu varoluş mücadelesiyle baş
-etmenin bir yöntemi de uzlaşmak. Kendim gibi olanlarla uzlaşarak koca
-hiyerarşilere karşı bir şansım olabilir ama şimdilik bu iki farklı aklın
-çatışmasını düşünmek istemiyorum. Önce uzlaşmacı aklın ne olduğunu anlamam
-gerekiyor.
+etmek adına kendim gibi olanlarla uzlaşırsam, koca hiyerarşilere karşı bir
+şansım olabilir ama şimdilik bu iki farklı aklın çatışmasını düşünmek
+istemiyorum. Önce uzlaşmacı aklın ne olduğunu anlamam gerekiyor.
 
 Dış dünyayla etkileşimim içten dışa doğru olmaya mecbur görünüyor. Kendimi var
 diye kabul ediyorum. Yok isem söylediklerim zaten anlamsız. Var isem, yani
 diğerlerinden ayrı bir şey olarak varsam, diğerleriyle etkileşimimi kendimden
-dışa doğru yapabilirim. Kendimden olmayan her şeyle çarpıştığımda, kendimi ve
-kendim olmayanı biraz daha iyi anlayacağım. Bebek olarak ateşe el uzattığımda
+dışa doğru yapabilirim. Kendimden olmayan bir şeyle her çarpıştığımda, kendimi
+ve kendim olmayanı biraz daha iyi anlayacağım. Bebek olarak ateşe el uzattığımda
 kendimden ayrı bir ateş olduğunu anlıyorum. Bir kaldırım işçisiysem diğer
 kaldırım ve asfalt işçileriyle olan uyum ve çatışmalarımdan benim dışımda
-birileri daha olduğumu anlıyorum. Bir yandan varoluşumu diğerlerine pek borçlu
-değilim, özünde zaten varım. Bir yandan da beni diğerlerinden ayıran sınırımı
+birileri daha olduğumu anlıyorum. Bir yandan varoluşumu diğerlerine borçlu
+değilim, zaten varım. Bir yandan da beni diğerlerinden ayıran sınırımı
 çatışmalarım belirliyor. Havayla bile çatışıyorum, kolumdaki tüyler
 hareketleniyor. Sonra boş boş koluma bakıyorum diye ustabaşıyla çatışıyorum ve
 sorumluluk sınırlarımı keşfediyorum.
@@ -308,59 +307,82 @@ sorumluluk sınırlarımı keşfediyorum.
 Ustabaşını ustabaşı yapan şey benim için bir anlaşmadan ibaret. İstersem ben de
 olabilirim. Sonuçta yıllardır kaldırım taşı döşüyorum. İnsan halidir, bazen
 dalgınlık yapıyorum, o da gelip beni uyarıyor, iyi de ediyor. Onun
-söylediklerine uyma sebebim söylediğinin aramızdaki anlaşma ile uyumlu olması.
+söylediklerine uyma sebebim, söylediğinin aramızdaki anlaşma ile uyumlu olması.
 Ben zaten onun ustabaşılığını beni daha iyi bir usta yapabilsin diye kabul
 ettim. Kendisini iş dışında da bana uyarı çekerken görürsem buna itirazım olur.
 "Bu ustabaşının biraz dinlenme vakti geldi" diye düşünürüm.
 
 Ben böyle düşünüyorum ama o nasıl düşünüyor acaba? Anlaşma o kadar uzun zamandır
 devam ediyor ki, olur da anlaşmaya uygun hareket edilmezse ne yapacağımı
-unuttum. Hatta bunlar ben daha doğmadan yapılmıştı ve ben anlaşmazlık halinde ne
-yapacağımı hiçbir zaman öğrenmedim. Gece tek başıma kaldırımda eve dönerken
-karşıdan iki kişi yaklaşıyor. Bu kişiler selam verip (ya da vermeden) yanımdan
-geçip gitmek yerine üstüme yürürlerse, laf atarlarsa ne yapacağımı hiç
-bilmiyorum. Ortada medeni bir anlaşma olduğunu varsayıyorum ama bu sadece benim
-kafamda olabilir. Ya da herkesin kafasında bir anlaşma vardır ama bunlar belki
-birbirleriyle hiç de uyuşmayan anlaşmalardır. Karşıdan gelen iki kişi yanımdan
-geçip gidiyor ve biraz rahatlıyorum. Kafamdaki anlaşmaları tek tek sınamam
-gerektiği fikrini de cebime koyuyorum.
+unuttum. Hatta bu anlaşmalar ben daha doğmadan yapılmıştı ve ben anlaşmazlık
+halinde ne yapacağımı hiçbir zaman öğrenmedim. Gece tek başıma kaldırımda eve
+dönerken karşıdan iki kişi yaklaşıyor diyelim. Bu kişiler selam verip (ya da
+vermeden) yanımdan geçip gitmek yerine üstüme yürürlerse, çatarlarsa ne
+yapacağımı bilmiyorum aslında. Ortada medeni bir anlaşma olduğunu varsayıyorum
+ama bu sadece benim kafamda olabilir. Ya da herkesin kafasında bir anlaşma
+vardır ama bunlar belki birbirleriyle hiç de uyuşmayan anlaşmalardır. Neyse ki
+karşıdan gelen iki kişi yanımdan geçip gidiyor ve biraz rahatlıyorum. Kafamdaki
+anlaşmaları tek tek sınamam gerektiğidi fark ediyorum.
 
-... Belki de hiyerarşik yapılar kaçınılmazdır, yalnızca mutlaklığının önüne
-geçmek yeterlidir. Bu konular hakkında düşünebiliyor olmak bile özgür
-hissettiriyor. Bu bir başlangıç olabilir. Tamamen uzlaşmacılardan oluşan bir
-grubun var olabilmesi mümkün mü? ...
+Kendimi uzlaşmacı olarak görmek istiyorum ancak uzlaşı hali bozulur gibi olunca
+"biri gelir kurtarır herhalde" diye düşünmeden edemiyorum. Yine bir çelişki.
+Uzlaşmacının özünde bir savaşçı olması gerekiyor gibi görünüyor ama savaşmak
+istemeyen bir savaşçı. Uzun zaman boyunca barış hali insanı kaçınılmaz olarak
+yumuşatacaktır. Yumuşayınca da sığınacak birini arayacaksam, belki de hiyerarşik
+yapılar kaçınılmazdır. Başa döndüm. Bu konular hakkında düşünebiliyor olmak bile
+özgür hissettiriyor. Buyrukçu bir akıl bunları düşünebilir miydi bilmiyorum. Tek
+düşüncesi yerini korumak, ya da zirveye çıkmak olurdu herhalde. Ben de çok
+farklı düşündüğümü söyleyemem. Zirvede gözüm yok, ama yerimi korumak istiyorum.
+Yani en temelde istediğim çevremdekilerle yapılıdığını varsaydığım anlaşmaların
+ben olduğum sürece devam etmesi.
 
-... Bunun üzerinden uzlaşmacı aklın niteliklerini tanımlamak gerekiyor.
-(Süreççi, deneyci, yıkıcı, mucit, keşifçi, demokratik, uzlaşmacı, çatışmacı,
-proaktif, devrimci, betimleyici (sontasarımcı), yaratıcı, yenilikçi, nanikçi)
-...
+Belki de yalnızca uzlaşmacılardan oluşan bir toplum ile hiyerarşik yapılara
+sıkışmayan bir hayat mümkündür. Yani toplum diğer opsiyonu tamamen unutursa,
+uzlaşmacılık kültürel olarak yerleşik ise belki de hiyerarşik yapılar yerine
+demokratik yapılar doğal olarak gelir. Belki demokrasi bir rejim değil, bir
+kültürdür. Çatal ve kaşığı nasıl hiç sorgulamdan kullanıyorsak, yani normalse,
+uzlaşmacı akıl da normal olduğunda hayatta kalıyor olabilir. O zaman üstüme
+yürüyenler olduğunda kimsenin ortak anlaşmayı bozacağını düşünmem, düşünemem.
+Anlaşmayı bozsalar bile münferit bir olay olarak algılarım ve toplumsal
+anlaşmayı bozulmuş olarak algılamam.
 
-... Uzlaşmacı aklın kültürle ilişkisi zorunlu bir miras veya buyruk niteliğinde
-değildir. Diğer yandan da geleneği reddedip her seferinde baştan başlayarak
-kendisi keşfetmek zorunda da değildir. Yalnızca anlaması yeterlidir. Mesele
-neyin ne olduğuna ilişkin kararı kimin verdiği meselesi. Uzlaşmacı kararı ben
-vereyim ister, buyrukçu kararı devretmek ister (hocasına, o da geleneğe). ...
+Böyle bir topluma doğmuş birinin uzlaşmacılığı sahiplenmesi bir zorunluluk
+değildir. Yani okullarda demokrasinin ne kadar harika bir şey olduğu dayatılmak
+zorunda olmamalı. Okulda çatal kaşık nasıl dayatılmıyorsa, demokrasi de
+dayatılmaz diye düşünüyorum. Yani bir uzlaşmacının kültürünü benimsemesi
+buyruklarla sağlanmamalı, hatta sağlanmaz, belki de sağlanamaz. O halde herkes
+kendiliğinden kabullenecek. Her bireyin bu kültürü ayrı ayrı keşfetmesi
+beklenemez ama ezberlemesi de bu kültürün doğasına aykırı. Keşfetmese de
+anlamasını beklemek yanlış olmayacaktır. Eğitimin amacı belki de budur,
+bireylerin bu kültürü anlamasını, idrak etmesini sağlamak. Mesele neyin ne
+olduğuna ilişkin kararı kimin verdiği meselesi. Uzlaşmacı bu kararı ben vereyim
+ister, buyrukçu ise kararı devretmek ister, hocasına, geleneğine.
 
-... Tasarımların bir akıldan diğerine olduğu gibi aktarılamayacağı.
-Aktarılıyorsa da bunun her zaman hatalı olacağını söylemeliyim. Bir beyinden
-diğerine bir bilgiyi kopyalayıp birebir yapıştırabilseydik bile bu o beyine uyar
-mıydı, aynı anlama gelir miydi emin değilim. Birey kendi hayatı biricik olsa da
-tüm tasarımlarını sıfırdan üretemez. Bir şekilde ortak bir dil kurulduğunda, bu
-dil üzerinden aynı değilse de benzer bilgilerin birinden diğerine aktarılması,
-tabi bir hata payıyla, mümkün duruyor. En azından aktarıldığını varsaymak bizi
-çok fazla yanıltmıyor. Aktarımın mümkün olduğunu düşünmemiz başkasının, yaşamın
-zorluklarını atlatabilmiş birilerinin, belki de ataların, yolundan gitmeyi
-mümkün kılıyor. ...
+O halde uzlaşmacılık kültür ile mümkün ve bu kültür de eğitim ile aktarılarak
+korunuyor. Bu da ancak idrak ile mümkün. Aksi takdirde eğitmiş ya da eğmiş
+değil, budamış olurduk ve adına da belki budatım derdik. Her neyse. Peki
+aktardığımız şey nedir tam olarak? Bir nesil sonrakine ne aktarır? Kendi
+kalıplarını, tasarımlarını aktarır diye düşünüyorum. Hayat koşullarının benzer
+olacağını varsayarak kendi hayatında işine yarayan ne kadar tasarım, kalıp,
+kap-kacak varsa aktarmak isteyecektir. Eğitim, mevcut tasarımların sonraki
+nesile aktarılmasından ibaret gibi görünüyor. Yeni neslin hayatta kalmasını
+kolaylaştırmak için tasarımların o ya da bu şekilde, ezberle veya idrakla
+aktarılması. Uzlaşmacı ise bunu idrakla yapmak zorunda. Oysa bir şeyi bir
+kişinin zihninden diğerine olduğu gibi aktarmak mümkün görünmüyor. Çok iyi bir
+taklitçi iyi bir ezber ile diğeriymiş gibi yapabilir ama gerçekte diğeri
+olamaz. Herkes kendisi olmak zorunda. O halde aktarım her zaman ve zorunlu
+olarak hatalı olacak. Bireyin, kendisine eksik aktarılmış tasarımları restore
+edebilmesi gerekiyor ve bunun için alana ihtiyacı var. Denemeler yapabilmeli,
+hataya yer olmamalı. Ezberde hataya yer olmaz, aynı olmalı. İdrak ise hatayla
+mümkün.
 
-... Bu durumda uzlaşmacı akıl birliğini hiyerarşik bir buyruk zincirine değil
-oturttuğu kültürel zemine dayandırıyor ve çelişkisinden arınıyor.  ...
-
-... Korkuyla yüzleşip tek başına var olmanın gereklerini yerine getirecek
-cesareti ortaya koyuyoruz. Bunu yaparken tek olduğumuz gerçeğini unutup
-hiyerarşik yapılara başvurmak yerine, uzlaşıyor ve beraber varolmayı
+Böylece uzlaşmacı hiyerarşik bir buyruk zinciri yerine demokratik bir kültür
+zemininde yetişiyor. Korkuyla yüzleşip tek başına var olmanın gereklerini yerine
+getirecek cesareti ortaya koyuyoruz. Bunu yaparken tek olduğumuz gerçeğini
+unutup hiyerarşik yapılara başvurmak yerine, uzlaşıyor ve beraber varolmayı
 öğreniyoruz. İçinde bulunduğumuz yapı her sarsıldığında buyrukçu aklın bizi
 içinde bıraktığı savaş yerine uzlaşmacı aklın attığı kültürel zemin üzerinde
-yapısal değişimleri yönetiyoruz. ...
+yapısal değişimleri yönetiyoruz.
 
 ## Akıl Çatışmaları
 
@@ -370,6 +392,11 @@ biçimde tek başına daha zayıftır. Buyrukçu birliğe daha az ihtiyaç duyar
 daha kolay kurarken, uzlaşmacı birliğe daha çok ihtiyaç duyar ama daha zor
 kurar. Buna karşın uzlaşmacının birliği uzun ömürlü ve güçlüdür, buyrukçununki
 ise kırılgandır. ...
+
+... İki aklın niteliklerini tanımlamak gerekiyor. Uzlaşmacı: Süreççi, deneyci,
+yıkıcı, mucit, keşifçi, demokratik, uzlaşmacı, çatışmacı, proaktif, devrimci,
+betimleyici (sontasarımcı), yaratıcı, yenilikçi, nanikçi. Buyrukçu: ??? (bir
+yerde vardı bulmam lazım) ...
 
 ### Buyrukçu v Buyrukçu
 
