@@ -346,7 +346,7 @@ kalacak.
 Halifeliğin diğer bir farkı da peygamberlerin devrimci, halifelerin koruyucu
 olmak zorunda olması. Halifeler verilen mesajı ve kurulan düzeni muhafaza
 etmekle yükümlüler. Ne garip. Takip ettiğin, senin için belki de en değerli olan
-kişiyi asla anlayamayacaksın. Çünkü o bir devrimci, sen ise bir muhafazakarsın.
+kişiyi asla anlayamayacaksın. Çünkü o bir devrimci, sen ise bir muhafızsın.
 
 Paralel evrende başka bir toplum hayal ediyorum. Öyle bir toplum ki artık bir
 lidere ihtiyaç duymuyor, kendi sorunlarını çözebileceğine inanıyor. Bu toplum
