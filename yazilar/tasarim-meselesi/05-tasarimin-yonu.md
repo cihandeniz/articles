@@ -17,6 +17,12 @@ title: Tasarımın Yönü
   - Öze inmek lazım, o zaman çözüm gelecek
   - Doğa kendiliğindendir, sanayi devriminden beri doğaya inanmayı bıraktık
   - Kendiliğindenliğe tekrar yelken açmaya davet ediyorum
+- Uzlaşmacı tasarımı görev delegasyonu için ileriye dönük yapmak isteyebilir
+  - Her ileriye dönük tasarım hiyerarşik olmayabilir, delegasyon problemi bizi
+    tasarımı ileriye dönük yapmaya zorlar
+  - Uzlaşmacı delegasyon için de olsa tahmini tasarım ile final tasarımı ayırıp
+    delege ettiği işi teslim alırken final tasarımı yapabilmelidir, aksi 
+    takdirde uzlaşmacı hiyerarşi doğurmaya başlar
 - Yaşanacakları tasarlayamayız, yaşananları yaşandıktan sonra ele alıp
   tasarlayabiliriz
   - Geriye dönüklük bir zorunluluk :thinking:
