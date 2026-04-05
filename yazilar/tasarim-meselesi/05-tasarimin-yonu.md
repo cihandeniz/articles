@@ -9,7 +9,7 @@ title: Tasarımın Yönü
 - Uzlaşmacı için inanç ileriye dönük, tasarım geriye dönüktür
   - Süreççi, deneyci, yıkıcı, mucit, keşifçi, demokratik, uzlaşmacı, çatışmacı,
     proaktif, devrimci, betimleyici (sontasarımcı), yaratıcı, yenilikçi, nanikçi
-- Hiyerarşik aklın kontrol etmek istemesi korku (ya da endişe) ile ilgilidir
+- Buyrukçu aklın kontrol etmek istemesi korku (ya da endişe) ile ilgilidir
   - Endişe, plan kurarak rahatlamak istiyor
   - Planlara uyulması için de hiyerarşik sistem gerekiyor
   - Buyrukçu kontrol etmeye çalışır, ama niye kontrol etmeye çalıştığını kontrol
@@ -21,8 +21,11 @@ title: Tasarımın Yönü
   - Her ileriye dönük tasarım hiyerarşik olmayabilir, delegasyon problemi bizi
     tasarımı ileriye dönük yapmaya zorlar
   - Uzlaşmacı delegasyon için de olsa tahmini tasarım ile final tasarımı ayırıp
-    delege ettiği işi teslim alırken final tasarımı yapabilmelidir, aksi 
+    delege ettiği işi teslim alırken final tasarımı yapabilmelidir, aksi
     takdirde uzlaşmacı hiyerarşi doğurmaya başlar
+- Tasarlananın sonradan yekpare görünmesi gestalt psikolojisi ile ilgili, yani
+  öyle anlamamız normal ama süreç öyle değil. (bu yumuşamayı yapalım)
+  - [Gestalt Psikolojisi ve Aklın Eksik Bilgiyle Çalışabilmesi](../../eskizler/gestalt-psikolojisi-ve-aklin-eksik-bilgiyle-calisabilmesi.md)
 - Yaşanacakları tasarlayamayız, yaşananları yaşandıktan sonra ele alıp
   tasarlayabiliriz
   - Geriye dönüklük bir zorunluluk :thinking:

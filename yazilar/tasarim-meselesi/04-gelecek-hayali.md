@@ -6,12 +6,18 @@ title: Gelecek Hayali
   - Yeniliği şansa bırakır
   - Doğal lider arar
   - Zamanın süzgecine güvenir
-  - Gelenekçidir ve statükocudur
+  - Muhafazakardır, devrimcidir
+    (peygamberdeki devrimci örneğini buraya göre düzenle)
+  - (burası çelişkili gibi görünüyor, çözülmeye ihtiyaç var. aslında bir yandan
+    yeniyi itiyor, yeninin kendiliğindenliğini beklemiyor, sadece yeniliği
+    mecburen şansa bırakıyor, tercihen hiç yenilik istemiyor, emir istiyor.
+    yeniliği de emirle istiyor. çelişkiyi böyle çözmeli.)
 - Uzlaşmacının hayali
   - Yeniliği sistemleştirir
   - Lider aramaz, sistem kurar
   - Yapıya bakar, sisteme güvenir
   - Hem yıkıcı, hem kurucudur
+  - Gelenekçidir, evrimcidir
 - Tasarımlarımız doğası gereği geleceğin belirsizliğini ortadan kaldırma
   amacını içinde barındırır. Burada tasarımın kendisine ulaştığımızda elde
   edilecek sonuç hayal edilir. Geleceği düşündüğümüzde önce varmak istediğimiz
@@ -35,8 +41,8 @@ title: Gelecek Hayali
     belirler
 - Burada inançtan bahsediyoruz, iman'dan değil, bunun altı çizilmeli
 - İnanmak geleceğe doğru elimizde olan en güçlü eylemdir. Güven inançdan doğar.
-  - Güven (trust değil, confidence), gelecekte olacak şeyleri
-    etkileyebileceğimize olan inancımızdır
+  - Güven (trust değil, confidence) (kendinden eminlik), gelecekte olacak
+    şeyleri etkileyebileceğimize olan inancımızdır
   - Bilmek ve inanmak, kesişimleri ayrışımları
     - Bilme eylemi olarak inanmak
     - Bilinemezlik ve kabul
